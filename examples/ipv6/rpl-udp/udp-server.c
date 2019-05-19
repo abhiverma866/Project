@@ -32,7 +32,7 @@
 #include "contiki-net.h"
 #include "net/ip/uip.h"
 #include "net/rpl/rpl.h"
-
+#include "sys/node-id.h"
 #include "net/netstack.h"
 #include "dev/button-sensor.h"
 #include <stdio.h>
@@ -63,10 +63,10 @@ tcpip_handler(void)
   if(uip_newdata()) {
     appdata = (char *)uip_appdata;
     appdata[uip_datalen()] = 0;
-    PRINTF("DATA recv '%s' from ", appdata);
-    PRINTF("%d",
+    PRINTF("Received DATA recv '%s' from ", appdata);
+    PRINTF("%d ",
            UIP_IP_BUF->srcipaddr.u8[sizeof(UIP_IP_BUF->srcipaddr.u8) - 1]);
-    PRINTF("\n");
+    PRINTF("at NodeID= %d\n", node_id);
 #if SERVER_REPLY
     PRINTF("DATA sending reply\n");
     uip_ipaddr_copy(&server_conn->ripaddr, &UIP_IP_BUF->srcipaddr);

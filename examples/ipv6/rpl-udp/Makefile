@@ -1,8 +1,8 @@
-all: udp-client udp-server
+all: udp-client udp-server malicious
 CONTIKI=../../..
 
 CFLAGS += -DPROJECT_CONF_H=\"project-conf.h\"
-
+#WITH_COMPOWER = 1
 ifdef WITH_COMPOWER
 APPS+=powertrace
 CFLAGS+= -DCONTIKIMAC_CONF_COMPOWER=1 -DWITH_COMPOWER=1 -DQUEUEBUF_CONF_NUM=4
@@ -19,5 +19,11 @@ ifeq ($(MAKE_WITH_NON_STORING),1)
 CFLAGS += -DWITH_NON_STORING=1
 endif
 
+
 CONTIKI_WITH_IPV6 = 1
+TARGET_LIBFILES += -lm
 include $(CONTIKI)/Makefile.include
+
+# the two following lines are aimed to reduce Contiki's size
+CFLAGS += -ffunction-sections
+LDFLAGS += -Wl,--gc-sections,--undefined=_reset_vector__,--undefined=InterruptVectors,--undefined=_copy_data_init__,--undefined=_clear_bss_init__,--undefined=_end_of_init__

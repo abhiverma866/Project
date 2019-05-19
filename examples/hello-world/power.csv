@@ -1,0 +1,2 @@
+../../tools/sky/serialdump-linux -b115200 
+../../platform/sky/Makefile.common:193: recipe for target 'login' failed

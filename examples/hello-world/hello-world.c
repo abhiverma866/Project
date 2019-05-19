@@ -38,8 +38,21 @@
  */
 
 #include "contiki.h"
-
+//#include <math.h>
+//#include "sys/ctimer.h"
+//#include "lib/random.h"
 #include <stdio.h> /* For printf() */
+#include "sys/stimer.h"
+#include "powertrace.h"
+//#include "net/rime/rime.h"
+
+
+//#define RPL_PROBING_INTERVAL 120
+//static float i;
+//static float j;
+//static float i;
+//static float j;
+//static struct stimer st;
 /*---------------------------------------------------------------------------*/
 PROCESS(hello_world_process, "Hello world process");
 AUTOSTART_PROCESSES(&hello_world_process);
@@ -48,8 +61,25 @@ PROCESS_THREAD(hello_world_process, ev, data)
 {
   PROCESS_BEGIN();
 
+  /* Start powertracing, once every two seconds. */
+  //powertrace_start(CLOCK_SECOND * 5);
+
+  //j = 2.1;
+  //i = j + 3.1;
+  //printf("%i\n", (int)powf(10, i));
+  // while(1==1)
+  // {
+  // stimer_set(&st, 5);
+  // while(stimer_expired(&st)!=1){
+  //   /*Just wait for some time*/
+  // }
+
   printf("Hello, world\n");
-  
+  //printf("Clock second %lu\n", CLOCK_SECOND);
+  //printf("%d\n", random_rand());
+  //printf("%d\n", (random_rand()%10));
+  //printf("%d\n",(((RPL_PROBING_INTERVAL) / 2) + random_rand() % (RPL_PROBING_INTERVAL)));  
+ 
   PROCESS_END();
 }
 /*---------------------------------------------------------------------------*/

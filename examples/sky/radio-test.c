@@ -51,6 +51,8 @@
 #include <stdio.h>
 #include <string.h>
 
+#define DEBUG DEBUG_PRINT
+
 PROCESS(radio_test_process, "Radio test");
 AUTOSTART_PROCESSES(&radio_test_process);
 

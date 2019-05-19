@@ -34,6 +34,7 @@
 #include "net/ipv6/uip-ds6.h"
 #include "net/ip/uip-udp-packet.h"
 #include "sys/ctimer.h"
+#include "sys/node-id.h"
 #ifdef WITH_COMPOWER
 #include "powertrace.h"
 #endif
@@ -58,7 +59,7 @@
 #define START_INTERVAL		(15 * CLOCK_SECOND)
 #define SEND_INTERVAL		(PERIOD * CLOCK_SECOND)
 #define SEND_TIME		(random_rand() % (SEND_INTERVAL))
-#define MAX_PAYLOAD_LEN		30
+#define MAX_PAYLOAD_LEN		60
 
 static struct uip_udp_conn *client_conn;
 static uip_ipaddr_t server_ipaddr;
@@ -105,9 +106,12 @@ send_packet(void *ptr)
 #endif /* SERVER_REPLY */
 
   seq_id++;
-  PRINTF("DATA send to %d 'Hello %d'\n",
-         server_ipaddr.u8[sizeof(server_ipaddr.u8) - 1], seq_id);
-  sprintf(buf, "Hello %d from the client", seq_id);
+  //PRINTF("DATA send to %d 'Hello %d'\n", server_ipaddr.u8[sizeof(server_ipaddr.u8) - 1], seq_id);
+  PRINTF("Sending DATA to %d 'Hello %d' with NodeID= %d\n", server_ipaddr.u8[sizeof(server_ipaddr.u8) - 1], seq_id, node_id);
+  sprintf(buf, "Hello %d from the client abhive", seq_id);
+  //sprintf(buf, "mlqvnugxsiqggdrdagdzmeatwjoepw");
+  printf("Size of data %d\n", strlen(buf));
+  printf("Data is %s\n", buf);
   uip_udp_packet_sendto(client_conn, buf, strlen(buf),
                         &server_ipaddr, UIP_HTONS(UDP_SERVER_PORT));
 }

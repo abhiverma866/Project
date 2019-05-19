@@ -31,7 +31,7 @@
 #define PROJECT_CONF_H_
 
 #ifndef WITH_NON_STORING
-#define WITH_NON_STORING 0 /* Set this to run with non-storing mode */
+#define WITH_NON_STORING 1 /* Set this to run with non-storing mode */
 #endif /* WITH_NON_STORING */
 
 #undef NBR_TABLE_CONF_MAX_NEIGHBORS
@@ -47,10 +47,29 @@
 #define UIP_CONF_MAX_ROUTES   10
 #endif /* TEST_MORE_ROUTES */
 
+/*-------------------------------------------*/
+//#undef NETSTACK_CONF_RDC
+//#define NETSTACK_CONF_RDC     nullrdc_driver
+//#undef NULLRDC_CONF_802154_AUTOACK
+//#define NULLRDC_CONF_802154_AUTOACK       1
+/*-------------------------------------------*/
+
+/*--------------------------------------------*/
+/* Define protocol stack */
 #undef NETSTACK_CONF_RDC
-#define NETSTACK_CONF_RDC     nullrdc_driver
-#undef NULLRDC_CONF_802154_AUTOACK
-#define NULLRDC_CONF_802154_AUTOACK       1
+//#define NETSTACK_CONF_RDC     nullrdc_driver 
+#define NETSTACK_CONF_RDC contikimac_driver
+#undef NETSTACK_CONF_RADIO
+#define NETSTACK_CONF_RADIO cc2420_driver
+#undef NETSTACK_CONF_FRAMER
+#define NETSTACK_CONF_FRAMER framer_802154
+#undef NETSTACK_CONF_MAC
+//#define NETSTACK_CONF_MAC   nullmac_driver
+#define NETSTACK_CONF_MAC   csma_driver
+//#undef NETSTACK_CONF_NETWORK
+//#define NETSTACK_CONF_NETWORK sicslowpan_driver
+/* End protocol stack */
+/*----------------------------------------------*/
 
 /* Define as minutes */
 #define RPL_CONF_DEFAULT_LIFETIME_UNIT   60

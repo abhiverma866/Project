@@ -231,34 +231,34 @@ distclean: clean
 ifndef CUSTOM_RULE_C_TO_CE
 %.ce: %.c
 	$(TRACE_CC)
-	$(Q)$(CC) $(CFLAGS) -DAUTOSTART_ENABLE -c $< -o $@
-	$(STRIP) --strip-unneeded -g -x $@
+	$(Q)$(CC) $(CFLAGS) -DAUTOSTART_ENABLE -c $< -o $@ 
+	$(STRIP) --strip-unneeded -g -x $@ 
 endif
 
 ifndef CUSTOM_RULE_C_TO_OBJECTDIR_O
 $(OBJECTDIR)/%.o: %.c | $(OBJECTDIR)
 	$(TRACE_CC)
-	$(Q)$(CC) $(CFLAGS) -MMD -c $< -o $@
+	$(Q)$(CC) $(CFLAGS) -MMD -c $< -o $@ 
 	@$(FINALIZE_DEPENDENCY)
 endif
 
 ifndef CUSTOM_RULE_S_TO_OBJECTDIR_O
 $(OBJECTDIR)/%.o: %.S | $(OBJECTDIR)
 	$(TRACE_AS)
-	$(Q)$(AS) $(ASFLAGS) -o $@ $<
+	$(Q)$(AS) $(ASFLAGS) -o $@ $< 
 endif
 
 ifndef CUSTOM_RULE_C_TO_O
 %.o: %.c
 	$(TRACE_CC)
-	$(Q)$(CC) $(CFLAGS) -c $< -o $@
+	$(Q)$(CC) $(CFLAGS) -c $< -o $@ 
 endif
 
 
 ifndef CUSTOM_RULE_C_TO_CO
 %.co: %.c
 	$(TRACE_CC)
-	$(Q)$(CC) $(CFLAGS) -DAUTOSTART_ENABLE -c $< -o $@
+	$(Q)$(CC) $(CFLAGS) -DAUTOSTART_ENABLE -c $< -o $@ 
 endif
 
 ifndef AROPTS
@@ -268,18 +268,19 @@ endif
 ifndef CUSTOM_RULE_ALLOBJS_TO_TARGETLIB
 contiki-$(TARGET).a: $(CONTIKI_OBJECTFILES)
 	$(TRACE_AR)
-	$(Q)$(AR) $(AROPTS) $@ $^
+	$(Q)$(AR) $(AROPTS) $@ $^ 
 endif
 
 ifndef LD
   LD = $(CC)
 endif
 
+
 ifndef CUSTOM_RULE_LINK
-%.$(TARGET): %.co $(PROJECT_OBJECTFILES) $(PROJECT_LIBRARIES) contiki-$(TARGET).a
+%.$(TARGET): %.co $(PROJECT_OBJECTFILES) $(PROJECT_LIBRARIES) contiki-$(TARGET).a 
 	$(TRACE_LD)
 	$(Q)$(LD) $(LDFLAGS) $(TARGET_STARTFILES) ${filter-out %.a,$^} \
-	    ${filter %.a,$^} $(TARGET_LIBFILES) -o $@
+	    ${filter %.a,$^} $(TARGET_LIBFILES) -o $@ 
 endif
 
 %.ramprof: %.$(TARGET)

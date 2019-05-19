@@ -41,9 +41,11 @@
 
 /* NETSTACK_CONF_RADIO specifies the radio driver. The radio driver
    typically depends on the radio used on the target hardware. */
+/*############################################################################################*/
+
 #ifndef NETSTACK_CONF_RADIO
 #define NETSTACK_CONF_RADIO nullradio_driver
-/* #define NETSTACK_CONF_RADIO cc2420_driver */
+//#define NETSTACK_CONF_RADIO cc2420_driver
 #endif /* NETSTACK_CONF_RADIO */
 
 /* NETSTACK_CONF_FRAMER specifies the over-the-air frame format used
@@ -51,7 +53,7 @@
    framer_802154 driver. */
 #ifndef NETSTACK_CONF_FRAMER
 #define NETSTACK_CONF_FRAMER framer_nullmac
-/* #define NETSTACK_CONF_FRAMER framer_802154 */
+//#define NETSTACK_CONF_FRAMER framer_802154 
 #endif /* NETSTACK_CONF_FRAMER */
 
 /* NETSTACK_CONF_RDC specifies the Radio Duty Cycling (RDC) layer. The
@@ -61,7 +63,7 @@
    compatible with all radios. */
 #ifndef NETSTACK_CONF_RDC
 #define NETSTACK_CONF_RDC   nullrdc_driver
-/* #define NETSTACK_CONF_RDC   contikimac_driver */
+//#define NETSTACK_CONF_RDC   contikimac_driver 
 #endif /* NETSTACK_CONF_RDC */
 
 /* NETSTACK_CONF_MAC specifies the Medium Access Control (MAC)
@@ -70,7 +72,7 @@
    is not compatible with all radios. */
 #ifndef NETSTACK_CONF_MAC
 #define NETSTACK_CONF_MAC   nullmac_driver
-/* #define NETSTACK_CONF_MAC   csma_driver */
+//#define NETSTACK_CONF_MAC   csma_driver 
 #endif /* NETSTACK_CONF_MAC */
 
 /* NETSTACK_CONF_LLSEC specifies the link layer security driver. */
@@ -83,8 +85,10 @@
    custom Rime network stack. */
 #ifndef NETSTACK_CONF_NETWORK
 #define NETSTACK_CONF_NETWORK rime_driver
-/* #define NETSTACK_CONF_NETWORK sicslowpan_driver */
+//#define NETSTACK_CONF_NETWORK sicslowpan_driver 
 #endif /* NETSTACK_CONF_NETWORK */
+
+/*############################################################################################*/
 
 /* NETSTACK_CONF_RDC_CHANNEL_CHECK_RATE specifies the channel check
    rate of the RDC layer. This defines how often the RDC will wake up

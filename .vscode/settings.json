@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "string.h": "c",
+        "uip-udp-packet.h": "c",
+        "spi.h": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "uip-mcast6.h": "c",
+        "node-id.h": "c"
+    }
+}

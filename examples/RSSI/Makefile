@@ -1,0 +1,39 @@
+all: udp-client udp-server
+CONTIKI = ../..
+TARGET_LIBFILES += -lm
+include $(CONTIKI)/Makefile.include
+
+CFLAGS += -DPROJECT_CONF_H=\"project-conf.h\"
+
+ifdef WITH_COMPOWER
+APPS+=powertrace
+CFLAGS+= -DCONTIKIMAC_CONF_COMPOWER=1 -DWITH_COMPOWER=1 -DQUEUEBUF_CONF_NUM=4
+endif
+
+ifdef SERVER_REPLY 
+CFLAGS+=-DSERVER_REPLY=$(SERVER_REPLY)
+endif
+ifdef PERIOD
+CFLAGS+=-DPERIOD=$(PERIOD)
+endif 
+
+ifeq ($(MAKE_WITH_NON_STORING),1)
+CFLAGS += -DWITH_NON_STORING=1
+endif
+
+CONTIKI_WITH_IPV6 = 1
+
+
+#CFLAGS=-g -DBLITZ_HOST_IS_LITTLE_ENDIAN
+#LDLIBS += -lm
+
+UIP_CONF_IPV6=1
+CFLAGS += -DUIP_IPV6_RPL
+
+# TARGET_LIBFILES += -lm
+# LDFLAGS += -lm 
+
+#the two following lines are aimed to reduce Contiki's size
+CFLAGS += -ffunction-sections
+LDFLAGS += -Wl,--gc-sections,--undefined=_reset_vector__,--undefined=InterruptVectors,--undefined=_copy_data_init__,--undefined=_clear_bss_init__,--undefined=_end_of_init__
+
