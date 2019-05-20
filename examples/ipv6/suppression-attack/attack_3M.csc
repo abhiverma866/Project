@@ -12,13 +12,13 @@
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <tx_with_gain value="false" />
+      <rx_sensitivity value="-90.0" />
+      <system_gain_var value="0.0" />
+      <tx_power value="0.0" />
       <obstacle_attenuation value="-10.0" />
       <captureEffect value="false" />
-      <rx_sensitivity value="-90.0" />
-      <tx_power value="0.0" />
       <system_gain_mean value="-20.0" />
-      <system_gain_var value="0.0" />
+      <tx_with_gain value="false" />
       <obstacles />
     </radiomedium>
     <events>
@@ -640,8 +640,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>-3.7950763054460284</x>
-        <y>-5.427542207016528</y>
+        <x>-4.316606670882625</x>
+        <y>-4.326533657761491</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -658,8 +658,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>-5.931881345229665</x>
-        <y>5.135168482995183</y>
+        <x>-5.815985708465977</x>
+        <y>4.09210775212199</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -676,8 +676,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>0.794766359626788</x>
-        <y>0.6116084522547065</y>
+        <x>1.3162967250633844</x>
+        <y>3.1033646426740007</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -694,8 +694,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>5.193441113359322</x>
-        <y>3.8473601934785426</y>
+        <x>5.4831802052685426</x>
+        <y>6.339116383897838</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -730,7 +730,7 @@
   <plugin>
     org.contikios.cooja.plugins.SimControl
     <width>280</width>
-    <z>4</z>
+    <z>0</z>
     <height>286</height>
     <location_x>5</location_x>
     <location_y>493</location_y>
@@ -747,7 +747,7 @@
       <viewport>17.25690505569258 0.0 0.0 17.25690505569258 183.05439087220552 175.2124494160718</viewport>
     </plugin_config>
     <width>417</width>
-    <z>0</z>
+    <z>1</z>
     <height>495</height>
     <location_x>-1</location_x>
     <location_y>2</location_y>
@@ -755,7 +755,7 @@
   <plugin>
     org.contikios.cooja.plugins.LogListener
     <plugin_config>
-      <filter>ID:34</filter>
+      <filter />
       <formatted_time />
       <coloring />
     </plugin_config>
@@ -768,7 +768,7 @@
   <plugin>
     PowerTracker
     <width>384</width>
-    <z>1</z>
+    <z>3</z>
     <height>288</height>
     <location_x>284</location_x>
     <location_y>493</location_y>
@@ -780,7 +780,7 @@
       <active>true</active>
     </plugin_config>
     <width>505</width>
-    <z>3</z>
+    <z>4</z>
     <height>778</height>
     <location_x>1092</location_x>
     <location_y>1</location_y>

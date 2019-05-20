@@ -59,6 +59,27 @@ function lookupSendTime(element){
 }
 
 
+function printFinalResults(){
+    var i; 
+    for(i = 1; i <= nodeCount; i++){
+        totalReceived += packetsReceived[i];
+        totalSent += packetsSent[i];
+    }
+
+    log.log("-----Final Results------" + "\n");
+    //log.log("totalLatency= " + totalLatency + "\n");
+    //log.log("totalCount= " + totalCount + "\n");
+    log.log("Generated Packets " + totalSent + "\n");
+    log.log("ReceivedPackets " + totalReceived + "\n");
+    PDR = (totalReceived / totalSent);
+    AE2ED = ((totalLatency / totalReceived)/1000000);
+    //log.log("Packet Delivery Ratio " + PDR + "\n");
+    //log.log("Average End to End Delay " + AE2ED + "\n");
+
+
+    log.log("TL = " + totalLatency + " | " + " AE2ED = " + AE2ED + " | " +" PDR = " + PDR + "\n");
+}
+
 
 for(i = 1; i <= nodeCount; i++){
     packetsReceived[i] = 0;
@@ -159,5 +180,8 @@ while(1){
         }
     }  
 }
+
+//Print final results
+printFinalResults();
 
 
