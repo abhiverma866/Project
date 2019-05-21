@@ -1,7 +1,7 @@
 //try { load("nashorn:mozilla_compat.js"); } catch(e) {}
 //importClass(org.contikios.cooja.plugins.ScriptRunner);
 
-TIMEOUT(100000);
+TIMEOUT(900000);
 
 // function printFinalResults(){
 //     var i; 
