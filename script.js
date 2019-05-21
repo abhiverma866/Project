@@ -1,7 +1,53 @@
 //try { load("nashorn:mozilla_compat.js"); } catch(e) {}
 //importClass(org.contikios.cooja.plugins.ScriptRunner);
 
-TIMEOUT(900000, log.log("Performance Calculation" + "\n"));
+TIMEOUT(100000);
+
+// function printFinalResults(){
+//     var i; 
+//     for(i = 1; i <= nodeCount; i++){
+//         totalReceived += packetsReceived[i];
+//         totalSent += packetsSent[i];
+//     }
+
+//     log.log("-----Final Results------" + "\n");
+//     //log.log("totalLatency= " + totalLatency + "\n");
+//     //log.log("totalCount= " + totalCount + "\n");
+//     log.log("Generated Packets " + totalSent + "\n");
+//     log.log("ReceivedPackets " + totalReceived + "\n");
+//     PDR = (totalReceived / totalSent);
+//     AE2ED = ((totalLatency / totalReceived)/1000000);
+//     //log.log("Packet Delivery Ratio " + PDR + "\n");
+//     //log.log("Average End to End Delay " + AE2ED + "\n");
+
+
+//     log.log("TL = " + totalLatency + " | " + " AE2ED = " + AE2ED + " | " +" PDR = " + PDR + "\n");
+// }
+
+timeout_function = function () {
+    log.log("Script timed out.\n");
+    log.log("Performance Calculation \n")
+    var i; 
+    totalReceived = totalSent = 0;
+    for(i = 1; i <= nodeCount; i++){
+        totalReceived += packetsReceived[i];
+        totalSent += packetsSent[i];
+    }
+
+    log.log("-----Final Results------" + "\n");
+    //log.log("totalLatency= " + totalLatency + "\n");
+    //log.log("totalCount= " + totalCount + "\n");
+    log.log("Generated Packets " + totalSent + "\n");
+    log.log("ReceivedPackets " + totalReceived + "\n");
+    PDR = (totalReceived / totalSent);
+    AE2ED = ((totalLatency / totalReceived)/1000000);
+    //log.log("Packet Delivery Ratio " + PDR + "\n");
+    //log.log("Average End to End Delay " + AE2ED + "\n");
+
+
+    log.log("TL = " + totalLatency + " | " + " AE2ED = " + AE2ED + " | " +" PDR = " + PDR + "\n");
+    log.testOK();
+}
 
 packetsReceived= new Array();
 packetsSent = new Array();
@@ -57,29 +103,6 @@ function lookupSendTime(element){
     }
     return -1;
 }
-
-
-function printFinalResults(){
-    var i; 
-    for(i = 1; i <= nodeCount; i++){
-        totalReceived += packetsReceived[i];
-        totalSent += packetsSent[i];
-    }
-
-    log.log("-----Final Results------" + "\n");
-    //log.log("totalLatency= " + totalLatency + "\n");
-    //log.log("totalCount= " + totalCount + "\n");
-    log.log("Generated Packets " + totalSent + "\n");
-    log.log("ReceivedPackets " + totalReceived + "\n");
-    PDR = (totalReceived / totalSent);
-    AE2ED = ((totalLatency / totalReceived)/1000000);
-    //log.log("Packet Delivery Ratio " + PDR + "\n");
-    //log.log("Average End to End Delay " + AE2ED + "\n");
-
-
-    log.log("TL = " + totalLatency + " | " + " AE2ED = " + AE2ED + " | " +" PDR = " + PDR + "\n");
-}
-
 
 for(i = 1; i <= nodeCount; i++){
     packetsReceived[i] = 0;
@@ -181,7 +204,5 @@ while(1){
     }  
 }
 
-//Print final results
-printFinalResults();
 
 
