@@ -70,7 +70,7 @@
 
 /** \brief Set IP address addr to link local replay source address */
 #define uip_create_linklocal_replay_source_addr(addr) \
-  uip_ip6addr((addr), 0xfe80, 0, 0, 0, 0xc30c, 0, 0, 0x0004)
+  uip_ip6addr((addr), 0xfe80, 0, 0, 0, 0xc30c, 0, 0, 0x0008)
 
 /*---------------------------------------------------------------------------*/
 /* RPL message types */

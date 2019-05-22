@@ -9,6 +9,7 @@
         "ctype.h": "c",
         "stdlib.h": "c",
         "uip-mcast6.h": "c",
-        "node-id.h": "c"
+        "node-id.h": "c",
+        "uip-debug.h": "c"
     }
 }

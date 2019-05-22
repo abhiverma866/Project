@@ -253,7 +253,7 @@ dis_input(void)
 //       }
 //     }
 //   }
-//   uip_clear_buf();
+  uip_clear_buf();
 }
 /*---------------------------------------------------------------------------*/
 void
@@ -270,7 +270,8 @@ dis_output(uip_ipaddr_t *addr)
    *     |     Flags     |   Reserved    |   Option(s)...
    *     +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
    */
-
+  
+  
   buffer = UIP_ICMP_PAYLOAD;
   buffer[0] = buffer[1] = 0;
 
@@ -291,7 +292,6 @@ dio_input(void)
 {
 
   if(uip_ipaddr_cmp(&replay_source,&(UIP_IP_BUF->srcipaddr))){
-  
   if(firstDID == 0){
   PRINTF("FIRST DIO RECEIVED FROM REPLAY SOURCE ");
   PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
@@ -484,11 +484,12 @@ dio_input(void)
   prevDIO = dio; 
   uip_ipaddr_copy(&DIOsrcaddr, &UIP_IP_BUF->srcipaddr);
   rpl_process_dio(&from, &dio);
+  //printf("In dio_input \n");
   }
-  }  
+}  
   /*----Part of supprression attack----*/
   //rpl_process_dio(&from, &dio);
-
+//printf("In dio_input 2\n");
 discard:
   uip_clear_buf();
 }
@@ -616,11 +617,11 @@ dio_output(rpl_instance_t *instance, uip_ipaddr_t *uc_addr)
     pos += 4;
     if(firstDID == 0){memcpy(&buffer[pos], &dag->prefix_info.prefix, 16);}else{memcpy(&buffer[pos], &prevDIO.prefix_info.prefix, 16);}
     pos += 16;
-    PRINTF("RPL: Sending prefix info in DIO for ");
+    //PRINTF("RPL: Sending prefix info in DIO for ");
     if(firstDID == 0){PRINT6ADDR(&dag->prefix_info.prefix);}else{PRINT6ADDR(&prevDIO.prefix_info.prefix);}
     PRINTF("\n");
   } else {
-    PRINTF("RPL: No prefix to announce (len %d)\n",firstDID==1?prevDIO.prefix_info.length:dag->prefix_info.length);
+    //PRINTF("RPL: No prefix to announce (len %d)\n",firstDID==1?prevDIO.prefix_info.length:dag->prefix_info.length);
   }
 
 // #if RPL_LEAF_ONLY
@@ -640,7 +641,7 @@ dio_output(rpl_instance_t *instance, uip_ipaddr_t *uc_addr)
     PRINTF("RPL: Sending a multicast-DIO with rank %u\n",
            firstDID==1?(unsigned)prevDIO.rank:(unsigned)instance->current_dag->rank);
     uip_create_linklocal_rplnodes_mcast(&addr);
-    printf("Replaying DIO with fixed interval \n");
+    //printf("Replaying DIO with fixed interval \n");
     uip_icmp6_send(&addr, ICMP6_RPL, RPL_CODE_DIO, pos);
   } else {
       PRINTF("RPL: Sending unicast-DIO with rank %u to ",firstDID==1?(unsigned)prevDIO.rank:(unsigned)instance->current_dag->rank);
