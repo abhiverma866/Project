@@ -115,7 +115,7 @@ new_dio_interval(rpl_instance_t *instance)
   //time = 1UL << instance->dio_intcurrent;
   /* Convert from milliseconds to CLOCK_TICKS. */
   //ticks = (time * CLOCK_SECOND) / 1000;
-  replay_interval = 3;
+  replay_interval = 4;
   ticks = replay_interval*CLOCK_SECOND;
   instance->dio_next_delay = ticks;
   //printf("1 second in ticks %lu\n", CLOCK_SECOND);

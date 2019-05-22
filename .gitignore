@@ -77,6 +77,7 @@ contiki-cc2530dk.lib
 *.pdb
 *.prg
 *.dsc
+*.ipch
 
 #cc65 build artifacts
 *.s

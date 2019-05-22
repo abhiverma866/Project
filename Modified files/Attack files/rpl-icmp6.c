@@ -259,7 +259,8 @@ void
 dis_output(uip_ipaddr_t *addr)
 {
   unsigned char *buffer;
-  uip_ipaddr_t tmpaddr;
+  //uip_ipaddr_t tmpaddr;
+  uip_ipaddr_t replay_source;
 
   /*
    * DAG Information Solicitation  - 2 bytes reserved
@@ -274,8 +275,8 @@ dis_output(uip_ipaddr_t *addr)
   buffer[0] = buffer[1] = 0;
 
   if(addr == NULL) {
-    uip_create_linklocal_rplnodes_mcast(&tmpaddr);
-    addr = &tmpaddr;
+    uip_create_linklocal_replay_source_addr(&replay_source);
+    addr = &replay_source;
   }
 
   PRINTF("RPL: Sending a DIS to ");
