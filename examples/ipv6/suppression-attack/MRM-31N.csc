@@ -12,13 +12,12 @@
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <tx_with_gain value="false" />
       <obstacle_attenuation value="-10.0" />
+      <captureEffect value="false" />
+      <tx_with_gain value="false" />
       <tx_power value="0.0" />
       <system_gain_mean value="-20.0" />
       <system_gain_var value="0.0" />
-      <captureEffect value="false" />
-      <rx_sensitivity value="-90.0" />
       <obstacles />
     </radiomedium>
     <events>
@@ -60,97 +59,7 @@
       <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
       <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
     </motetype>
-    <motetype>
-      org.contikios.cooja.mspmote.Z1MoteType
-      <identifier>z13</identifier>
-      <description>Replay Source 1</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/malicious_1.z1</firmware>
-      <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.Mote2MoteRelations</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.MoteAttributes</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspClock</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspMoteID</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspButton</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.Msp802154Radio</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDefaultSerial</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
-    </motetype>
-    <motetype>
-      org.contikios.cooja.mspmote.Z1MoteType
-      <identifier>z14</identifier>
-      <description>Replay Source 2</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/malicious_2.z1</firmware>
-      <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.Mote2MoteRelations</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.MoteAttributes</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspClock</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspMoteID</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspButton</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.Msp802154Radio</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDefaultSerial</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
-    </motetype>
-    <motetype>
-      org.contikios.cooja.mspmote.Z1MoteType
-      <identifier>z15</identifier>
-      <description>Replay Source 6</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/malicious_6.z1</firmware>
-      <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.Mote2MoteRelations</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.MoteAttributes</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspClock</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspMoteID</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspButton</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.Msp802154Radio</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDefaultSerial</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
-    </motetype>
-    <motetype>
-      org.contikios.cooja.mspmote.Z1MoteType
-      <identifier>z16</identifier>
-      <description>Replay Source 7</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/malicious_7.z1</firmware>
-      <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.Mote2MoteRelations</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.MoteAttributes</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspClock</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspMoteID</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspButton</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.Msp802154Radio</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDefaultSerial</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
-    </motetype>
-    <motetype>
-      org.contikios.cooja.mspmote.Z1MoteType
-      <identifier>z17</identifier>
-      <description>Replay Source 8</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/malicious_8.z1</firmware>
-      <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.Mote2MoteRelations</moteinterface>
-      <moteinterface>org.contikios.cooja.interfaces.MoteAttributes</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspClock</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspMoteID</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspButton</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.Msp802154Radio</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDefaultSerial</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspLED</moteinterface>
-      <moteinterface>org.contikios.cooja.mspmote.interfaces.MspDebugOutput</moteinterface>
-    </motetype>
-    <mote>
+      <mote>
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
@@ -190,8 +99,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>-2.0150323101347283</x>
-        <y>-1.889432609782986</y>
+        <x>-5.382122523681616</x>
+        <y>-6.415685027993558</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -406,8 +315,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>-8.779242781694258</x>
-        <y>-6.1941778349869905</y>
+        <x>-8.668846381250097</x>
+        <y>-5.117812930656428</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -726,7 +635,7 @@
       <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
       <skin>org.contikios.mrm.MRMVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.MoteTypeVisualizerSkin</skin>
-      <viewport>17.473507631752252 0.0 0.0 17.473507631752252 211.97737205154326 217.14414690651867</viewport>
+      <viewport>17.473507631752252 0.0 0.0 17.473507631752252 203.86919303919768 228.93180122750653</viewport>
     </plugin_config>
     <width>419</width>
     <z>0</z>
@@ -737,7 +646,7 @@
   <plugin>
     org.contikios.cooja.plugins.LogListener
     <plugin_config>
-      <filter>ID:35</filter>
+      <filter />
       <formatted_time />
       <coloring />
     </plugin_config>

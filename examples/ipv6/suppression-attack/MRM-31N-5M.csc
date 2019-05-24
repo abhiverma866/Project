@@ -13,12 +13,11 @@
     <radiomedium>
       org.contikios.mrm.MRM
       <tx_power value="0.0" />
-      <system_gain_var value="0.0" />
-      <rx_sensitivity value="-90.0" />
-      <obstacle_attenuation value="-10.0" />
       <tx_with_gain value="false" />
-      <system_gain_mean value="-20.0" />
       <captureEffect value="false" />
+      <obstacle_attenuation value="-10.0" />
+      <system_gain_mean value="-20.0" />
+      <system_gain_var value="0.0" />
       <obstacles />
     </radiomedium>
     <events>

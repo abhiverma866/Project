@@ -9,14 +9,14 @@ powertracker = mote.getSimulation().getCooja().getStartedPlugin("PowerTracker");
 
 // create log file handlers
 log.log("Opening log file writers...\n");
-log_serial = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/serial.log");                // open serial log file
-log_rpl = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/rpl.log");                      // open RPL messages log file
-log_power = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/powertracker.log");
-log_script = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/script.log");           // open script logfile
+log_serial = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/serial.log");         // open serial log file
+log_rpl = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/rpl.log");               // open RPL messages log file
+log_power = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/powertracker.log");    // open powertracker log file
+log_script = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/script.log");         // open script logfile
 
-TIMEOUT(300000);
+TIMEOUT(1800000);
 
-var c = 0, i = 1, period = 30000000;
+var c = 0, i = 1, period = 18000000;
 
 timeout_function = function () {
     try{
