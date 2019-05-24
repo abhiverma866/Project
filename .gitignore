@@ -2,7 +2,7 @@
 *.bin
 *.map
 *.png
-*.log
+# *.log
 *.elf
 *.zip
 *.d
