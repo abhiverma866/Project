@@ -1,381 +1,601 @@
-1018437	ID:18	Rime started with address 193.12.0.0.0.0.0.18
-1022026	ID:14	Rime started with address 193.12.0.0.0.0.0.14
-1027013	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 18.
-1030558	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 14.
-1032598	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1036156	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1040616	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
-1042759	ID:18	Starting 'UDP client process'
-1044131	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
-1046187	ID:18	UDP client process started nbr:10 routes:0
-1046274	ID:14	Starting 'UDP client process'
-1049626	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
-1049702	ID:14	UDP client process started nbr:10 routes:0
-1051422	ID:18	fe80::c30c:0:0:12
-1053029	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
-1054714	ID:14	fe80::c30c:0:0:e
-1056565	ID:18	Created a connection with the server :: local/remote port 8765/5678
-1059857	ID:14	Created a connection with the server :: local/remote port 8765/5678
-1090709	ID:23	Rime started with address 193.12.0.0.0.0.0.23
-1099285	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 23.
-1104870	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1108641	ID:8	Rime started with address 193.12.0.0.0.0.0.8
-1112888	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
-1115031	ID:23	Starting 'UDP client process'
-1117049	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
-1118459	ID:23	UDP client process started nbr:10 routes:0
-1121898	ID:23	Client IPv6 addresses: fd00::c30c:0:0:17
-1122670	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1123694	ID:23	fe80::c30c:0:0:17
-1128442	ID:13	Rime started with address 193.12.0.0.0.0.0.13
-1128837	ID:23	Created a connection with the server :: local/remote port 8765/5678
-1130644	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
-1132787	ID:8	Starting 'UDP client process'
-1136214	ID:8	UDP client process started nbr:10 routes:0
-1136974	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 13.
-1139542	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
-1141226	ID:8	fe80::c30c:0:0:8
-1142572	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1146368	ID:8	Created a connection with the server :: local/remote port 8765/5678
-1150547	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
-1152690	ID:13	Starting 'UDP client process'
-1156118	ID:13	UDP client process started nbr:10 routes:0
-1159445	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
-1161130	ID:13	fe80::c30c:0:0:d
-1164509	ID:1	Rime started with address 193.12.0.0.0.0.0.1
-1166273	ID:13	Created a connection with the server :: local/remote port 8765/5678
-1172914	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
-1178535	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1186509	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
-1188652	ID:1	Starting 'UDP server process'
-1191400	ID:1	UDP server started. nbr:10 routes:0
-1194148	ID:1	created a new RPL dag
-1197472	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
-1199098	ID:1	fd00::ff:fe00:1
-1200793	ID:1	fe80::c30c:0:0:1
-1206741	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
-1217305	ID:12	Rime started with address 193.12.0.0.0.0.0.12
-1219160	ID:28	Rime started with address 193.12.0.0.0.0.0.28
-1220734	ID:20	Rime started with address 193.12.0.0.0.0.0.20
-1222531	ID:2	Rime started with address 193.12.0.0.0.0.0.2
-1225837	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 12.
-1226413	ID:4	Rime started with address 193.12.0.0.0.0.0.4
-1227736	ID:28	MAC c1:0c:00:00:00:00:00:1c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 28.
-1229310	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 20.
-1230939	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
-1231435	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1233322	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1234691	ID:31	Rime started with address 193.12.0.0.0.0.0.31
-1234821	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
-1234895	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1236560	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1239410	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
-1240442	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1241341	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001c
-1241553	ID:12	Starting 'UDP client process'
-1242913	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
-1243271	ID:31	MAC c1:0c:00:00:00:00:00:1f Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 31.
-1243484	ID:28	Starting 'UDP client process'
-1244534	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
-1244981	ID:12	UDP client process started nbr:10 routes:0
-1245056	ID:20	Starting 'UDP client process'
-1246677	ID:2	Starting 'UDP client process'
-1246911	ID:28	UDP client process started nbr:10 routes:0
-1248308	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
-1248416	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
-1248484	ID:20	UDP client process started nbr:10 routes:0
-1248892	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1249993	ID:12	fe80::c30c:0:0:c
-1250104	ID:2	UDP client process started nbr:10 routes:0
-1250351	ID:28	Client IPv6 addresses: fd00::c30c:0:0:1c
-1250559	ID:4	Starting 'UDP client process'
-1251923	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
-1252148	ID:28	fe80::c30c:0:0:1c
-1253432	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
-1253719	ID:20	fe80::c30c:0:0:14
-1253986	ID:4	UDP client process started nbr:10 routes:0
-1255116	ID:2	fe80::c30c:0:0:2
-1255136	ID:12	Created a connection with the server :: local/remote port 8765/5678
-1256911	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001f
-1257291	ID:28	Created a connection with the server :: local/remote port 8765/5678
-1257314	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
-1258862	ID:20	Created a connection with the server :: local/remote port 8765/5678
-1258998	ID:4	fe80::c30c:0:0:4
-1259054	ID:31	Starting 'UDP client process'
-1260258	ID:2	Created a connection with the server :: local/remote port 8765/5678
-1262499	ID:31	UDP client process started nbr:10 routes:0
-1264140	ID:4	Created a connection with the server :: local/remote port 8765/5678
-1265940	ID:31	Client IPv6 addresses: fd00::c30c:0:0:1f
-1267737	ID:31	fe80::c30c:0:0:1f
-1272879	ID:31	Created a connection with the server :: local/remote port 8765/5678
-1282275	ID:9	Rime started with address 193.12.0.0.0.0.0.9
-1282980	ID:22	Rime started with address 193.12.0.0.0.0.0.22
-1290683	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
-1291556	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 22.
-1292168	ID:10	Rime started with address 193.12.0.0.0.0.0.10
-1296304	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1297141	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1300700	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
-1304278	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
-1305159	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
-1306298	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1306421	ID:9	Starting 'UDP client process'
-1307302	ID:22	Starting 'UDP client process'
-1309848	ID:9	UDP client process started nbr:10 routes:0
-1310730	ID:22	UDP client process started nbr:10 routes:0
-1313176	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
-1314169	ID:22	Client IPv6 addresses: fd00::c30c:0:0:16
-1314273	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
-1314860	ID:9	fe80::c30c:0:0:9
-1315965	ID:22	fe80::c30c:0:0:16
-1316416	ID:10	Starting 'UDP client process'
-1319844	ID:10	UDP client process started nbr:10 routes:0
-1320002	ID:9	Created a connection with the server :: local/remote port 8765/5678
-1321108	ID:22	Created a connection with the server :: local/remote port 8765/5678
-1323171	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
-1324856	ID:10	fe80::c30c:0:0:a
-1329999	ID:10	Created a connection with the server :: local/remote port 8765/5678
-1344287	ID:3	Rime started with address 193.12.0.0.0.0.0.3
-1352695	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
-1358316	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1360630	ID:29	Rime started with address 193.12.0.0.0.0.0.29
-1366290	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
-1368433	ID:3	Starting 'UDP client process'
-1369206	ID:29	MAC c1:0c:00:00:00:00:00:1d Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 29.
-1371860	ID:3	UDP client process started nbr:10 routes:0
-1374792	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1375188	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
-1376872	ID:3	fe80::c30c:0:0:3
-1382014	ID:3	Created a connection with the server :: local/remote port 8765/5678
-1382811	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001d
-1384954	ID:29	Starting 'UDP client process'
-1388381	ID:29	UDP client process started nbr:10 routes:0
-1391821	ID:29	Client IPv6 addresses: fd00::c30c:0:0:1d
-1393618	ID:29	fe80::c30c:0:0:1d
-1398761	ID:29	Created a connection with the server :: local/remote port 8765/5678
-1411057	ID:30	Rime started with address 193.12.0.0.0.0.0.30
-1419637	ID:30	MAC c1:0c:00:00:00:00:00:1e Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 30.
-1425258	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1426881	ID:27	Rime started with address 193.12.0.0.0.0.0.27
-1433277	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001e
-1435420	ID:30	Starting 'UDP client process'
-1435457	ID:27	MAC c1:0c:00:00:00:00:00:1b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 27.
-1438865	ID:30	UDP client process started nbr:10 routes:0
-1441043	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1442306	ID:30	Client IPv6 addresses: fd00::c30c:0:0:1e
-1444103	ID:30	fe80::c30c:0:0:1e
-1449062	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001b
-1449245	ID:30	Created a connection with the server :: local/remote port 8765/5678
-1451205	ID:27	Starting 'UDP client process'
-1454632	ID:27	UDP client process started nbr:10 routes:0
-1458072	ID:27	Client IPv6 addresses: fd00::c30c:0:0:1b
-1459869	ID:27	fe80::c30c:0:0:1b
-1465012	ID:27	Created a connection with the server :: local/remote port 8765/5678
-1548424	ID:6	Rime started with address 193.12.0.0.0.0.0.6
-1556393	ID:26	Rime started with address 193.12.0.0.0.0.0.26
-1556832	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
-1562453	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1564969	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 26.
-1570427	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
-1570555	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1572570	ID:6	Starting 'UDP client process'
-1575997	ID:6	UDP client process started nbr:10 routes:0
-1578574	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
-1579325	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
-1580717	ID:26	Starting 'UDP client process'
-1581009	ID:6	fe80::c30c:0:0:6
-1584144	ID:26	UDP client process started nbr:10 routes:0
-1584938	ID:21	Rime started with address 193.12.0.0.0.0.0.21
-1586151	ID:6	Created a connection with the server :: local/remote port 8765/5678
-1587584	ID:26	Client IPv6 addresses: fd00::c30c:0:0:1a
-1589381	ID:26	fe80::c30c:0:0:1a
-1593514	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 21.
-1594524	ID:26	Created a connection with the server :: local/remote port 8765/5678
-1599099	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1607117	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
-1609260	ID:21	Starting 'UDP client process'
-1612688	ID:21	UDP client process started nbr:10 routes:0
-1616127	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
-1617923	ID:21	fe80::c30c:0:0:15
-1623066	ID:21	Created a connection with the server :: local/remote port 8765/5678
-1626248	ID:25	Rime started with address 193.12.0.0.0.0.0.25
-1634824	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 25.
-1640409	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1648427	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
-1650570	ID:25	Starting 'UDP client process'
-1653998	ID:25	UDP client process started nbr:10 routes:0
-1657437	ID:25	Client IPv6 addresses: fd00::c30c:0:0:19
-1659233	ID:25	fe80::c30c:0:0:19
-1664376	ID:25	Created a connection with the server :: local/remote port 8765/5678
-1692200	ID:17	Rime started with address 193.12.0.0.0.0.0.17
-1700776	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 17.
-1706361	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1714379	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
-1716522	ID:17	Starting 'UDP client process'
-1717530	ID:5	Rime started with address 193.12.0.0.0.0.0.5
-1719950	ID:17	UDP client process started nbr:10 routes:0
-1723389	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
-1725185	ID:17	fe80::c30c:0:0:11
-1725938	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
-1730328	ID:17	Created a connection with the server :: local/remote port 8765/5678
-1731559	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1739533	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
-1741676	ID:5	Starting 'UDP client process'
-1745103	ID:5	UDP client process started nbr:10 routes:0
-1748431	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
-1750115	ID:5	fe80::c30c:0:0:5
-1755257	ID:5	Created a connection with the server :: local/remote port 8765/5678
-1771337	ID:24	Rime started with address 193.12.0.0.0.0.0.24
-1779913	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 24.
-1785498	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1793516	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
-1793718	ID:7	Rime started with address 193.12.0.0.0.0.0.7
-1795659	ID:24	Starting 'UDP client process'
-1799087	ID:24	UDP client process started nbr:10 routes:0
-1802126	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
-1802526	ID:24	Client IPv6 addresses: fd00::c30c:0:0:18
-1804322	ID:24	fe80::c30c:0:0:18
-1804647	ID:16	Rime started with address 193.12.0.0.0.0.0.16
-1807747	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1809465	ID:24	Created a connection with the server :: local/remote port 8765/5678
-1813223	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 16.
-1815721	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
-1817864	ID:7	Starting 'UDP client process'
-1818808	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1821291	ID:7	UDP client process started nbr:10 routes:0
-1824619	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
-1826303	ID:7	fe80::c30c:0:0:7
-1826826	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
-1828969	ID:16	Starting 'UDP client process'
-1831445	ID:7	Created a connection with the server :: local/remote port 8765/5678
-1832397	ID:16	UDP client process started nbr:10 routes:0
-1834340	ID:19	Rime started with address 193.12.0.0.0.0.0.19
-1835836	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
-1837632	ID:16	fe80::c30c:0:0:10
-1842775	ID:16	Created a connection with the server :: local/remote port 8765/5678
-1842916	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 19.
-1848501	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1856519	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
-1858662	ID:19	Starting 'UDP client process'
-1859591	ID:15	Rime started with address 193.12.0.0.0.0.0.15
-1859906	ID:11	Rime started with address 193.12.0.0.0.0.0.11
-1862090	ID:19	UDP client process started nbr:10 routes:0
-1865529	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
-1867325	ID:19	fe80::c30c:0:0:13
-1868123	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 15.
-1868438	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
-1872468	ID:19	Created a connection with the server :: local/remote port 8765/5678
-1873721	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1874036	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1881696	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
-1882011	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
-1883839	ID:15	Starting 'UDP client process'
-1884154	ID:11	Starting 'UDP client process'
-1887267	ID:15	UDP client process started nbr:10 routes:0
-1887582	ID:11	UDP client process started nbr:10 routes:0
-1890594	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
-1890909	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
-1892279	ID:15	fe80::c30c:0:0:f
-1892594	ID:11	fe80::c30c:0:0:b
-1897422	ID:15	Created a connection with the server :: local/remote port 8765/5678
-1897737	ID:11	Created a connection with the server :: local/remote port 8765/5678
-62834345	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
-62835905	ID:21	Size of data 30
-62838713	ID:21	Data is Hello 1 from the client abhive
-62859745	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 21 at NodeID= 1
-63570130	ID:28	Sending DATA to 1 'Hello 1' with NodeID= 28
-63571690	ID:28	Size of data 30
-63574503	ID:28	Data is Hello 1 from the client abhive
-63596270	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 28 at NodeID= 1
-68996416	ID:30	Sending DATA to 1 'Hello 1' with NodeID= 30
-68997976	ID:30	Size of data 30
-69000770	ID:30	Data is Hello 1 from the client abhive
-69121922	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 30 at NodeID= 1
-69249951	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
-69251511	ID:3	Size of data 30
-69254287	ID:3	Data is Hello 1 from the client abhive
-69372333	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
-72826326	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
-72827886	ID:5	Size of data 30
-72830662	ID:5	Data is Hello 1 from the client abhive
-72885019	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
-75735044	ID:25	Sending DATA to 1 'Hello 1' with NodeID= 25
-75736604	ID:25	Size of data 30
-75739398	ID:25	Data is Hello 1 from the client abhive
-75760872	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 25 at NodeID= 1
-75799738	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
-75801298	ID:13	Size of data 30
-75804092	ID:13	Data is Hello 1 from the client abhive
-75825666	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
-77843726	ID:31	Sending DATA to 1 'Hello 1' with NodeID= 31
-77845286	ID:31	Size of data 30
-77848061	ID:31	Data is Hello 1 from the client abhive
-77995275	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 31 at NodeID= 1
-78406202	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
-78407762	ID:11	Size of data 30
-78410556	ID:11	Data is Hello 1 from the client abhive
-78455652	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
-78457212	ID:10	Size of data 30
-78460011	ID:10	Data is Hello 1 from the client abhive
-78495722	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
-78644283	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
-80418490	ID:27	Sending DATA to 1 'Hello 1' with NodeID= 27
-80420050	ID:27	Size of data 30
-80422844	ID:27	Data is Hello 1 from the client abhive
-80444078	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 27 at NodeID= 1
-84484012	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
-84485572	ID:15	Size of data 30
-84488366	ID:15	Data is Hello 1 from the client abhive
-84510252	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
-84574389	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
-84575949	ID:7	Size of data 30
-84578725	ID:7	Data is Hello 1 from the client abhive
-84624151	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
-84763635	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
-84765195	ID:14	Size of data 30
-84767989	ID:14	Data is Hello 1 from the client abhive
-84872611	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 14 at NodeID= 1
-88687946	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
-88689506	ID:9	Size of data 30
-88692282	ID:9	Data is Hello 1 from the client abhive
-88713774	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
-93142858	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
-93144418	ID:18	Size of data 30
-93147212	ID:18	Data is Hello 1 from the client abhive
-93260580	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 18 at NodeID= 1
-95173026	ID:22	Sending DATA to 1 'Hello 1' with NodeID= 22
-95174586	ID:22	Size of data 30
-95177380	ID:22	Data is Hello 1 from the client abhive
-95249494	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 22 at NodeID= 1
-95370389	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
-95371949	ID:2	Size of data 30
-95374725	ID:2	Data is Hello 1 from the client abhive
-95394961	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
-96897818	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
-96899378	ID:16	Size of data 30
-96902172	ID:16	Data is Hello 1 from the client abhive
-96923843	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 16 at NodeID= 1
-97139896	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
-97141456	ID:4	Size of data 30
-97144232	ID:4	Data is Hello 1 from the client abhive
-97249108	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
-98758489	ID:29	Sending DATA to 1 'Hello 1' with NodeID= 29
-98760049	ID:29	Size of data 30
-98762843	ID:29	Data is Hello 1 from the client abhive
-98874223	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 29 at NodeID= 1
-103094877	ID:26	Sending DATA to 1 'Hello 1' with NodeID= 26
-103096437	ID:26	Size of data 30
-103099236	ID:26	Data is Hello 1 from the client abhive
-103191693	ID:23	Sending DATA to 1 'Hello 1' with NodeID= 23
-103193253	ID:23	Size of data 30
-103196052	ID:23	Data is Hello 1 from the client abhive
-103246994	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 26 at NodeID= 1
-103260608	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 23 at NodeID= 1
-104508783	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
-104510343	ID:6	Size of data 30
-104513118	ID:6	Data is Hello 1 from the client abhive
-104644689	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
-107894753	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
-107896313	ID:17	Size of data 30
-107899101	ID:17	Data is Hello 1 from the client abhive
-107921080	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
+889936	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+895874	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+898344	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+903965	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+904282	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+909053	ID:29	Rime started with address 193.12.0.0.0.0.0.29
+909903	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+911939	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+914082	ID:3	Starting 'UDP client process'
+917509	ID:3	UDP client process started nbr:10 routes:0
+917629	ID:29	MAC c1:0c:00:00:00:00:00:1d Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 29.
+917877	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+920020	ID:7	Starting 'UDP client process'
+920837	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+922521	ID:3	fe80::c30c:0:0:3
+923215	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+923447	ID:7	UDP client process started nbr:10 routes:0
+925756	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+926775	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+927663	ID:3	Created a connection with the server :: local/remote port 8765/5678
+928459	ID:7	fe80::c30c:0:0:7
+930995	ID:23	Rime started with address 193.12.0.0.0.0.0.23
+931234	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001d
+933377	ID:29	Starting 'UDP client process'
+933601	ID:7	Created a connection with the server :: local/remote port 8765/5678
+934164	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+936804	ID:29	UDP client process started nbr:10 routes:0
+939571	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 23.
+939785	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+940244	ID:29	Client IPv6 addresses: fd00::c30c:0:0:1d
+942041	ID:29	fe80::c30c:0:0:1d
+945156	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+947184	ID:29	Created a connection with the server :: local/remote port 8765/5678
+947759	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+949902	ID:8	Starting 'UDP client process'
+953174	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
+953329	ID:8	UDP client process started nbr:10 routes:0
+955317	ID:23	Starting 'UDP client process'
+956657	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+958341	ID:8	fe80::c30c:0:0:8
+958745	ID:23	UDP client process started nbr:10 routes:0
+962184	ID:23	Client IPv6 addresses: fd00::c30c:0:0:17
+963483	ID:8	Created a connection with the server :: local/remote port 8765/5678
+963980	ID:23	fe80::c30c:0:0:17
+969123	ID:23	Created a connection with the server :: local/remote port 8765/5678
+974536	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+983068	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 14.
+984237	ID:26	Rime started with address 193.12.0.0.0.0.0.26
+988666	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+992813	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 26.
+996641	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+998399	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+998784	ID:14	Starting 'UDP client process'
+1002212	ID:14	UDP client process started nbr:10 routes:0
+1005539	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1006418	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
+1007224	ID:14	fe80::c30c:0:0:e
+1008561	ID:26	Starting 'UDP client process'
+1011988	ID:26	UDP client process started nbr:10 routes:0
+1012367	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1012748	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1014618	ID:27	Rime started with address 193.12.0.0.0.0.0.27
+1015428	ID:26	Client IPv6 addresses: fd00::c30c:0:0:1a
+1017225	ID:26	fe80::c30c:0:0:1a
+1021280	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 13.
+1022368	ID:26	Created a connection with the server :: local/remote port 8765/5678
+1023194	ID:27	MAC c1:0c:00:00:00:00:00:1b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 27.
+1026878	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1028780	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1034342	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1034853	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1036799	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001b
+1036996	ID:13	Starting 'UDP client process'
+1038942	ID:27	Starting 'UDP client process'
+1040424	ID:13	UDP client process started nbr:10 routes:0
+1042369	ID:27	UDP client process started nbr:10 routes:0
+1042918	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 16.
+1043751	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1045436	ID:13	fe80::c30c:0:0:d
+1045809	ID:27	Client IPv6 addresses: fd00::c30c:0:0:1b
+1047606	ID:27	fe80::c30c:0:0:1b
+1048503	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1050579	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1052749	ID:27	Created a connection with the server :: local/remote port 8765/5678
+1053635	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1055189	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1055827	ID:24	Rime started with address 193.12.0.0.0.0.0.24
+1056521	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1058664	ID:16	Starting 'UDP client process'
+1062092	ID:16	UDP client process started nbr:10 routes:0
+1062211	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 21.
+1063594	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+1064403	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 24.
+1065531	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1067327	ID:16	fe80::c30c:0:0:10
+1067796	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1069215	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1069988	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1072470	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1075814	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1077189	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1077957	ID:21	Starting 'UDP client process'
+1078006	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
+1079332	ID:1	Starting 'UDP server process'
+1080149	ID:24	Starting 'UDP client process'
+1081385	ID:21	UDP client process started nbr:10 routes:0
+1082080	ID:1	UDP server started. nbr:10 routes:0
+1083577	ID:24	UDP client process started nbr:10 routes:0
+1084824	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
+1084828	ID:1	created a new RPL dag
+1086620	ID:21	fe80::c30c:0:0:15
+1087016	ID:24	Client IPv6 addresses: fd00::c30c:0:0:18
+1088152	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1088812	ID:24	fe80::c30c:0:0:18
+1089778	ID:1	fd00::ff:fe00:1
+1090719	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1091473	ID:1	fe80::c30c:0:0:1
+1091763	ID:21	Created a connection with the server :: local/remote port 8765/5678
+1093955	ID:24	Created a connection with the server :: local/remote port 8765/5678
+1097421	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1099295	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 18.
+1104880	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1112898	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1115041	ID:18	Starting 'UDP client process'
+1118469	ID:18	UDP client process started nbr:10 routes:0
+1121908	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
+1123704	ID:18	fe80::c30c:0:0:12
+1128847	ID:18	Created a connection with the server :: local/remote port 8765/5678
+1211905	ID:22	Rime started with address 193.12.0.0.0.0.0.22
+1212569	ID:28	Rime started with address 193.12.0.0.0.0.0.28
+1220481	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 22.
+1221145	ID:28	MAC c1:0c:00:00:00:00:00:1c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 28.
+1226066	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1226731	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1234084	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
+1234750	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001c
+1236227	ID:22	Starting 'UDP client process'
+1236893	ID:28	Starting 'UDP client process'
+1239655	ID:22	UDP client process started nbr:10 routes:0
+1240320	ID:28	UDP client process started nbr:10 routes:0
+1243094	ID:22	Client IPv6 addresses: fd00::c30c:0:0:16
+1243760	ID:28	Client IPv6 addresses: fd00::c30c:0:0:1c
+1244890	ID:22	fe80::c30c:0:0:16
+1245557	ID:28	fe80::c30c:0:0:1c
+1250033	ID:22	Created a connection with the server :: local/remote port 8765/5678
+1250700	ID:28	Created a connection with the server :: local/remote port 8765/5678
+1257900	ID:31	Rime started with address 193.12.0.0.0.0.0.31
+1266480	ID:31	MAC c1:0c:00:00:00:00:00:1f Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 31.
+1272101	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1280120	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001f
+1282263	ID:31	Starting 'UDP client process'
+1285708	ID:31	UDP client process started nbr:10 routes:0
+1289149	ID:31	Client IPv6 addresses: fd00::c30c:0:0:1f
+1290946	ID:31	fe80::c30c:0:0:1f
+1296088	ID:31	Created a connection with the server :: local/remote port 8765/5678
+1355736	ID:25	Rime started with address 193.12.0.0.0.0.0.25
+1358786	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1359235	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1364312	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 25.
+1367318	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 12.
+1367767	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+1369897	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1372916	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1373365	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1377915	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
+1380058	ID:25	Starting 'UDP client process'
+1380891	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1381340	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1383034	ID:12	Starting 'UDP client process'
+1383483	ID:10	Starting 'UDP client process'
+1383486	ID:25	UDP client process started nbr:10 routes:0
+1386462	ID:12	UDP client process started nbr:10 routes:0
+1386911	ID:10	UDP client process started nbr:10 routes:0
+1386925	ID:25	Client IPv6 addresses: fd00::c30c:0:0:19
+1388721	ID:25	fe80::c30c:0:0:19
+1389789	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1390238	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+1391474	ID:12	fe80::c30c:0:0:c
+1391923	ID:10	fe80::c30c:0:0:a
+1393864	ID:25	Created a connection with the server :: local/remote port 8765/5678
+1396617	ID:12	Created a connection with the server :: local/remote port 8765/5678
+1397066	ID:10	Created a connection with the server :: local/remote port 8765/5678
+1431620	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1440196	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 17.
+1445781	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1452637	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1453799	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1455942	ID:17	Starting 'UDP client process'
+1459370	ID:17	UDP client process started nbr:10 routes:0
+1460410	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1461045	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+1462809	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1464605	ID:17	fe80::c30c:0:0:11
+1466666	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1468818	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+1469748	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1474439	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1474640	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1476783	ID:9	Starting 'UDP client process'
+1480210	ID:9	UDP client process started nbr:10 routes:0
+1482413	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1483538	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1484556	ID:4	Starting 'UDP client process'
+1485222	ID:9	fe80::c30c:0:0:9
+1487983	ID:4	UDP client process started nbr:10 routes:0
+1490364	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1491311	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+1492995	ID:4	fe80::c30c:0:0:4
+1498137	ID:4	Created a connection with the server :: local/remote port 8765/5678
+1500350	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1508758	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+1514379	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1522353	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1524496	ID:5	Starting 'UDP client process'
+1527923	ID:5	UDP client process started nbr:10 routes:0
+1531251	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1532935	ID:5	fe80::c30c:0:0:5
+1538077	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1580691	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+1589223	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 15.
+1594821	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1602796	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+1604939	ID:15	Starting 'UDP client process'
+1608367	ID:15	UDP client process started nbr:10 routes:0
+1611694	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+1613379	ID:15	fe80::c30c:0:0:f
+1618522	ID:15	Created a connection with the server :: local/remote port 8765/5678
+1675924	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1682620	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1684500	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 19.
+1690085	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1691028	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+1696649	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1697063	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1698103	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1700246	ID:19	Starting 'UDP client process'
+1703674	ID:19	UDP client process started nbr:10 routes:0
+1704623	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1705471	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+1706766	ID:2	Starting 'UDP client process'
+1707113	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
+1708909	ID:19	fe80::c30c:0:0:13
+1710193	ID:2	UDP client process started nbr:10 routes:0
+1711092	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1713521	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1714052	ID:19	Created a connection with the server :: local/remote port 8765/5678
+1715205	ID:2	fe80::c30c:0:0:2
+1719066	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1720347	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1721209	ID:6	Starting 'UDP client process'
+1724636	ID:6	UDP client process started nbr:10 routes:0
+1727964	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+1729648	ID:6	fe80::c30c:0:0:6
+1734790	ID:6	Created a connection with the server :: local/remote port 8765/5678
+1797631	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1803463	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+1806207	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 20.
+1811792	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1811995	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
+1817593	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1819810	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1821953	ID:20	Starting 'UDP client process'
+1825381	ID:20	UDP client process started nbr:10 routes:0
+1825568	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1827711	ID:11	Starting 'UDP client process'
+1828820	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
+1830616	ID:20	fe80::c30c:0:0:14
+1831139	ID:11	UDP client process started nbr:10 routes:0
+1834466	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1835759	ID:20	Created a connection with the server :: local/remote port 8765/5678
+1836151	ID:11	fe80::c30c:0:0:b
+1841294	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1841865	ID:30	Rime started with address 193.12.0.0.0.0.0.30
+1850445	ID:30	MAC c1:0c:00:00:00:00:00:1e Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 30.
+1856066	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1864085	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001e
+1866228	ID:30	Starting 'UDP client process'
+1869673	ID:30	UDP client process started nbr:10 routes:0
+1873114	ID:30	Client IPv6 addresses: fd00::c30c:0:0:1e
+1874911	ID:30	fe80::c30c:0:0:1e
+1880053	ID:30	Created a connection with the server :: local/remote port 8765/5678
+62849079	ID:30	Sending DATA to 1 'Hello 1' with NodeID= 30
+62850639	ID:30	Size of data 30
+62854055	ID:30	Data is Hello 1 from the client abhive
+62931083	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
+62932643	ID:6	Size of data 30
+62935419	ID:6	Data is Hello 1 from the client abhive
+62965920	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 30 at NodeID= 1
+63574521	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
+63576081	ID:18	Size of data 30
+63578870	ID:18	Data is Hello 1 from the client abhive
+63965265	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
+65111900	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 18 at NodeID= 1
+68795600	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
+68797160	ID:3	Size of data 30
+68799936	ID:3	Data is Hello 1 from the client abhive
+70138017	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
+70139577	ID:14	Size of data 30
+70142374	ID:14	Data is Hello 1 from the client abhive
+70339228	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 14 at NodeID= 1
+70423095	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
+70639516	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
+70641076	ID:4	Size of data 30
+70643852	ID:4	Data is Hello 1 from the client abhive
+70715238	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
+70897368	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
+70898928	ID:9	Size of data 30
+70901704	ID:9	Data is Hello 1 from the client abhive
+71340045	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
+73216944	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
+73218504	ID:11	Size of data 30
+73221301	ID:11	Data is Hello 1 from the client abhive
+73338915	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
+76381224	ID:27	Sending DATA to 1 'Hello 1' with NodeID= 27
+76382784	ID:27	Size of data 30
+76385581	ID:27	Data is Hello 1 from the client abhive
+76463436	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 27 at NodeID= 1
+77594476	ID:23	Sending DATA to 1 'Hello 1' with NodeID= 23
+77596036	ID:23	Size of data 30
+77598833	ID:23	Data is Hello 1 from the client abhive
+77716292	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 23 at NodeID= 1
+78813058	ID:24	Sending DATA to 1 'Hello 1' with NodeID= 24
+78814618	ID:24	Size of data 30
+78818273	ID:24	Data is Hello 1 from the client abhive
+78965656	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 24 at NodeID= 1
+83218269	ID:26	Sending DATA to 1 'Hello 1' with NodeID= 26
+83219829	ID:26	Size of data 30
+83222604	ID:26	Data is Hello 1 from the client abhive
+83340324	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 26 at NodeID= 1
+83414237	ID:20	Sending DATA to 1 'Hello 1' with NodeID= 20
+83415797	ID:20	Size of data 30
+83418594	ID:20	Data is Hello 1 from the client abhive
+83463892	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 20 at NodeID= 1
+85455110	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
+85456670	ID:15	Size of data 30
+85459466	ID:15	Data is Hello 1 from the client abhive
+85590503	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
+86112674	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
+86114234	ID:8	Size of data 30
+86117010	ID:8	Data is Hello 1 from the client abhive
+86215146	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
+90633199	ID:22	Sending DATA to 1 'Hello 1' with NodeID= 22
+90634759	ID:22	Size of data 30
+90637555	ID:22	Data is Hello 1 from the client abhive
+90715635	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 22 at NodeID= 1
+90793417	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
+90794977	ID:13	Size of data 30
+90797773	ID:13	Data is Hello 1 from the client abhive
+90839505	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
+93241956	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
+93243516	ID:5	Size of data 30
+93246292	ID:5	Data is Hello 1 from the client abhive
+93337986	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
+95260326	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
+95261886	ID:16	Size of data 30
+95264685	ID:16	Data is Hello 1 from the client abhive
+95284764	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 16 at NodeID= 1
+99405082	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
+99406642	ID:12	Size of data 30
+99409437	ID:12	Data is Hello 1 from the client abhive
+99430807	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
+101967119	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
+101968679	ID:21	Size of data 30
+101971473	ID:21	Data is Hello 1 from the client abhive
+101991085	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 21 at NodeID= 1
+102351069	ID:31	Sending DATA to 1 'Hello 1' with NodeID= 31
+102352629	ID:31	Size of data 30
+102355426	ID:31	Data is Hello 1 from the client abhive
+102466346	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 31 at NodeID= 1
+105306039	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
+105307599	ID:17	Size of data 30
+105310395	ID:17	Data is Hello 1 from the client abhive
+105464213	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
+106596101	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
+106597661	ID:2	Size of data 30
+106600437	ID:2	Data is Hello 1 from the client abhive
+106714259	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
+111801542	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
+111803102	ID:7	Size of data 30
+111805878	ID:7	Data is Hello 1 from the client abhive
+111909842	ID:25	Sending DATA to 1 'Hello 1' with NodeID= 25
+111911402	ID:25	Size of data 30
+111914199	ID:25	Data is Hello 1 from the client abhive
+111966393	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
+112238453	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 25 at NodeID= 1
+113853791	ID:29	Sending DATA to 1 'Hello 1' with NodeID= 29
+113855351	ID:29	Size of data 30
+113858141	ID:29	Data is Hello 1 from the client abhive
+113965654	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 29 at NodeID= 1
+115803966	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
+115805526	ID:10	Size of data 30
+115808323	ID:10	Data is Hello 1 from the client abhive
+115964763	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
+118383870	ID:28	Sending DATA to 1 'Hello 1' with NodeID= 28
+118385430	ID:28	Size of data 30
+118388219	ID:28	Data is Hello 1 from the client abhive
+118466811	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 28 at NodeID= 1
+120847456	ID:19	Sending DATA to 1 'Hello 1' with NodeID= 19
+120849016	ID:19	Size of data 30
+120851791	ID:19	Data is Hello 1 from the client abhive
+120966072	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 19 at NodeID= 1
+122604062	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
+122605622	ID:16	Size of data 30
+122608430	ID:16	Data is Hello 2 from the client abhive
+123641723	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 16 at NodeID= 1
+124660439	ID:18	Sending DATA to 1 'Hello 2' with NodeID= 18
+124661999	ID:18	Size of data 30
+124664812	ID:18	Data is Hello 2 from the client abhive
+124717083	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 18 at NodeID= 1
+124850832	ID:26	Sending DATA to 1 'Hello 2' with NodeID= 26
+124852392	ID:26	Size of data 30
+124855200	ID:26	Data is Hello 2 from the client abhive
+124966593	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 26 at NodeID= 1
+125441202	ID:19	Sending DATA to 1 'Hello 2' with NodeID= 19
+125442762	ID:19	Size of data 30
+125445538	ID:19	Data is Hello 2 from the client abhive
+125588892	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 19 at NodeID= 1
+126730912	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
+126732472	ID:13	Size of data 30
+126735273	ID:13	Data is Hello 2 from the client abhive
+126839678	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 13 at NodeID= 1
+129746857	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
+129748417	ID:7	Size of data 30
+129751193	ID:7	Data is Hello 2 from the client abhive
+129838776	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 7 at NodeID= 1
+130876053	ID:28	Sending DATA to 1 'Hello 2' with NodeID= 28
+130877613	ID:28	Size of data 30
+130880412	ID:28	Data is Hello 2 from the client abhive
+130964439	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 28 at NodeID= 1
+132288565	ID:31	Sending DATA to 1 'Hello 2' with NodeID= 31
+132290125	ID:31	Size of data 30
+132292925	ID:31	Data is Hello 2 from the client abhive
+132341570	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 31 at NodeID= 1
+133233262	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
+133234822	ID:4	Size of data 30
+133237597	ID:4	Data is Hello 2 from the client abhive
+133338628	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 4 at NodeID= 1
+135201539	ID:27	Sending DATA to 1 'Hello 2' with NodeID= 27
+135203099	ID:27	Size of data 30
+135205893	ID:27	Data is Hello 2 from the client abhive
+135339981	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 27 at NodeID= 1
+135878595	ID:25	Sending DATA to 1 'Hello 2' with NodeID= 25
+135880155	ID:25	Size of data 30
+135882949	ID:25	Data is Hello 2 from the client abhive
+135964258	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 25 at NodeID= 1
+140835708	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
+140837268	ID:5	Size of data 30
+140840044	ID:5	Data is Hello 2 from the client abhive
+140964604	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 5 at NodeID= 1
+145631247	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
+145632807	ID:11	Size of data 30
+145635583	ID:11	Data is Hello 2 from the client abhive
+145713893	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 11 at NodeID= 1
+147070701	ID:22	Sending DATA to 1 'Hello 2' with NodeID= 22
+147072261	ID:22	Size of data 30
+147075056	ID:22	Data is Hello 2 from the client abhive
+147215593	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 22 at NodeID= 1
+147353550	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
+147355110	ID:15	Size of data 30
+147357904	ID:15	Data is Hello 2 from the client abhive
+147465929	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 15 at NodeID= 1
+147648998	ID:24	Sending DATA to 1 'Hello 2' with NodeID= 24
+147650558	ID:24	Size of data 30
+147653353	ID:24	Data is Hello 2 from the client abhive
+147715015	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 24 at NodeID= 1
+152610729	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
+152612289	ID:17	Size of data 30
+152615083	ID:17	Data is Hello 2 from the client abhive
+152716292	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 17 at NodeID= 1
+158071279	ID:23	Sending DATA to 1 'Hello 2' with NodeID= 23
+158072839	ID:23	Size of data 30
+158075615	ID:23	Data is Hello 2 from the client abhive
+158213101	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 23 at NodeID= 1
+158740920	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
+158742480	ID:3	Size of data 30
+158745255	ID:3	Data is Hello 2 from the client abhive
+158820730	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 3 at NodeID= 1
+162003550	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
+162005110	ID:8	Size of data 30
+162007911	ID:8	Data is Hello 2 from the client abhive
+162089666	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 8 at NodeID= 1
+167611837	ID:29	Sending DATA to 1 'Hello 2' with NodeID= 29
+167613397	ID:29	Size of data 30
+167616173	ID:29	Data is Hello 2 from the client abhive
+167713802	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 29 at NodeID= 1
+169225401	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
+169226961	ID:12	Size of data 30
+169229749	ID:12	Data is Hello 2 from the client abhive
+169251121	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 12 at NodeID= 1
+172711115	ID:20	Sending DATA to 1 'Hello 2' with NodeID= 20
+172712675	ID:20	Size of data 30
+172715474	ID:20	Data is Hello 2 from the client abhive
+172839822	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 20 at NodeID= 1
+173368604	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
+173370164	ID:6	Size of data 30
+173372968	ID:6	Data is Hello 2 from the client abhive
+173464241	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 6 at NodeID= 1
+178084870	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
+178086430	ID:9	Size of data 30
+178090065	ID:9	Data is Hello 2 from the client abhive
+178214651	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 9 at NodeID= 1
+178520839	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
+178522399	ID:14	Size of data 30
+178525187	ID:14	Data is Hello 2 from the client abhive
+178590324	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 14 at NodeID= 1
+179014913	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
+179016473	ID:10	Size of data 30
+179019261	ID:10	Data is Hello 2 from the client abhive
+179111627	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 10 at NodeID= 1
+179584306	ID:21	Sending DATA to 1 'Hello 2' with NodeID= 21
+179585866	ID:21	Size of data 30
+179588660	ID:21	Data is Hello 2 from the client abhive
+179608154	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 21 at NodeID= 1
+180267985	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
+180269545	ID:2	Size of data 30
+180272321	ID:2	Data is Hello 2 from the client abhive
+180340565	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 2 at NodeID= 1
+180685044	ID:30	Sending DATA to 1 'Hello 2' with NodeID= 30
+180686604	ID:30	Size of data 30
+180689390	ID:30	Data is Hello 2 from the client abhive
+180839832	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 30 at NodeID= 1
+184225281	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
+184226841	ID:3	Size of data 30
+184229616	ID:3	Data is Hello 3 from the client abhive
+184289609	ID:24	Sending DATA to 1 'Hello 3' with NodeID= 24
+184291169	ID:24	Size of data 30
+184293977	ID:24	Data is Hello 3 from the client abhive
+184339013	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 24 at NodeID= 1
+184430203	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
+184819232	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
+184820792	ID:9	Size of data 30
+184823567	ID:9	Data is Hello 3 from the client abhive
+184963809	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 9 at NodeID= 1
+187325655	ID:30	Sending DATA to 1 'Hello 3' with NodeID= 30
+187327215	ID:30	Size of data 30
+187330015	ID:30	Data is Hello 3 from the client abhive
+187463314	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 30 at NodeID= 1
+187977532	ID:23	Sending DATA to 1 'Hello 3' with NodeID= 23
+187979092	ID:23	Size of data 30
+187981867	ID:23	Data is Hello 3 from the client abhive
+188111131	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 23 at NodeID= 1
+192220097	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
+192221657	ID:17	Size of data 30
+192224463	ID:17	Data is Hello 3 from the client abhive
+192338650	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 17 at NodeID= 1
+192777025	ID:25	Sending DATA to 1 'Hello 3' with NodeID= 25
+192778585	ID:25	Size of data 30
+192781386	ID:25	Data is Hello 3 from the client abhive
+192839769	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 25 at NodeID= 1
+197361722	ID:2	Sending DATA to 1 'Hello 3' with NodeID= 2
+197363282	ID:2	Size of data 30
+197366057	ID:2	Data is Hello 3 from the client abhive
+197463383	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 2 at NodeID= 1
+200860421	ID:28	Sending DATA to 1 'Hello 3' with NodeID= 28
+200861981	ID:28	Size of data 30
+200864782	ID:28	Data is Hello 3 from the client abhive
+200966019	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 28 at NodeID= 1
+201837102	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
+201838662	ID:6	Size of data 30
+201841438	ID:6	Data is Hello 3 from the client abhive
+201965268	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 6 at NodeID= 1
+202444589	ID:26	Sending DATA to 1 'Hello 3' with NodeID= 26
+202446149	ID:26	Size of data 30
+202448950	ID:26	Data is Hello 3 from the client abhive
+202589799	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 26 at NodeID= 1
+204393376	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
+204394936	ID:16	Size of data 30
+204397712	ID:16	Data is Hello 3 from the client abhive
+204417860	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 16 at NodeID= 1
+205013970	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
+205015530	ID:14	Size of data 30
+205018306	ID:14	Data is Hello 3 from the client abhive
+205111655	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 14 at NodeID= 1
+210592643	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
+210594203	ID:4	Size of data 30
+210597839	ID:4	Data is Hello 3 from the client abhive
+210715270	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 4 at NodeID= 1
+211090601	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
+211092161	ID:7	Size of data 30
+211094936	ID:7	Data is Hello 3 from the client abhive
+211215786	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 7 at NodeID= 1
+212420700	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
+212422260	ID:12	Size of data 30
+212425061	ID:12	Data is Hello 3 from the client abhive
+212445842	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 12 at NodeID= 1
+212835212	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
+212836772	ID:10	Size of data 30
+212839573	ID:10	Data is Hello 3 from the client abhive
+212967002	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 10 at NodeID= 1
+214403440	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
+214405205	ID:13	Size of data 30
+214408073	ID:13	Data is Hello 3 from the client abhive
+214839779	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 13 at NodeID= 1
+215623645	ID:27	Sending DATA to 1 'Hello 3' with NodeID= 27
+215625205	ID:27	Size of data 30
+215627982	ID:27	Data is Hello 3 from the client abhive
+215716022	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 27 at NodeID= 1
+216695490	ID:20	Sending DATA to 1 'Hello 3' with NodeID= 20
+216697050	ID:20	Size of data 30
+216699844	ID:20	Data is Hello 3 from the client abhive
+216840324	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 20 at NodeID= 1
