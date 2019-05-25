@@ -179,13 +179,13 @@ PROCESS_THREAD(udp_client_process, ev, data)
   static struct etimer periodic;
   static struct ctimer backoff_timer;
   
-  #if WITH_COMPOWER
-    static int print = 0;
-  #endif
+  //#if WITH_COMPOWER
+  //  static int print = 0;
+  //#endif
 
   PROCESS_BEGIN();
   /* Start powertracing, once every two seconds. */
-  powertrace_start(CLOCK_SECOND * 30);
+  //powertrace_start(CLOCK_SECOND * 30);
   //printf("Ticks per second: %u\n", RTIMER_SECOND);
 
   PROCESS_PAUSE();
@@ -210,9 +210,9 @@ PROCESS_THREAD(udp_client_process, ev, data)
   PRINTF(" local/remote port %u/%u\n",
 	UIP_HTONS(client_conn->lport), UIP_HTONS(client_conn->rport));
 
-#if WITH_COMPOWER
-  powertrace_sniff(POWERTRACE_ON);
-#endif
+//#if WITH_COMPOWER
+//  powertrace_sniff(POWERTRACE_ON);
+//#endif
 
   etimer_set(&periodic, SEND_INTERVAL);
   while(1) {
@@ -258,16 +258,16 @@ PROCESS_THREAD(udp_client_process, ev, data)
     if(etimer_expired(&periodic)) {
       etimer_reset(&periodic);
       ctimer_set(&backoff_timer, SEND_TIME, send_packet, NULL);
-
+/*
 #if WITH_COMPOWER
       if (print == 0) {
 	powertrace_print("#P");
-      }
+     }
       if (++print == 3) {
 	print = 0;
       }
 #endif
-
+*/
     }
   }
 
