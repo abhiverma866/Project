@@ -49,7 +49,7 @@
 #include "lib/random.h"
 #include "sys/ctimer.h"
 
-#define DEBUG DEBUG_PRINT
+#define DEBUG DEBUG_NONE
 #include "net/ip/uip-debug.h"
 
 /* A configurable function called after update of the RPL DIO interval */
@@ -256,9 +256,9 @@ static void
 handle_dao_timer(void *ptr)
 {
   rpl_instance_t *instance;
+  uint8_t i;
 #if RPL_WITH_MULTICAST
   uip_mcast6_route_t *mcast_route;
-  uint8_t i;
 #endif
 
   instance = (rpl_instance_t *)ptr;
@@ -457,44 +457,13 @@ get_probing_target(rpl_dag_t *dag)
   return probing_target;
 }
 /*---------------------------------------------------------------------------*/
-// static void
-// handle_probing_timer(void *ptr)
-// {
-//   rpl_instance_t *instance = (rpl_instance_t *)ptr;
-//   rpl_parent_t *probing_target = RPL_PROBING_SELECT_FUNC(instance->current_dag);
-//   uip_ipaddr_t *target_ipaddr = rpl_get_parent_ipaddr(probing_target);
-
-//   /* Perform probing */
-//   if(target_ipaddr != NULL) {
-//     const struct link_stats *stats = rpl_get_parent_link_stats(probing_target);
-//     (void)stats;
-//     PRINTF("RPL: probing %u %s last tx %u min ago\n",
-//         rpl_get_parent_lladdr(probing_target)->u8[7],
-//         instance->urgent_probing_target != NULL ? "(urgent)" : "",
-//         probing_target != NULL ?
-//         (unsigned)((clock_time() - stats->last_tx_time) / (60 * CLOCK_SECOND)) : 0
-//         );
-//     /* Send probe, e.g. unicast DIO or DIS */
-//     RPL_PROBING_SEND_FUNC(instance, target_ipaddr);
-//     instance->urgent_probing_target = NULL;
-//   }
-
-//   /* Schedule next probing */
-//   rpl_schedule_probing(instance);
-
-// #if DEBUG
-//   rpl_print_neighbor_list();
-// #endif
-// }
-
-/*---------------------------------------------------------------------------*/
-//This function is added to implement burst probing.
-static void handle_probing_timer(void *ptr)
+static void
+handle_probing_timer(void *ptr)
 {
   rpl_instance_t *instance = (rpl_instance_t *)ptr;
   rpl_parent_t *probing_target = RPL_PROBING_SELECT_FUNC(instance->current_dag);
   uip_ipaddr_t *target_ipaddr = rpl_get_parent_ipaddr(probing_target);
-  uint8_t i = 0;
+
   /* Perform probing */
   if(target_ipaddr != NULL) {
     const struct link_stats *stats = rpl_get_parent_link_stats(probing_target);
@@ -506,11 +475,7 @@ static void handle_probing_timer(void *ptr)
         (unsigned)((clock_time() - stats->last_tx_time) / (60 * CLOCK_SECOND)) : 0
         );
     /* Send probe, e.g. unicast DIO or DIS */
-    while(i<5){
-    printf("Probe count %i\n", i);
     RPL_PROBING_SEND_FUNC(instance, target_ipaddr);
-    i++;
-    }
     instance->urgent_probing_target = NULL;
   }
 
@@ -521,8 +486,6 @@ static void handle_probing_timer(void *ptr)
   rpl_print_neighbor_list();
 #endif
 }
-/*---------------------------------------------------------------------------*/
-
 
 /*---------------------------------------------------------------------------*/
 void

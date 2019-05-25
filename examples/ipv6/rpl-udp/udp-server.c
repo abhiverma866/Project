@@ -40,7 +40,11 @@
 #include <string.h>
 #include <ctype.h>
 
-#define DEBUG DEBUG_PRINT
+#ifdef WITH_COMPOWER
+#include "powertrace.h"
+#endif
+
+#define DEBUG DEBUG_FULL
 #include "net/ip/uip-debug.h"
 
 #define UIP_IP_BUF   ((struct uip_ip_hdr *)&uip_buf[UIP_LLH_LEN])
@@ -101,7 +105,14 @@ PROCESS_THREAD(udp_server_process, ev, data)
   uip_ipaddr_t ipaddr;
   struct uip_ds6_addr *root_if;
 
+  #if WITH_COMPOWER
+  static int print = 0;
+  #endif
+
   PROCESS_BEGIN();
+
+  /* Start powertracing, once every two seconds. */
+  powertrace_start(CLOCK_SECOND * 30);
 
   PROCESS_PAUSE();
 
@@ -166,6 +177,10 @@ PROCESS_THREAD(udp_server_process, ev, data)
   PRINT6ADDR(&server_conn->ripaddr);
   PRINTF(" local/remote port %u/%u\n", UIP_HTONS(server_conn->lport),
          UIP_HTONS(server_conn->rport));
+
+  #if WITH_COMPOWER
+  powertrace_sniff(POWERTRACE_ON);
+  #endif
 
   while(1) {
     PROCESS_YIELD();

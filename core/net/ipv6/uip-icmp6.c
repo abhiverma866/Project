@@ -45,10 +45,7 @@
 #include <string.h>
 #include "net/ipv6/uip-ds6.h"
 #include "net/ipv6/uip-icmp6.h"
-#include "net/common.h" // Added for attack
 #include "contiki-default-conf.h"
-
-//#include "net/ip/uip-debug.h"
 
 #define DEBUG 0
 #if DEBUG
@@ -73,12 +70,6 @@
 
 /** \brief temporary IP address */
 static uip_ipaddr_t tmp_ipaddr;
-
-/*Added for suppression attack/replay*/
-extern int firstDID;
-extern uip_ip6addr_t DIOsrcaddr;
-extern rpl_dio_t prevDIO;
-/*----------------END----------------*/
 
 LIST(echo_reply_callback_list);
 /*---------------------------------------------------------------------------*/
@@ -289,19 +280,6 @@ uip_icmp6_send(const uip_ipaddr_t *dest, int type, int code, int payload_len)
 
   memcpy(&UIP_IP_BUF->destipaddr, dest, sizeof(*dest));
   uip_ds6_select_src(&UIP_IP_BUF->srcipaddr, &UIP_IP_BUF->destipaddr);
-  
-  /*Added for suppression attack/replay*/
-  if(firstDID == 1){
-	uip_ipaddr_copy(&UIP_IP_BUF->srcipaddr,&DIOsrcaddr);
-  //PRINTF("In firstDID loop \n");
-  }
-  // if(DEBUG==1){
-  // PRINTF("firstDID in uip-icmp6.c is %i \n", firstDID);  
-  // PRINTF("RPL: Sending packet with SRC as  ");
-  // PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
-  // PRINTF("\n");
-  // } 
-  /*------END--------------------------*/
 
   UIP_ICMP_BUF->type = type;
   UIP_ICMP_BUF->icode = code;

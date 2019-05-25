@@ -178,11 +178,15 @@ PROCESS_THREAD(udp_client_process, ev, data)
 {
   static struct etimer periodic;
   static struct ctimer backoff_timer;
-#if WITH_COMPOWER
-  static int print = 0;
-#endif
+  
+  #if WITH_COMPOWER
+    static int print = 0;
+  #endif
 
   PROCESS_BEGIN();
+  /* Start powertracing, once every two seconds. */
+  powertrace_start(CLOCK_SECOND * 30);
+  //printf("Ticks per second: %u\n", RTIMER_SECOND);
 
   PROCESS_PAUSE();
 
