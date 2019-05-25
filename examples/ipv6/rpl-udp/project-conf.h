@@ -43,8 +43,8 @@
 #define UIP_CONF_MAX_ROUTES   30
 #else
 /* configure number of neighbors and routes */
-#define NBR_TABLE_CONF_MAX_NEIGHBORS 10   
-#define UIP_CONF_MAX_ROUTES   30
+#define NBR_TABLE_CONF_MAX_NEIGHBORS 30   
+#define UIP_CONF_MAX_ROUTES   10
 #endif /* TEST_MORE_ROUTES */
 
 /*-------------------------------------------*/

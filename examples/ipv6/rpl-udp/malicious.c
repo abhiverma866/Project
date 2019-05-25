@@ -188,7 +188,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
   //powertrace_start(CLOCK_SECOND * 15);
 
 
-  stimer_set(&stimer_timer, 30);
+  stimer_set(&stimer_timer, 90);
   while(stimer_expired(&stimer_timer)!=1){
     /*Just wait for some time*/
   }

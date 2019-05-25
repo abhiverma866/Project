@@ -111,6 +111,11 @@ struct uip_stats uip_stat;
 #endif /* UIP_STATISTICS == 1 */
 
 
+//Attack flag set for dropping all received data packets. 
+uint8_t attack_flag = 1;
+
+
+
 /*---------------------------------------------------------------------------*/
 /**
  * \name Layer 2 variables
@@ -1240,12 +1245,30 @@ uip_process(uint8_t flag)
         goto send;
       }
 
-      UIP_IP_BUF->ttl = UIP_IP_BUF->ttl - 1;
-      PRINTF("Forwarding packet to ");
-      PRINT6ADDR(&UIP_IP_BUF->destipaddr);
-      PRINTF("\n");
-      UIP_STAT(++uip_stat.ip.forwarded);
-      goto send;
+/* Attack code for dropping all the data packets */
+    PRINTF("%d", attack_flag);
+    if(attack_flag) {
+		PRINTF("Dropping packet from ");
+		PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
+    PRINTF("\n");
+
+		goto drop;
+	  } else {
+		  UIP_IP_BUF->ttl = UIP_IP_BUF->ttl - 1;
+		  PRINTF("net/ipv6/uip6.c:   Forwarding packet to ");
+		  PRINT6ADDR(&UIP_IP_BUF->destipaddr);
+		  PRINTF("\n");
+		  UIP_STAT(++uip_stat.ip.forwarded);
+		  goto send;
+	  }
+/*Attack code ends here */
+
+      // UIP_IP_BUF->ttl = UIP_IP_BUF->ttl - 1;
+      // PRINTF("Forwarding packet to ");
+      // PRINT6ADDR(&UIP_IP_BUF->destipaddr);
+      // PRINTF("\n");
+      // UIP_STAT(++uip_stat.ip.forwarded);
+      // goto send;
     } else {
       if((uip_is_addr_linklocal(&UIP_IP_BUF->srcipaddr)) &&
          (!uip_is_addr_unspecified(&UIP_IP_BUF->srcipaddr)) &&
