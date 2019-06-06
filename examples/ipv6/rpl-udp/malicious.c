@@ -185,7 +185,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
   PROCESS_BEGIN();
 
   /* Start powertracing, once every two seconds. */
-  //powertrace_start(CLOCK_SECOND * 15);
+  powertrace_start(CLOCK_SECOND * 30);
 
 
   stimer_set(&stimer_timer, 90);
@@ -215,9 +215,9 @@ PROCESS_THREAD(udp_client_process, ev, data)
   PRINTF(" local/remote port %u/%u\n",
 	UIP_HTONS(client_conn->lport), UIP_HTONS(client_conn->rport));
 
-#if WITH_COMPOWER
-  powertrace_sniff(POWERTRACE_ON);
-#endif
+//#if WITH_COMPOWER
+//  powertrace_sniff(POWERTRACE_ON);
+//#endif
 
   etimer_set(&periodic, SEND_INTERVAL);
   while(1) {
