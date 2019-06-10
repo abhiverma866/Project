@@ -75,7 +75,7 @@ def process_line(x):
 
 for i in range(1,11):
     input_file = open(".//" + str(i) + "//serial.log", "r", encoding = 'utf-8')
-    dest_filename = "M_S_2s_" + str(i) + "_energyConsumption.xlsx"
+    dest_filename = "M_NS_2s_" + str(i) + "_energyConsumption.xlsx"
 
     # Create a workbook and add a worksheet.
     workbook = xlsxwriter.Workbook(dest_filename)
