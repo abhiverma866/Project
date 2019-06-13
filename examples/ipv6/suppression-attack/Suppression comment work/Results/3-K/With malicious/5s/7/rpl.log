@@ -1,0 +1,807 @@
+30448950	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+30739759	ID:36	RPL: Received a DIO from fe80::c30c:0:0:8
+30743534	ID:36	RPL: Incoming DIO (id, ver, rank) = (30,240,597)
+30748033	ID:36	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+30750260	ID:36	RPL: DIO option 4, length: 14
+30756172	ID:36	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+30758398	ID:36	RPL: DIO option 8, length: 30
+30760666	ID:36	RPL: Copying prefix information
+30764331	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+30768005	ID:36	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+30923234	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+30953880	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+31007656	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+35767868	ID:36	RPL: Sending a multicast-DIO with rank 597
+40767848	ID:36	RPL: Sending a multicast-DIO with rank 597
+45767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+50767848	ID:36	RPL: Sending a multicast-DIO with rank 597
+55767848	ID:36	RPL: Sending a multicast-DIO with rank 597
+60767848	ID:36	RPL: Sending a multicast-DIO with rank 597
+62734597	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+62788060	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+65767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+66553280	ID:33	RPL: Received a DIO from fe80::c30c:0:0:2
+66557048	ID:33	RPL: Incoming DIO (id, ver, rank) = (30,240,482)
+66561585	ID:33	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+66563811	ID:33	RPL: DIO option 4, length: 14
+66569718	ID:33	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+66571944	ID:33	RPL: DIO option 8, length: 30
+66574213	ID:33	RPL: Copying prefix information
+66583405	ID:33	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+70767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+71588185	ID:33	RPL: Sending a multicast-DIO with rank 482
+75767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+76588164	ID:33	RPL: Sending a multicast-DIO with rank 482
+80767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+81588164	ID:33	RPL: Sending a multicast-DIO with rank 482
+83694239	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+85767847	ID:36	RPL: Sending a multicast-DIO with rank 597
+86588164	ID:33	RPL: Sending a multicast-DIO with rank 482
+90767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+91588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+95767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+96588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+100767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+101588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+105767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+106588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+110767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+111588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+115767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+116588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+120767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+121588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+122734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+122788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+125767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+126588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+130767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+131588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+135767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+136588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+140767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+141588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+143694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+145767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+146588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+150767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+151588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+155767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+156588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+160767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+161588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+165767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+166588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+170767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+171588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+175767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+176588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+180767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+181588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+182734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+182788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+185767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+186588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+190767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+191588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+195767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+196588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+200767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+201588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+203694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+205767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+206588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+210767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+211588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+215767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+216588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+220767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+221588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+225767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+226588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+230767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+231588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+235767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+236588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+240767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+241588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+242734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+242788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+245767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+246588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+250767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+251588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+255767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+256588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+260767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+261588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+263694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+265767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+266588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+270767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+271588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+275767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+276588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+280767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+281588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+285767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+286588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+290767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+291588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+295767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+296588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+300767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+301588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+302734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+302788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+305767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+306588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+310767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+311588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+315767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+316588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+320767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+321588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+323694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+325767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+326588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+330767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+331588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+335767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+336588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+340767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+341588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+345767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+346588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+350767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+351588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+355767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+356588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+360767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+361588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+362734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+362788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+365767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+366588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+370767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+371588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+375767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+376588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+380767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+381588158	ID:33	RPL: Sending a multicast-DIO with rank 482
+383694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+385767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+386588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+390767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+391588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+395767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+396588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+400767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+401588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+405767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+406588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+410767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+411588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+415767842	ID:36	RPL: Sending a multicast-DIO with rank 597
+416588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+420767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+421588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+422734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+422788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+425767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+426588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+430767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+431588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+435767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+436588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+440767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+441588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+443694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+445767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+446588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+450767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+451588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+455767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+456588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+460767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+461588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+465767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+466588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+470767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+471588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+475767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+476588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+480767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+481588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+482734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+482788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+485767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+486588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+490767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+491588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+495767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+496588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+500767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+501588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+503694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+505767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+506588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+510767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+511588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+515767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+516588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+520767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+521588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+525767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+526588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+530767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+531588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+535767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+536588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+540767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+541588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+542734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+542788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+545767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+546588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+550767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+551588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+555767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+556588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+560767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+561588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+563694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+565767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+566588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+570767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+571588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+575767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+576588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+580767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+581588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+585767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+586588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+590767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+591588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+595767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+596588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+600767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+601588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+602734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+602788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+605767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+606588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+610767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+611588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+615767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+616588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+620767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+621588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+623694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+625767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+626588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+630767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+631588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+635767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+636588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+640767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+641588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+645767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+646588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+650767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+651588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+655767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+656588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+660767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+661588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+662734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+662788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+665767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+666588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+670767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+671588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+675767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+676588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+680767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+681588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+683694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+685767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+686588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+690767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+691588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+695767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+696588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+700767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+701588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+705767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+706588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+710767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+711588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+715767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+716588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+720767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+721588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+722734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+722788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+725767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+726588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+730767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+731588158	ID:33	RPL: Sending a multicast-DIO with rank 482
+735767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+736588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+740767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+741588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+743694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+745767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+746588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+750767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+751588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+755767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+756588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+760767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+761588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+765767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+766588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+770767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+771588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+775767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+776588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+780767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+781588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+782734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+782788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+785767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+786588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+790767842	ID:36	RPL: Sending a multicast-DIO with rank 597
+791588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+795767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+796588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+800767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+801588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+803694702	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+805767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+806588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+810767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+811588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+815767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+816588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+820767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+821588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+825767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+826588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+830767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+831588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+835767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+836588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+840767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+841588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+842734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+842788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+845767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+846588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+850767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+851588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+855767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+856588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+860767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+861588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+863694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+865767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+866588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+870767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+871588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+875767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+876588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+880767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+881588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+885767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+886588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+890767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+891588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+895767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+896588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+900767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+901588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+902734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+902788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+905767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+906588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+910767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+911588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+915767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+916588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+920767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+921588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+923694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+925767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+926588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+930767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+931588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+935767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+936588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+940767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+941588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+945767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+946588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+950767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+951588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+955767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+956588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+960767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+961588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+962734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+962788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+965767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+966588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+970767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+971588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+975767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+976588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+980767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+981588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+983694472	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+985767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+986588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+990767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+991588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+995767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+996588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1000767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1001588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1005767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1006588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1010767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1011588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1015767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1016588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1020767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1021588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1022734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1022788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1025767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1026588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1030767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1031588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1035767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1036588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1040767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1041588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1043694227	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1045767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1046588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1050767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1051588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1055767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1056588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1060767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1061588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1065767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1066588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1070767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1071588159	ID:33	RPL: Sending a multicast-DIO with rank 482
+1075767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1076588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1080767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1081588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1082734828	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1082788290	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1085767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1086588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1090767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1091588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1095767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1096588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1100767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1101588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1103694227	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1105767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1106588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1110767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1111588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1115767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1116588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1120767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1121588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1125767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1126588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1130767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1131588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1135767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1136588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1140767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1141588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1142734828	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1142788290	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1145767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1146588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1150767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1151588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1155767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1156588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1160767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1161588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1163694227	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1165767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1166588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1170767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1171588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1175767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1176588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1180767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1181588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1185767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1186588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1190767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1191588153	ID:33	RPL: Sending a multicast-DIO with rank 482
+1195767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1196588152	ID:33	RPL: Sending a multicast-DIO with rank 482
+1200767836	ID:36	RPL: Sending a multicast-DIO with rank 597
+1201588157	ID:33	RPL: Sending a multicast-DIO with rank 482
+1202734833	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1202788774	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1205767841	ID:36	RPL: Sending a multicast-DIO with rank 597
+1206588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1210767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1211588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1215767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1216588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1220767842	ID:36	RPL: Sending a multicast-DIO with rank 597
+1221588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1223694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1225767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1226588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1230767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1231588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1235767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1236588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1240767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1241588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1245767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1246588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1250767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1251588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1255767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1256588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1260767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1261588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1262734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1262788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1265767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1266588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1270767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1271588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1275767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1276588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1280767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1281588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1283694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1285767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1286588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1290767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1291588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1295767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1296588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1300767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1301588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1305767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1306588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1310767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1311588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1315767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1316588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1320767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1321588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1322734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1322788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1325767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1326588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1330767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1331588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1335767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1336588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1340767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1341588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1343694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1345767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1346588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1350767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1351588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1355767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1356588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1360767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1361588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1365767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1366588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1370767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1371588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1375767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1376588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1380767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1381588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1382734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1382788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1385767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1386588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1390767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1391588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1395767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1396588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1400767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1401588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1403694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1405767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1406588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1410767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1411588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1415767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1416588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1420767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1421588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1425767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1426588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1430767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1431588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1435767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1436588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1440767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1441588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1442734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1442788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1445767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1446588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1450767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1451588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1455767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1456588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1460767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1461588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1463694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1465767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1466588158	ID:33	RPL: Sending a multicast-DIO with rank 482
+1470767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1471588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1475767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1476588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1480767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1481588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1485767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1486588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1490767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1491588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1495767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1496588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1500767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1501588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1502734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1502788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1505767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1506588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1510767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1511588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1515767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1516588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1520767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1521588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1523694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1525767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1526588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1530767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1531588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1535767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1536588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1540767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1541588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1545767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1546588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1550767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1551588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1555767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1556588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1560767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1561588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1562734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1562788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1565767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1566588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1570767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1571588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1575767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1576588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1580767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1581588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1583694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1585767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1586588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1590767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1591588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1595767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1596588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1600767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1601588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1605767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1606588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1610767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1611588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1615767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1616588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1620767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1621588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1622734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1622788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1625767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1626588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1630767842	ID:36	RPL: Sending a multicast-DIO with rank 597
+1631588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1635767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1636588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1640767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1641588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1643694226	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1645767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1646588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1650767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1651588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1655767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1656588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1660767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1661588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1665767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1666588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1670767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1671588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1675767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1676588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1680767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1681588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1682734827	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1682788289	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1685767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1686588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1690767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1691588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1695767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1696588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1700767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1701588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1703694588	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1705767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1706588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1710767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1711588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1715767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1716588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1720767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1721588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1725767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1726588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1730767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1731588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1735767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1736588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1740767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1741588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1742735190	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1742788532	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1745767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1746588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1750767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1751588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1755767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1756588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1760767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1761588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1763694588	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1765767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1766588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1770767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1771588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1775767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1776588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1780767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1781588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1785767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1786588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1790767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1791588151	ID:33	RPL: Sending a multicast-DIO with rank 482
+1795767835	ID:36	RPL: Sending a multicast-DIO with rank 597
+1796588151	ID:33	RPL: Sending a multicast-DIO with rank 482

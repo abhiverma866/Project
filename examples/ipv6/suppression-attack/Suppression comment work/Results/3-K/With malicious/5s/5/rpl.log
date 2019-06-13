@@ -1,0 +1,814 @@
+30104760	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+30190249	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+30403713	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+30437935	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+30818640	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+30895213	ID:32	RPL: Received a DIO from fe80::c30c:0:0:3
+30898987	ID:32	RPL: Incoming DIO (id, ver, rank) = (30,240,601)
+30903486	ID:32	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+30905711	ID:32	RPL: DIO option 4, length: 14
+30911619	ID:32	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+30913851	ID:32	RPL: DIO option 8, length: 30
+30916119	ID:32	RPL: Copying prefix information
+30923595	ID:32	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:3, c1:0c:00:00:00:00:00:03
+31233882	ID:35	RPL: Received a DIO from fe80::c30c:0:0:7
+31237654	ID:35	RPL: Incoming DIO (id, ver, rank) = (30,240,601)
+31242153	ID:35	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+31244379	ID:35	RPL: DIO option 4, length: 14
+31250286	ID:35	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+31252518	ID:35	RPL: DIO option 8, length: 30
+31254787	ID:35	RPL: Copying prefix information
+31262159	ID:35	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+35923677	ID:32	RPL: Sending a multicast-DIO with rank 601
+36262629	ID:35	RPL: Sending a multicast-DIO with rank 601
+40923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+41262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+45923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+46262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+50923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+51262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+55923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+56262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+60923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+61262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+61971866	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+65923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+66262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+68182090	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+70923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+71262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+75923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+76262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+80923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+81262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+83209181	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+85923656	ID:32	RPL: Sending a multicast-DIO with rank 601
+86262608	ID:35	RPL: Sending a multicast-DIO with rank 601
+90923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+91262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+95923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+96262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+100923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+101262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+105923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+106262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+110923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+111262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+115923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+116262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+120923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+121262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+121971488	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+125923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+126262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+128182198	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+130923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+131262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+135923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+136262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+140923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+141262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+143209289	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+145923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+146262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+150923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+151262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+155923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+156262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+160923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+161262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+165923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+166262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+170923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+171262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+175923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+176262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+180923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+181262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+181971488	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+185923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+186262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+188182801	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+190923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+191262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+195923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+196262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+200923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+201262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+203209289	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+205923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+206262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+210923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+211262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+215923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+216262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+220923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+221262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+225923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+226262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+230923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+231262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+235923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+236262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+240923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+241262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+241971488	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+245923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+246262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+248182198	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+250923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+251262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+255923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+256262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+260923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+261262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+263209800	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+265923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+266262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+270923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+271262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+275923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+276262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+280923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+281262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+285923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+286262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+290923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+291262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+295923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+296262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+300923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+301262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+301971609	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+305923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+306262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+308182198	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+310923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+311262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+315923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+316262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+320923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+321262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+323209289	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+325923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+326262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+330923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+331262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+335923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+336262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+340923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+341262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+345923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+346262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+350923650	ID:32	RPL: Sending a multicast-DIO with rank 601
+351262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+355923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+356262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+360923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+361262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+361971609	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+365923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+366262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+368182198	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+370923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+371262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+375923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+376262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+380923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+381262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+383209289	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+385923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+386262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+390923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+391262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+395923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+396262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+400923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+401262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+405923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+406262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+410923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+411262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+415923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+416262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+420923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+421262602	ID:35	RPL: Sending a multicast-DIO with rank 601
+421971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+425923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+426262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+428182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+430923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+431262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+435923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+436262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+440923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+441262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+443209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+445923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+446262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+450923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+451262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+455923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+456262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+460923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+461262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+465923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+466262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+470923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+471262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+475923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+476262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+480923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+481262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+481971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+485923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+486262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+488182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+490923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+491262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+495923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+496262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+500923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+501262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+503209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+505923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+506262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+510923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+511262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+515923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+516262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+520923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+521262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+525923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+526262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+530923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+531262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+535923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+536262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+540923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+541262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+541971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+545923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+546262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+548182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+550923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+551262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+555923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+556262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+560923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+561262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+563209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+565923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+566262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+570923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+571262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+575923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+576262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+580923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+581262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+585923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+586262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+590923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+591262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+595923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+596262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+600923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+601262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+601971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+605923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+606262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+608182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+610923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+611262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+615923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+616262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+620923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+621262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+623209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+625923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+626262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+630923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+631262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+635923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+636262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+640923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+641262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+645923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+646262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+650923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+651262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+655923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+656262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+660923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+661262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+661971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+665923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+666262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+668182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+670923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+671262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+675923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+676262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+680923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+681262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+683209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+685923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+686262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+690923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+691262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+695923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+696262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+700923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+701262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+705923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+706262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+710923651	ID:32	RPL: Sending a multicast-DIO with rank 601
+711262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+715923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+716262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+720923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+721262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+721971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+725923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+726262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+728182320	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+730923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+731262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+735923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+736262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+740923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+741262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+743209411	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+745923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+746262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+750923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+751262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+755923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+756262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+760923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+761262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+765923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+766262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+770923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+771262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+775923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+776262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+780923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+781262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+781971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+785923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+786262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+788182943	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+790923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+791262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+795923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+796262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+800923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+801262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+803209411	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+805923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+806262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+810923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+811262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+815923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+816262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+820923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+821262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+825923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+826262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+830923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+831262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+835923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+836262602	ID:35	RPL: Sending a multicast-DIO with rank 601
+840923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+841262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+841971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+845923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+846262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+848182320	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+850923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+851262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+855923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+856262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+860923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+861262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+863209411	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+865923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+866262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+870923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+871262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+875923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+876262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+880923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+881262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+885923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+886262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+890923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+891262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+895923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+896262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+900923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+901262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+901971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+905923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+906262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+908182320	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+910923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+911262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+915923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+916262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+920923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+921262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+923209411	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+925923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+926262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+930923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+931262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+935923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+936262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+940923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+941262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+945923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+946262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+950923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+951262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+955923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+956262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+960923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+961262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+961971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+965923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+966262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+968182320	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+970923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+971262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+975923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+976262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+980923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+981262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+983210034	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+985923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+986262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+990923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+991262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+995923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+996262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1000923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1001262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1005923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1006262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1010923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1011262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1015923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1016262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1020923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1021262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1021971731	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1025923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1026262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1028182321	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1030923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1031262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1035923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1036262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1040923651	ID:32	RPL: Sending a multicast-DIO with rank 601
+1041262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1043209412	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1045923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1046262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1050923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1051262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1055923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1056262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1060923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1061262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1065923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1066262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1070923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1071262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1075923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1076262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1080923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1081262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1081971732	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1085923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1086262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1088182321	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1090923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1091262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1095923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1096262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1100923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1101262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1103209412	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1105923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1106262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1110923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1111262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1115923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1116262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1120923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1121262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1125923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1126262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1130923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1131262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1135923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1136262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1140923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1141262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1141971732	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1145923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1146262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1148182321	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1150923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1151262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1155923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1156262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1160923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1161262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1163209412	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1165923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1166262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1170923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1171262603	ID:35	RPL: Sending a multicast-DIO with rank 601
+1175923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1176262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1180923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1181262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1185923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1186262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1190923645	ID:32	RPL: Sending a multicast-DIO with rank 601
+1191262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1195923644	ID:32	RPL: Sending a multicast-DIO with rank 601
+1196262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1200923649	ID:32	RPL: Sending a multicast-DIO with rank 601
+1201262596	ID:35	RPL: Sending a multicast-DIO with rank 601
+1201971737	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1205923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1206262601	ID:35	RPL: Sending a multicast-DIO with rank 601
+1208182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1210923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1211262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1215923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1216262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1220923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1221262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1223209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1225923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1226262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1230923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1231262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1235923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1236262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1240923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1241262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1245923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1246262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1250923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1251262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1255923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1256262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1260923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1261262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1261971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1265923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1266262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1268182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1270923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1271262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1275923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1276262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1280923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1281262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1283209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1285923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1286262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1290923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1291262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1295923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1296262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1300923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1301262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1305923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1306262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1310923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1311262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1315923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1316262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1320923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1321262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1321972293	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1325923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1326262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1328182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1330923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1331262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1335923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1336262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1340923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1341262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1343209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1345923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1346262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1350923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1351262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1355923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1356262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1360923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1361262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1365923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1366262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1370923650	ID:32	RPL: Sending a multicast-DIO with rank 601
+1371262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1375923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1376262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1380923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1381262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1381971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1385923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1386262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1388182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1390923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1391262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1395923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1396262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1400923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1401262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1403209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1405923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1406262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1410923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1411262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1415923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1416262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1420923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1421262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1425923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1426262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1430923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1431262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1435923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1436262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1440923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1441262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1441971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1445923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1446262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1448182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1450923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1451262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1455923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1456262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1460923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1461262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1463209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1465923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1466262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1470923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1471262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1475923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1476262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1480923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1481262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1485923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1486262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1490923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1491262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1495923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1496262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1500923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1501262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1501971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1505923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1506262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1508182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1510923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1511262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1515923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1516262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1520923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1521262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1523209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1525923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1526262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1530923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1531262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1535923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1536262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1540923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1541262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1545923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1546262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1550923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1551262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1555923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1556262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1560923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1561262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1561971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1565923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1566262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1568182319	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1570923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1571262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1575923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1576262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1580923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1581262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1583209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1585923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1586262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1590923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1591262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1595923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1596262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1600923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1601262602	ID:35	RPL: Sending a multicast-DIO with rank 601
+1605923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1606262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1610923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1611262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1615923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1616262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1620923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1621262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1621971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1625923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1626262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1628182881	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1630923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1631262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1635923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1636262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1640923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1641262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1643209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1645923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1646262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1650923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1651262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1655923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1656262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1660923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1661262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1665923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1666262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1670923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1671262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1675923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1676262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1680923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1681262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1681971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1685923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1686262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1688182673	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1690923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1691262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1695923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1696262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1700923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1701262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1703209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1705923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1706262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1710923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1711262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1715923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1716262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1720923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1721262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1725923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1726262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1730923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1731262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1735923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1736262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1740923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1741262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1741971730	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1745923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1746262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1748182943	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1750923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1751262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1755923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1756262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1760923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1761262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1763209410	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1765923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1766262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1770923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1771262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1775923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1776262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1780923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1781262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1785923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1786262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1790923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1791262595	ID:35	RPL: Sending a multicast-DIO with rank 601
+1795923643	ID:32	RPL: Sending a multicast-DIO with rank 601
+1796262595	ID:35	RPL: Sending a multicast-DIO with rank 601

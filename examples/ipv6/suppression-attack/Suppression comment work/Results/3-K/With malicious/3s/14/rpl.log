@@ -1,0 +1,718 @@
+30148649	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+30204049	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+30401520	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+30495474	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+30765967	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+32812989	ID:33	RPL: Received a DIO from fe80::c30c:0:0:2
+32816760	ID:33	RPL: Incoming DIO (id, ver, rank) = (30,240,636)
+32821297	ID:33	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+32823523	ID:33	RPL: DIO option 4, length: 14
+32829435	ID:33	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+32831661	ID:33	RPL: DIO option 8, length: 30
+32833930	ID:33	RPL: Copying prefix information
+32841543	ID:33	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+35847599	ID:33	RPL: Sending a multicast-DIO with rank 636
+38847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+41847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+44847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+47847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+50847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+53847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+56847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+59847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+61984040	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+62181390	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+62275344	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+62847556	ID:33	RPL: Sending a multicast-DIO with rank 636
+65847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+68847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+71847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+74847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+77847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+80847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+83535830	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+83847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+86847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+89847555	ID:33	RPL: Sending a multicast-DIO with rank 636
+92847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+95847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+98847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+101847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+104847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+107847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+110847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+113847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+116847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+119847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+121984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+122181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+122275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+122847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+125847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+128847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+131847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+134847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+137847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+140847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+143535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+143847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+146847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+149847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+152847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+155847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+158847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+161847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+164847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+167847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+170847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+173847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+176847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+179847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+181984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+182181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+182275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+182847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+185847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+188847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+191847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+194847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+197847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+200847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+203535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+203847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+206847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+209847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+212847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+215847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+218847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+221847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+224847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+227847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+230847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+233847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+236847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+239847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+241984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+242181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+242275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+242847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+245847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+248847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+251847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+254847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+257847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+260847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+263535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+263847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+266847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+269847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+272847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+275847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+278847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+281847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+284847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+287847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+290847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+293847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+296847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+299847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+301984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+302181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+302275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+302847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+305847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+308847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+311847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+314847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+317847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+320847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+323535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+323847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+326847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+329847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+332847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+335847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+338847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+341847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+344847550	ID:33	RPL: Sending a multicast-DIO with rank 636
+347847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+350847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+353847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+356847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+359847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+361984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+362181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+362275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+362847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+365847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+368847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+371847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+374847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+377847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+380847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+383535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+383847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+386847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+389847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+392847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+395847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+398847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+401847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+404847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+407847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+410847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+413847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+416847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+419847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+421984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+422181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+422275814	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+422847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+425847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+428847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+431847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+434847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+437847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+440847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+443536054	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+443847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+446847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+449847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+452847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+455847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+458847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+461847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+464847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+467847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+470847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+473847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+476847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+479847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+481984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+482181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+482275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+482847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+485847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+488847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+491847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+494847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+497847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+500847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+503535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+503847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+506847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+509847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+512847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+515847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+518847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+521847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+524847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+527847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+530847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+533847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+536847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+539847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+541984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+542181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+542275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+542847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+545847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+548847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+551847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+554847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+557847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+560847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+563535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+563847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+566847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+569847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+572847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+575847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+578847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+581847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+584847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+587847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+590847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+593847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+596847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+599847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+601984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+602181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+602275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+602847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+605847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+608847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+611847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+614847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+617847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+620847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+623535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+623847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+626847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+629847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+632847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+635847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+638847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+641847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+644847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+647847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+650847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+653847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+656847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+659847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+661984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+662181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+662275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+662847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+665847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+668847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+671847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+674847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+677847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+680847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+683535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+683847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+686847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+689847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+692847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+695847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+698847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+701847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+704847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+707847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+710847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+713847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+716847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+719847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+721984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+722181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+722275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+722847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+725847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+728847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+731847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+734847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+737847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+740847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+743535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+743847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+746847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+749847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+752847550	ID:33	RPL: Sending a multicast-DIO with rank 636
+755847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+758847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+761847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+764847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+767847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+770847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+773847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+776847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+779847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+781984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+782181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+782275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+782847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+785847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+788847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+791847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+794847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+797847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+800847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+803535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+803847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+806847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+809847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+812847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+815847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+818847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+821847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+824847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+827847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+830847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+833847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+836847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+839847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+841984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+842181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+842275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+842847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+845847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+848847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+851847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+854847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+857847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+860847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+863535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+863847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+866847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+869847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+872847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+875847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+878847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+881847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+884847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+887847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+890847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+893847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+896847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+899847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+901984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+902181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+902275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+902847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+905847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+908847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+911847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+914847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+917847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+920847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+923535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+923847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+926847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+929847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+932847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+935847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+938847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+941847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+944847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+947847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+950847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+953847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+956847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+959847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+961984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+962181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+962275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+962847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+965847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+968847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+971847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+974847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+977847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+980847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+983536300	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+983847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+986847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+989847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+992847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+995847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+998847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1001847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1004847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1007847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1010847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1013847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1016847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1019847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1021984028	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1022181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1022275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1022847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1025847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1028847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1031847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1034847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1037847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1040847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1043536389	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1043847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1046847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1049847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1052847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1055847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1058847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1061847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1064847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1067847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1070847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1073847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1076847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1079847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1081984028	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1082181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1082275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1082847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1085847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1088847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1091847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1094847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1097847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1100847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1103535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1103847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1106847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1109847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1112847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1115847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1118847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1121847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1124847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1127847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1130847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1133847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1136847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1139847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1141984028	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1142181378	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1142275332	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1142847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1145847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1148847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1151847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1154847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1157847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1160847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1163535818	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1163847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1166847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1169847551	ID:33	RPL: Sending a multicast-DIO with rank 636
+1172847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1175847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1178847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1181847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1184847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1187847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1190847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1193847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1196847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1199847544	ID:33	RPL: Sending a multicast-DIO with rank 636
+1201984034	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1202181384	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1202275338	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1202847549	ID:33	RPL: Sending a multicast-DIO with rank 636
+1205847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1208847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1211847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1214847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1217847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1220847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1223535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1223847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1226847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1229847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1232847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1235847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1238847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1241847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1244847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1247847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1250847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1253847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1256847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1259847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1261984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1262181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1262275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1262847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1265847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1268847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1271847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1274847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1277847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1280847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1283535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1283847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1286847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1289847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1292847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1295847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1298847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1301847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1304847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1307847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1310847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1313847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1316847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1319847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1321984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1322181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1322275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1322847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1325847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1328847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1331847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1334847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1337847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1340847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1343535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1343847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1346847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1349847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1352847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1355847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1358847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1361847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1364847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1367847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1370847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1373847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1376847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1379847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1381984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1382181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1382275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1382847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1385847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1388847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1391847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1394847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1397847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1400847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1403535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1403847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1406847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1409847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1412847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1415847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1418847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1421847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1424847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1427847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1430847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1433847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1436847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1439847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1441984577	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1442181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1442275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1442847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1445847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1448847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1451847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1454847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1457847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1460847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1463535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1463847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1466847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1469847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1472847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1475847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1478847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1481847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1484847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1487847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1490847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1493847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1496847550	ID:33	RPL: Sending a multicast-DIO with rank 636
+1499847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1501984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1502181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1502275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1502847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1505847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1508847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1511847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1514847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1517847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1520847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1523535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1523847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1526847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1529847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1532847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1535847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1538847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1541847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1544847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1547847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1550847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1553847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1556847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1559847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1561984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1562181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1562275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1562847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1565847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1568847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1571847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1574847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1577847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1580847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1583535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1583847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1586847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1589847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1592847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1595847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1598847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1601847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1604847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1607847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1610847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1613847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1616847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1619847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1621984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1622181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1622275814	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1622847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1625847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1628847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1631847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1634847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1637847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1640847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1643536388	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1643847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1646847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1649847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1652847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1655847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1658847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1661847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1664847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1667847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1670847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1673847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1676847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1679847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1681984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1682181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1682275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1682847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1685847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1688847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1691847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1694847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1697847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1700847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1703535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1703847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1706847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1709847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1712847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1715847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1718847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1721847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1724847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1727847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1730847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1733847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1736847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1739847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1741984027	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1742181377	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1742275331	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1742847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1745847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1748847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1751847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1754847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1757847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1760847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1763535817	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1763847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1766847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1769847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1772847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1775847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1778847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1781847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1784847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1787847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1790847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1793847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1796847543	ID:33	RPL: Sending a multicast-DIO with rank 636
+1799847543	ID:33	RPL: Sending a multicast-DIO with rank 636

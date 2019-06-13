@@ -1,0 +1,896 @@
+30226810	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+30428412	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+30546046	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+30797986	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+30904980	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+32840251	ID:35	RPL: Received a DIO from fe80::c30c:0:0:7
+32844020	ID:35	RPL: Incoming DIO (id, ver, rank) = (30,240,545)
+32848522	ID:35	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+32850748	ID:35	RPL: DIO option 4, length: 14
+32856655	ID:35	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+32858881	ID:35	RPL: DIO option 8, length: 30
+32861150	ID:35	RPL: Copying prefix information
+32868763	ID:35	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:7, c1:0c:00:00:00:00:00:07
+35874739	ID:35	RPL: Sending a multicast-DIO with rank 545
+38874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+41874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+44874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+47874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+50874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+53874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+56874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+59874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+62007891	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+62209493	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+62874696	ID:35	RPL: Sending a multicast-DIO with rank 545
+65874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+68323938	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+68874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+71874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+74874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+77874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+80874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+83675863	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+83874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+86874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+89874695	ID:35	RPL: Sending a multicast-DIO with rank 545
+92874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+95874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+98874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+101874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+104874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+107874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+110874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+113874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+116874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+119874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+122007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+122209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+122874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+125874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+128323925	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+128874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+131874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+134874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+137874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+140874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+143675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+143874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+146874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+149874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+152874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+155874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+158874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+161874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+164874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+167874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+170874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+173874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+176874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+179874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+182007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+182209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+182874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+185874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+188323925	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+188874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+191874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+194874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+197874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+200874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+203675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+203874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+206874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+209874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+212874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+215874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+218874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+221874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+224874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+227874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+230874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+233874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+236874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+239874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+242007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+242209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+242874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+245874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+248323925	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+248874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+251874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+254874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+257874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+260874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+263675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+263874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+266874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+269874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+272874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+275874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+278874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+281874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+284874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+287874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+290874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+293874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+296874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+299874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+302007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+302209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+302874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+305874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+308324361	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+308874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+311874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+314874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+317874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+320874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+323675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+323874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+326874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+329874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+332874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+335874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+338874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+341874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+344874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+347874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+350874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+353874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+356874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+359874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+362007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+362209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+362874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+365874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+368323925	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+368874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+371874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+374874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+377874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+380874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+383675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+383874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+386874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+389874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+392874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+395874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+398874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+401874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+404874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+407874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+410874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+413874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+416874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+419874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+422007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+422209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+422874690	ID:35	RPL: Sending a multicast-DIO with rank 545
+425874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+428323925	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+428874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+431874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+434874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+437874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+440874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+443676306	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+443874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+446874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+449874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+452874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+455874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+458874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+461874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+464874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+467874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+470874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+473874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+476874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+479874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+482007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+482209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+482874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+485874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+488323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+488874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+491874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+494874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+497874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+500874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+503675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+503874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+506874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+509874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+512874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+515874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+518874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+521874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+524874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+527874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+530874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+533874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+536874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+539874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+542007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+542209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+542874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+545874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+548323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+548874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+551874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+554874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+557874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+560874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+563675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+563874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+566874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+569874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+572874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+575874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+578874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+581874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+584874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+587874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+590874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+593874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+596874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+599874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+602007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+602209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+602874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+605874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+608323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+608874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+611874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+614874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+617874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+620874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+623675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+623874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+626874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+629874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+632874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+635874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+638874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+641874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+644874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+647874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+650874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+653874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+656874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+659874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+662007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+662209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+662874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+665874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+668323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+668874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+671874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+674874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+677874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+680874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+683676306	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+683874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+686874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+689874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+692874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+695874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+698874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+701874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+704874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+707874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+710874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+713874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+716874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+719874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+722007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+722209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+722874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+725874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+728323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+728874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+731874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+734874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+737874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+740874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+743675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+743874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+746874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+749874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+752874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+755874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+758874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+761874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+764874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+767874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+770874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+773874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+776874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+779874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+782007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+782209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+782874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+785874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+788323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+788874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+791874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+794874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+797874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+800874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+803675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+803874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+806874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+809874690	ID:35	RPL: Sending a multicast-DIO with rank 545
+812874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+815874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+818874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+821874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+824874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+827874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+830874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+833874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+836874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+839874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+842007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+842209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+842874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+845874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+848323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+848874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+851874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+854874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+857874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+860874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+863675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+863874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+866874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+869874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+872874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+875874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+878874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+881874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+884874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+887874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+890874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+893874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+896874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+899874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+902007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+902209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+902874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+905874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+908323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+908874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+911874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+914874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+917874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+920874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+923675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+923874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+926874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+929874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+932874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+935874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+938874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+941874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+944874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+947874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+950874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+953874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+956874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+959874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+962007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+962209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+962874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+965874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+968323926	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+968874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+971874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+974874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+977874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+980874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+983675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+983874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+986874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+989874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+992874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+995874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+998874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1001874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1004874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1007874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1010874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1013874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1016874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1019874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1022007878	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1022209480	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1022874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1025874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1028323927	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1028874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1031874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1034874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1037874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1040874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1043675851	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1043874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1046874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1049874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1052874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1055874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1058874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1061874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1064874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1067874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1070874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1073874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1076874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1079874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1082007879	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1082209481	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1082874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1085874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1088324526	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1088874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1091874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1094874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1097874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1100874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1103675851	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1103874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1106874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1109874691	ID:35	RPL: Sending a multicast-DIO with rank 545
+1112874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1115874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1118874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1121874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1124874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1127874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1130874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1133874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1136874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1139874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1142007879	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1142209481	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1142874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1145874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1148323927	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1148874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1151874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1154874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1157874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1160874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1163676387	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1163874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1166874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1169874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1172874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1175874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1178874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1181874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1184874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1187874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1190874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1193874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1196874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1199874684	ID:35	RPL: Sending a multicast-DIO with rank 545
+1202008354	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1202209486	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1202874689	ID:35	RPL: Sending a multicast-DIO with rank 545
+1205874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1208324361	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1208874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1211874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1214874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1217874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1220874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1223675850	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1223874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1226874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1229874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1232874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1235874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1238874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1241874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1244874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1247874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1250874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1253874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1256874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1259874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1260471241	ID:36	RPL: Received a DIO from fe80::c30c:0:0:8
+1260475010	ID:36	RPL: Incoming DIO (id, ver, rank) = (30,240,405)
+1260479544	ID:36	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+1260481770	ID:36	RPL: DIO option 4, length: 14
+1260487680	ID:36	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+1260489906	ID:36	RPL: DIO option 8, length: 30
+1260492174	ID:36	RPL: Copying prefix information
+1260501544	ID:36	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:8, c1:0c:00:00:00:00:00:08
+1262007998	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1262874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1263505220	ID:36	RPL: Sending a multicast-DIO with rank 405
+1265874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1266505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1268324169	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1268874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1269505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1271874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1272505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1274874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1275505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1277874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1278505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1280874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1281505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1283676092	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1283874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1284505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1286874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1287505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1289874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1290505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1292874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1293505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1295874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1296505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1298874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1299505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1301874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1302505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1304874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1305505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1307874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1308505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1310874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1311505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1313874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1314505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1316874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1317505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1319874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1320505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1322008119	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1322874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1323505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1325874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1326505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1328324289	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1328874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1329505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1331874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1332505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1334874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1335505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1337874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1338505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1340874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1341505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1343676455	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1343874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1344505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1346874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1347505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1349874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1350505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1352874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1353505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1355874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1356505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1358874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1359505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1361874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1362505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1364874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1365505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1367874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1368505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1370874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1371505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1373874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1374505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1376874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1377505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1379874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1380505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1382008240	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1382874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1383505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1385874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1386505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1388324410	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1388874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1389505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1391874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1392505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1394874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1395505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1397874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1398505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1400874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1401505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1403676455	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1403874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1404505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1406874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1407505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1409874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1410505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1412874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1413505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1415874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1416505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1418874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1419505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1421874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1422505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1424874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1425505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1427874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1428505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1430874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1431505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1433874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1434505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1436874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1437505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1439874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1440505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1442008710	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1442874690	ID:35	RPL: Sending a multicast-DIO with rank 545
+1443505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1445874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1446505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1448324410	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1448874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1449505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1451874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1452505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1454874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1455505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1457874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1458505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1460874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1461505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1463676455	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1463874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1464505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1466874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1467505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1469874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1470505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1472874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1473505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1475874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1476505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1478874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1479505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1481874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1482505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1484874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1485505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1487874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1488505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1490874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1491505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1493874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1494505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1496874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1497505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1499874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1500505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1502008361	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1502874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1503505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1505874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1506505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1508324531	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1508874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1509505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1511874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1512505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1514874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1515505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1517874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1518505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1520874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1521505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1523676576	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1523874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1524505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1526874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1527505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1529874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1530505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1532874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1533505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1535874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1536505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1538874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1539505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1541874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1542505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1544874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1545505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1547874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1548505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1550874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1551505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1553874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1554505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1556874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1557505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1559874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1560505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1562008361	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1562874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1563505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1565874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1566505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1568324531	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1568874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1569505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1571874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1572505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1574874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1575505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1577874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1578505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1580874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1581505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1583676576	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1583874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1584505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1586874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1587505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1589874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1590505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1592874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1593505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1595874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1596505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1598874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1599505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1601874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1602505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1604874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1605505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1607874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1608505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1610874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1611505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1613874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1614505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1616874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1617505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1619874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1620505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1622008361	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1622874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1623505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1625874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1626505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1628324652	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1628874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1629505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1631874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1632505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1634874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1635505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1637874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1638505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1640874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1641505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1643676698	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1643874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1644505184	ID:36	RPL: Sending a multicast-DIO with rank 405
+1646874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1647505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1649874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1650505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1652874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1653505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1655874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1656505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1658874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1659505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1661874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1662505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1664874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1665505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1667874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1668505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1670874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1671505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1673874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1674505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1676874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1677505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1679874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1680505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1682008482	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1682874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1683505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1685874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1686505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1688325181	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1688874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1689505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1691874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1692505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1694874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1695505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1697874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1698505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1700874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1701505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1703676698	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1703874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1704505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1706874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1707505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1709874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1710505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1712874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1713505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1715874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1716505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1718874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1719505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1721874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1722505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1724874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1725505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1727874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1728505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1730874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1731505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1733874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1734505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1736874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1737505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1739874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1740505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1742008482	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1742874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1743505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1745874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1746505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1748324652	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+1748874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1749505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1751874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1752505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1754874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1755505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1757874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1758505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1760874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1761505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1763676698	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+1763874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1764505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1766874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1767505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1769874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1770505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1772874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1773505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1775874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1776505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1778874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1779505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1781874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1782505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1784874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1785505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1787874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1788505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1790874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1791505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1793874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1794505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1796874683	ID:35	RPL: Sending a multicast-DIO with rank 545
+1797505177	ID:36	RPL: Sending a multicast-DIO with rank 405
+1799874683	ID:35	RPL: Sending a multicast-DIO with rank 545
