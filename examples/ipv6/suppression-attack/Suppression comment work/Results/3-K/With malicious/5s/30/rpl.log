@@ -1,0 +1,809 @@
+30266869	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+30359942	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+30378955	ID:33	RPL: Sending a DIS to fe80::c30c:0:0:2
+30486783	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+30875199	ID:34	RPL: Sending a DIS to fe80::c30c:0:0:6
+32539968	ID:33	RPL: Received a DIO from fe80::c30c:0:0:2
+32543743	ID:33	RPL: Incoming DIO (id, ver, rank) = (30,240,601)
+32548241	ID:33	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+32550505	ID:33	RPL: DIO option 4, length: 14
+32556413	ID:33	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+32558657	ID:33	RPL: DIO option 8, length: 30
+32560926	ID:33	RPL: Copying prefix information
+32568304	ID:33	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:2, c1:0c:00:00:00:00:00:02
+37570069	ID:33	RPL: Sending a multicast-DIO with rank 601
+42570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+47570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+52570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+57570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+59157440	ID:34	RPL: Received a DIO from fe80::c30c:0:0:6
+59161210	ID:34	RPL: Incoming DIO (id, ver, rank) = (30,240,314)
+59165718	ID:34	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+59167944	ID:34	RPL: DIO option 4, length: 14
+59173854	ID:34	RPL: DAG conf:dbl=8, min=12 red=3 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+59176080	ID:34	RPL: DIO option 8, length: 30
+59178349	ID:34	RPL: Copying prefix information
+59186242	ID:34	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:6, c1:0c:00:00:00:00:00:06
+62047157	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+62140053	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+62266703	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+62570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+64191924	ID:34	RPL: Sending a multicast-DIO with rank 314
+67570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+69191903	ID:34	RPL: Sending a multicast-DIO with rank 314
+72570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+74191903	ID:34	RPL: Sending a multicast-DIO with rank 314
+77570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+79191903	ID:34	RPL: Sending a multicast-DIO with rank 314
+82570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+84191903	ID:34	RPL: Sending a multicast-DIO with rank 314
+87570048	ID:33	RPL: Sending a multicast-DIO with rank 601
+89191903	ID:34	RPL: Sending a multicast-DIO with rank 314
+92570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+94191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+97570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+99191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+102570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+104191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+107570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+109191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+112570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+114191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+117570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+119191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+122047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+122140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+122266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+122570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+124191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+127570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+129191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+132570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+134191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+137570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+139191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+142570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+144191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+147570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+149191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+152570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+154191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+157570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+159191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+162570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+164191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+167570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+169191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+172570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+174191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+177570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+179191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+182047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+182140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+182266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+182570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+184191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+187570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+189191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+192570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+194191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+197570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+199191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+202570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+204191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+207570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+209191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+212570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+214191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+217570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+219191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+222570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+224191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+227570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+229191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+232570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+234191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+237570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+239191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+242047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+242140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+242266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+242570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+244191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+247570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+249191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+252570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+254191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+257570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+259191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+262570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+264191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+267570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+269191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+272570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+274191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+277570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+279191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+282570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+284191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+287570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+289191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+292570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+294191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+297570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+299191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+302047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+302140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+302266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+302570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+304191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+307570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+309191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+312570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+314191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+317570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+319191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+322570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+324191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+327570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+329191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+332570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+334191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+337570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+339191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+342570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+344191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+347570042	ID:33	RPL: Sending a multicast-DIO with rank 601
+349191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+352570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+354191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+357570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+359191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+362047524	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+362140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+362266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+362570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+364191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+367570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+369191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+372570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+374191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+377570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+379191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+382570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+384191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+387570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+389191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+392570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+394191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+397570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+399191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+402570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+404191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+407570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+409191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+412570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+414191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+417570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+419191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+422047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+422140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+422266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+422570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+424191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+427570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+429191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+432570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+434191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+437570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+439191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+442570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+444191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+447570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+449191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+452570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+454191897	ID:34	RPL: Sending a multicast-DIO with rank 314
+457570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+459191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+462570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+464191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+467570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+469191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+472570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+474191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+477570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+479191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+482047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+482140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+482266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+482570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+484191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+487570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+489191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+492570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+494191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+497570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+499191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+502570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+504191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+507570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+509191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+512570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+514191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+517570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+519191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+522570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+524191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+527570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+529191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+532570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+534191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+537570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+539191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+542047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+542140808	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+542266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+542570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+544191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+547570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+549191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+552570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+554191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+557570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+559191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+562570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+564191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+567570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+569191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+572570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+574191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+577570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+579191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+582570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+584191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+587570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+589191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+592570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+594191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+597570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+599191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+602047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+602140593	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+602266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+602570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+604191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+607570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+609191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+612570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+614191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+617570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+619191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+622570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+624191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+627570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+629191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+632570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+634191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+637570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+639191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+642570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+644191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+647570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+649191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+652570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+654191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+657570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+659191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+662047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+662140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+662266811	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+662570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+664191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+667570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+669191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+672570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+674191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+677570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+679191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+682570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+684191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+687570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+689191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+692570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+694191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+697570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+699191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+702570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+704191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+707570042	ID:33	RPL: Sending a multicast-DIO with rank 601
+709191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+712570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+714191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+717570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+719191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+722047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+722140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+722266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+722570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+724191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+727570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+729191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+732570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+734191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+737570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+739191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+742570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+744191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+747570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+749191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+752570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+754191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+757570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+759191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+762570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+764191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+767570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+769191897	ID:34	RPL: Sending a multicast-DIO with rank 314
+772570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+774191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+777570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+779191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+782047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+782140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+782266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+782570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+784191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+787570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+789191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+792570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+794191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+797570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+799191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+802570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+804191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+807570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+809191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+812570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+814191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+817570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+819191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+822570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+824191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+827570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+829191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+832570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+834191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+837570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+839191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+842047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+842140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+842266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+842570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+844191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+847570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+849191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+852570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+854191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+857570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+859191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+862570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+864191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+867570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+869191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+872570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+874191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+877570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+879191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+882570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+884191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+887570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+889191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+892570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+894191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+897570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+899191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+902047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+902140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+902266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+902570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+904191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+907570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+909191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+912570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+914191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+917570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+919191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+922570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+924191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+927570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+929191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+932570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+934191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+937570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+939191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+942570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+944191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+947570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+949191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+952570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+954191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+957570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+959191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+962047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+962140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+962266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+962570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+964191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+967570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+969191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+972570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+974191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+977570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+979191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+982570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+984191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+987570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+989191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+992570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+994191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+997570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+999191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1002570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1004191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1007570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1009191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1012570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1014191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1017570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1019191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1022047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1022140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1022266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1022570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1024191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1027570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1029191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1032570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1034191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1037570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1039191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1042570043	ID:33	RPL: Sending a multicast-DIO with rank 601
+1044191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1047570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1049191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1052570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1054191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1057570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1059191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1062570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1064191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1067570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1069191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1072570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1074191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1077570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1079191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1082047019	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1082140162	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1082266813	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1082570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1084191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1087570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1089191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1092570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1094191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1097570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1099191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1102570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1104191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1107570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1109191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1112570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1114191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1117570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1119191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1122570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1124191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1127570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1129191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1132570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1134191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1137570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1139191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1142047019	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1142140162	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1142266813	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1142570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1144191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1147570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1149191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1152570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1154191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1157570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1159191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1162570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1164191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1167570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1169191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1172570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1174191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1177570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1179191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1182570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1184191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1187570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1189191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1192570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1194191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1197570036	ID:33	RPL: Sending a multicast-DIO with rank 601
+1199191891	ID:34	RPL: Sending a multicast-DIO with rank 314
+1202047024	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1202140167	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1202266818	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1202570041	ID:33	RPL: Sending a multicast-DIO with rank 601
+1204191896	ID:34	RPL: Sending a multicast-DIO with rank 314
+1207570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1209191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1212570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1214191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1217570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1219191897	ID:34	RPL: Sending a multicast-DIO with rank 314
+1222570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1224191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1227570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1229191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1232570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1234191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1237570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1239191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1242570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1244191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1247570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1249191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1252570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1254191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1257570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1259191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1262047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1262140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1262266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1262570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1264191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1267570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1269191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1272570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1274191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1277570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1279191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1282570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1284191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1287570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1289191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1292570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1294191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1297570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1299191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1302570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1304191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1307570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1309191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1312570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1314191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1317570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1319191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1322047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1322140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1322266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1322570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1324191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1327570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1329191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1332570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1334191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1337570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1339191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1342570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1344191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1347570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1349191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1352570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1354191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1357570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1359191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1362570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1364191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1367570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1369191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1372570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1374191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1377570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1379191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1382047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1382140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1382266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1382570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1384191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1387570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1389191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1392570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1394191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1397570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1399191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1402570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1404191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1407570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1409191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1412570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1414191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1417570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1419191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1422570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1424191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1427570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1429191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1432570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1434191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1437570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1439191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1442047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1442140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1442266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1442570042	ID:33	RPL: Sending a multicast-DIO with rank 601
+1444191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1447570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1449191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1452570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1454191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1457570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1459191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1462570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1464191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1467570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1469191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1472570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1474191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1477570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1479191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1482570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1484191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1487570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1489191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1492570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1494191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1497570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1499191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1502047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1502140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1502266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1502570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1504191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1507570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1509191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1512570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1514191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1517570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1519191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1522570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1524191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1527570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1529191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1532570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1534191897	ID:34	RPL: Sending a multicast-DIO with rank 314
+1537570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1539191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1542570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1544191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1547570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1549191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1552570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1554191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1557570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1559191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1562047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1562140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1562266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1562570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1564191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1567570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1569191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1572570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1574191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1577570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1579191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1582570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1584191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1587570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1589191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1592570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1594191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1597570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1599191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1602570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1604191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1607570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1609191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1612570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1614191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1617570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1619191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1622047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1622140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1622266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1622570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1624191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1627570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1629191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1632570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1634191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1637570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1639191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1642570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1644191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1647570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1649191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1652570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1654191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1657570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1659191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1662570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1664191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1667570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1669191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1672570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1674191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1677570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1679191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1682047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1682140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1682266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1682570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1684191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1687570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1689191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1692570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1694191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1697570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1699191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1702570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1704191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1707570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1709191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1712570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1714191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1717570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1719191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1722570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1724191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1727570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1729191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1732570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1734191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1737570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1739191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1742047018	ID:36	RPL: Sending a DIS to fe80::c30c:0:0:8
+1742140161	ID:32	RPL: Sending a DIS to fe80::c30c:0:0:3
+1742266812	ID:35	RPL: Sending a DIS to fe80::c30c:0:0:7
+1742570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1744191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1747570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1749191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1752570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1754191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1757570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1759191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1762570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1764191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1767570042	ID:33	RPL: Sending a multicast-DIO with rank 601
+1769191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1772570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1774191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1777570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1779191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1782570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1784191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1787570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1789191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1792570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1794191890	ID:34	RPL: Sending a multicast-DIO with rank 314
+1797570035	ID:33	RPL: Sending a multicast-DIO with rank 601
+1799191890	ID:34	RPL: Sending a multicast-DIO with rank 314
