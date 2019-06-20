@@ -1,0 +1,992 @@
+879717	ID:27	Rime started with address 193.12.0.0.0.0.0.27
+888293	ID:27	MAC c1:0c:00:00:00:00:00:1b Contiki-3.x-3377-gb06de690d started. Node id is set to 27.
+893879	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+901898	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001b
+904041	ID:27	Starting 'UDP client process'
+907468	ID:27	UDP client process started nbr:10 routes:0
+910229	ID:30	Rime started with address 193.12.0.0.0.0.0.30
+910908	ID:27	Client IPv6 addresses: fd00::c30c:0:0:1b
+912705	ID:27	fe80::c30c:0:0:1b
+917848	ID:27	Created a connection with the server :: local/remote port 8765/5678
+918809	ID:30	MAC c1:0c:00:00:00:00:00:1e Contiki-3.x-3377-gb06de690d started. Node id is set to 30.
+924430	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+932449	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001e
+934592	ID:30	Starting 'UDP client process'
+938037	ID:30	UDP client process started nbr:10 routes:0
+941478	ID:30	Client IPv6 addresses: fd00::c30c:0:0:1e
+943275	ID:30	fe80::c30c:0:0:1e
+948417	ID:30	Created a connection with the server :: local/remote port 8765/5678
+998164	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1006740	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3377-gb06de690d started. Node id is set to 20.
+1012325	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1020343	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1022486	ID:20	Starting 'UDP client process'
+1025914	ID:20	UDP client process started nbr:10 routes:0
+1029353	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
+1030472	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1030968	ID:36	Rime started with address 193.12.0.0.0.0.0.36
+1031149	ID:20	fe80::c30c:0:0:14
+1033661	ID:23	Rime started with address 193.12.0.0.0.0.0.23
+1036292	ID:20	Created a connection with the server :: local/remote port 8765/5678
+1039048	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3377-gb06de690d started. Node id is set to 19.
+1039545	ID:36	MAC c1:0c:00:00:00:00:00:24 Contiki-3.x-3369-ge5c0ef5af started. Node id is set to 36.
+1042237	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3377-gb06de690d started. Node id is set to 23.
+1044633	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1045130	ID:36	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1047822	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1052651	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1053149	ID:36	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0024
+1054794	ID:19	Starting 'UDP client process'
+1055840	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
+1056219	ID:36	Starting 'Malicious sensor client process'
+1057983	ID:23	Starting 'UDP client process'
+1058222	ID:19	UDP client process started nbr:10 routes:0
+1061411	ID:23	UDP client process started nbr:10 routes:0
+1061661	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
+1063457	ID:19	fe80::c30c:0:0:13
+1064850	ID:23	Client IPv6 addresses: fd00::c30c:0:0:17
+1066646	ID:23	fe80::c30c:0:0:17
+1068600	ID:19	Created a connection with the server :: local/remote port 8765/5678
+1071789	ID:23	Created a connection with the server :: local/remote port 8765/5678
+1124111	ID:32	Rime started with address 193.12.0.0.0.0.0.32
+1131719	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1132688	ID:32	MAC c1:0c:00:00:00:00:00:20 Contiki-3.x-3369-ge5c0ef5af started. Node id is set to 32.
+1138273	ID:32	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1140127	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3377-gb06de690d started. Node id is set to 2.
+1140250	ID:33	Rime started with address 193.12.0.0.0.0.0.33
+1145748	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1146292	ID:32	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0020
+1148827	ID:33	MAC c1:0c:00:00:00:00:00:21 Contiki-3.x-3369-ge5c0ef5af started. Node id is set to 33.
+1149362	ID:32	Starting 'Malicious sensor client process'
+1153722	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1154412	ID:33	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1155865	ID:2	Starting 'UDP client process'
+1159292	ID:2	UDP client process started nbr:10 routes:0
+1162431	ID:33	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0021
+1162620	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1164304	ID:2	fe80::c30c:0:0:2
+1165501	ID:33	Starting 'Malicious sensor client process'
+1169446	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1184545	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1192953	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3377-gb06de690d started. Node id is set to 8.
+1198574	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1206548	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1208691	ID:8	Starting 'UDP client process'
+1212118	ID:8	UDP client process started nbr:10 routes:0
+1215446	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+1217130	ID:8	fe80::c30c:0:0:8
+1222272	ID:8	Created a connection with the server :: local/remote port 8765/5678
+1231303	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1239879	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3377-gb06de690d started. Node id is set to 21.
+1245464	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1250882	ID:35	Rime started with address 193.12.0.0.0.0.0.35
+1252025	ID:28	Rime started with address 193.12.0.0.0.0.0.28
+1253482	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1255625	ID:21	Starting 'UDP client process'
+1259053	ID:21	UDP client process started nbr:10 routes:0
+1259459	ID:35	MAC c1:0c:00:00:00:00:00:23 Contiki-3.x-3369-ge5c0ef5af started. Node id is set to 35.
+1260601	ID:28	MAC c1:0c:00:00:00:00:00:1c Contiki-3.x-3377-gb06de690d started. Node id is set to 28.
+1262492	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
+1264288	ID:21	fe80::c30c:0:0:15
+1265044	ID:35	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1266187	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1269079	ID:24	Rime started with address 193.12.0.0.0.0.0.24
+1269431	ID:21	Created a connection with the server :: local/remote port 8765/5678
+1272598	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+1273063	ID:35	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0023
+1274206	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001c
+1276133	ID:35	Starting 'Malicious sensor client process'
+1276349	ID:28	Starting 'UDP client process'
+1277655	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3377-gb06de690d started. Node id is set to 24.
+1279776	ID:28	UDP client process started nbr:10 routes:0
+1281130	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3377-gb06de690d started. Node id is set to 11.
+1283216	ID:28	Client IPv6 addresses: fd00::c30c:0:0:1c
+1283240	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1285013	ID:28	fe80::c30c:0:0:1c
+1286728	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1290156	ID:28	Created a connection with the server :: local/remote port 8765/5678
+1291258	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
+1291600	ID:22	Rime started with address 193.12.0.0.0.0.0.22
+1293401	ID:24	Starting 'UDP client process'
+1294703	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1296829	ID:24	UDP client process started nbr:10 routes:0
+1296846	ID:11	Starting 'UDP client process'
+1300176	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3377-gb06de690d started. Node id is set to 22.
+1300268	ID:24	Client IPv6 addresses: fd00::c30c:0:0:18
+1300274	ID:11	UDP client process started nbr:10 routes:0
+1302064	ID:24	fe80::c30c:0:0:18
+1303601	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1305286	ID:11	fe80::c30c:0:0:b
+1305761	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1307207	ID:24	Created a connection with the server :: local/remote port 8765/5678
+1310429	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1313779	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
+1315922	ID:22	Starting 'UDP client process'
+1319350	ID:22	UDP client process started nbr:10 routes:0
+1322789	ID:22	Client IPv6 addresses: fd00::c30c:0:0:16
+1324585	ID:22	fe80::c30c:0:0:16
+1329728	ID:22	Created a connection with the server :: local/remote port 8765/5678
+1340148	ID:31	Rime started with address 193.12.0.0.0.0.0.31
+1348728	ID:31	MAC c1:0c:00:00:00:00:00:1f Contiki-3.x-3377-gb06de690d started. Node id is set to 31.
+1354349	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1362368	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001f
+1364511	ID:31	Starting 'UDP client process'
+1366524	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1367956	ID:31	UDP client process started nbr:10 routes:0
+1371397	ID:31	Client IPv6 addresses: fd00::c30c:0:0:1f
+1372030	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1373194	ID:31	fe80::c30c:0:0:1f
+1375100	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3377-gb06de690d started. Node id is set to 17.
+1378336	ID:31	Created a connection with the server :: local/remote port 8765/5678
+1380562	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3377-gb06de690d started. Node id is set to 12.
+1380685	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1386160	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1388703	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1390846	ID:17	Starting 'UDP client process'
+1394135	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1394274	ID:17	UDP client process started nbr:10 routes:0
+1396278	ID:12	Starting 'UDP client process'
+1397713	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1399509	ID:17	fe80::c30c:0:0:11
+1399706	ID:12	UDP client process started nbr:10 routes:0
+1401890	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+1403033	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1404652	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1404718	ID:12	fe80::c30c:0:0:c
+1409861	ID:12	Created a connection with the server :: local/remote port 8765/5678
+1410422	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3377-gb06de690d started. Node id is set to 14.
+1416020	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1423995	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+1426138	ID:14	Starting 'UDP client process'
+1429566	ID:14	UDP client process started nbr:10 routes:0
+1432893	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1434578	ID:14	fe80::c30c:0:0:e
+1439721	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1453483	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1461888	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3377-gb06de690d started. Node id is set to 1.
+1467509	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1475483	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1476408	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1477626	ID:1	Starting 'UDP server process'
+1480374	ID:1	UDP server started. nbr:10 routes:0
+1483122	ID:1	created a new RPL dag
+1484984	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3377-gb06de690d started. Node id is set to 16.
+1486446	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1488072	ID:1	fd00::ff:fe00:1
+1489767	ID:1	fe80::c30c:0:0:1
+1490569	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1495715	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1498587	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1500730	ID:16	Starting 'UDP client process'
+1504158	ID:16	UDP client process started nbr:10 routes:0
+1507597	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1508120	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1509393	ID:16	fe80::c30c:0:0:10
+1514536	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1516652	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3377-gb06de690d started. Node id is set to 10.
+1522250	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1530225	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1532368	ID:10	Starting 'UDP client process'
+1535796	ID:10	UDP client process started nbr:10 routes:0
+1539123	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+1540808	ID:10	fe80::c30c:0:0:a
+1545951	ID:10	Created a connection with the server :: local/remote port 8765/5678
+1556599	ID:26	Rime started with address 193.12.0.0.0.0.0.26
+1565175	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3377-gb06de690d started. Node id is set to 26.
+1570761	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1577688	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1578780	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
+1580923	ID:26	Starting 'UDP client process'
+1584350	ID:26	UDP client process started nbr:10 routes:0
+1586096	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3377-gb06de690d started. Node id is set to 3.
+1587790	ID:26	Client IPv6 addresses: fd00::c30c:0:0:1a
+1589587	ID:26	fe80::c30c:0:0:1a
+1591717	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1594730	ID:26	Created a connection with the server :: local/remote port 8765/5678
+1599691	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1601834	ID:3	Starting 'UDP client process'
+1605261	ID:3	UDP client process started nbr:10 routes:0
+1605301	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1606323	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+1608589	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+1610273	ID:3	fe80::c30c:0:0:3
+1613833	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3377-gb06de690d started. Node id is set to 13.
+1614855	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3377-gb06de690d started. Node id is set to 15.
+1615415	ID:3	Created a connection with the server :: local/remote port 8765/5678
+1619431	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1620453	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1623597	ID:25	Rime started with address 193.12.0.0.0.0.0.25
+1627406	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1628428	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+1629292	ID:34	Rime started with address 193.12.0.0.0.0.0.34
+1629549	ID:13	Starting 'UDP client process'
+1630571	ID:15	Starting 'UDP client process'
+1632173	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3377-gb06de690d started. Node id is set to 25.
+1632977	ID:13	UDP client process started nbr:10 routes:0
+1633999	ID:15	UDP client process started nbr:10 routes:0
+1636304	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1637326	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+1637758	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1637869	ID:34	MAC c1:0c:00:00:00:00:00:22 Contiki-3.x-3369-ge5c0ef5af started. Node id is set to 34.
+1637989	ID:13	fe80::c30c:0:0:d
+1639011	ID:15	fe80::c30c:0:0:f
+1643132	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1643454	ID:34	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1644154	ID:15	Created a connection with the server :: local/remote port 8765/5678
+1645776	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
+1647919	ID:25	Starting 'UDP client process'
+1651347	ID:25	UDP client process started nbr:10 routes:0
+1651473	ID:34	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0022
+1653251	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1654543	ID:34	Starting 'Malicious sensor client process'
+1654786	ID:25	Client IPv6 addresses: fd00::c30c:0:0:19
+1656582	ID:25	fe80::c30c:0:0:19
+1661659	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3377-gb06de690d started. Node id is set to 9.
+1661725	ID:25	Created a connection with the server :: local/remote port 8765/5678
+1667280	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1675254	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1676727	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1677397	ID:9	Starting 'UDP client process'
+1680824	ID:9	UDP client process started nbr:10 routes:0
+1684152	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1685303	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3377-gb06de690d started. Node id is set to 18.
+1685836	ID:9	fe80::c30c:0:0:9
+1690888	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1690978	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1698906	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1701049	ID:18	Starting 'UDP client process'
+1704477	ID:18	UDP client process started nbr:10 routes:0
+1705610	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1707916	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
+1709712	ID:18	fe80::c30c:0:0:12
+1714018	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3377-gb06de690d started. Node id is set to 6.
+1714855	ID:18	Created a connection with the server :: local/remote port 8765/5678
+1719639	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1727613	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1729756	ID:6	Starting 'UDP client process'
+1733183	ID:6	UDP client process started nbr:10 routes:0
+1736511	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+1738195	ID:6	fe80::c30c:0:0:6
+1743337	ID:6	Created a connection with the server :: local/remote port 8765/5678
+1806902	ID:29	Rime started with address 193.12.0.0.0.0.0.29
+1815478	ID:29	MAC c1:0c:00:00:00:00:00:1d Contiki-3.x-3377-gb06de690d started. Node id is set to 29.
+1821064	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1821887	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1829083	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001d
+1830295	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3377-gb06de690d started. Node id is set to 4.
+1831226	ID:29	Starting 'UDP client process'
+1834653	ID:29	UDP client process started nbr:10 routes:0
+1835916	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1838093	ID:29	Client IPv6 addresses: fd00::c30c:0:0:1d
+1839890	ID:29	fe80::c30c:0:0:1d
+1843890	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1845033	ID:29	Created a connection with the server :: local/remote port 8765/5678
+1846033	ID:4	Starting 'UDP client process'
+1849460	ID:4	UDP client process started nbr:10 routes:0
+1852788	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+1854472	ID:4	fe80::c30c:0:0:4
+1856420	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1859614	ID:4	Created a connection with the server :: local/remote port 8765/5678
+1862595	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1864828	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3377-gb06de690d started. Node id is set to 5.
+1870449	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1871003	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3377-gb06de690d started. Node id is set to 7.
+1876624	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1878423	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1880566	ID:5	Starting 'UDP client process'
+1883993	ID:5	UDP client process started nbr:10 routes:0
+1884598	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1886741	ID:7	Starting 'UDP client process'
+1887321	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1889005	ID:5	fe80::c30c:0:0:5
+1890168	ID:7	UDP client process started nbr:10 routes:0
+1893496	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+1894147	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1895180	ID:7	fe80::c30c:0:0:7
+1900322	ID:7	Created a connection with the server :: local/remote port 8765/5678
+30251696	ID:36	Malicious UDP client process started nbr:31 routes:0
+30256363	ID:36	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:24
+30258160	ID:36	fe80::c30c:0:0:24
+30263318	ID:36	Created a connection with the server :: local/remote port 8765/5678
+30344917	ID:32	Malicious UDP client process started nbr:31 routes:0
+30349577	ID:32	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:20
+30351374	ID:32	fe80::c30c:0:0:20
+30356532	ID:32	Created a connection with the server :: local/remote port 8765/5678
+30361056	ID:33	Malicious UDP client process started nbr:31 routes:0
+30365717	ID:33	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:21
+30367513	ID:33	fe80::c30c:0:0:21
+30372671	ID:33	Created a connection with the server :: local/remote port 8765/5678
+30471608	ID:35	Malicious UDP client process started nbr:31 routes:0
+30476277	ID:35	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:23
+30478074	ID:35	fe80::c30c:0:0:23
+30483232	ID:35	Created a connection with the server :: local/remote port 8765/5678
+30850098	ID:34	Malicious UDP client process started nbr:31 routes:0
+30854759	ID:34	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:22
+30856555	ID:34	fe80::c30c:0:0:22
+30861713	ID:34	Created a connection with the server :: local/remote port 8765/5678
+31528714	ID:34	FIRST DIO RECEIVED FROM REPLAY SOURCE fe80::c30c:0:0:6
+31563801	ID:34	ticks value 640
+32536906	ID:33	FIRST DIO RECEIVED FROM REPLAY SOURCE fe80::c30c:0:0:2
+32573590	ID:33	ticks value 640
+33272111	ID:35	FIRST DIO RECEIVED FROM REPLAY SOURCE fe80::c30c:0:0:7
+33309073	ID:35	ticks value 640
+34772758	ID:32	FIRST DIO RECEIVED FROM REPLAY SOURCE fe80::c30c:0:0:3
+34811071	ID:32	ticks value 640
+36563755	ID:34	fd00::
+36569739	ID:34	ticks value 640
+37566901	ID:33	fd00::
+37572885	ID:33	ticks value 640
+38302694	ID:35	fd00::
+38308679	ID:35	ticks value 640
+39808574	ID:32	fd00::
+39814559	ID:32	ticks value 640
+41563734	ID:34	fd00::
+41569615	ID:34	ticks value 640
+42566880	ID:33	fd00::
+42572760	ID:33	ticks value 640
+43302512	ID:35	fd00::
+43308393	ID:35	ticks value 640
+44808553	ID:32	fd00::
+44814433	ID:32	ticks value 640
+46563734	ID:34	fd00::
+46569615	ID:34	ticks value 640
+47566880	ID:33	fd00::
+47572760	ID:33	ticks value 640
+48302512	ID:35	fd00::
+48308393	ID:35	ticks value 640
+49808553	ID:32	fd00::
+49814434	ID:32	ticks value 640
+51563734	ID:34	fd00::
+51569615	ID:34	ticks value 640
+52566880	ID:33	fd00::
+52572760	ID:33	ticks value 640
+53302512	ID:35	fd00::
+53308392	ID:35	ticks value 640
+54808553	ID:32	fd00::
+54814434	ID:32	ticks value 640
+56563734	ID:34	fd00::
+56569615	ID:34	ticks value 640
+57566880	ID:33	fd00::
+57572759	ID:33	ticks value 640
+58302512	ID:35	fd00::
+58308393	ID:35	ticks value 640
+59808553	ID:32	fd00::
+59814434	ID:32	ticks value 640
+61563734	ID:34	fd00::
+61569615	ID:34	ticks value 640
+61709901	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
+61711461	ID:3	Size of data 30
+61715116	ID:3	Data is Hello 1 from the client abhive
+61868320	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
+62566880	ID:33	fd00::
+62572760	ID:33	ticks value 640
+63302512	ID:35	fd00::
+63308393	ID:35	ticks value 640
+63858243	ID:19	Sending DATA to 1 'Hello 1' with NodeID= 19
+63859803	ID:19	Size of data 30
+63862586	ID:19	Data is Hello 1 from the client abhive
+63991736	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 19 at NodeID= 1
+64808553	ID:32	fd00::
+64814433	ID:32	ticks value 640
+66563734	ID:34	fd00::
+66569614	ID:34	ticks value 640
+66676037	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
+66677597	ID:21	Size of data 30
+66680396	ID:21	Data is Hello 1 from the client abhive
+66906562	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 21 at NodeID= 1
+67566880	ID:33	fd00::
+67572759	ID:33	ticks value 640
+68302512	ID:35	fd00::
+68308392	ID:35	ticks value 640
+68954458	ID:26	Sending DATA to 1 'Hello 1' with NodeID= 26
+68956018	ID:26	Size of data 30
+68958812	ID:26	Data is Hello 1 from the client abhive
+69118427	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 26 at NodeID= 1
+69808553	ID:32	fd00::
+69814433	ID:32	ticks value 640
+71473023	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
+71474583	ID:18	Size of data 30
+71477377	ID:18	Data is Hello 1 from the client abhive
+71563734	ID:34	fd00::
+71569614	ID:34	ticks value 640
+71615864	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 18 at NodeID= 1
+72566880	ID:33	fd00::
+72572759	ID:33	ticks value 640
+73302512	ID:35	fd00::
+73308393	ID:35	ticks value 640
+74808553	ID:32	fd00::
+74814433	ID:32	ticks value 640
+75444318	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
+75445878	ID:17	Size of data 30
+75448653	ID:17	Data is Hello 1 from the client abhive
+75492287	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
+76563734	ID:34	fd00::
+76569614	ID:34	ticks value 640
+77566880	ID:33	fd00::
+77572759	ID:33	ticks value 640
+77734298	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
+77735858	ID:9	Size of data 30
+77738634	ID:9	Data is Hello 1 from the client abhive
+77867637	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
+78302512	ID:35	fd00::
+78308393	ID:35	ticks value 640
+78674852	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
+78676412	ID:7	Size of data 30
+78679196	ID:7	Data is Hello 1 from the client abhive
+78743183	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
+78744743	ID:4	Size of data 30
+78747519	ID:4	Data is Hello 1 from the client abhive
+78899082	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
+78910972	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
+79808553	ID:32	fd00::
+79814433	ID:32	ticks value 640
+80921142	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
+80922702	ID:16	Size of data 30
+80925496	ID:16	Data is Hello 1 from the client abhive
+80992358	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 16 at NodeID= 1
+81563734	ID:34	fd00::
+81569614	ID:34	ticks value 640
+82566880	ID:33	fd00::
+82572759	ID:33	ticks value 640
+83302512	ID:35	fd00::
+83308392	ID:35	ticks value 640
+84112250	ID:24	Sending DATA to 1 'Hello 1' with NodeID= 24
+84113810	ID:24	Size of data 30
+84116604	ID:24	Data is Hello 1 from the client abhive
+84242654	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 24 at NodeID= 1
+84808553	ID:32	fd00::
+84814433	ID:32	ticks value 640
+85431520	ID:23	Sending DATA to 1 'Hello 1' with NodeID= 23
+85433080	ID:23	Size of data 30
+85435874	ID:23	Data is Hello 1 from the client abhive
+85492945	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 23 at NodeID= 1
+85603468	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
+85605028	ID:6	Size of data 30
+85607804	ID:6	Data is Hello 1 from the client abhive
+85626810	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
+86563734	ID:34	fd00::
+86569614	ID:34	ticks value 640
+87566880	ID:33	fd00::
+87572759	ID:33	ticks value 640
+88302512	ID:35	fd00::
+88308393	ID:35	ticks value 640
+88591768	ID:25	Sending DATA to 1 'Hello 1' with NodeID= 25
+88593328	ID:25	Size of data 30
+88596122	ID:25	Data is Hello 1 from the client abhive
+88762178	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 25 at NodeID= 1
+89326707	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
+89328267	ID:11	Size of data 30
+89331061	ID:11	Data is Hello 1 from the client abhive
+89368356	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
+89808553	ID:32	fd00::
+89814433	ID:32	ticks value 640
+91563721	ID:34	fd00::
+91569578	ID:34	ticks value 640
+92065901	ID:30	Sending DATA to 1 'Hello 1' with NodeID= 30
+92067461	ID:30	Size of data 30
+92070254	ID:30	Data is Hello 1 from the client abhive
+92117381	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 30 at NodeID= 1
+92378701	ID:31	Sending DATA to 1 'Hello 1' with NodeID= 31
+92380261	ID:31	Size of data 30
+92383062	ID:31	Data is Hello 1 from the client abhive
+92492876	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 31 at NodeID= 1
+92566867	ID:33	fd00::
+92572723	ID:33	ticks value 640
+93302499	ID:35	fd00::
+93308357	ID:35	ticks value 640
+94808540	ID:32	fd00::
+94814397	ID:32	ticks value 640
+96207307	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
+96208867	ID:15	Size of data 30
+96211666	ID:15	Data is Hello 1 from the client abhive
+96367096	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
+96563721	ID:34	fd00::
+96569578	ID:34	ticks value 640
+97268505	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
+97270065	ID:14	Size of data 30
+97272853	ID:14	Data is Hello 1 from the client abhive
+97366320	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 14 at NodeID= 1
+97566867	ID:33	fd00::
+97572723	ID:33	ticks value 640
+98238639	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
+98240199	ID:12	Size of data 30
+98242993	ID:12	Data is Hello 1 from the client abhive
+98302499	ID:35	fd00::
+98308356	ID:35	ticks value 640
+98365793	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
+98659410	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
+98660970	ID:13	Size of data 30
+98663764	ID:13	Data is Hello 1 from the client abhive
+98781996	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
+98832263	ID:27	Sending DATA to 1 'Hello 1' with NodeID= 27
+98833823	ID:27	Size of data 30
+98836617	ID:27	Data is Hello 1 from the client abhive
+98991790	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 27 at NodeID= 1
+99808540	ID:32	fd00::
+99814397	ID:32	ticks value 640
+100794460	ID:20	Sending DATA to 1 'Hello 1' with NodeID= 20
+100796020	ID:20	Size of data 30
+100798814	ID:20	Data is Hello 1 from the client abhive
+100865369	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 20 at NodeID= 1
+101465216	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
+101466776	ID:8	Size of data 30
+101469552	ID:8	Data is Hello 1 from the client abhive
+101563721	ID:34	fd00::
+101569578	ID:34	ticks value 640
+101615396	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
+101931653	ID:22	Sending DATA to 1 'Hello 1' with NodeID= 22
+101933213	ID:22	Size of data 30
+101936001	ID:22	Data is Hello 1 from the client abhive
+101990011	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 22 at NodeID= 1
+102566867	ID:33	fd00::
+102572723	ID:33	ticks value 640
+102796610	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
+102798170	ID:10	Size of data 30
+102800958	ID:10	Data is Hello 1 from the client abhive
+102867872	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
+103190819	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
+103192379	ID:2	Size of data 30
+103195154	ID:2	Data is Hello 1 from the client abhive
+103242246	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
+103302499	ID:35	fd00::
+103308357	ID:35	ticks value 640
+104808540	ID:32	fd00::
+104814397	ID:32	ticks value 640
+106301153	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
+106302713	ID:5	Size of data 30
+106305489	ID:5	Data is Hello 1 from the client abhive
+106366179	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
+106563721	ID:34	fd00::
+106569578	ID:34	ticks value 640
+107566867	ID:33	fd00::
+107572723	ID:33	ticks value 640
+108302499	ID:35	fd00::
+108308357	ID:35	ticks value 640
+109759448	ID:29	Sending DATA to 1 'Hello 1' with NodeID= 29
+109761008	ID:29	Size of data 30
+109763802	ID:29	Data is Hello 1 from the client abhive
+109808540	ID:32	fd00::
+109814397	ID:32	ticks value 640
+110243640	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 29 at NodeID= 1
+111563721	ID:34	fd00::
+111569578	ID:34	ticks value 640
+112566867	ID:33	fd00::
+112572723	ID:33	ticks value 640
+112595203	ID:28	Sending DATA to 1 'Hello 1' with NodeID= 28
+112596763	ID:28	Size of data 30
+112599551	ID:28	Data is Hello 1 from the client abhive
+113302499	ID:35	fd00::
+113308356	ID:35	ticks value 640
+113366590	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 28 at NodeID= 1
+114808540	ID:32	fd00::
+114814397	ID:32	ticks value 640
+116563721	ID:34	fd00::
+116569578	ID:34	ticks value 640
+117566867	ID:33	fd00::
+117572723	ID:33	ticks value 640
+118302499	ID:35	fd00::
+118308357	ID:35	ticks value 640
+119808540	ID:32	fd00::
+119814397	ID:32	ticks value 640
+121563721	ID:34	fd00::
+121569578	ID:34	ticks value 640
+122566867	ID:33	fd00::
+122572723	ID:33	ticks value 640
+123302499	ID:35	fd00::
+123308357	ID:35	ticks value 640
+123826129	ID:25	Sending DATA to 1 'Hello 2' with NodeID= 25
+123827689	ID:25	Size of data 30
+123830497	ID:25	Data is Hello 2 from the client abhive
+123867929	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 25 at NodeID= 1
+124342379	ID:19	Sending DATA to 1 'Hello 2' with NodeID= 19
+124343939	ID:19	Size of data 30
+124346747	ID:19	Data is Hello 2 from the client abhive
+124492453	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 19 at NodeID= 1
+124808540	ID:32	fd00::
+124814397	ID:32	ticks value 640
+126563721	ID:34	fd00::
+126569578	ID:34	ticks value 640
+126831285	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
+126832845	ID:13	Size of data 30
+126835639	ID:13	Data is Hello 2 from the client abhive
+126991236	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 13 at NodeID= 1
+127558862	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
+127560422	ID:15	Size of data 30
+127563223	ID:15	Data is Hello 2 from the client abhive
+127566867	ID:33	fd00::
+127572723	ID:33	ticks value 640
+127616582	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 15 at NodeID= 1
+128302499	ID:35	fd00::
+128308356	ID:35	ticks value 640
+128447808	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
+128449368	ID:17	Size of data 30
+128452143	ID:17	Data is Hello 2 from the client abhive
+128492502	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 17 at NodeID= 1
+129426141	ID:18	Sending DATA to 1 'Hello 2' with NodeID= 18
+129427701	ID:18	Size of data 30
+129430502	ID:18	Data is Hello 2 from the client abhive
+129490461	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 18 at NodeID= 1
+129808540	ID:32	fd00::
+129814397	ID:32	ticks value 640
+130462566	ID:29	Sending DATA to 1 'Hello 2' with NodeID= 29
+130464126	ID:29	Size of data 30
+130466927	ID:29	Data is Hello 2 from the client abhive
+130615444	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 29 at NodeID= 1
+130849141	ID:20	Sending DATA to 1 'Hello 2' with NodeID= 20
+130850701	ID:20	Size of data 30
+130853507	ID:20	Data is Hello 2 from the client abhive
+130992359	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 20 at NodeID= 1
+131563721	ID:34	fd00::
+131569578	ID:34	ticks value 640
+131764885	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
+131766445	ID:16	Size of data 30
+131769246	ID:16	Data is Hello 2 from the client abhive
+131865651	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 16 at NodeID= 1
+132058081	ID:30	Sending DATA to 1 'Hello 2' with NodeID= 30
+132059641	ID:30	Size of data 30
+132062442	ID:30	Data is Hello 2 from the client abhive
+132116014	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 30 at NodeID= 1
+132566867	ID:33	fd00::
+132572723	ID:33	ticks value 640
+132715092	ID:21	Sending DATA to 1 'Hello 2' with NodeID= 21
+132716652	ID:21	Size of data 30
+132719453	ID:21	Data is Hello 2 from the client abhive
+132864725	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 21 at NodeID= 1
+133228388	ID:23	Sending DATA to 1 'Hello 2' with NodeID= 23
+133229948	ID:23	Size of data 30
+133232754	ID:23	Data is Hello 2 from the client abhive
+133238506	ID:27	Sending DATA to 1 'Hello 2' with NodeID= 27
+133240066	ID:27	Size of data 30
+133242867	ID:27	Data is Hello 2 from the client abhive
+133302499	ID:35	fd00::
+133308357	ID:35	ticks value 640
+133365438	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 23 at NodeID= 1
+134239427	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 27 at NodeID= 1
+134808540	ID:32	fd00::
+134814397	ID:32	ticks value 640
+135080031	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
+135081591	ID:6	Size of data 30
+135084367	ID:6	Data is Hello 2 from the client abhive
+135103343	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 6 at NodeID= 1
+136053253	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
+136054813	ID:2	Size of data 30
+136057624	ID:2	Data is Hello 2 from the client abhive
+136117763	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 2 at NodeID= 1
+136563721	ID:34	fd00::
+136569578	ID:34	ticks value 640
+137566867	ID:33	fd00::
+137572723	ID:33	ticks value 640
+137696759	ID:28	Sending DATA to 1 'Hello 2' with NodeID= 28
+137698319	ID:28	Size of data 30
+137701113	ID:28	Data is Hello 2 from the client abhive
+137866732	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 28 at NodeID= 1
+137980195	ID:31	Sending DATA to 1 'Hello 2' with NodeID= 31
+137981755	ID:31	Size of data 30
+137984548	ID:31	Data is Hello 2 from the client abhive
+138117287	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 31 at NodeID= 1
+138302499	ID:35	fd00::
+138308357	ID:35	ticks value 640
+139808540	ID:32	fd00::
+139814397	ID:32	ticks value 640
+139918356	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
+139919916	ID:5	Size of data 30
+139922692	ID:5	Data is Hello 2 from the client abhive
+140117047	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 5 at NodeID= 1
+140900374	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
+140901934	ID:7	Size of data 30
+140904709	ID:7	Data is Hello 2 from the client abhive
+140991113	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 7 at NodeID= 1
+141563721	ID:34	fd00::
+141569578	ID:34	ticks value 640
+142566867	ID:33	fd00::
+142572723	ID:33	ticks value 640
+143235708	ID:26	Sending DATA to 1 'Hello 2' with NodeID= 26
+143237268	ID:26	Size of data 30
+143240062	ID:26	Data is Hello 2 from the client abhive
+143302499	ID:35	fd00::
+143308356	ID:35	ticks value 640
+143703296	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 26 at NodeID= 1
+144808540	ID:32	fd00::
+144814397	ID:32	ticks value 640
+146563721	ID:34	fd00::
+146569578	ID:34	ticks value 640
+147566867	ID:33	fd00::
+147572723	ID:33	ticks value 640
+148302499	ID:35	fd00::
+148308357	ID:35	ticks value 640
+149246458	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
+149248018	ID:12	Size of data 30
+149250806	ID:12	Data is Hello 2 from the client abhive
+149367216	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 12 at NodeID= 1
+149634771	ID:22	Sending DATA to 1 'Hello 2' with NodeID= 22
+149636331	ID:22	Size of data 30
+149639126	ID:22	Data is Hello 2 from the client abhive
+149761806	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 22 at NodeID= 1
+149799749	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
+149801309	ID:14	Size of data 30
+149804103	ID:14	Data is Hello 2 from the client abhive
+149808540	ID:32	fd00::
+149814397	ID:32	ticks value 640
+149868000	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 14 at NodeID= 1
+151563721	ID:34	fd00::
+151569578	ID:34	ticks value 640
+152566867	ID:33	fd00::
+152572723	ID:33	ticks value 640
+153302499	ID:35	fd00::
+153308357	ID:35	ticks value 640
+154808540	ID:32	fd00::
+154814397	ID:32	ticks value 640
+156563721	ID:34	fd00::
+156569578	ID:34	ticks value 640
+157566867	ID:33	fd00::
+157572723	ID:33	ticks value 640
+158302499	ID:35	fd00::
+158308356	ID:35	ticks value 640
+159808540	ID:32	fd00::
+159814397	ID:32	ticks value 640
+160694296	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
+160695856	ID:3	Size of data 30
+160698632	ID:3	Data is Hello 2 from the client abhive
+160739499	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 3 at NodeID= 1
+161563721	ID:34	fd00::
+161569578	ID:34	ticks value 640
+161754241	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
+161755801	ID:9	Size of data 30
+161758577	ID:9	Data is Hello 2 from the client abhive
+161867675	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 9 at NodeID= 1
+162566867	ID:33	fd00::
+162572723	ID:33	ticks value 640
+163302499	ID:35	fd00::
+163308357	ID:35	ticks value 640
+164784370	ID:24	Sending DATA to 1 'Hello 2' with NodeID= 24
+164785930	ID:24	Size of data 30
+164788706	ID:24	Data is Hello 2 from the client abhive
+164808540	ID:32	fd00::
+164814397	ID:32	ticks value 640
+164865509	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 24 at NodeID= 1
+165899681	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
+165901241	ID:4	Size of data 30
+165904042	ID:4	Data is Hello 2 from the client abhive
+165990538	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 4 at NodeID= 1
+166563721	ID:34	fd00::
+166569578	ID:34	ticks value 640
+167566867	ID:33	fd00::
+167572723	ID:33	ticks value 640
+167936088	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
+167937648	ID:11	Size of data 30
+167940436	ID:11	Data is Hello 2 from the client abhive
+167991023	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 11 at NodeID= 1
+168302499	ID:35	fd00::
+168308357	ID:35	ticks value 640
+169808540	ID:32	fd00::
+169814397	ID:32	ticks value 640
+171563721	ID:34	fd00::
+171569578	ID:34	ticks value 640
+172566867	ID:33	fd00::
+172572723	ID:33	ticks value 640
+173302499	ID:35	fd00::
+173308356	ID:35	ticks value 640
+174621466	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
+174623026	ID:8	Size of data 30
+174625802	ID:8	Data is Hello 2 from the client abhive
+174742390	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 8 at NodeID= 1
+174808540	ID:32	fd00::
+174814397	ID:32	ticks value 640
+176563721	ID:34	fd00::
+176569578	ID:34	ticks value 640
+177566867	ID:33	fd00::
+177572723	ID:33	ticks value 640
+178302499	ID:35	fd00::
+178308357	ID:35	ticks value 640
+179163791	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
+179165351	ID:10	Size of data 30
+179168146	ID:10	Data is Hello 2 from the client abhive
+179241861	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 10 at NodeID= 1
+179808540	ID:32	fd00::
+179814397	ID:32	ticks value 640
+181563721	ID:34	fd00::
+181569578	ID:34	ticks value 640
+182566867	ID:33	fd00::
+182572723	ID:33	ticks value 640
+183302499	ID:35	fd00::
+183308357	ID:35	ticks value 640
+184808540	ID:32	fd00::
+184814397	ID:32	ticks value 640
+185316750	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
+185318310	ID:12	Size of data 30
+185321123	ID:12	Data is Hello 3 from the client abhive
+185368499	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 12 at NodeID= 1
+186563721	ID:34	fd00::
+186563939	ID:28	Sending DATA to 1 'Hello 3' with NodeID= 28
+186565499	ID:28	Size of data 30
+186568300	ID:28	Data is Hello 3 from the client abhive
+186569578	ID:34	ticks value 640
+187491718	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 28 at NodeID= 1
+187566867	ID:33	fd00::
+187572723	ID:33	ticks value 640
+188302499	ID:35	fd00::
+188308356	ID:35	ticks value 640
+189808540	ID:32	fd00::
+189814397	ID:32	ticks value 640
+190183842	ID:21	Sending DATA to 1 'Hello 3' with NodeID= 21
+190185402	ID:21	Size of data 30
+190188203	ID:21	Data is Hello 3 from the client abhive
+190241680	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 21 at NodeID= 1
+191097978	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
+191099538	ID:9	Size of data 30
+191102313	ID:9	Data is Hello 3 from the client abhive
+191240681	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 9 at NodeID= 1
+191563721	ID:34	fd00::
+191569578	ID:34	ticks value 640
+191988000	ID:31	Sending DATA to 1 'Hello 3' with NodeID= 31
+191989560	ID:31	Size of data 30
+191992361	ID:31	Data is Hello 3 from the client abhive
+192115368	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 31 at NodeID= 1
+192566867	ID:33	fd00::
+192572723	ID:33	ticks value 640
+193302499	ID:35	fd00::
+193308357	ID:35	ticks value 640
+194808540	ID:32	fd00::
+194814397	ID:32	ticks value 640
+195893492	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
+195895052	ID:14	Size of data 30
+195897853	ID:14	Data is Hello 3 from the client abhive
+195991433	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 14 at NodeID= 1
+196072138	ID:23	Sending DATA to 1 'Hello 3' with NodeID= 23
+196073698	ID:23	Size of data 30
+196076499	ID:23	Data is Hello 3 from the client abhive
+196117078	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 23 at NodeID= 1
+196563721	ID:34	fd00::
+196569578	ID:34	ticks value 640
+197470887	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
+197472447	ID:6	Size of data 30
+197475223	ID:6	Data is Hello 3 from the client abhive
+197494151	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 6 at NodeID= 1
+197566867	ID:33	fd00::
+197572723	ID:33	ticks value 640
+197809198	ID:5	Sending DATA to 1 'Hello 3' with NodeID= 5
+197810758	ID:5	Size of data 30
+197813533	ID:5	Data is Hello 3 from the client abhive
+197867175	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 5 at NodeID= 1
+198302499	ID:35	fd00::
+198308357	ID:35	ticks value 640
+198480694	ID:27	Sending DATA to 1 'Hello 3' with NodeID= 27
+198482254	ID:27	Size of data 30
+198485055	ID:27	Data is Hello 3 from the client abhive
+198565653	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
+198567213	ID:13	Size of data 30
+198570014	ID:13	Data is Hello 3 from the client abhive
+198617296	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 27 at NodeID= 1
+198781921	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 13 at NodeID= 1
+198946308	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
+198947868	ID:4	Size of data 30
+198950644	ID:4	Data is Hello 3 from the client abhive
+199117675	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 4 at NodeID= 1
+199808540	ID:32	fd00::
+199814397	ID:32	ticks value 640
+201563721	ID:34	fd00::
+201569578	ID:34	ticks value 640
+202566867	ID:33	fd00::
+202572723	ID:33	ticks value 640
+203302499	ID:35	fd00::
+203308356	ID:35	ticks value 640
+204348016	ID:18	Sending DATA to 1 'Hello 3' with NodeID= 18
+204349576	ID:18	Size of data 30
+204352377	ID:18	Data is Hello 3 from the client abhive
+204491362	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 18 at NodeID= 1
+204808540	ID:32	fd00::
+204814397	ID:32	ticks value 640
+205144807	ID:15	Sending DATA to 1 'Hello 3' with NodeID= 15
+205146367	ID:15	Size of data 30
+205149166	ID:15	Data is Hello 3 from the client abhive
+205242074	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 15 at NodeID= 1
+206151831	ID:30	Sending DATA to 1 'Hello 3' with NodeID= 30
+206153391	ID:30	Size of data 30
+206156192	ID:30	Data is Hello 3 from the client abhive
+206242787	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 30 at NodeID= 1
+206563721	ID:34	fd00::
+206569578	ID:34	ticks value 640
+206752868	ID:24	Sending DATA to 1 'Hello 3' with NodeID= 24
+206754428	ID:24	Size of data 30
+206757229	ID:24	Data is Hello 3 from the client abhive
+206866864	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 24 at NodeID= 1
+207566867	ID:33	fd00::
+207572723	ID:33	ticks value 640
+208302499	ID:35	fd00::
+208308357	ID:35	ticks value 640
+209808540	ID:32	fd00::
+209814397	ID:32	ticks value 640
+210329811	ID:22	Sending DATA to 1 'Hello 3' with NodeID= 22
+210331371	ID:22	Size of data 30
+210334146	ID:22	Data is Hello 3 from the client abhive
+210396449	ID:25	Sending DATA to 1 'Hello 3' with NodeID= 25
+210398009	ID:25	Size of data 30
+210400810	ID:25	Data is Hello 3 from the client abhive
+210493427	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 22 at NodeID= 1
+210615224	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 25 at NodeID= 1
+211233249	ID:19	Sending DATA to 1 'Hello 3' with NodeID= 19
+211234809	ID:19	Size of data 30
+211237586	ID:19	Data is Hello 3 from the client abhive
+211366860	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 19 at NodeID= 1
+211563721	ID:34	fd00::
+211569578	ID:34	ticks value 640
+212566867	ID:33	fd00::
+212572723	ID:33	ticks value 640
+213302499	ID:35	fd00::
+213308357	ID:35	ticks value 640
+214808540	ID:32	fd00::
+214814397	ID:32	ticks value 640
+215748764	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
+215750324	ID:17	Size of data 30
+215753970	ID:17	Data is Hello 3 from the client abhive
+215866576	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 17 at NodeID= 1
+216563721	ID:34	fd00::
+216569578	ID:34	ticks value 640
+217566867	ID:33	fd00::
+217572723	ID:33	ticks value 640
+218302499	ID:35	fd00::
+218308356	ID:35	ticks value 640
+219808540	ID:32	fd00::
+219814397	ID:32	ticks value 640
+221043579	ID:8	Sending DATA to 1 'Hello 3' with NodeID= 8
+221045139	ID:8	Size of data 30
+221047950	ID:8	Data is Hello 3 from the client abhive
+221115044	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 8 at NodeID= 1
+221563721	ID:34	fd00::
+221569578	ID:34	ticks value 640
+222279825	ID:11	Sending DATA to 1 'Hello 3' with NodeID= 11
+222281385	ID:11	Size of data 30
+222285045	ID:11	Data is Hello 3 from the client abhive
+222365153	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 11 at NodeID= 1
+222566867	ID:33	fd00::
+222572723	ID:33	ticks value 640
+223302499	ID:35	fd00::
+223308357	ID:35	ticks value 640
+224808540	ID:32	fd00::
+224814397	ID:32	ticks value 640
+226563721	ID:34	fd00::
+226569578	ID:34	ticks value 640
+227342979	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
+227344539	ID:3	Size of data 30
+227347343	ID:3	Data is Hello 3 from the client abhive
+227493173	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
+227566867	ID:33	fd00::
+227572723	ID:33	ticks value 640
+228108642	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
+228110202	ID:16	Size of data 30
+228113854	ID:16	Data is Hello 3 from the client abhive
+228243071	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 16 at NodeID= 1
+228302499	ID:35	fd00::
+228308357	ID:35	ticks value 640
+229784136	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
+229785696	ID:7	Size of data 30
+229788500	ID:7	Data is Hello 3 from the client abhive
+229808540	ID:32	fd00::
+229814397	ID:32	ticks value 640
+229865183	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 7 at NodeID= 1
+229874735	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
+229876295	ID:10	Size of data 30
+229879083	ID:10	Data is Hello 3 from the client abhive
+229991743	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 10 at NodeID= 1
+231563721	ID:34	fd00::
+231569578	ID:34	ticks value 640
