@@ -8,7 +8,7 @@
   <project EXPORT="discard">[APPS_DIR]/powertracker</project>
   <simulation>
     <title>My simulation</title>
-    <randomseed>123765</randomseed>
+    <randomseed>495363</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
