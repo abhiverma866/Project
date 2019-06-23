@@ -1,1734 +1,1730 @@
 Generated Packets 1 | ReceivedPackets 1
-TL = 143306 |  AE2ED = 0.143306 |  PDR = 1
-Generated Packets 2 | ReceivedPackets 2
-TL = 288874 |  AE2ED = 0.144437 |  PDR = 1
+TL = 258741 |  AE2ED = 0.258741 |  PDR = 1
+Generated Packets 3 | ReceivedPackets 2
+TL = 688280 |  AE2ED = 0.34414 |  PDR = 0.6666666666666666
 Generated Packets 3 | ReceivedPackets 3
-TL = 365596 |  AE2ED = 0.12186533333333333 |  PDR = 1
+TL = 2810387 |  AE2ED = 0.9367956666666666 |  PDR = 1
 Generated Packets 4 | ReceivedPackets 4
-TL = 468813 |  AE2ED = 0.11720325 |  PDR = 1
+TL = 3263860 |  AE2ED = 0.815965 |  PDR = 1
 Generated Packets 5 | ReceivedPackets 5
-TL = 591811 |  AE2ED = 0.1183622 |  PDR = 1
-Generated Packets 7 | ReceivedPackets 6
-TL = 672465 |  AE2ED = 0.1120775 |  PDR = 0.8571428571428571
-Generated Packets 8 | ReceivedPackets 7
-TL = 828597 |  AE2ED = 0.118371 |  PDR = 0.875
+TL = 3363335 |  AE2ED = 0.672667 |  PDR = 1
+Generated Packets 6 | ReceivedPackets 6
+TL = 4121975 |  AE2ED = 0.6869958333333334 |  PDR = 1
+Generated Packets 7 | ReceivedPackets 7
+TL = 5221483 |  AE2ED = 0.7459261428571429 |  PDR = 1
 Generated Packets 8 | ReceivedPackets 8
-TL = 1988337 |  AE2ED = 0.248542125 |  PDR = 1
+TL = 5430090 |  AE2ED = 0.67876125 |  PDR = 1
 Generated Packets 9 | ReceivedPackets 9
-TL = 4573069 |  AE2ED = 0.5081187777777777 |  PDR = 1
+TL = 5932646 |  AE2ED = 0.6591828888888889 |  PDR = 1
 Generated Packets 10 | ReceivedPackets 10
-TL = 4772433 |  AE2ED = 0.4772433 |  PDR = 1
+TL = 5981425 |  AE2ED = 0.5981425 |  PDR = 1
 Generated Packets 11 | ReceivedPackets 11
-TL = 4829984 |  AE2ED = 0.4390894545454545 |  PDR = 1
-Generated Packets 12 | ReceivedPackets 12
-TL = 6488562 |  AE2ED = 0.5407135 |  PDR = 1
+TL = 6079401 |  AE2ED = 0.5526728181818182 |  PDR = 1
+Generated Packets 13 | ReceivedPackets 12
+TL = 8027506 |  AE2ED = 0.6689588333333334 |  PDR = 0.9230769230769231
 Generated Packets 13 | ReceivedPackets 13
-TL = 7097755 |  AE2ED = 0.5459811538461539 |  PDR = 1
+TL = 9163888 |  AE2ED = 0.7049144615384615 |  PDR = 1
 Generated Packets 14 | ReceivedPackets 14
-TL = 7531592 |  AE2ED = 0.5379708571428572 |  PDR = 1
-Generated Packets 16 | ReceivedPackets 15
-TL = 7957659 |  AE2ED = 0.5305105999999999 |  PDR = 0.9375
-Generated Packets 17 | ReceivedPackets 16
-TL = 7998511 |  AE2ED = 0.4999069375 |  PDR = 0.9411764705882353
+TL = 9294852 |  AE2ED = 0.663918 |  PDR = 1
+Generated Packets 15 | ReceivedPackets 15
+TL = 9410319 |  AE2ED = 0.6273546 |  PDR = 1
+Generated Packets 16 | ReceivedPackets 16
+TL = 9465327 |  AE2ED = 0.5915829375 |  PDR = 1
 Generated Packets 17 | ReceivedPackets 17
-TL = 9332223 |  AE2ED = 0.5489542941176471 |  PDR = 1
-Generated Packets 18 | ReceivedPackets 18
-TL = 10659635 |  AE2ED = 0.5922019444444445 |  PDR = 1
-Generated Packets 19 | ReceivedPackets 19
-TL = 11110912 |  AE2ED = 0.5847848421052632 |  PDR = 1
-Generated Packets 20 | ReceivedPackets 20
-TL = 11200520 |  AE2ED = 0.560026 |  PDR = 1
+TL = 11772002 |  AE2ED = 0.6924707058823529 |  PDR = 1
+Generated Packets 19 | ReceivedPackets 18
+TL = 11915665 |  AE2ED = 0.6619813888888889 |  PDR = 0.9473684210526315
+Generated Packets 20 | ReceivedPackets 19
+TL = 13131138 |  AE2ED = 0.6911125263157895 |  PDR = 0.95
+Generated Packets 21 | ReceivedPackets 20
+TL = 13784464 |  AE2ED = 0.6892231999999999 |  PDR = 0.9523809523809523
 Generated Packets 22 | ReceivedPackets 21
-TL = 11814135 |  AE2ED = 0.5625778571428571 |  PDR = 0.9545454545454546
+TL = 13829666 |  AE2ED = 0.6585555238095238 |  PDR = 0.9545454545454546
 Generated Packets 22 | ReceivedPackets 22
-TL = 12220296 |  AE2ED = 0.555468 |  PDR = 1
-Generated Packets 24 | ReceivedPackets 23
-TL = 12679419 |  AE2ED = 0.5512790869565217 |  PDR = 0.9583333333333334
-Generated Packets 25 | ReceivedPackets 24
-TL = 12809180 |  AE2ED = 0.5337158333333334 |  PDR = 0.96
-Generated Packets 25 | ReceivedPackets 25
-TL = 16032011 |  AE2ED = 0.64128044 |  PDR = 1
+TL = 14433097 |  AE2ED = 0.6560498636363636 |  PDR = 1
+Generated Packets 26 | ReceivedPackets 23
+TL = 14550599 |  AE2ED = 0.6326347391304348 |  PDR = 0.8846153846153846
+Generated Packets 26 | ReceivedPackets 24
+TL = 16600650 |  AE2ED = 0.69169375 |  PDR = 0.9230769230769231
+Generated Packets 26 | ReceivedPackets 25
+TL = 20589966 |  AE2ED = 0.82359864 |  PDR = 0.9615384615384616
 Generated Packets 26 | ReceivedPackets 26
-TL = 16123516 |  AE2ED = 0.6201352307692307 |  PDR = 1
-Generated Packets 28 | ReceivedPackets 27
-TL = 17532579 |  AE2ED = 0.6493547777777777 |  PDR = 0.9642857142857143
+TL = 24447348 |  AE2ED = 0.9402826153846153 |  PDR = 1
+Generated Packets 27 | ReceivedPackets 27
+TL = 25072420 |  AE2ED = 0.9286081481481482 |  PDR = 1
 Generated Packets 28 | ReceivedPackets 28
-TL = 17867681 |  AE2ED = 0.6381314642857143 |  PDR = 1
-Generated Packets 30 | ReceivedPackets 29
-TL = 17981187 |  AE2ED = 0.6200409310344828 |  PDR = 0.9666666666666667
+TL = 25176610 |  AE2ED = 0.8991646428571428 |  PDR = 1
+Generated Packets 29 | ReceivedPackets 29
+TL = 25333624 |  AE2ED = 0.8735732413793104 |  PDR = 1
 Generated Packets 30 | ReceivedPackets 30
-TL = 18409192 |  AE2ED = 0.6136397333333333 |  PDR = 1
-Generated Packets 32 | ReceivedPackets 31
-TL = 18538651 |  AE2ED = 0.598021 |  PDR = 0.96875
+TL = 25408642 |  AE2ED = 0.8469547333333333 |  PDR = 1
+Generated Packets 31 | ReceivedPackets 31
+TL = 25791972 |  AE2ED = 0.8319990967741936 |  PDR = 1
 Generated Packets 32 | ReceivedPackets 32
-TL = 20810142 |  AE2ED = 0.6503169375 |  PDR = 1
+TL = 25860249 |  AE2ED = 0.80813278125 |  PDR = 1
 Generated Packets 33 | ReceivedPackets 33
-TL = 21708845 |  AE2ED = 0.6578437878787878 |  PDR = 1
-Generated Packets 35 | ReceivedPackets 34
-TL = 22011997 |  AE2ED = 0.6474116764705882 |  PDR = 0.9714285714285714
-Generated Packets 35 | ReceivedPackets 35
-TL = 24385152 |  AE2ED = 0.6967186285714286 |  PDR = 1
+TL = 25967133 |  AE2ED = 0.7868828181818183 |  PDR = 1
+Generated Packets 36 | ReceivedPackets 34
+TL = 26328930 |  AE2ED = 0.7743802941176471 |  PDR = 0.9444444444444444
+Generated Packets 36 | ReceivedPackets 35
+TL = 26898433 |  AE2ED = 0.7685266571428571 |  PDR = 0.9722222222222222
 Generated Packets 36 | ReceivedPackets 36
-TL = 24504676 |  AE2ED = 0.6806854444444445 |  PDR = 1
-Generated Packets 38 | ReceivedPackets 37
-TL = 24594872 |  AE2ED = 0.6647262702702703 |  PDR = 0.9736842105263158
-Generated Packets 39 | ReceivedPackets 38
-TL = 24707147 |  AE2ED = 0.6501880789473684 |  PDR = 0.9743589743589743
+TL = 30770179 |  AE2ED = 0.8547271944444444 |  PDR = 1
+Generated Packets 37 | ReceivedPackets 37
+TL = 31178375 |  AE2ED = 0.8426587837837838 |  PDR = 1
+Generated Packets 38 | ReceivedPackets 38
+TL = 31474978 |  AE2ED = 0.8282888947368421 |  PDR = 1
 Generated Packets 39 | ReceivedPackets 39
-TL = 26491788 |  AE2ED = 0.6792766153846154 |  PDR = 1
-Generated Packets 41 | ReceivedPackets 40
-TL = 28077038 |  AE2ED = 0.7019259499999999 |  PDR = 0.975609756097561
-Generated Packets 42 | ReceivedPackets 41
-TL = 31822766 |  AE2ED = 0.7761650243902439 |  PDR = 0.9761904761904762
+TL = 31843134 |  AE2ED = 0.8164906153846154 |  PDR = 1
+Generated Packets 40 | ReceivedPackets 40
+TL = 32021773 |  AE2ED = 0.800544325 |  PDR = 1
+Generated Packets 41 | ReceivedPackets 41
+TL = 32185453 |  AE2ED = 0.7850110487804879 |  PDR = 1
 Generated Packets 42 | ReceivedPackets 42
-TL = 32637114 |  AE2ED = 0.7770741428571428 |  PDR = 1
+TL = 32210268 |  AE2ED = 0.7669111428571428 |  PDR = 1
 Generated Packets 44 | ReceivedPackets 43
-TL = 32750267 |  AE2ED = 0.7616341162790699 |  PDR = 0.9772727272727273
-Generated Packets 44 | ReceivedPackets 44
-TL = 35916263 |  AE2ED = 0.8162787045454546 |  PDR = 1
-Generated Packets 47 | ReceivedPackets 45
-TL = 36351776 |  AE2ED = 0.8078172444444445 |  PDR = 0.9574468085106383
-Generated Packets 48 | ReceivedPackets 46
-TL = 39102269 |  AE2ED = 0.8500493260869565 |  PDR = 0.9583333333333334
-Generated Packets 48 | ReceivedPackets 47
-TL = 39869055 |  AE2ED = 0.8482777659574467 |  PDR = 0.9791666666666666
-Generated Packets 49 | ReceivedPackets 48
-TL = 40014950 |  AE2ED = 0.8336447916666666 |  PDR = 0.9795918367346939
+TL = 33736262 |  AE2ED = 0.7845642325581395 |  PDR = 0.9772727272727273
+Generated Packets 45 | ReceivedPackets 44
+TL = 35544111 |  AE2ED = 0.8078207045454546 |  PDR = 0.9777777777777777
+Generated Packets 45 | ReceivedPackets 45
+TL = 35817599 |  AE2ED = 0.7959466444444444 |  PDR = 1
+Generated Packets 46 | ReceivedPackets 46
+TL = 36275203 |  AE2ED = 0.7885913695652174 |  PDR = 1
+Generated Packets 47 | ReceivedPackets 47
+TL = 36464607 |  AE2ED = 0.7758427021276596 |  PDR = 1
+Generated Packets 48 | ReceivedPackets 48
+TL = 36620680 |  AE2ED = 0.7629308333333333 |  PDR = 1
 Generated Packets 49 | ReceivedPackets 49
-TL = 46045041 |  AE2ED = 0.9396947142857143 |  PDR = 1
+TL = 36738144 |  AE2ED = 0.7497580408163265 |  PDR = 1
 Generated Packets 50 | ReceivedPackets 50
-TL = 46519357 |  AE2ED = 0.93038714 |  PDR = 1
-Generated Packets 51 | ReceivedPackets 51
-TL = 46709836 |  AE2ED = 0.9158791372549019 |  PDR = 1
+TL = 36919124 |  AE2ED = 0.73838248 |  PDR = 1
+Generated Packets 52 | ReceivedPackets 51
+TL = 37175168 |  AE2ED = 0.728924862745098 |  PDR = 0.9807692307692307
 Generated Packets 52 | ReceivedPackets 52
-TL = 46885725 |  AE2ED = 0.9016485576923078 |  PDR = 1
+TL = 39407494 |  AE2ED = 0.7578364230769231 |  PDR = 1
 Generated Packets 53 | ReceivedPackets 53
-TL = 47216557 |  AE2ED = 0.8908784339622641 |  PDR = 1
+TL = 39478878 |  AE2ED = 0.7448844905660377 |  PDR = 1
 Generated Packets 54 | ReceivedPackets 54
-TL = 47365699 |  AE2ED = 0.877142574074074 |  PDR = 1
-Generated Packets 56 | ReceivedPackets 55
-TL = 48763363 |  AE2ED = 0.8866066 |  PDR = 0.9821428571428571
+TL = 39555148 |  AE2ED = 0.7325027407407408 |  PDR = 1
+Generated Packets 55 | ReceivedPackets 55
+TL = 39697272 |  AE2ED = 0.7217685818181818 |  PDR = 1
 Generated Packets 56 | ReceivedPackets 56
-TL = 50659404 |  AE2ED = 0.9046322142857143 |  PDR = 1
+TL = 39746890 |  AE2ED = 0.7097658928571429 |  PDR = 1
 Generated Packets 57 | ReceivedPackets 57
-TL = 51673238 |  AE2ED = 0.9065480350877193 |  PDR = 1
+TL = 39790025 |  AE2ED = 0.6980706140350877 |  PDR = 1
 Generated Packets 58 | ReceivedPackets 58
-TL = 51853079 |  AE2ED = 0.8940186034482758 |  PDR = 1
+TL = 40524498 |  AE2ED = 0.6986982413793104 |  PDR = 1
 Generated Packets 59 | ReceivedPackets 59
-TL = 51916950 |  AE2ED = 0.8799483050847458 |  PDR = 1
+TL = 41097237 |  AE2ED = 0.6965633389830509 |  PDR = 1
 Generated Packets 60 | ReceivedPackets 60
-TL = 52158269 |  AE2ED = 0.8693044833333333 |  PDR = 1
+TL = 41365611 |  AE2ED = 0.6894268499999999 |  PDR = 1
 Generated Packets 61 | ReceivedPackets 61
-TL = 52260912 |  AE2ED = 0.8567362622950819 |  PDR = 1
+TL = 41474694 |  AE2ED = 0.6799130163934426 |  PDR = 1
 Generated Packets 62 | ReceivedPackets 62
-TL = 52544705 |  AE2ED = 0.8474952419354839 |  PDR = 1
+TL = 41663785 |  AE2ED = 0.6719965322580644 |  PDR = 1
 Generated Packets 63 | ReceivedPackets 63
-TL = 52634230 |  AE2ED = 0.8354639682539683 |  PDR = 1
+TL = 41820475 |  AE2ED = 0.6638170634920636 |  PDR = 1
 Generated Packets 64 | ReceivedPackets 64
-TL = 52849273 |  AE2ED = 0.825769890625 |  PDR = 1
+TL = 41947760 |  AE2ED = 0.65543375 |  PDR = 1
 Generated Packets 65 | ReceivedPackets 65
-TL = 53011468 |  AE2ED = 0.8155610461538462 |  PDR = 1
+TL = 42351963 |  AE2ED = 0.6515686615384616 |  PDR = 1
 Generated Packets 66 | ReceivedPackets 66
-TL = 53965323 |  AE2ED = 0.8176564090909091 |  PDR = 1
+TL = 45223643 |  AE2ED = 0.6852067121212122 |  PDR = 1
 Generated Packets 67 | ReceivedPackets 67
-TL = 54058463 |  AE2ED = 0.8068427313432835 |  PDR = 1
-Generated Packets 68 | ReceivedPackets 68
-TL = 54126116 |  AE2ED = 0.7959722941176471 |  PDR = 1
+TL = 45344405 |  AE2ED = 0.6767821641791045 |  PDR = 1
+Generated Packets 69 | ReceivedPackets 68
+TL = 46251289 |  AE2ED = 0.6801660147058824 |  PDR = 0.9855072463768116
 Generated Packets 70 | ReceivedPackets 69
-TL = 54918719 |  AE2ED = 0.795923463768116 |  PDR = 0.9857142857142858
-Generated Packets 70 | ReceivedPackets 70
-TL = 55543165 |  AE2ED = 0.7934737857142857 |  PDR = 1
-Generated Packets 71 | ReceivedPackets 71
-TL = 55774231 |  AE2ED = 0.7855525492957747 |  PDR = 1
-Generated Packets 72 | ReceivedPackets 72
-TL = 56183705 |  AE2ED = 0.7803292361111112 |  PDR = 1
-Generated Packets 73 | ReceivedPackets 73
-TL = 58532793 |  AE2ED = 0.8018190821917808 |  PDR = 1
+TL = 46276153 |  AE2ED = 0.6706688840579711 |  PDR = 0.9857142857142858
+Generated Packets 71 | ReceivedPackets 70
+TL = 46488363 |  AE2ED = 0.6641194714285714 |  PDR = 0.9859154929577465
+Generated Packets 72 | ReceivedPackets 71
+TL = 46816190 |  AE2ED = 0.6593829577464788 |  PDR = 0.9861111111111112
+Generated Packets 74 | ReceivedPackets 72
+TL = 47787699 |  AE2ED = 0.6637180416666666 |  PDR = 0.972972972972973
+Generated Packets 74 | ReceivedPackets 73
+TL = 48540697 |  AE2ED = 0.6649410547945206 |  PDR = 0.9864864864864865
 Generated Packets 74 | ReceivedPackets 74
-TL = 58555797 |  AE2ED = 0.7912945540540541 |  PDR = 1
+TL = 54518204 |  AE2ED = 0.7367324864864865 |  PDR = 1
 Generated Packets 75 | ReceivedPackets 75
-TL = 58989053 |  AE2ED = 0.7865207066666666 |  PDR = 1
+TL = 56930689 |  AE2ED = 0.7590758533333334 |  PDR = 1
 Generated Packets 76 | ReceivedPackets 76
-TL = 59029824 |  AE2ED = 0.7767082105263159 |  PDR = 1
+TL = 57253237 |  AE2ED = 0.7533320657894738 |  PDR = 1
 Generated Packets 77 | ReceivedPackets 77
-TL = 59106700 |  AE2ED = 0.7676194805194806 |  PDR = 1
+TL = 57520951 |  AE2ED = 0.7470253376623377 |  PDR = 1
 Generated Packets 78 | ReceivedPackets 78
-TL = 59565772 |  AE2ED = 0.7636637435897436 |  PDR = 1
+TL = 57718642 |  AE2ED = 0.7399825897435898 |  PDR = 1
 Generated Packets 79 | ReceivedPackets 79
-TL = 59738875 |  AE2ED = 0.7561882911392405 |  PDR = 1
-Generated Packets 81 | ReceivedPackets 80
-TL = 59779855 |  AE2ED = 0.7472481875 |  PDR = 0.9876543209876543
+TL = 58635974 |  AE2ED = 0.7422275189873417 |  PDR = 1
+Generated Packets 80 | ReceivedPackets 80
+TL = 58877473 |  AE2ED = 0.7359684125 |  PDR = 1
 Generated Packets 81 | ReceivedPackets 81
-TL = 61011321 |  AE2ED = 0.7532261851851851 |  PDR = 1
-Generated Packets 82 | ReceivedPackets 82
-TL = 61934468 |  AE2ED = 0.7552983902439024 |  PDR = 1
+TL = 59343258 |  AE2ED = 0.7326328148148148 |  PDR = 1
+Generated Packets 83 | ReceivedPackets 82
+TL = 59641542 |  AE2ED = 0.7273358780487805 |  PDR = 0.9879518072289156
 Generated Packets 84 | ReceivedPackets 83
-TL = 62938095 |  AE2ED = 0.7582903012048192 |  PDR = 0.9880952380952381
-Generated Packets 84 | ReceivedPackets 84
-TL = 63232732 |  AE2ED = 0.7527706190476191 |  PDR = 1
+TL = 59703474 |  AE2ED = 0.7193189638554216 |  PDR = 0.9880952380952381
+Generated Packets 86 | ReceivedPackets 84
+TL = 63576417 |  AE2ED = 0.7568621071428572 |  PDR = 0.9767441860465116
 Generated Packets 86 | ReceivedPackets 85
-TL = 63286708 |  AE2ED = 0.7445495058823529 |  PDR = 0.9883720930232558
-Generated Packets 87 | ReceivedPackets 86
-TL = 63353850 |  AE2ED = 0.7366726744186047 |  PDR = 0.9885057471264368
+TL = 64692624 |  AE2ED = 0.761089694117647 |  PDR = 0.9883720930232558
+Generated Packets 86 | ReceivedPackets 86
+TL = 67312024 |  AE2ED = 0.7826979534883721 |  PDR = 1
 Generated Packets 87 | ReceivedPackets 87
-TL = 65766913 |  AE2ED = 0.7559415287356321 |  PDR = 1
-Generated Packets 88 | ReceivedPackets 88
-TL = 66432036 |  AE2ED = 0.7549095 |  PDR = 1
-Generated Packets 89 | ReceivedPackets 89
-TL = 66584458 |  AE2ED = 0.7481399775280899 |  PDR = 1
+TL = 67403352 |  AE2ED = 0.7747511724137932 |  PDR = 1
+Generated Packets 90 | ReceivedPackets 88
+TL = 67542898 |  AE2ED = 0.7675329318181817 |  PDR = 0.9777777777777777
+Generated Packets 90 | ReceivedPackets 89
+TL = 67680019 |  AE2ED = 0.7604496516853932 |  PDR = 0.9888888888888889
 Generated Packets 90 | ReceivedPackets 90
-TL = 68980111 |  AE2ED = 0.7664456777777777 |  PDR = 1
+TL = 68515705 |  AE2ED = 0.7612856111111111 |  PDR = 1
 Generated Packets 92 | ReceivedPackets 91
-TL = 69162221 |  AE2ED = 0.7600244065934065 |  PDR = 0.9891304347826086
+TL = 68558877 |  AE2ED = 0.7533942527472527 |  PDR = 0.9891304347826086
 Generated Packets 92 | ReceivedPackets 92
-TL = 72620547 |  AE2ED = 0.7893537717391305 |  PDR = 1
+TL = 70713798 |  AE2ED = 0.7686282391304348 |  PDR = 1
 Generated Packets 93 | ReceivedPackets 93
-TL = 72769145 |  AE2ED = 0.7824639247311828 |  PDR = 1
+TL = 70801954 |  AE2ED = 0.7613113333333333 |  PDR = 1
 Generated Packets 94 | ReceivedPackets 94
-TL = 72813056 |  AE2ED = 0.7746069787234042 |  PDR = 1
+TL = 70890150 |  AE2ED = 0.7541505319148937 |  PDR = 1
 Generated Packets 95 | ReceivedPackets 95
-TL = 73415276 |  AE2ED = 0.7727923789473685 |  PDR = 1
-Generated Packets 96 | ReceivedPackets 96
-TL = 73896011 |  AE2ED = 0.7697501145833334 |  PDR = 1
+TL = 71212045 |  AE2ED = 0.7496004736842106 |  PDR = 1
+Generated Packets 97 | ReceivedPackets 96
+TL = 71424878 |  AE2ED = 0.7440091458333333 |  PDR = 0.9896907216494846
 Generated Packets 98 | ReceivedPackets 97
-TL = 74055453 |  AE2ED = 0.7634582783505154 |  PDR = 0.9897959183673469
+TL = 71860901 |  AE2ED = 0.7408340309278351 |  PDR = 0.9897959183673469
 Generated Packets 98 | ReceivedPackets 98
-TL = 74217853 |  AE2ED = 0.7573250306122449 |  PDR = 1
+TL = 73120285 |  AE2ED = 0.7461253571428571 |  PDR = 1
 Generated Packets 99 | ReceivedPackets 99
-TL = 74298080 |  AE2ED = 0.7504856565656566 |  PDR = 1
-Generated Packets 100 | ReceivedPackets 100
-TL = 74495155 |  AE2ED = 0.74495155 |  PDR = 1
+TL = 73192014 |  AE2ED = 0.7393132727272727 |  PDR = 1
+Generated Packets 101 | ReceivedPackets 100
+TL = 73922467 |  AE2ED = 0.73922467 |  PDR = 0.9900990099009901
 Generated Packets 101 | ReceivedPackets 101
-TL = 75556586 |  AE2ED = 0.74808500990099 |  PDR = 1
-Generated Packets 103 | ReceivedPackets 102
-TL = 75603841 |  AE2ED = 0.7412141274509804 |  PDR = 0.9902912621359223
-Generated Packets 104 | ReceivedPackets 103
-TL = 75787216 |  AE2ED = 0.7357982135922331 |  PDR = 0.9903846153846154
-Generated Packets 105 | ReceivedPackets 104
-TL = 75850944 |  AE2ED = 0.729336 |  PDR = 0.9904761904761905
-Generated Packets 106 | ReceivedPackets 105
-TL = 80925884 |  AE2ED = 0.7707227047619047 |  PDR = 0.9905660377358491
-Generated Packets 107 | ReceivedPackets 106
-TL = 82729199 |  AE2ED = 0.780464141509434 |  PDR = 0.9906542056074766
+TL = 74198531 |  AE2ED = 0.7346389207920792 |  PDR = 1
+Generated Packets 102 | ReceivedPackets 102
+TL = 74535725 |  AE2ED = 0.7307424019607843 |  PDR = 1
+Generated Packets 103 | ReceivedPackets 103
+TL = 74581119 |  AE2ED = 0.7240885339805825 |  PDR = 1
+Generated Packets 104 | ReceivedPackets 104
+TL = 75859998 |  AE2ED = 0.7294230576923078 |  PDR = 1
+Generated Packets 105 | ReceivedPackets 105
+TL = 77551623 |  AE2ED = 0.7385868857142857 |  PDR = 1
+Generated Packets 106 | ReceivedPackets 106
+TL = 77728046 |  AE2ED = 0.7332834528301887 |  PDR = 1
 Generated Packets 107 | ReceivedPackets 107
-TL = 86760066 |  AE2ED = 0.8108417383177571 |  PDR = 1
+TL = 77862128 |  AE2ED = 0.7276834392523364 |  PDR = 1
 Generated Packets 108 | ReceivedPackets 108
-TL = 86912619 |  AE2ED = 0.8047464722222223 |  PDR = 1
+TL = 78051226 |  AE2ED = 0.7226965370370371 |  PDR = 1
 Generated Packets 109 | ReceivedPackets 109
-TL = 87201735 |  AE2ED = 0.8000159174311927 |  PDR = 1
-Generated Packets 111 | ReceivedPackets 110
-TL = 87441496 |  AE2ED = 0.794922690909091 |  PDR = 0.990990990990991
+TL = 81006620 |  AE2ED = 0.74318 |  PDR = 1
+Generated Packets 110 | ReceivedPackets 110
+TL = 81065093 |  AE2ED = 0.7369553909090909 |  PDR = 1
 Generated Packets 111 | ReceivedPackets 111
-TL = 87580445 |  AE2ED = 0.789013018018018 |  PDR = 1
+TL = 81176289 |  AE2ED = 0.731317918918919 |  PDR = 1
 Generated Packets 112 | ReceivedPackets 112
-TL = 87621454 |  AE2ED = 0.7823344107142857 |  PDR = 1
+TL = 81323562 |  AE2ED = 0.7261032321428572 |  PDR = 1
 Generated Packets 113 | ReceivedPackets 113
-TL = 89244354 |  AE2ED = 0.7897730442477876 |  PDR = 1
+TL = 81557910 |  AE2ED = 0.7217514159292036 |  PDR = 1
 Generated Packets 114 | ReceivedPackets 114
-TL = 89380239 |  AE2ED = 0.7840371842105263 |  PDR = 1
-Generated Packets 115 | ReceivedPackets 115
-TL = 89955540 |  AE2ED = 0.7822220869565217 |  PDR = 1
+TL = 81640868 |  AE2ED = 0.7161479649122807 |  PDR = 1
+Generated Packets 116 | ReceivedPackets 115
+TL = 81665681 |  AE2ED = 0.7101363565217391 |  PDR = 0.9913793103448276
 Generated Packets 116 | ReceivedPackets 116
-TL = 90114888 |  AE2ED = 0.7768524827586206 |  PDR = 1
+TL = 82842354 |  AE2ED = 0.7141582241379311 |  PDR = 1
 Generated Packets 117 | ReceivedPackets 117
-TL = 90369883 |  AE2ED = 0.7723921623931623 |  PDR = 1
-Generated Packets 118 | ReceivedPackets 118
-TL = 90443355 |  AE2ED = 0.7664691101694915 |  PDR = 1
-Generated Packets 120 | ReceivedPackets 119
-TL = 90671014 |  AE2ED = 0.7619412941176471 |  PDR = 0.9916666666666667
-Generated Packets 121 | ReceivedPackets 120
-TL = 92539473 |  AE2ED = 0.771162275 |  PDR = 0.9917355371900827
-Generated Packets 121 | ReceivedPackets 121
-TL = 92737653 |  AE2ED = 0.7664268842975206 |  PDR = 1
+TL = 82920684 |  AE2ED = 0.7087237948717948 |  PDR = 1
+Generated Packets 119 | ReceivedPackets 118
+TL = 82979076 |  AE2ED = 0.7032125084745763 |  PDR = 0.9915966386554622
+Generated Packets 119 | ReceivedPackets 119
+TL = 83109751 |  AE2ED = 0.698401268907563 |  PDR = 1
+Generated Packets 120 | ReceivedPackets 120
+TL = 83274154 |  AE2ED = 0.6939512833333333 |  PDR = 1
+Generated Packets 122 | ReceivedPackets 121
+TL = 83624318 |  AE2ED = 0.6911100661157025 |  PDR = 0.9918032786885246
 Generated Packets 122 | ReceivedPackets 122
-TL = 92827470 |  AE2ED = 0.7608809016393443 |  PDR = 1
+TL = 83792294 |  AE2ED = 0.6868220819672131 |  PDR = 1
 Generated Packets 123 | ReceivedPackets 123
-TL = 92963705 |  AE2ED = 0.7558024796747967 |  PDR = 1
-Generated Packets 125 | ReceivedPackets 124
-TL = 93135244 |  AE2ED = 0.7510906774193548 |  PDR = 0.992
-Generated Packets 126 | ReceivedPackets 125
-TL = 93320937 |  AE2ED = 0.746567496 |  PDR = 0.9920634920634921
+TL = 83903132 |  AE2ED = 0.6821392845528456 |  PDR = 1
+Generated Packets 124 | ReceivedPackets 124
+TL = 83961592 |  AE2ED = 0.6771096129032258 |  PDR = 1
+Generated Packets 125 | ReceivedPackets 125
+TL = 86224732 |  AE2ED = 0.689797856 |  PDR = 1
 Generated Packets 126 | ReceivedPackets 126
-TL = 96545619 |  AE2ED = 0.7662350714285715 |  PDR = 1
-Generated Packets 127 | ReceivedPackets 127
-TL = 96700639 |  AE2ED = 0.7614223543307086 |  PDR = 1
+TL = 86338469 |  AE2ED = 0.6852259444444445 |  PDR = 1
+Generated Packets 128 | ReceivedPackets 127
+TL = 87605664 |  AE2ED = 0.6898083779527558 |  PDR = 0.9921875
 Generated Packets 128 | ReceivedPackets 128
-TL = 96723484 |  AE2ED = 0.75565221875 |  PDR = 1
-Generated Packets 130 | ReceivedPackets 129
-TL = 96856657 |  AE2ED = 0.7508267984496124 |  PDR = 0.9923076923076923
-Generated Packets 132 | ReceivedPackets 130
-TL = 97550905 |  AE2ED = 0.7503915769230769 |  PDR = 0.9848484848484849
-Generated Packets 132 | ReceivedPackets 131
-TL = 101776596 |  AE2ED = 0.7769205801526717 |  PDR = 0.9924242424242424
+TL = 91627594 |  AE2ED = 0.715840578125 |  PDR = 1
+Generated Packets 129 | ReceivedPackets 129
+TL = 91808849 |  AE2ED = 0.7116965038759689 |  PDR = 1
+Generated Packets 130 | ReceivedPackets 130
+TL = 91906729 |  AE2ED = 0.7069748384615384 |  PDR = 1
+Generated Packets 131 | ReceivedPackets 131
+TL = 92029026 |  AE2ED = 0.7025116488549619 |  PDR = 1
 Generated Packets 132 | ReceivedPackets 132
-TL = 103842498 |  AE2ED = 0.786685590909091 |  PDR = 1
-Generated Packets 133 | ReceivedPackets 133
-TL = 104471002 |  AE2ED = 0.7854962556390978 |  PDR = 1
+TL = 93020730 |  AE2ED = 0.7047025 |  PDR = 1
+Generated Packets 134 | ReceivedPackets 133
+TL = 93378897 |  AE2ED = 0.702096969924812 |  PDR = 0.9925373134328358
 Generated Packets 134 | ReceivedPackets 134
-TL = 105115065 |  AE2ED = 0.7844407835820896 |  PDR = 1
+TL = 94577645 |  AE2ED = 0.7058033208955223 |  PDR = 1
 Generated Packets 135 | ReceivedPackets 135
-TL = 105434276 |  AE2ED = 0.7809946370370371 |  PDR = 1
+TL = 94668980 |  AE2ED = 0.7012517037037037 |  PDR = 1
 Generated Packets 136 | ReceivedPackets 136
-TL = 105742593 |  AE2ED = 0.7775190661764706 |  PDR = 1
+TL = 95335981 |  AE2ED = 0.7009998602941175 |  PDR = 1
 Generated Packets 137 | ReceivedPackets 137
-TL = 105904928 |  AE2ED = 0.7730286715328467 |  PDR = 1
+TL = 95994226 |  AE2ED = 0.7006877810218978 |  PDR = 1
 Generated Packets 138 | ReceivedPackets 138
-TL = 106107405 |  AE2ED = 0.7688942391304349 |  PDR = 1
+TL = 96399800 |  AE2ED = 0.6985492753623188 |  PDR = 1
 Generated Packets 139 | ReceivedPackets 139
-TL = 106237152 |  AE2ED = 0.7642960575539569 |  PDR = 1
+TL = 96706757 |  AE2ED = 0.6957320647482014 |  PDR = 1
 Generated Packets 140 | ReceivedPackets 140
-TL = 106389793 |  AE2ED = 0.7599270928571429 |  PDR = 1
-Generated Packets 142 | ReceivedPackets 141
-TL = 107300521 |  AE2ED = 0.7609966028368794 |  PDR = 0.9929577464788732
+TL = 97372887 |  AE2ED = 0.6955206214285714 |  PDR = 1
+Generated Packets 141 | ReceivedPackets 141
+TL = 97470849 |  AE2ED = 0.6912826170212766 |  PDR = 1
 Generated Packets 142 | ReceivedPackets 142
-TL = 107540031 |  AE2ED = 0.757324161971831 |  PDR = 1
-Generated Packets 144 | ReceivedPackets 143
-TL = 107633177 |  AE2ED = 0.7526795594405594 |  PDR = 0.9930555555555556
-Generated Packets 146 | ReceivedPackets 144
-TL = 111484426 |  AE2ED = 0.7741974027777777 |  PDR = 0.9863013698630136
-Generated Packets 146 | ReceivedPackets 145
-TL = 113556045 |  AE2ED = 0.7831451379310345 |  PDR = 0.9931506849315068
-Generated Packets 146 | ReceivedPackets 146
-TL = 116783829 |  AE2ED = 0.7998892397260273 |  PDR = 1
+TL = 97796518 |  AE2ED = 0.6887078732394366 |  PDR = 1
+Generated Packets 143 | ReceivedPackets 143
+TL = 101857348 |  AE2ED = 0.7122891468531468 |  PDR = 1
+Generated Packets 144 | ReceivedPackets 144
+TL = 102017159 |  AE2ED = 0.7084524930555555 |  PDR = 1
+Generated Packets 145 | ReceivedPackets 145
+TL = 102783838 |  AE2ED = 0.7088540551724138 |  PDR = 1
+Generated Packets 147 | ReceivedPackets 146
+TL = 103003437 |  AE2ED = 0.705502993150685 |  PDR = 0.9931972789115646
 Generated Packets 147 | ReceivedPackets 147
-TL = 119377962 |  AE2ED = 0.8120949795918367 |  PDR = 1
+TL = 109261489 |  AE2ED = 0.7432754353741498 |  PDR = 1
 Generated Packets 148 | ReceivedPackets 148
-TL = 119755702 |  AE2ED = 0.8091601486486486 |  PDR = 1
-Generated Packets 149 | ReceivedPackets 149
-TL = 120064430 |  AE2ED = 0.805801543624161 |  PDR = 1
-Generated Packets 150 | ReceivedPackets 150
-TL = 123576037 |  AE2ED = 0.8238402466666667 |  PDR = 1
-Generated Packets 151 | ReceivedPackets 151
-TL = 123665689 |  AE2ED = 0.8189780728476822 |  PDR = 1
+TL = 109287196 |  AE2ED = 0.738427 |  PDR = 1
+Generated Packets 150 | ReceivedPackets 149
+TL = 110181427 |  AE2ED = 0.7394726644295302 |  PDR = 0.9933333333333333
+Generated Packets 152 | ReceivedPackets 150
+TL = 114285777 |  AE2ED = 0.7619051800000001 |  PDR = 0.9868421052631579
+Generated Packets 152 | ReceivedPackets 151
+TL = 117467372 |  AE2ED = 0.7779296158940397 |  PDR = 0.993421052631579
 Generated Packets 152 | ReceivedPackets 152
-TL = 123706387 |  AE2ED = 0.8138578092105263 |  PDR = 1
+TL = 118095284 |  AE2ED = 0.7769426578947368 |  PDR = 1
 Generated Packets 153 | ReceivedPackets 153
-TL = 123819403 |  AE2ED = 0.8092771437908497 |  PDR = 1
+TL = 118176790 |  AE2ED = 0.7723973202614379 |  PDR = 1
 Generated Packets 154 | ReceivedPackets 154
-TL = 124040391 |  AE2ED = 0.8054570844155845 |  PDR = 1
-Generated Packets 155 | ReceivedPackets 155
-TL = 124156288 |  AE2ED = 0.8010083096774193 |  PDR = 1
-Generated Packets 156 | ReceivedPackets 156
-TL = 124515711 |  AE2ED = 0.7981776346153846 |  PDR = 1
-Generated Packets 157 | ReceivedPackets 157
-TL = 124716368 |  AE2ED = 0.7943717707006369 |  PDR = 1
-Generated Packets 159 | ReceivedPackets 158
-TL = 124739431 |  AE2ED = 0.7894900696202531 |  PDR = 0.9937106918238994
-Generated Packets 159 | ReceivedPackets 159
-TL = 126127273 |  AE2ED = 0.7932532893081762 |  PDR = 1
-Generated Packets 160 | ReceivedPackets 160
-TL = 126250106 |  AE2ED = 0.7890631625 |  PDR = 1
-Generated Packets 161 | ReceivedPackets 161
-TL = 126354151 |  AE2ED = 0.7848083913043478 |  PDR = 1
+TL = 118330895 |  AE2ED = 0.768382435064935 |  PDR = 1
+Generated Packets 156 | ReceivedPackets 155
+TL = 118489219 |  AE2ED = 0.7644465741935484 |  PDR = 0.9935897435897436
+Generated Packets 159 | ReceivedPackets 156
+TL = 121815363 |  AE2ED = 0.7808677115384615 |  PDR = 0.9811320754716981
+Generated Packets 160 | ReceivedPackets 157
+TL = 121897969 |  AE2ED = 0.7764201847133757 |  PDR = 0.98125
+Generated Packets 162 | ReceivedPackets 158
+TL = 126057369 |  AE2ED = 0.7978314493670886 |  PDR = 0.9753086419753086
+Generated Packets 162 | ReceivedPackets 159
+TL = 129417698 |  AE2ED = 0.813947786163522 |  PDR = 0.9814814814814815
+Generated Packets 162 | ReceivedPackets 160
+TL = 132400214 |  AE2ED = 0.8275013375 |  PDR = 0.9876543209876543
+Generated Packets 163 | ReceivedPackets 161
+TL = 133456715 |  AE2ED = 0.8289236956521739 |  PDR = 0.9877300613496932
 Generated Packets 164 | ReceivedPackets 162
-TL = 127010294 |  AE2ED = 0.7840141604938272 |  PDR = 0.9878048780487805
-Generated Packets 164 | ReceivedPackets 163
-TL = 127668262 |  AE2ED = 0.7832408711656441 |  PDR = 0.9939024390243902
-Generated Packets 164 | ReceivedPackets 164
-TL = 128423722 |  AE2ED = 0.7830714756097561 |  PDR = 1
-Generated Packets 166 | ReceivedPackets 165
-TL = 129653991 |  AE2ED = 0.7857817636363637 |  PDR = 0.9939759036144579
-Generated Packets 167 | ReceivedPackets 166
-TL = 130558702 |  AE2ED = 0.7864982048192771 |  PDR = 0.9940119760479041
-Generated Packets 168 | ReceivedPackets 167
-TL = 135674194 |  AE2ED = 0.8124203233532935 |  PDR = 0.9940476190476191
-Generated Packets 168 | ReceivedPackets 168
-TL = 138641549 |  AE2ED = 0.8252473154761906 |  PDR = 1
-Generated Packets 169 | ReceivedPackets 169
-TL = 138708856 |  AE2ED = 0.8207624615384616 |  PDR = 1
-Generated Packets 170 | ReceivedPackets 170
-TL = 138752594 |  AE2ED = 0.8161917294117647 |  PDR = 1
-Generated Packets 171 | ReceivedPackets 171
-TL = 138836396 |  AE2ED = 0.8119087485380116 |  PDR = 1
-Generated Packets 172 | ReceivedPackets 172
-TL = 139739590 |  AE2ED = 0.812439476744186 |  PDR = 1
-Generated Packets 173 | ReceivedPackets 173
-TL = 140287620 |  AE2ED = 0.810911098265896 |  PDR = 1
-Generated Packets 174 | ReceivedPackets 174
-TL = 140443217 |  AE2ED = 0.8071449252873564 |  PDR = 1
-Generated Packets 175 | ReceivedPackets 175
-TL = 141079908 |  AE2ED = 0.8061709028571429 |  PDR = 1
-Generated Packets 176 | ReceivedPackets 176
-TL = 141120878 |  AE2ED = 0.8018231704545454 |  PDR = 1
-Generated Packets 177 | ReceivedPackets 177
-TL = 141188133 |  AE2ED = 0.7976730677966102 |  PDR = 1
-Generated Packets 178 | ReceivedPackets 178
-TL = 141320680 |  AE2ED = 0.793936404494382 |  PDR = 1
-Generated Packets 179 | ReceivedPackets 179
-TL = 142629914 |  AE2ED = 0.7968151620111732 |  PDR = 1
-Generated Packets 180 | ReceivedPackets 180
-TL = 148297967 |  AE2ED = 0.8238775944444444 |  PDR = 1
-Generated Packets 181 | ReceivedPackets 181
-TL = 148637069 |  AE2ED = 0.8211992762430939 |  PDR = 1
+TL = 133620150 |  AE2ED = 0.8248157407407408 |  PDR = 0.9878048780487805
+Generated Packets 165 | ReceivedPackets 163
+TL = 133678468 |  AE2ED = 0.820113300613497 |  PDR = 0.9878787878787879
+Generated Packets 166 | ReceivedPackets 164
+TL = 133749841 |  AE2ED = 0.8155478109756098 |  PDR = 0.9879518072289156
+Generated Packets 167 | ReceivedPackets 165
+TL = 134233615 |  AE2ED = 0.8135370606060606 |  PDR = 0.9880239520958084
+Generated Packets 168 | ReceivedPackets 166
+TL = 134396740 |  AE2ED = 0.8096189156626507 |  PDR = 0.9880952380952381
+Generated Packets 169 | ReceivedPackets 167
+TL = 134604589 |  AE2ED = 0.8060155029940119 |  PDR = 0.9881656804733728
+Generated Packets 171 | ReceivedPackets 168
+TL = 134715216 |  AE2ED = 0.8018762857142857 |  PDR = 0.9824561403508771
+Generated Packets 172 | ReceivedPackets 169
+TL = 134763565 |  AE2ED = 0.7974175443786983 |  PDR = 0.9825581395348837
+Generated Packets 172 | ReceivedPackets 170
+TL = 136862733 |  AE2ED = 0.8050749 |  PDR = 0.9883720930232558
+Generated Packets 173 | ReceivedPackets 171
+TL = 136990235 |  AE2ED = 0.8011124853801169 |  PDR = 0.9884393063583815
+Generated Packets 174 | ReceivedPackets 172
+TL = 137172630 |  AE2ED = 0.7975152906976744 |  PDR = 0.9885057471264368
+Generated Packets 175 | ReceivedPackets 173
+TL = 137349968 |  AE2ED = 0.793930450867052 |  PDR = 0.9885714285714285
+Generated Packets 176 | ReceivedPackets 174
+TL = 137461169 |  AE2ED = 0.7900067183908046 |  PDR = 0.9886363636363636
+Generated Packets 177 | ReceivedPackets 175
+TL = 137599526 |  AE2ED = 0.7862830057142858 |  PDR = 0.9887005649717514
+Generated Packets 178 | ReceivedPackets 176
+TL = 137700739 |  AE2ED = 0.7823905625 |  PDR = 0.9887640449438202
+Generated Packets 179 | ReceivedPackets 177
+TL = 137792226 |  AE2ED = 0.7784871525423729 |  PDR = 0.9888268156424581
+Generated Packets 180 | ReceivedPackets 178
+TL = 138153224 |  AE2ED = 0.7761417078651686 |  PDR = 0.9888888888888889
+Generated Packets 181 | ReceivedPackets 179
+TL = 138341864 |  AE2ED = 0.7728595754189944 |  PDR = 0.988950276243094
+Generated Packets 182 | ReceivedPackets 180
+TL = 138410186 |  AE2ED = 0.7689454777777778 |  PDR = 0.989010989010989
+Generated Packets 184 | ReceivedPackets 181
+TL = 140483171 |  AE2ED = 0.7761501160220994 |  PDR = 0.9836956521739131
 Generated Packets 184 | ReceivedPackets 182
-TL = 149297584 |  AE2ED = 0.8203163956043956 |  PDR = 0.9891304347826086
-Generated Packets 184 | ReceivedPackets 183
-TL = 153845094 |  AE2ED = 0.8406835737704917 |  PDR = 0.9945652173913043
-Generated Packets 184 | ReceivedPackets 184
-TL = 156115492 |  AE2ED = 0.8484537608695651 |  PDR = 1
-Generated Packets 185 | ReceivedPackets 185
-TL = 156320997 |  AE2ED = 0.8449783621621622 |  PDR = 1
-Generated Packets 187 | ReceivedPackets 186
-TL = 156505849 |  AE2ED = 0.8414292956989247 |  PDR = 0.9946524064171123
-Generated Packets 187 | ReceivedPackets 187
-TL = 161118121 |  AE2ED = 0.861594229946524 |  PDR = 1
-Generated Packets 188 | ReceivedPackets 188
-TL = 161140959 |  AE2ED = 0.8571327606382979 |  PDR = 1
-Generated Packets 189 | ReceivedPackets 189
-TL = 161353870 |  AE2ED = 0.8537241798941799 |  PDR = 1
-Generated Packets 191 | ReceivedPackets 190
-TL = 161414638 |  AE2ED = 0.8495507263157895 |  PDR = 0.9947643979057592
+TL = 142833598 |  AE2ED = 0.784799989010989 |  PDR = 0.9891304347826086
+Generated Packets 186 | ReceivedPackets 183
+TL = 143162791 |  AE2ED = 0.7823103333333333 |  PDR = 0.9838709677419355
+Generated Packets 186 | ReceivedPackets 184
+TL = 144858724 |  AE2ED = 0.7872756739130434 |  PDR = 0.989247311827957
+Generated Packets 187 | ReceivedPackets 185
+TL = 146388980 |  AE2ED = 0.7912917837837838 |  PDR = 0.9893048128342246
+Generated Packets 188 | ReceivedPackets 186
+TL = 146478504 |  AE2ED = 0.7875188387096774 |  PDR = 0.9893617021276596
+Generated Packets 189 | ReceivedPackets 187
+TL = 146576454 |  AE2ED = 0.7838313048128343 |  PDR = 0.9894179894179894
+Generated Packets 190 | ReceivedPackets 188
+TL = 146729660 |  AE2ED = 0.780476914893617 |  PDR = 0.9894736842105263
+Generated Packets 191 | ReceivedPackets 189
+TL = 146975621 |  AE2ED = 0.7776487883597883 |  PDR = 0.9895287958115183
+Generated Packets 192 | ReceivedPackets 190
+TL = 148831159 |  AE2ED = 0.7833218894736842 |  PDR = 0.9895833333333334
 Generated Packets 193 | ReceivedPackets 191
-TL = 161458470 |  AE2ED = 0.8453323036649214 |  PDR = 0.9896373056994818
+TL = 149409460 |  AE2ED = 0.7822484816753927 |  PDR = 0.9896373056994818
 Generated Packets 194 | ReceivedPackets 192
-TL = 161840221 |  AE2ED = 0.8429178177083334 |  PDR = 0.9896907216494846
-Generated Packets 194 | ReceivedPackets 193
-TL = 166581677 |  AE2ED = 0.8631174974093264 |  PDR = 0.9948453608247423
-Generated Packets 194 | ReceivedPackets 194
-TL = 170095050 |  AE2ED = 0.8767786082474227 |  PDR = 1
-Generated Packets 195 | ReceivedPackets 195
-TL = 170433337 |  AE2ED = 0.8740171128205129 |  PDR = 1
-Generated Packets 196 | ReceivedPackets 196
-TL = 171372041 |  AE2ED = 0.8743471479591837 |  PDR = 1
-Generated Packets 197 | ReceivedPackets 197
-TL = 171652059 |  AE2ED = 0.8713302487309645 |  PDR = 1
-Generated Packets 199 | ReceivedPackets 198
-TL = 171894210 |  AE2ED = 0.8681525757575758 |  PDR = 0.9949748743718593
-Generated Packets 200 | ReceivedPackets 199
-TL = 172017920 |  AE2ED = 0.8644116582914574 |  PDR = 0.995
-Generated Packets 202 | ReceivedPackets 200
-TL = 172783359 |  AE2ED = 0.8639167950000001 |  PDR = 0.9900990099009901
-Generated Packets 202 | ReceivedPackets 201
-TL = 173192049 |  AE2ED = 0.8616519850746268 |  PDR = 0.995049504950495
-Generated Packets 202 | ReceivedPackets 202
-TL = 176272357 |  AE2ED = 0.8726354306930694 |  PDR = 1
-Generated Packets 203 | ReceivedPackets 203
-TL = 176567266 |  AE2ED = 0.8697894876847291 |  PDR = 1
-Generated Packets 204 | ReceivedPackets 204
-TL = 178310779 |  AE2ED = 0.8740724460784314 |  PDR = 1
-Generated Packets 205 | ReceivedPackets 205
-TL = 178470000 |  AE2ED = 0.8705853658536585 |  PDR = 1
-Generated Packets 206 | ReceivedPackets 206
-TL = 179997214 |  AE2ED = 0.8737728834951456 |  PDR = 1
-Generated Packets 207 | ReceivedPackets 207
-TL = 180523140 |  AE2ED = 0.872092463768116 |  PDR = 1
-Generated Packets 208 | ReceivedPackets 208
-TL = 180715513 |  AE2ED = 0.8688245817307693 |  PDR = 1
-Generated Packets 210 | ReceivedPackets 209
-TL = 181624800 |  AE2ED = 0.8690181818181818 |  PDR = 0.9952380952380953
-Generated Packets 211 | ReceivedPackets 210
-TL = 181679905 |  AE2ED = 0.8651424047619047 |  PDR = 0.995260663507109
-Generated Packets 211 | ReceivedPackets 211
-TL = 185426341 |  AE2ED = 0.8787978246445497 |  PDR = 1
-Generated Packets 212 | ReceivedPackets 212
-TL = 185681839 |  AE2ED = 0.8758577311320754 |  PDR = 1
-Generated Packets 213 | ReceivedPackets 213
-TL = 185887162 |  AE2ED = 0.8727096807511737 |  PDR = 1
-Generated Packets 215 | ReceivedPackets 214
-TL = 188837545 |  AE2ED = 0.8824184345794392 |  PDR = 0.9953488372093023
-Generated Packets 215 | ReceivedPackets 215
-TL = 189395568 |  AE2ED = 0.8809096186046512 |  PDR = 1
-Generated Packets 216 | ReceivedPackets 216
-TL = 189518117 |  AE2ED = 0.8773986898148148 |  PDR = 1
-Generated Packets 217 | ReceivedPackets 217
-TL = 189994356 |  AE2ED = 0.8755500276497695 |  PDR = 1
-Generated Packets 218 | ReceivedPackets 218
-TL = 190860855 |  AE2ED = 0.8755085091743119 |  PDR = 1
-Generated Packets 219 | ReceivedPackets 219
-TL = 190954077 |  AE2ED = 0.8719364246575342 |  PDR = 1
-Generated Packets 220 | ReceivedPackets 220
-TL = 191175890 |  AE2ED = 0.8689813181818182 |  PDR = 1
-Generated Packets 221 | ReceivedPackets 221
-TL = 191236431 |  AE2ED = 0.8653232171945701 |  PDR = 1
-Generated Packets 222 | ReceivedPackets 222
-TL = 191375851 |  AE2ED = 0.8620533828828828 |  PDR = 1
-Generated Packets 223 | ReceivedPackets 223
-TL = 191492363 |  AE2ED = 0.8587101479820628 |  PDR = 1
-Generated Packets 224 | ReceivedPackets 224
-TL = 191605723 |  AE2ED = 0.8553826919642857 |  PDR = 1
-Generated Packets 225 | ReceivedPackets 225
-TL = 195094860 |  AE2ED = 0.8670882666666667 |  PDR = 1
-Generated Packets 226 | ReceivedPackets 226
-TL = 195145580 |  AE2ED = 0.8634760176991151 |  PDR = 1
-Generated Packets 228 | ReceivedPackets 227
-TL = 195168582 |  AE2ED = 0.8597734889867841 |  PDR = 0.9956140350877193
-Generated Packets 228 | ReceivedPackets 228
-TL = 195352237 |  AE2ED = 0.8568080570175438 |  PDR = 1
-Generated Packets 229 | ReceivedPackets 229
-TL = 195859220 |  AE2ED = 0.8552804366812228 |  PDR = 1
-Generated Packets 230 | ReceivedPackets 230
-TL = 196278279 |  AE2ED = 0.8533838217391304 |  PDR = 1
-Generated Packets 231 | ReceivedPackets 231
-TL = 196338989 |  AE2ED = 0.8499523333333334 |  PDR = 1
-Generated Packets 233 | ReceivedPackets 232
-TL = 196634409 |  AE2ED = 0.8475621077586206 |  PDR = 0.9957081545064378
-Generated Packets 234 | ReceivedPackets 233
-TL = 196897585 |  AE2ED = 0.8450540128755365 |  PDR = 0.9957264957264957
-Generated Packets 234 | ReceivedPackets 234
-TL = 198188886 |  AE2ED = 0.8469610512820512 |  PDR = 1
-Generated Packets 235 | ReceivedPackets 235
-TL = 198685289 |  AE2ED = 0.8454693148936171 |  PDR = 1
-Generated Packets 236 | ReceivedPackets 236
-TL = 198821538 |  AE2ED = 0.8424641440677967 |  PDR = 1
-Generated Packets 237 | ReceivedPackets 237
-TL = 198917624 |  AE2ED = 0.8393148691983123 |  PDR = 1
-Generated Packets 238 | ReceivedPackets 238
-TL = 199366295 |  AE2ED = 0.8376735084033613 |  PDR = 1
-Generated Packets 242 | ReceivedPackets 239
-TL = 203209169 |  AE2ED = 0.8502475690376569 |  PDR = 0.987603305785124
+TL = 149520392 |  AE2ED = 0.7787520416666667 |  PDR = 0.9896907216494846
+Generated Packets 195 | ReceivedPackets 193
+TL = 149946657 |  AE2ED = 0.7769256839378239 |  PDR = 0.9897435897435898
+Generated Packets 196 | ReceivedPackets 194
+TL = 150047461 |  AE2ED = 0.7734405206185566 |  PDR = 0.9897959183673469
+Generated Packets 197 | ReceivedPackets 195
+TL = 150168302 |  AE2ED = 0.7700938564102564 |  PDR = 0.9898477157360406
+Generated Packets 198 | ReceivedPackets 196
+TL = 150351800 |  AE2ED = 0.7671010204081633 |  PDR = 0.98989898989899
+Generated Packets 199 | ReceivedPackets 197
+TL = 150469231 |  AE2ED = 0.7638032030456853 |  PDR = 0.9899497487437185
+Generated Packets 200 | ReceivedPackets 198
+TL = 150722919 |  AE2ED = 0.7612268636363636 |  PDR = 0.99
+Generated Packets 201 | ReceivedPackets 199
+TL = 150956472 |  AE2ED = 0.7585752361809045 |  PDR = 0.9900497512437811
+Generated Packets 203 | ReceivedPackets 200
+TL = 151349418 |  AE2ED = 0.75674709 |  PDR = 0.9852216748768473
+Generated Packets 204 | ReceivedPackets 201
+TL = 151615819 |  AE2ED = 0.7543075572139303 |  PDR = 0.9852941176470589
+Generated Packets 204 | ReceivedPackets 202
+TL = 154592233 |  AE2ED = 0.7653080841584158 |  PDR = 0.9901960784313726
+Generated Packets 205 | ReceivedPackets 203
+TL = 154673776 |  AE2ED = 0.7619397832512316 |  PDR = 0.9902439024390244
+Generated Packets 207 | ReceivedPackets 204
+TL = 155393286 |  AE2ED = 0.7617317941176471 |  PDR = 0.9855072463768116
+Generated Packets 207 | ReceivedPackets 205
+TL = 155729604 |  AE2ED = 0.7596566048780488 |  PDR = 0.9903381642512077
+Generated Packets 208 | ReceivedPackets 206
+TL = 155959597 |  AE2ED = 0.757085422330097 |  PDR = 0.9903846153846154
+Generated Packets 209 | ReceivedPackets 207
+TL = 156151403 |  AE2ED = 0.7543546038647343 |  PDR = 0.9904306220095693
+Generated Packets 210 | ReceivedPackets 208
+TL = 156706920 |  AE2ED = 0.7533986538461539 |  PDR = 0.9904761904761905
+Generated Packets 211 | ReceivedPackets 209
+TL = 156834300 |  AE2ED = 0.7504033492822966 |  PDR = 0.990521327014218
+Generated Packets 212 | ReceivedPackets 210
+TL = 156945259 |  AE2ED = 0.7473583761904762 |  PDR = 0.9905660377358491
+Generated Packets 213 | ReceivedPackets 211
+TL = 157199777 |  AE2ED = 0.7450226398104265 |  PDR = 0.9906103286384976
+Generated Packets 214 | ReceivedPackets 212
+TL = 157373220 |  AE2ED = 0.7423265094339623 |  PDR = 0.9906542056074766
+Generated Packets 215 | ReceivedPackets 213
+TL = 157879526 |  AE2ED = 0.7412184319248826 |  PDR = 0.9906976744186047
+Generated Packets 216 | ReceivedPackets 214
+TL = 158119744 |  AE2ED = 0.738877308411215 |  PDR = 0.9907407407407407
+Generated Packets 219 | ReceivedPackets 215
+TL = 158243972 |  AE2ED = 0.7360184744186047 |  PDR = 0.9817351598173516
+Generated Packets 219 | ReceivedPackets 216
+TL = 158386443 |  AE2ED = 0.7332705694444445 |  PDR = 0.9863013698630136
+Generated Packets 219 | ReceivedPackets 217
+TL = 159539261 |  AE2ED = 0.7352039677419355 |  PDR = 0.9908675799086758
+Generated Packets 220 | ReceivedPackets 218
+TL = 159621566 |  AE2ED = 0.7322090183486238 |  PDR = 0.990909090909091
+Generated Packets 221 | ReceivedPackets 219
+TL = 159890299 |  AE2ED = 0.7300926894977169 |  PDR = 0.9909502262443439
+Generated Packets 222 | ReceivedPackets 220
+TL = 160092638 |  AE2ED = 0.7276938090909091 |  PDR = 0.990990990990991
+Generated Packets 223 | ReceivedPackets 221
+TL = 160276102 |  AE2ED = 0.7252312307692308 |  PDR = 0.9910313901345291
+Generated Packets 224 | ReceivedPackets 222
+TL = 160436805 |  AE2ED = 0.7226883108108108 |  PDR = 0.9910714285714286
+Generated Packets 225 | ReceivedPackets 223
+TL = 160670635 |  AE2ED = 0.7204961210762332 |  PDR = 0.9911111111111112
+Generated Packets 226 | ReceivedPackets 224
+TL = 160735771 |  AE2ED = 0.71757040625 |  PDR = 0.9911504424778761
+Generated Packets 227 | ReceivedPackets 225
+TL = 161679134 |  AE2ED = 0.7185739288888889 |  PDR = 0.9911894273127754
+Generated Packets 228 | ReceivedPackets 226
+TL = 161770526 |  AE2ED = 0.7157987876106194 |  PDR = 0.9912280701754386
+Generated Packets 229 | ReceivedPackets 227
+TL = 161836934 |  AE2ED = 0.7129380352422907 |  PDR = 0.9912663755458515
+Generated Packets 231 | ReceivedPackets 228
+TL = 161987397 |  AE2ED = 0.7104710394736842 |  PDR = 0.987012987012987
+Generated Packets 232 | ReceivedPackets 229
+TL = 162088559 |  AE2ED = 0.7078103013100436 |  PDR = 0.9870689655172413
+Generated Packets 232 | ReceivedPackets 230
+TL = 163287117 |  AE2ED = 0.7099439869565217 |  PDR = 0.9913793103448276
+Generated Packets 234 | ReceivedPackets 231
+TL = 163884130 |  AE2ED = 0.7094551082251083 |  PDR = 0.9871794871794872
+Generated Packets 234 | ReceivedPackets 232
+TL = 164274489 |  AE2ED = 0.7080796939655172 |  PDR = 0.9914529914529915
+Generated Packets 235 | ReceivedPackets 233
+TL = 164362637 |  AE2ED = 0.7054190429184549 |  PDR = 0.9914893617021276
+Generated Packets 236 | ReceivedPackets 234
+TL = 164496321 |  AE2ED = 0.7029757307692307 |  PDR = 0.9915254237288136
+Generated Packets 237 | ReceivedPackets 235
+TL = 164904243 |  AE2ED = 0.7017201829787234 |  PDR = 0.9915611814345991
+Generated Packets 238 | ReceivedPackets 236
+TL = 165310837 |  AE2ED = 0.7004696483050847 |  PDR = 0.9915966386554622
+Generated Packets 239 | ReceivedPackets 237
+TL = 165871728 |  AE2ED = 0.6998807088607595 |  PDR = 0.9916317991631799
+Generated Packets 240 | ReceivedPackets 238
+TL = 165896225 |  AE2ED = 0.6970429621848739 |  PDR = 0.9916666666666667
+Generated Packets 241 | ReceivedPackets 239
+TL = 165921136 |  AE2ED = 0.6942306945606694 |  PDR = 0.991701244813278
 Generated Packets 242 | ReceivedPackets 240
-TL = 207434983 |  AE2ED = 0.8643124291666667 |  PDR = 0.9917355371900827
-Generated Packets 242 | ReceivedPackets 241
-TL = 208762175 |  AE2ED = 0.8662330912863071 |  PDR = 0.9958677685950413
-Generated Packets 242 | ReceivedPackets 242
-TL = 210504799 |  AE2ED = 0.8698545413223141 |  PDR = 1
-Generated Packets 244 | ReceivedPackets 243
-TL = 211160449 |  AE2ED = 0.8689730411522634 |  PDR = 0.9959016393442623
-Generated Packets 244 | ReceivedPackets 244
-TL = 211443439 |  AE2ED = 0.8665714713114754 |  PDR = 1
-Generated Packets 245 | ReceivedPackets 245
-TL = 211790577 |  AE2ED = 0.8644513346938776 |  PDR = 1
-Generated Packets 246 | ReceivedPackets 246
-TL = 212086895 |  AE2ED = 0.8621418495934959 |  PDR = 1
-Generated Packets 247 | ReceivedPackets 247
-TL = 212160783 |  AE2ED = 0.8589505384615385 |  PDR = 1
-Generated Packets 248 | ReceivedPackets 248
-TL = 212205058 |  AE2ED = 0.8556655564516128 |  PDR = 1
-Generated Packets 249 | ReceivedPackets 249
-TL = 212341133 |  AE2ED = 0.8527756345381526 |  PDR = 1
-Generated Packets 250 | ReceivedPackets 250
-TL = 212364160 |  AE2ED = 0.84945664 |  PDR = 1
-Generated Packets 251 | ReceivedPackets 251
-TL = 212431489 |  AE2ED = 0.846340593625498 |  PDR = 1
-Generated Packets 252 | ReceivedPackets 252
-TL = 212519062 |  AE2ED = 0.8433296111111112 |  PDR = 1
-Generated Packets 253 | ReceivedPackets 253
-TL = 212979918 |  AE2ED = 0.8418178577075099 |  PDR = 1
-Generated Packets 254 | ReceivedPackets 254
-TL = 213194865 |  AE2ED = 0.8393498622047244 |  PDR = 1
-Generated Packets 256 | ReceivedPackets 255
-TL = 213915683 |  AE2ED = 0.838885031372549 |  PDR = 0.99609375
-Generated Packets 256 | ReceivedPackets 256
-TL = 214292157 |  AE2ED = 0.83707873828125 |  PDR = 1
-Generated Packets 257 | ReceivedPackets 257
-TL = 214520172 |  AE2ED = 0.8347088404669261 |  PDR = 1
-Generated Packets 258 | ReceivedPackets 258
-TL = 215135905 |  AE2ED = 0.8338600968992248 |  PDR = 1
-Generated Packets 260 | ReceivedPackets 259
-TL = 217302683 |  AE2ED = 0.8390064980694981 |  PDR = 0.9961538461538462
-Generated Packets 260 | ReceivedPackets 260
-TL = 218487740 |  AE2ED = 0.8403374615384614 |  PDR = 1
-Generated Packets 261 | ReceivedPackets 261
-TL = 218991550 |  AE2ED = 0.8390480842911877 |  PDR = 1
-Generated Packets 262 | ReceivedPackets 262
-TL = 219243581 |  AE2ED = 0.8368075610687022 |  PDR = 1
-Generated Packets 263 | ReceivedPackets 263
-TL = 219570046 |  AE2ED = 0.8348670950570342 |  PDR = 1
-Generated Packets 264 | ReceivedPackets 264
-TL = 220084348 |  AE2ED = 0.8336528333333334 |  PDR = 1
-Generated Packets 265 | ReceivedPackets 265
-TL = 220239869 |  AE2ED = 0.8310938452830189 |  PDR = 1
-Generated Packets 266 | ReceivedPackets 266
-TL = 220690233 |  AE2ED = 0.829662530075188 |  PDR = 1
-Generated Packets 267 | ReceivedPackets 267
-TL = 220889162 |  AE2ED = 0.8273002322097379 |  PDR = 1
-Generated Packets 268 | ReceivedPackets 268
-TL = 220949716 |  AE2ED = 0.8244392388059701 |  PDR = 1
-Generated Packets 269 | ReceivedPackets 269
-TL = 221182479 |  AE2ED = 0.8222396988847585 |  PDR = 1
-Generated Packets 270 | ReceivedPackets 270
-TL = 221420204 |  AE2ED = 0.8200748296296296 |  PDR = 1
-Generated Packets 271 | ReceivedPackets 271
-TL = 222016113 |  AE2ED = 0.8192476494464944 |  PDR = 1
-Generated Packets 272 | ReceivedPackets 272
-TL = 222140267 |  AE2ED = 0.8166921580882353 |  PDR = 1
-Generated Packets 273 | ReceivedPackets 273
-TL = 222413045 |  AE2ED = 0.8146997985347986 |  PDR = 1
-Generated Packets 275 | ReceivedPackets 274
-TL = 222510708 |  AE2ED = 0.8120828759124088 |  PDR = 0.9963636363636363
-Generated Packets 275 | ReceivedPackets 275
-TL = 222953465 |  AE2ED = 0.8107398727272727 |  PDR = 1
-Generated Packets 276 | ReceivedPackets 276
-TL = 223842724 |  AE2ED = 0.8110243623188406 |  PDR = 1
-Generated Packets 277 | ReceivedPackets 277
-TL = 223963696 |  AE2ED = 0.8085331985559567 |  PDR = 1
-Generated Packets 278 | ReceivedPackets 278
-TL = 224054897 |  AE2ED = 0.8059528669064748 |  PDR = 1
-Generated Packets 279 | ReceivedPackets 279
-TL = 225072189 |  AE2ED = 0.8067103548387097 |  PDR = 1
-Generated Packets 281 | ReceivedPackets 280
-TL = 225168778 |  AE2ED = 0.8041742071428571 |  PDR = 0.99644128113879
-Generated Packets 282 | ReceivedPackets 281
-TL = 225447318 |  AE2ED = 0.8023036227758008 |  PDR = 0.9964539007092199
-Generated Packets 282 | ReceivedPackets 282
-TL = 227289747 |  AE2ED = 0.8059920106382978 |  PDR = 1
-Generated Packets 283 | ReceivedPackets 283
-TL = 227440714 |  AE2ED = 0.8036774346289752 |  PDR = 1
-Generated Packets 284 | ReceivedPackets 284
-TL = 227594704 |  AE2ED = 0.8013898028169013 |  PDR = 1
-Generated Packets 285 | ReceivedPackets 285
-TL = 229951059 |  AE2ED = 0.8068458210526316 |  PDR = 1
-Generated Packets 286 | ReceivedPackets 286
-TL = 230031970 |  AE2ED = 0.8043075874125873 |  PDR = 1
-Generated Packets 287 | ReceivedPackets 287
-TL = 230149445 |  AE2ED = 0.8019144425087108 |  PDR = 1
-Generated Packets 288 | ReceivedPackets 288
-TL = 230241454 |  AE2ED = 0.7994494930555555 |  PDR = 1
-Generated Packets 290 | ReceivedPackets 289
-TL = 230326063 |  AE2ED = 0.7969759965397923 |  PDR = 0.996551724137931
-Generated Packets 290 | ReceivedPackets 290
-TL = 230622556 |  AE2ED = 0.7952501931034482 |  PDR = 1
-Generated Packets 291 | ReceivedPackets 291
-TL = 231086024 |  AE2ED = 0.7941100481099657 |  PDR = 1
-Generated Packets 293 | ReceivedPackets 292
-TL = 231389998 |  AE2ED = 0.7924315 |  PDR = 0.9965870307167235
-Generated Packets 293 | ReceivedPackets 293
-TL = 231595151 |  AE2ED = 0.7904271365187713 |  PDR = 1
-Generated Packets 294 | ReceivedPackets 294
-TL = 231679839 |  AE2ED = 0.7880266632653061 |  PDR = 1
-Generated Packets 295 | ReceivedPackets 295
-TL = 231837561 |  AE2ED = 0.7858900372881357 |  PDR = 1
-Generated Packets 296 | ReceivedPackets 296
-TL = 232369380 |  AE2ED = 0.7850316891891892 |  PDR = 1
-Generated Packets 297 | ReceivedPackets 297
-TL = 232614729 |  AE2ED = 0.7832145757575758 |  PDR = 1
-Generated Packets 298 | ReceivedPackets 298
-TL = 232705910 |  AE2ED = 0.7808923154362416 |  PDR = 1
-Generated Packets 299 | ReceivedPackets 299
-TL = 232866804 |  AE2ED = 0.7788187424749163 |  PDR = 1
-Generated Packets 300 | ReceivedPackets 300
-TL = 233074723 |  AE2ED = 0.7769157433333332 |  PDR = 1
-Generated Packets 303 | ReceivedPackets 301
-TL = 234405305 |  AE2ED = 0.7787551661129568 |  PDR = 0.9933993399339934
-Generated Packets 303 | ReceivedPackets 302
-TL = 236967764 |  AE2ED = 0.7846614701986755 |  PDR = 0.9966996699669967
+TL = 166071719 |  AE2ED = 0.6919654958333333 |  PDR = 0.9917355371900827
+Generated Packets 243 | ReceivedPackets 241
+TL = 166179039 |  AE2ED = 0.689539580912863 |  PDR = 0.9917695473251029
+Generated Packets 244 | ReceivedPackets 242
+TL = 166685431 |  AE2ED = 0.6887827727272727 |  PDR = 0.9918032786885246
+Generated Packets 245 | ReceivedPackets 243
+TL = 167090195 |  AE2ED = 0.6876139711934157 |  PDR = 0.9918367346938776
+Generated Packets 246 | ReceivedPackets 244
+TL = 167181683 |  AE2ED = 0.6851708319672131 |  PDR = 0.991869918699187
+Generated Packets 247 | ReceivedPackets 245
+TL = 167299710 |  AE2ED = 0.6828559591836735 |  PDR = 0.9919028340080972
+Generated Packets 248 | ReceivedPackets 246
+TL = 167414081 |  AE2ED = 0.6805450447154471 |  PDR = 0.9919354838709677
+Generated Packets 249 | ReceivedPackets 247
+TL = 167495433 |  AE2ED = 0.6781191619433198 |  PDR = 0.9919678714859438
+Generated Packets 250 | ReceivedPackets 248
+TL = 167758128 |  AE2ED = 0.676444064516129 |  PDR = 0.992
+Generated Packets 251 | ReceivedPackets 249
+TL = 167869209 |  AE2ED = 0.674173530120482 |  PDR = 0.9920318725099602
+Generated Packets 252 | ReceivedPackets 250
+TL = 168692091 |  AE2ED = 0.674768364 |  PDR = 0.9920634920634921
+Generated Packets 253 | ReceivedPackets 251
+TL = 169780307 |  AE2ED = 0.6764155657370517 |  PDR = 0.9920948616600791
+Generated Packets 254 | ReceivedPackets 252
+TL = 169921009 |  AE2ED = 0.6742897182539683 |  PDR = 0.9921259842519685
+Generated Packets 255 | ReceivedPackets 253
+TL = 170081372 |  AE2ED = 0.6722583873517787 |  PDR = 0.9921568627450981
+Generated Packets 256 | ReceivedPackets 254
+TL = 170176041 |  AE2ED = 0.6699844133858267 |  PDR = 0.9921875
+Generated Packets 257 | ReceivedPackets 255
+TL = 170653635 |  AE2ED = 0.6692299411764706 |  PDR = 0.9922178988326849
+Generated Packets 258 | ReceivedPackets 256
+TL = 170761658 |  AE2ED = 0.6670377265625 |  PDR = 0.9922480620155039
+Generated Packets 259 | ReceivedPackets 257
+TL = 170950465 |  AE2ED = 0.665176906614786 |  PDR = 0.9922779922779923
+Generated Packets 260 | ReceivedPackets 258
+TL = 171306529 |  AE2ED = 0.6639787945736434 |  PDR = 0.9923076923076923
+Generated Packets 261 | ReceivedPackets 259
+TL = 171653716 |  AE2ED = 0.6627556602316602 |  PDR = 0.9923371647509579
+Generated Packets 262 | ReceivedPackets 260
+TL = 171780374 |  AE2ED = 0.6606937461538461 |  PDR = 0.9923664122137404
+Generated Packets 263 | ReceivedPackets 261
+TL = 171868533 |  AE2ED = 0.6585001264367816 |  PDR = 0.9923954372623575
+Generated Packets 264 | ReceivedPackets 262
+TL = 172072869 |  AE2ED = 0.6567666755725191 |  PDR = 0.9924242424242424
+Generated Packets 265 | ReceivedPackets 263
+TL = 172156446 |  AE2ED = 0.654587247148289 |  PDR = 0.9924528301886792
+Generated Packets 266 | ReceivedPackets 264
+TL = 173071259 |  AE2ED = 0.6555729507575758 |  PDR = 0.9924812030075187
+Generated Packets 267 | ReceivedPackets 265
+TL = 173621231 |  AE2ED = 0.6551744566037736 |  PDR = 0.9925093632958801
+Generated Packets 268 | ReceivedPackets 266
+TL = 174073960 |  AE2ED = 0.6544133834586466 |  PDR = 0.9925373134328358
+Generated Packets 269 | ReceivedPackets 267
+TL = 174132160 |  AE2ED = 0.6521803745318352 |  PDR = 0.9925650557620818
+Generated Packets 270 | ReceivedPackets 268
+TL = 174317226 |  AE2ED = 0.6504374104477612 |  PDR = 0.9925925925925926
+Generated Packets 271 | ReceivedPackets 269
+TL = 175335814 |  AE2ED = 0.651806 |  PDR = 0.992619926199262
+Generated Packets 272 | ReceivedPackets 270
+TL = 175814429 |  AE2ED = 0.6511645518518518 |  PDR = 0.9926470588235294
+Generated Packets 273 | ReceivedPackets 271
+TL = 175866731 |  AE2ED = 0.6489547269372693 |  PDR = 0.9926739926739927
+Generated Packets 275 | ReceivedPackets 272
+TL = 175948791 |  AE2ED = 0.6468705551470588 |  PDR = 0.9890909090909091
+Generated Packets 276 | ReceivedPackets 273
+TL = 176011083 |  AE2ED = 0.6447292417582418 |  PDR = 0.9891304347826086
+Generated Packets 276 | ReceivedPackets 274
+TL = 178597155 |  AE2ED = 0.6518144343065694 |  PDR = 0.9927536231884058
+Generated Packets 277 | ReceivedPackets 275
+TL = 178820499 |  AE2ED = 0.65025636 |  PDR = 0.9927797833935018
+Generated Packets 279 | ReceivedPackets 276
+TL = 178937338 |  AE2ED = 0.6483236884057971 |  PDR = 0.989247311827957
+Generated Packets 279 | ReceivedPackets 277
+TL = 181974096 |  AE2ED = 0.6569461949458484 |  PDR = 0.992831541218638
+Generated Packets 280 | ReceivedPackets 278
+TL = 182960955 |  AE2ED = 0.6581329316546762 |  PDR = 0.9928571428571429
+Generated Packets 282 | ReceivedPackets 279
+TL = 183431378 |  AE2ED = 0.6574601362007169 |  PDR = 0.9893617021276596
+Generated Packets 282 | ReceivedPackets 280
+TL = 183889826 |  AE2ED = 0.6567493785714286 |  PDR = 0.9929078014184397
+Generated Packets 283 | ReceivedPackets 281
+TL = 184034924 |  AE2ED = 0.6549285551601424 |  PDR = 0.9929328621908127
+Generated Packets 284 | ReceivedPackets 282
+TL = 184398206 |  AE2ED = 0.6538943475177306 |  PDR = 0.9929577464788732
+Generated Packets 285 | ReceivedPackets 283
+TL = 186263716 |  AE2ED = 0.6581756749116607 |  PDR = 0.9929824561403509
+Generated Packets 288 | ReceivedPackets 284
+TL = 186623015 |  AE2ED = 0.6571232922535212 |  PDR = 0.9861111111111112
+Generated Packets 288 | ReceivedPackets 285
+TL = 187369301 |  AE2ED = 0.6574361438596491 |  PDR = 0.9895833333333334
+Generated Packets 288 | ReceivedPackets 286
+TL = 188676258 |  AE2ED = 0.6597071958041958 |  PDR = 0.9930555555555556
+Generated Packets 289 | ReceivedPackets 287
+TL = 188908751 |  AE2ED = 0.6582186445993031 |  PDR = 0.9930795847750865
+Generated Packets 290 | ReceivedPackets 288
+TL = 189007703 |  AE2ED = 0.6562767465277778 |  PDR = 0.993103448275862
+Generated Packets 291 | ReceivedPackets 289
+TL = 189159655 |  AE2ED = 0.654531678200692 |  PDR = 0.993127147766323
+Generated Packets 292 | ReceivedPackets 290
+TL = 189238700 |  AE2ED = 0.6525472413793104 |  PDR = 0.9931506849315068
+Generated Packets 294 | ReceivedPackets 291
+TL = 190007995 |  AE2ED = 0.6529484364261169 |  PDR = 0.9897959183673469
+Generated Packets 295 | ReceivedPackets 292
+TL = 190078343 |  AE2ED = 0.6509532294520548 |  PDR = 0.9898305084745763
+Generated Packets 295 | ReceivedPackets 293
+TL = 191878353 |  AE2ED = 0.6548749249146758 |  PDR = 0.9932203389830508
+Generated Packets 296 | ReceivedPackets 294
+TL = 192342964 |  AE2ED = 0.654227768707483 |  PDR = 0.9932432432432432
+Generated Packets 297 | ReceivedPackets 295
+TL = 192600921 |  AE2ED = 0.6528844779661017 |  PDR = 0.9932659932659933
+Generated Packets 298 | ReceivedPackets 296
+TL = 192712983 |  AE2ED = 0.651057375 |  PDR = 0.9932885906040269
+Generated Packets 299 | ReceivedPackets 297
+TL = 192791846 |  AE2ED = 0.6491307946127947 |  PDR = 0.9933110367892977
+Generated Packets 300 | ReceivedPackets 298
+TL = 193426674 |  AE2ED = 0.6490827986577181 |  PDR = 0.9933333333333333
+Generated Packets 301 | ReceivedPackets 299
+TL = 193651298 |  AE2ED = 0.6476632040133778 |  PDR = 0.9933554817275747
+Generated Packets 303 | ReceivedPackets 300
+TL = 194072784 |  AE2ED = 0.64690928 |  PDR = 0.9900990099009901
+Generated Packets 304 | ReceivedPackets 301
+TL = 195233291 |  AE2ED = 0.6486155847176079 |  PDR = 0.9901315789473685
+Generated Packets 305 | ReceivedPackets 302
+TL = 195328731 |  AE2ED = 0.6467838774834437 |  PDR = 0.9901639344262295
 Generated Packets 305 | ReceivedPackets 303
-TL = 242660999 |  AE2ED = 0.8008613828382838 |  PDR = 0.9934426229508196
-Generated Packets 305 | ReceivedPackets 304
-TL = 244826510 |  AE2ED = 0.8053503618421053 |  PDR = 0.9967213114754099
-Generated Packets 305 | ReceivedPackets 305
-TL = 247143981 |  AE2ED = 0.8103081344262295 |  PDR = 1
-Generated Packets 306 | ReceivedPackets 306
-TL = 247166998 |  AE2ED = 0.8077352875816993 |  PDR = 1
-Generated Packets 308 | ReceivedPackets 307
-TL = 247384079 |  AE2ED = 0.805811332247557 |  PDR = 0.9967532467532467
-Generated Packets 308 | ReceivedPackets 308
-TL = 248435556 |  AE2ED = 0.806608948051948 |  PDR = 1
+TL = 198300683 |  AE2ED = 0.6544576996699669 |  PDR = 0.9934426229508196
+Generated Packets 306 | ReceivedPackets 304
+TL = 198383131 |  AE2ED = 0.6525760888157894 |  PDR = 0.9934640522875817
+Generated Packets 307 | ReceivedPackets 305
+TL = 198761084 |  AE2ED = 0.6516756852459017 |  PDR = 0.993485342019544
+Generated Packets 308 | ReceivedPackets 306
+TL = 198869585 |  AE2ED = 0.6499006045751634 |  PDR = 0.9935064935064936
+Generated Packets 309 | ReceivedPackets 307
+TL = 199011857 |  AE2ED = 0.6482470912052117 |  PDR = 0.9935275080906149
+Generated Packets 310 | ReceivedPackets 308
+TL = 199258301 |  AE2ED = 0.6469425357142857 |  PDR = 0.9935483870967742
 Generated Packets 311 | ReceivedPackets 309
-TL = 248599321 |  AE2ED = 0.8045285469255664 |  PDR = 0.9935691318327974
-Generated Packets 312 | ReceivedPackets 310
-TL = 248796930 |  AE2ED = 0.8025707419354838 |  PDR = 0.9935897435897436
-Generated Packets 312 | ReceivedPackets 311
-TL = 252021404 |  AE2ED = 0.8103582122186496 |  PDR = 0.9967948717948718
-Generated Packets 312 | ReceivedPackets 312
-TL = 255926741 |  AE2ED = 0.820278016025641 |  PDR = 1
-Generated Packets 313 | ReceivedPackets 313
-TL = 256155573 |  AE2ED = 0.8183884121405751 |  PDR = 1
-Generated Packets 315 | ReceivedPackets 314
-TL = 258490464 |  AE2ED = 0.8232180382165605 |  PDR = 0.9968253968253968
-Generated Packets 315 | ReceivedPackets 315
-TL = 258886520 |  AE2ED = 0.8218619682539683 |  PDR = 1
-Generated Packets 316 | ReceivedPackets 316
-TL = 259004396 |  AE2ED = 0.8196341645569619 |  PDR = 1
-Generated Packets 317 | ReceivedPackets 317
-TL = 259075312 |  AE2ED = 0.8172722776025236 |  PDR = 1
-Generated Packets 318 | ReceivedPackets 318
-TL = 264717900 |  AE2ED = 0.8324462264150944 |  PDR = 1
-Generated Packets 319 | ReceivedPackets 319
-TL = 265253624 |  AE2ED = 0.8315160626959248 |  PDR = 1
-Generated Packets 320 | ReceivedPackets 320
-TL = 265723255 |  AE2ED = 0.830385171875 |  PDR = 1
-Generated Packets 321 | ReceivedPackets 321
-TL = 266265442 |  AE2ED = 0.8294873582554516 |  PDR = 1
-Generated Packets 322 | ReceivedPackets 322
-TL = 266395476 |  AE2ED = 0.8273151428571428 |  PDR = 1
-Generated Packets 323 | ReceivedPackets 323
-TL = 266846176 |  AE2ED = 0.8261491517027864 |  PDR = 1
-Generated Packets 324 | ReceivedPackets 324
-TL = 267804528 |  AE2ED = 0.8265571851851852 |  PDR = 1
-Generated Packets 325 | ReceivedPackets 325
-TL = 268160780 |  AE2ED = 0.8251100923076923 |  PDR = 1
-Generated Packets 327 | ReceivedPackets 326
-TL = 268915444 |  AE2ED = 0.824894 |  PDR = 0.9969418960244648
-Generated Packets 327 | ReceivedPackets 327
-TL = 271033232 |  AE2ED = 0.8288478042813455 |  PDR = 1
-Generated Packets 329 | ReceivedPackets 328
-TL = 271254384 |  AE2ED = 0.8269950731707316 |  PDR = 0.9969604863221885
-Generated Packets 330 | ReceivedPackets 329
-TL = 271368744 |  AE2ED = 0.8248290091185411 |  PDR = 0.996969696969697
-Generated Packets 330 | ReceivedPackets 330
-TL = 274160833 |  AE2ED = 0.830790403030303 |  PDR = 1
-Generated Packets 331 | ReceivedPackets 331
-TL = 274304902 |  AE2ED = 0.8287157160120846 |  PDR = 1
-Generated Packets 332 | ReceivedPackets 332
-TL = 274491702 |  AE2ED = 0.826782234939759 |  PDR = 1
-Generated Packets 333 | ReceivedPackets 333
-TL = 274828422 |  AE2ED = 0.8253105765765766 |  PDR = 1
-Generated Packets 335 | ReceivedPackets 334
-TL = 274949438 |  AE2ED = 0.8232019101796407 |  PDR = 0.9970149253731343
-Generated Packets 335 | ReceivedPackets 335
-TL = 276744446 |  AE2ED = 0.826102823880597 |  PDR = 1
-Generated Packets 336 | ReceivedPackets 336
-TL = 276825685 |  AE2ED = 0.8238859672619048 |  PDR = 1
-Generated Packets 337 | ReceivedPackets 337
-TL = 277078583 |  AE2ED = 0.8221916409495549 |  PDR = 1
-Generated Packets 338 | ReceivedPackets 338
-TL = 277485561 |  AE2ED = 0.8209631982248521 |  PDR = 1
-Generated Packets 339 | ReceivedPackets 339
-TL = 277566638 |  AE2ED = 0.8187806430678467 |  PDR = 1
+TL = 199335342 |  AE2ED = 0.6450981941747572 |  PDR = 0.9935691318327974
+Generated Packets 313 | ReceivedPackets 310
+TL = 199454146 |  AE2ED = 0.6434004709677419 |  PDR = 0.9904153354632588
+Generated Packets 313 | ReceivedPackets 311
+TL = 199641271 |  AE2ED = 0.641933347266881 |  PDR = 0.9936102236421726
+Generated Packets 314 | ReceivedPackets 312
+TL = 199710178 |  AE2ED = 0.6400967243589744 |  PDR = 0.9936305732484076
+Generated Packets 315 | ReceivedPackets 313
+TL = 200595814 |  AE2ED = 0.640881194888179 |  PDR = 0.9936507936507937
+Generated Packets 316 | ReceivedPackets 314
+TL = 200843789 |  AE2ED = 0.6396299012738854 |  PDR = 0.9936708860759493
+Generated Packets 317 | ReceivedPackets 315
+TL = 200976227 |  AE2ED = 0.6380197682539682 |  PDR = 0.9936908517350158
+Generated Packets 318 | ReceivedPackets 316
+TL = 201022028 |  AE2ED = 0.6361456582278481 |  PDR = 0.9937106918238994
+Generated Packets 319 | ReceivedPackets 317
+TL = 201177426 |  AE2ED = 0.6346291041009463 |  PDR = 0.9937304075235109
+Generated Packets 320 | ReceivedPackets 318
+TL = 204642874 |  AE2ED = 0.6435310503144654 |  PDR = 0.99375
+Generated Packets 321 | ReceivedPackets 319
+TL = 204667607 |  AE2ED = 0.6415912445141065 |  PDR = 0.9937694704049844
+Generated Packets 322 | ReceivedPackets 320
+TL = 204763238 |  AE2ED = 0.63988511875 |  PDR = 0.9937888198757764
+Generated Packets 323 | ReceivedPackets 321
+TL = 205318641 |  AE2ED = 0.6396219345794393 |  PDR = 0.9938080495356038
+Generated Packets 324 | ReceivedPackets 322
+TL = 205599155 |  AE2ED = 0.6385066925465839 |  PDR = 0.9938271604938271
+Generated Packets 325 | ReceivedPackets 323
+TL = 205734351 |  AE2ED = 0.6369484551083591 |  PDR = 0.9938461538461538
+Generated Packets 326 | ReceivedPackets 324
+TL = 207171996 |  AE2ED = 0.6394197407407408 |  PDR = 0.9938650306748467
+Generated Packets 327 | ReceivedPackets 325
+TL = 207231093 |  AE2ED = 0.6376341323076923 |  PDR = 0.9938837920489296
+Generated Packets 328 | ReceivedPackets 326
+TL = 207535869 |  AE2ED = 0.6366130950920246 |  PDR = 0.9939024390243902
+Generated Packets 329 | ReceivedPackets 327
+TL = 207624865 |  AE2ED = 0.6349384250764526 |  PDR = 0.993920972644377
+Generated Packets 330 | ReceivedPackets 328
+TL = 207694911 |  AE2ED = 0.6332161920731707 |  PDR = 0.9939393939393939
+Generated Packets 331 | ReceivedPackets 329
+TL = 207817192 |  AE2ED = 0.631663197568389 |  PDR = 0.9939577039274925
+Generated Packets 333 | ReceivedPackets 330
+TL = 207910735 |  AE2ED = 0.6300325303030303 |  PDR = 0.990990990990991
+Generated Packets 333 | ReceivedPackets 331
+TL = 210913890 |  AE2ED = 0.637202084592145 |  PDR = 0.993993993993994
+Generated Packets 335 | ReceivedPackets 332
+TL = 211040489 |  AE2ED = 0.6356641234939759 |  PDR = 0.991044776119403
+Generated Packets 335 | ReceivedPackets 333
+TL = 211752282 |  AE2ED = 0.6358927387387387 |  PDR = 0.9940298507462687
+Generated Packets 336 | ReceivedPackets 334
+TL = 212381510 |  AE2ED = 0.6358727844311377 |  PDR = 0.9940476190476191
+Generated Packets 337 | ReceivedPackets 335
+TL = 212510158 |  AE2ED = 0.634358680597015 |  PDR = 0.9940652818991098
+Generated Packets 338 | ReceivedPackets 336
+TL = 212651949 |  AE2ED = 0.6328927053571428 |  PDR = 0.9940828402366864
+Generated Packets 339 | ReceivedPackets 337
+TL = 216497380 |  AE2ED = 0.6424254599406528 |  PDR = 0.9941002949852508
+Generated Packets 341 | ReceivedPackets 338
+TL = 216576498 |  AE2ED = 0.6407588698224853 |  PDR = 0.9912023460410557
+Generated Packets 341 | ReceivedPackets 339
+TL = 217508991 |  AE2ED = 0.6416194424778761 |  PDR = 0.9941348973607038
 Generated Packets 342 | ReceivedPackets 340
-TL = 278698860 |  AE2ED = 0.8197025294117647 |  PDR = 0.9941520467836257
-Generated Packets 342 | ReceivedPackets 341
-TL = 279669018 |  AE2ED = 0.8201437478005865 |  PDR = 0.9970760233918129
-Generated Packets 342 | ReceivedPackets 342
-TL = 281604886 |  AE2ED = 0.8234060994152047 |  PDR = 1
-Generated Packets 343 | ReceivedPackets 343
-TL = 281741862 |  AE2ED = 0.8214048454810496 |  PDR = 1
-Generated Packets 344 | ReceivedPackets 344
-TL = 282472084 |  AE2ED = 0.8211397790697674 |  PDR = 1
-Generated Packets 345 | ReceivedPackets 345
-TL = 282616835 |  AE2ED = 0.819179231884058 |  PDR = 1
-Generated Packets 347 | ReceivedPackets 346
-TL = 282733895 |  AE2ED = 0.8171499855491329 |  PDR = 0.9971181556195965
-Generated Packets 347 | ReceivedPackets 347
-TL = 283144831 |  AE2ED = 0.8159793400576368 |  PDR = 1
-Generated Packets 348 | ReceivedPackets 348
-TL = 283304832 |  AE2ED = 0.8140943448275862 |  PDR = 1
-Generated Packets 349 | ReceivedPackets 349
-TL = 284986342 |  AE2ED = 0.816579776504298 |  PDR = 1
-Generated Packets 350 | ReceivedPackets 350
-TL = 286119383 |  AE2ED = 0.8174839514285714 |  PDR = 1
-Generated Packets 351 | ReceivedPackets 351
-TL = 286406651 |  AE2ED = 0.8159733646723647 |  PDR = 1
-Generated Packets 353 | ReceivedPackets 352
-TL = 287233335 |  AE2ED = 0.8160037926136363 |  PDR = 0.9971671388101983
-Generated Packets 353 | ReceivedPackets 353
-TL = 287407019 |  AE2ED = 0.8141841898016997 |  PDR = 1
-Generated Packets 354 | ReceivedPackets 354
-TL = 287501434 |  AE2ED = 0.8121509435028249 |  PDR = 1
-Generated Packets 355 | ReceivedPackets 355
-TL = 288631975 |  AE2ED = 0.8130478169014085 |  PDR = 1
-Generated Packets 356 | ReceivedPackets 356
-TL = 289605967 |  AE2ED = 0.8134999073033707 |  PDR = 1
-Generated Packets 357 | ReceivedPackets 357
-TL = 290143793 |  AE2ED = 0.8127277114845938 |  PDR = 1
-Generated Packets 358 | ReceivedPackets 358
-TL = 290188244 |  AE2ED = 0.810581687150838 |  PDR = 1
-Generated Packets 359 | ReceivedPackets 359
-TL = 290259502 |  AE2ED = 0.8085222896935933 |  PDR = 1
+TL = 217664206 |  AE2ED = 0.6401888411764707 |  PDR = 0.9941520467836257
+Generated Packets 343 | ReceivedPackets 341
+TL = 218015776 |  AE2ED = 0.6393424516129033 |  PDR = 0.9941690962099126
+Generated Packets 346 | ReceivedPackets 342
+TL = 218620882 |  AE2ED = 0.6392423450292398 |  PDR = 0.9884393063583815
+Generated Packets 346 | ReceivedPackets 343
+TL = 218942323 |  AE2ED = 0.6383158104956269 |  PDR = 0.9913294797687862
+Generated Packets 346 | ReceivedPackets 344
+TL = 220047005 |  AE2ED = 0.6396715261627908 |  PDR = 0.9942196531791907
+Generated Packets 347 | ReceivedPackets 345
+TL = 220111970 |  AE2ED = 0.6380057101449275 |  PDR = 0.9942363112391931
+Generated Packets 348 | ReceivedPackets 346
+TL = 220535438 |  AE2ED = 0.6373856589595376 |  PDR = 0.9942528735632183
+Generated Packets 349 | ReceivedPackets 347
+TL = 220942995 |  AE2ED = 0.6367233285302594 |  PDR = 0.994269340974212
+Generated Packets 350 | ReceivedPackets 348
+TL = 221382889 |  AE2ED = 0.6361577270114942 |  PDR = 0.9942857142857143
+Generated Packets 351 | ReceivedPackets 349
+TL = 221524466 |  AE2ED = 0.6347405902578797 |  PDR = 0.9943019943019943
+Generated Packets 352 | ReceivedPackets 350
+TL = 221566764 |  AE2ED = 0.6330478971428573 |  PDR = 0.9943181818181818
+Generated Packets 354 | ReceivedPackets 351
+TL = 221676953 |  AE2ED = 0.6315582706552707 |  PDR = 0.9915254237288136
+Generated Packets 354 | ReceivedPackets 352
+TL = 221702019 |  AE2ED = 0.62983528125 |  PDR = 0.9943502824858758
+Generated Packets 355 | ReceivedPackets 353
+TL = 222318593 |  AE2ED = 0.6297977138810199 |  PDR = 0.9943661971830986
+Generated Packets 358 | ReceivedPackets 354
+TL = 223658167 |  AE2ED = 0.631802731638418 |  PDR = 0.9888268156424581
+Generated Packets 358 | ReceivedPackets 355
+TL = 225524877 |  AE2ED = 0.6352813436619719 |  PDR = 0.9916201117318436
+Generated Packets 358 | ReceivedPackets 356
+TL = 227298159 |  AE2ED = 0.6384779747191011 |  PDR = 0.994413407821229
+Generated Packets 360 | ReceivedPackets 357
+TL = 228764229 |  AE2ED = 0.6407961596638656 |  PDR = 0.9916666666666667
+Generated Packets 360 | ReceivedPackets 358
+TL = 231368454 |  AE2ED = 0.6462805977653632 |  PDR = 0.9944444444444445
+Generated Packets 361 | ReceivedPackets 359
+TL = 231470776 |  AE2ED = 0.6447653927576601 |  PDR = 0.9944598337950139
 Generated Packets 362 | ReceivedPackets 360
-TL = 294220945 |  AE2ED = 0.8172804027777778 |  PDR = 0.994475138121547
-Generated Packets 362 | ReceivedPackets 361
-TL = 297337422 |  AE2ED = 0.8236493684210526 |  PDR = 0.9972375690607734
-Generated Packets 362 | ReceivedPackets 362
-TL = 299747231 |  AE2ED = 0.8280310248618785 |  PDR = 1
-Generated Packets 363 | ReceivedPackets 363
-TL = 299885019 |  AE2ED = 0.8261295289256197 |  PDR = 1
-Generated Packets 364 | ReceivedPackets 364
-TL = 300029050 |  AE2ED = 0.8242556318681319 |  PDR = 1
-Generated Packets 365 | ReceivedPackets 365
-TL = 300232967 |  AE2ED = 0.8225560739726028 |  PDR = 1
-Generated Packets 366 | ReceivedPackets 366
-TL = 300500486 |  AE2ED = 0.8210395792349727 |  PDR = 1
-Generated Packets 367 | ReceivedPackets 367
-TL = 300707323 |  AE2ED = 0.8193660027247957 |  PDR = 1
-Generated Packets 368 | ReceivedPackets 368
-TL = 301081583 |  AE2ED = 0.8181564755434783 |  PDR = 1
-Generated Packets 370 | ReceivedPackets 369
-TL = 301159371 |  AE2ED = 0.8161500569105691 |  PDR = 0.9972972972972973
-Generated Packets 371 | ReceivedPackets 370
-TL = 303383948 |  AE2ED = 0.8199566162162162 |  PDR = 0.9973045822102425
-Generated Packets 371 | ReceivedPackets 371
-TL = 303585948 |  AE2ED = 0.8182909649595687 |  PDR = 1
-Generated Packets 372 | ReceivedPackets 372
-TL = 303777997 |  AE2ED = 0.8166075188172043 |  PDR = 1
-Generated Packets 373 | ReceivedPackets 373
-TL = 303935390 |  AE2ED = 0.8148401876675603 |  PDR = 1
-Generated Packets 374 | ReceivedPackets 374
-TL = 304019618 |  AE2ED = 0.8128866791443851 |  PDR = 1
-Generated Packets 375 | ReceivedPackets 375
-TL = 304391498 |  AE2ED = 0.8117106613333334 |  PDR = 1
-Generated Packets 377 | ReceivedPackets 376
-TL = 304479147 |  AE2ED = 0.8097849654255319 |  PDR = 0.9973474801061007
-Generated Packets 377 | ReceivedPackets 377
-TL = 308251265 |  AE2ED = 0.8176426127320955 |  PDR = 1
-Generated Packets 379 | ReceivedPackets 378
-TL = 308420489 |  AE2ED = 0.8159272195767195 |  PDR = 0.9973614775725593
-Generated Packets 380 | ReceivedPackets 379
-TL = 308494846 |  AE2ED = 0.8139705699208443 |  PDR = 0.9973684210526316
-Generated Packets 380 | ReceivedPackets 380
-TL = 309481134 |  AE2ED = 0.8144240368421052 |  PDR = 1
-Generated Packets 381 | ReceivedPackets 381
-TL = 309504293 |  AE2ED = 0.8123472257217847 |  PDR = 1
+TL = 231495891 |  AE2ED = 0.6430441416666667 |  PDR = 0.994475138121547
+Generated Packets 363 | ReceivedPackets 361
+TL = 231595043 |  AE2ED = 0.6415375152354571 |  PDR = 0.9944903581267218
+Generated Packets 364 | ReceivedPackets 362
+TL = 231832653 |  AE2ED = 0.6404216933701657 |  PDR = 0.9945054945054945
+Generated Packets 365 | ReceivedPackets 363
+TL = 231958237 |  AE2ED = 0.6390034077134986 |  PDR = 0.9945205479452055
+Generated Packets 366 | ReceivedPackets 364
+TL = 232055261 |  AE2ED = 0.6375144532967033 |  PDR = 0.994535519125683
+Generated Packets 367 | ReceivedPackets 365
+TL = 232167655 |  AE2ED = 0.6360757671232876 |  PDR = 0.9945504087193461
+Generated Packets 369 | ReceivedPackets 366
+TL = 232264902 |  AE2ED = 0.6346035573770492 |  PDR = 0.991869918699187
+Generated Packets 369 | ReceivedPackets 367
+TL = 233829240 |  AE2ED = 0.63713689373297 |  PDR = 0.994579945799458
+Generated Packets 370 | ReceivedPackets 368
+TL = 233924777 |  AE2ED = 0.6356651548913044 |  PDR = 0.9945945945945946
+Generated Packets 371 | ReceivedPackets 369
+TL = 234812513 |  AE2ED = 0.6363482737127372 |  PDR = 0.9946091644204852
+Generated Packets 372 | ReceivedPackets 370
+TL = 234914244 |  AE2ED = 0.6349033621621623 |  PDR = 0.9946236559139785
+Generated Packets 373 | ReceivedPackets 371
+TL = 235131799 |  AE2ED = 0.6337784339622641 |  PDR = 0.9946380697050938
+Generated Packets 374 | ReceivedPackets 372
+TL = 235315839 |  AE2ED = 0.6325694596774194 |  PDR = 0.9946524064171123
+Generated Packets 375 | ReceivedPackets 373
+TL = 235667460 |  AE2ED = 0.6318162466487935 |  PDR = 0.9946666666666667
+Generated Packets 376 | ReceivedPackets 374
+TL = 235873801 |  AE2ED = 0.6306786122994652 |  PDR = 0.9946808510638298
+Generated Packets 378 | ReceivedPackets 375
+TL = 235956269 |  AE2ED = 0.6292167173333333 |  PDR = 0.9920634920634921
+Generated Packets 379 | ReceivedPackets 376
+TL = 239397083 |  AE2ED = 0.6366943696808511 |  PDR = 0.9920844327176781
+Generated Packets 379 | ReceivedPackets 377
+TL = 239563348 |  AE2ED = 0.6354465464190981 |  PDR = 0.9947229551451188
+Generated Packets 380 | ReceivedPackets 378
+TL = 239716320 |  AE2ED = 0.6341701587301587 |  PDR = 0.9947368421052631
+Generated Packets 381 | ReceivedPackets 379
+TL = 241068618 |  AE2ED = 0.6360649551451187 |  PDR = 0.994750656167979
+Generated Packets 382 | ReceivedPackets 380
+TL = 241209272 |  AE2ED = 0.6347612421052632 |  PDR = 0.9947643979057592
+Generated Packets 383 | ReceivedPackets 381
+TL = 241240862 |  AE2ED = 0.6331781154855644 |  PDR = 0.9947780678851175
 Generated Packets 384 | ReceivedPackets 382
-TL = 310650070 |  AE2ED = 0.8132200785340314 |  PDR = 0.9947916666666666
-Generated Packets 384 | ReceivedPackets 383
-TL = 312381133 |  AE2ED = 0.8156165352480418 |  PDR = 0.9973958333333334
-Generated Packets 384 | ReceivedPackets 384
-TL = 313585878 |  AE2ED = 0.816629890625 |  PDR = 1
-Generated Packets 385 | ReceivedPackets 385
-TL = 313964846 |  AE2ED = 0.8154931064935065 |  PDR = 1
+TL = 241359650 |  AE2ED = 0.6318315445026178 |  PDR = 0.9947916666666666
+Generated Packets 385 | ReceivedPackets 383
+TL = 241488129 |  AE2ED = 0.6305173080939948 |  PDR = 0.9948051948051948
+Generated Packets 386 | ReceivedPackets 384
+TL = 241670905 |  AE2ED = 0.6293513151041666 |  PDR = 0.9948186528497409
+Generated Packets 387 | ReceivedPackets 385
+TL = 241878810 |  AE2ED = 0.6282566493506493 |  PDR = 0.9948320413436692
 Generated Packets 388 | ReceivedPackets 386
-TL = 314083469 |  AE2ED = 0.8136877435233161 |  PDR = 0.9948453608247423
-Generated Packets 388 | ReceivedPackets 387
-TL = 314721213 |  AE2ED = 0.8132331085271317 |  PDR = 0.9974226804123711
-Generated Packets 388 | ReceivedPackets 388
-TL = 317222591 |  AE2ED = 0.8175839974226804 |  PDR = 1
-Generated Packets 390 | ReceivedPackets 389
-TL = 317469455 |  AE2ED = 0.816116850899743 |  PDR = 0.9974358974358974
-Generated Packets 390 | ReceivedPackets 390
-TL = 318448241 |  AE2ED = 0.8165339512820513 |  PDR = 1
-Generated Packets 393 | ReceivedPackets 391
-TL = 318686434 |  AE2ED = 0.8150548184143223 |  PDR = 0.9949109414758269
-Generated Packets 393 | ReceivedPackets 392
-TL = 320013453 |  AE2ED = 0.8163608494897959 |  PDR = 0.9974554707379135
-Generated Packets 394 | ReceivedPackets 393
-TL = 321188520 |  AE2ED = 0.8172735877862596 |  PDR = 0.9974619289340102
-Generated Packets 395 | ReceivedPackets 394
-TL = 321269236 |  AE2ED = 0.815404152284264 |  PDR = 0.9974683544303797
-Generated Packets 395 | ReceivedPackets 395
-TL = 324361458 |  AE2ED = 0.8211682481012659 |  PDR = 1
-Generated Packets 396 | ReceivedPackets 396
-TL = 324595340 |  AE2ED = 0.8196852020202021 |  PDR = 1
-Generated Packets 397 | ReceivedPackets 397
-TL = 324642659 |  AE2ED = 0.8177396952141057 |  PDR = 1
-Generated Packets 398 | ReceivedPackets 398
-TL = 324697203 |  AE2ED = 0.8158221180904522 |  PDR = 1
-Generated Packets 399 | ReceivedPackets 399
-TL = 325354838 |  AE2ED = 0.8154256591478697 |  PDR = 1
-Generated Packets 400 | ReceivedPackets 400
-TL = 325502845 |  AE2ED = 0.8137571125 |  PDR = 1
-Generated Packets 401 | ReceivedPackets 401
-TL = 326009904 |  AE2ED = 0.8129922793017456 |  PDR = 1
-Generated Packets 403 | ReceivedPackets 402
-TL = 326187303 |  AE2ED = 0.8114112014925373 |  PDR = 0.9975186104218362
-Generated Packets 403 | ReceivedPackets 403
-TL = 326261571 |  AE2ED = 0.8095820620347394 |  PDR = 1
-Generated Packets 404 | ReceivedPackets 404
-TL = 326678239 |  AE2ED = 0.8086095024752474 |  PDR = 1
-Generated Packets 405 | ReceivedPackets 405
-TL = 326829112 |  AE2ED = 0.806985461728395 |  PDR = 1
-Generated Packets 406 | ReceivedPackets 406
-TL = 327244324 |  AE2ED = 0.8060205024630541 |  PDR = 1
-Generated Packets 407 | ReceivedPackets 407
-TL = 327365979 |  AE2ED = 0.8043390147420147 |  PDR = 1
-Generated Packets 408 | ReceivedPackets 408
-TL = 327523225 |  AE2ED = 0.8027530024509804 |  PDR = 1
-Generated Packets 409 | ReceivedPackets 409
-TL = 327600674 |  AE2ED = 0.8009796430317848 |  PDR = 1
-Generated Packets 410 | ReceivedPackets 410
-TL = 327651745 |  AE2ED = 0.7991505975609756 |  PDR = 1
-Generated Packets 412 | ReceivedPackets 411
-TL = 327819108 |  AE2ED = 0.7976134014598539 |  PDR = 0.9975728155339806
-Generated Packets 413 | ReceivedPackets 412
-TL = 334510534 |  AE2ED = 0.8119187718446602 |  PDR = 0.9975786924939467
-Generated Packets 413 | ReceivedPackets 413
-TL = 336758457 |  AE2ED = 0.815395779661017 |  PDR = 1
-Generated Packets 414 | ReceivedPackets 414
-TL = 336893525 |  AE2ED = 0.8137524758454106 |  PDR = 1
-Generated Packets 415 | ReceivedPackets 415
-TL = 337004569 |  AE2ED = 0.8120592024096386 |  PDR = 1
-Generated Packets 416 | ReceivedPackets 416
-TL = 337128966 |  AE2ED = 0.8104061682692307 |  PDR = 1
-Generated Packets 418 | ReceivedPackets 417
-TL = 337610699 |  AE2ED = 0.8096179832134293 |  PDR = 0.9976076555023924
-Generated Packets 418 | ReceivedPackets 418
-TL = 340411366 |  AE2ED = 0.8143812583732057 |  PDR = 1
-Generated Packets 419 | ReceivedPackets 419
-TL = 340877882 |  AE2ED = 0.813551031026253 |  PDR = 1
-Generated Packets 420 | ReceivedPackets 420
-TL = 341086197 |  AE2ED = 0.8121099928571428 |  PDR = 1
-Generated Packets 421 | ReceivedPackets 421
-TL = 341632994 |  AE2ED = 0.8114797957244655 |  PDR = 1
-Generated Packets 422 | ReceivedPackets 422
-TL = 342021277 |  AE2ED = 0.8104769597156398 |  PDR = 1
-Generated Packets 423 | ReceivedPackets 423
-TL = 342127426 |  AE2ED = 0.8088118817966903 |  PDR = 1
-Generated Packets 424 | ReceivedPackets 424
-TL = 342583044 |  AE2ED = 0.8079788773584906 |  PDR = 1
-Generated Packets 425 | ReceivedPackets 425
-TL = 342687520 |  AE2ED = 0.8063235764705882 |  PDR = 1
-Generated Packets 426 | ReceivedPackets 426
-TL = 342846839 |  AE2ED = 0.8048047863849764 |  PDR = 1
-Generated Packets 428 | ReceivedPackets 427
-TL = 343359090 |  AE2ED = 0.8041196487119437 |  PDR = 0.9976635514018691
-Generated Packets 429 | ReceivedPackets 428
-TL = 343574495 |  AE2ED = 0.8027441471962616 |  PDR = 0.9976689976689976
-Generated Packets 429 | ReceivedPackets 429
-TL = 344781072 |  AE2ED = 0.8036854825174825 |  PDR = 1
-Generated Packets 431 | ReceivedPackets 430
-TL = 344914314 |  AE2ED = 0.8021263116279069 |  PDR = 0.9976798143851509
-Generated Packets 431 | ReceivedPackets 431
-TL = 347167970 |  AE2ED = 0.8054941299303945 |  PDR = 1
-Generated Packets 432 | ReceivedPackets 432
-TL = 347212640 |  AE2ED = 0.8037329629629629 |  PDR = 1
-Generated Packets 433 | ReceivedPackets 433
-TL = 347682341 |  AE2ED = 0.8029615265588914 |  PDR = 1
-Generated Packets 434 | ReceivedPackets 434
-TL = 347705565 |  AE2ED = 0.8011648963133641 |  PDR = 1
-Generated Packets 435 | ReceivedPackets 435
-TL = 348178212 |  AE2ED = 0.8004096827586207 |  PDR = 1
-Generated Packets 437 | ReceivedPackets 436
-TL = 348567536 |  AE2ED = 0.7994668256880734 |  PDR = 0.9977116704805492
-Generated Packets 437 | ReceivedPackets 437
-TL = 350307607 |  AE2ED = 0.80161923798627 |  PDR = 1
-Generated Packets 438 | ReceivedPackets 438
-TL = 350499936 |  AE2ED = 0.8002281643835617 |  PDR = 1
-Generated Packets 439 | ReceivedPackets 439
-TL = 350617186 |  AE2ED = 0.7986724054669704 |  PDR = 1
-Generated Packets 441 | ReceivedPackets 440
-TL = 351083457 |  AE2ED = 0.7979169477272727 |  PDR = 0.9977324263038548
-Generated Packets 441 | ReceivedPackets 441
-TL = 351236753 |  AE2ED = 0.7964552222222222 |  PDR = 1
-Generated Packets 442 | ReceivedPackets 442
-TL = 351410459 |  AE2ED = 0.7950462873303167 |  PDR = 1
-Generated Packets 443 | ReceivedPackets 443
-TL = 351458066 |  AE2ED = 0.793359065462754 |  PDR = 1
-Generated Packets 444 | ReceivedPackets 444
-TL = 351602342 |  AE2ED = 0.7918971666666667 |  PDR = 1
-Generated Packets 445 | ReceivedPackets 445
-TL = 351771226 |  AE2ED = 0.7904971370786517 |  PDR = 1
-Generated Packets 448 | ReceivedPackets 446
-TL = 352363231 |  AE2ED = 0.7900520874439462 |  PDR = 0.9955357142857143
-Generated Packets 448 | ReceivedPackets 447
-TL = 353834062 |  AE2ED = 0.7915750827740492 |  PDR = 0.9977678571428571
-Generated Packets 449 | ReceivedPackets 448
-TL = 354343731 |  AE2ED = 0.790945828125 |  PDR = 0.9977728285077951
-Generated Packets 450 | ReceivedPackets 449
-TL = 356948770 |  AE2ED = 0.7949861247216036 |  PDR = 0.9977777777777778
-Generated Packets 450 | ReceivedPackets 450
-TL = 359191663 |  AE2ED = 0.7982036955555555 |  PDR = 1
-Generated Packets 451 | ReceivedPackets 451
-TL = 359232968 |  AE2ED = 0.7965254279379158 |  PDR = 1
-Generated Packets 453 | ReceivedPackets 452
-TL = 359461825 |  AE2ED = 0.7952695243362832 |  PDR = 0.9977924944812362
-Generated Packets 455 | ReceivedPackets 453
-TL = 359589167 |  AE2ED = 0.7937950706401766 |  PDR = 0.9956043956043956
-Generated Packets 455 | ReceivedPackets 454
-TL = 360127855 |  AE2ED = 0.7932331607929516 |  PDR = 0.9978021978021978
-Generated Packets 455 | ReceivedPackets 455
-TL = 363264743 |  AE2ED = 0.7983840505494506 |  PDR = 1
-Generated Packets 457 | ReceivedPackets 456
-TL = 363534804 |  AE2ED = 0.797225447368421 |  PDR = 0.9978118161925602
-Generated Packets 457 | ReceivedPackets 457
-TL = 364181533 |  AE2ED = 0.7968961334792123 |  PDR = 1
-Generated Packets 458 | ReceivedPackets 458
-TL = 364345246 |  AE2ED = 0.7955136375545852 |  PDR = 1
-Generated Packets 459 | ReceivedPackets 459
-TL = 364389744 |  AE2ED = 0.7938774379084967 |  PDR = 1
-Generated Packets 461 | ReceivedPackets 460
-TL = 364651171 |  AE2ED = 0.7927199369565217 |  PDR = 0.9978308026030369
-Generated Packets 463 | ReceivedPackets 461
-TL = 365673289 |  AE2ED = 0.793217546637744 |  PDR = 0.9956803455723542
-Generated Packets 463 | ReceivedPackets 462
-TL = 366504164 |  AE2ED = 0.7932990562770562 |  PDR = 0.9978401727861771
-Generated Packets 463 | ReceivedPackets 463
-TL = 368957158 |  AE2ED = 0.7968837105831533 |  PDR = 1
-Generated Packets 465 | ReceivedPackets 464
-TL = 369632315 |  AE2ED = 0.7966213685344827 |  PDR = 0.9978494623655914
-Generated Packets 465 | ReceivedPackets 465
-TL = 370434566 |  AE2ED = 0.7966334752688171 |  PDR = 1
-Generated Packets 466 | ReceivedPackets 466
-TL = 370479231 |  AE2ED = 0.7950198090128755 |  PDR = 1
-Generated Packets 467 | ReceivedPackets 467
-TL = 371344805 |  AE2ED = 0.7951708886509635 |  PDR = 1
-Generated Packets 468 | ReceivedPackets 468
-TL = 371529147 |  AE2ED = 0.7938656987179488 |  PDR = 1
-Generated Packets 469 | ReceivedPackets 469
-TL = 371689841 |  AE2ED = 0.7925156524520256 |  PDR = 1
-Generated Packets 470 | ReceivedPackets 470
-TL = 371838796 |  AE2ED = 0.7911463744680851 |  PDR = 1
-Generated Packets 473 | ReceivedPackets 471
-TL = 371950748 |  AE2ED = 0.7897043481953291 |  PDR = 0.9957716701902748
-Generated Packets 473 | ReceivedPackets 472
-TL = 374539913 |  AE2ED = 0.7935167648305085 |  PDR = 0.9978858350951374
-Generated Packets 474 | ReceivedPackets 473
-TL = 376999508 |  AE2ED = 0.7970391289640592 |  PDR = 0.9978902953586498
-Generated Packets 474 | ReceivedPackets 474
-TL = 380121582 |  AE2ED = 0.8019442658227849 |  PDR = 1
-Generated Packets 475 | ReceivedPackets 475
-TL = 380790527 |  AE2ED = 0.8016642673684211 |  PDR = 1
-Generated Packets 476 | ReceivedPackets 476
-TL = 381093059 |  AE2ED = 0.8006156701680672 |  PDR = 1
-Generated Packets 477 | ReceivedPackets 477
-TL = 381134264 |  AE2ED = 0.7990236142557652 |  PDR = 1
-Generated Packets 478 | ReceivedPackets 478
-TL = 381251544 |  AE2ED = 0.7975973723849372 |  PDR = 1
-Generated Packets 480 | ReceivedPackets 479
-TL = 384399006 |  AE2ED = 0.8025031440501045 |  PDR = 0.9979166666666667
-Generated Packets 480 | ReceivedPackets 480
-TL = 386674013 |  AE2ED = 0.8055708604166667 |  PDR = 1
-Generated Packets 481 | ReceivedPackets 481
-TL = 386920305 |  AE2ED = 0.8044081185031186 |  PDR = 1
-Generated Packets 482 | ReceivedPackets 482
-TL = 387021004 |  AE2ED = 0.8029481410788382 |  PDR = 1
-Generated Packets 483 | ReceivedPackets 483
-TL = 387144807 |  AE2ED = 0.8015420434782609 |  PDR = 1
-Generated Packets 484 | ReceivedPackets 484
-TL = 388984731 |  AE2ED = 0.8036874607438017 |  PDR = 1
-Generated Packets 486 | ReceivedPackets 485
-TL = 389132061 |  AE2ED = 0.8023341463917525 |  PDR = 0.9979423868312757
-Generated Packets 486 | ReceivedPackets 486
-TL = 390227483 |  AE2ED = 0.8029372078189301 |  PDR = 1
-Generated Packets 487 | ReceivedPackets 487
-TL = 392654050 |  AE2ED = 0.8062711498973305 |  PDR = 1
-Generated Packets 488 | ReceivedPackets 488
-TL = 393493284 |  AE2ED = 0.8063386967213114 |  PDR = 1
-Generated Packets 490 | ReceivedPackets 489
-TL = 393675234 |  AE2ED = 0.8050618282208589 |  PDR = 0.9979591836734694
-Generated Packets 490 | ReceivedPackets 490
-TL = 396220041 |  AE2ED = 0.8086123285714285 |  PDR = 1
-Generated Packets 491 | ReceivedPackets 491
-TL = 396374152 |  AE2ED = 0.80727933197556 |  PDR = 1
-Generated Packets 492 | ReceivedPackets 492
-TL = 396465320 |  AE2ED = 0.8058238211382114 |  PDR = 1
-Generated Packets 493 | ReceivedPackets 493
-TL = 396509725 |  AE2ED = 0.8042793610547667 |  PDR = 1
-Generated Packets 494 | ReceivedPackets 494
-TL = 396880104 |  AE2ED = 0.803401020242915 |  PDR = 1
-Generated Packets 495 | ReceivedPackets 495
-TL = 398823607 |  AE2ED = 0.8057042565656565 |  PDR = 1
-Generated Packets 497 | ReceivedPackets 496
-TL = 400283897 |  AE2ED = 0.8070239858870968 |  PDR = 0.9979879275653923
-Generated Packets 498 | ReceivedPackets 497
-TL = 400381532 |  AE2ED = 0.805596643863179 |  PDR = 0.9979919678714859
-Generated Packets 498 | ReceivedPackets 498
-TL = 404104239 |  AE2ED = 0.8114542951807229 |  PDR = 1
-Generated Packets 499 | ReceivedPackets 499
-TL = 404215011 |  AE2ED = 0.810050122244489 |  PDR = 1
-Generated Packets 502 | ReceivedPackets 500
-TL = 404672760 |  AE2ED = 0.80934552 |  PDR = 0.9960159362549801
-Generated Packets 502 | ReceivedPackets 501
-TL = 405883886 |  AE2ED = 0.8101474770459082 |  PDR = 0.99800796812749
-Generated Packets 506 | ReceivedPackets 502
-TL = 410716688 |  AE2ED = 0.8181607330677291 |  PDR = 0.9920948616600791
+TL = 242962874 |  AE2ED = 0.6294374974093264 |  PDR = 0.9948453608247423
+Generated Packets 389 | ReceivedPackets 387
+TL = 243072741 |  AE2ED = 0.6280949379844961 |  PDR = 0.9948586118251928
+Generated Packets 391 | ReceivedPackets 388
+TL = 246955293 |  AE2ED = 0.6364827139175258 |  PDR = 0.9923273657289002
+Generated Packets 391 | ReceivedPackets 389
+TL = 248488594 |  AE2ED = 0.6387881593830333 |  PDR = 0.9948849104859335
+Generated Packets 392 | ReceivedPackets 390
+TL = 248574082 |  AE2ED = 0.6373694410256411 |  PDR = 0.9948979591836735
+Generated Packets 397 | ReceivedPackets 391
+TL = 251787865 |  AE2ED = 0.6439587340153452 |  PDR = 0.9848866498740554
+Generated Packets 397 | ReceivedPackets 392
+TL = 254901885 |  AE2ED = 0.6502599107142857 |  PDR = 0.9874055415617129
+Generated Packets 397 | ReceivedPackets 393
+TL = 257067747 |  AE2ED = 0.6541164045801527 |  PDR = 0.9899244332493703
+Generated Packets 397 | ReceivedPackets 394
+TL = 258288887 |  AE2ED = 0.6555555507614214 |  PDR = 0.9924433249370277
+Generated Packets 399 | ReceivedPackets 395
+TL = 258314013 |  AE2ED = 0.6539595265822784 |  PDR = 0.9899749373433584
+Generated Packets 400 | ReceivedPackets 396
+TL = 258364280 |  AE2ED = 0.6524350505050505 |  PDR = 0.99
+Generated Packets 400 | ReceivedPackets 397
+TL = 260658560 |  AE2ED = 0.6565706801007557 |  PDR = 0.9925
+Generated Packets 401 | ReceivedPackets 398
+TL = 260807398 |  AE2ED = 0.6552949698492462 |  PDR = 0.9925187032418953
+Generated Packets 402 | ReceivedPackets 399
+TL = 261319576 |  AE2ED = 0.6549362807017544 |  PDR = 0.9925373134328358
+Generated Packets 403 | ReceivedPackets 400
+TL = 261365360 |  AE2ED = 0.6534134 |  PDR = 0.9925558312655087
+Generated Packets 405 | ReceivedPackets 401
+TL = 261464178 |  AE2ED = 0.6520303690773067 |  PDR = 0.9901234567901235
+Generated Packets 405 | ReceivedPackets 402
+TL = 262031399 |  AE2ED = 0.6518194004975124 |  PDR = 0.9925925925925926
+Generated Packets 406 | ReceivedPackets 403
+TL = 262857058 |  AE2ED = 0.65225076426799 |  PDR = 0.9926108374384236
+Generated Packets 407 | ReceivedPackets 404
+TL = 262966026 |  AE2ED = 0.6509060049504951 |  PDR = 0.9926289926289926
+Generated Packets 408 | ReceivedPackets 405
+TL = 263909872 |  AE2ED = 0.6516293135802469 |  PDR = 0.9926470588235294
+Generated Packets 409 | ReceivedPackets 406
+TL = 264031999 |  AE2ED = 0.6503251206896552 |  PDR = 0.9926650366748166
+Generated Packets 410 | ReceivedPackets 407
+TL = 264180920 |  AE2ED = 0.6490931695331695 |  PDR = 0.9926829268292683
+Generated Packets 411 | ReceivedPackets 408
+TL = 264813976 |  AE2ED = 0.649053862745098 |  PDR = 0.9927007299270073
+Generated Packets 413 | ReceivedPackets 409
+TL = 265058678 |  AE2ED = 0.6480652273838631 |  PDR = 0.9903147699757869
+Generated Packets 414 | ReceivedPackets 410
+TL = 265180982 |  AE2ED = 0.6467828829268293 |  PDR = 0.9903381642512077
+Generated Packets 415 | ReceivedPackets 411
+TL = 269981162 |  AE2ED = 0.6568884720194648 |  PDR = 0.9903614457831326
+Generated Packets 415 | ReceivedPackets 412
+TL = 270863423 |  AE2ED = 0.6574354927184467 |  PDR = 0.9927710843373494
+Generated Packets 416 | ReceivedPackets 413
+TL = 275310676 |  AE2ED = 0.6666118062953995 |  PDR = 0.9927884615384616
+Generated Packets 419 | ReceivedPackets 414
+TL = 278832546 |  AE2ED = 0.6735085652173913 |  PDR = 0.9880668257756563
+Generated Packets 419 | ReceivedPackets 415
+TL = 282043106 |  AE2ED = 0.6796219421686747 |  PDR = 0.9904534606205251
+Generated Packets 419 | ReceivedPackets 416
+TL = 283963218 |  AE2ED = 0.6826038894230769 |  PDR = 0.9928400954653938
+Generated Packets 420 | ReceivedPackets 417
+TL = 284058614 |  AE2ED = 0.6811957170263788 |  PDR = 0.9928571428571429
+Generated Packets 421 | ReceivedPackets 418
+TL = 284210201 |  AE2ED = 0.6799287105263159 |  PDR = 0.9928741092636579
+Generated Packets 422 | ReceivedPackets 419
+TL = 286225499 |  AE2ED = 0.6831157494033413 |  PDR = 0.9928909952606635
+Generated Packets 425 | ReceivedPackets 420
+TL = 290715047 |  AE2ED = 0.6921786833333333 |  PDR = 0.9882352941176471
+Generated Packets 425 | ReceivedPackets 421
+TL = 292285512 |  AE2ED = 0.6942648741092636 |  PDR = 0.9905882352941177
+Generated Packets 425 | ReceivedPackets 422
+TL = 294003598 |  AE2ED = 0.696690990521327 |  PDR = 0.9929411764705882
+Generated Packets 426 | ReceivedPackets 423
+TL = 294070609 |  AE2ED = 0.6952023853427896 |  PDR = 0.9929577464788732
+Generated Packets 427 | ReceivedPackets 424
+TL = 294198702 |  AE2ED = 0.6938648632075473 |  PDR = 0.9929742388758782
+Generated Packets 428 | ReceivedPackets 425
+TL = 294336504 |  AE2ED = 0.69255648 |  PDR = 0.9929906542056075
+Generated Packets 430 | ReceivedPackets 426
+TL = 295058117 |  AE2ED = 0.6926246877934272 |  PDR = 0.9906976744186047
+Generated Packets 430 | ReceivedPackets 427
+TL = 295911041 |  AE2ED = 0.6930000960187354 |  PDR = 0.9930232558139535
+Generated Packets 431 | ReceivedPackets 428
+TL = 297225530 |  AE2ED = 0.6944521728971963 |  PDR = 0.9930394431554525
+Generated Packets 432 | ReceivedPackets 429
+TL = 297743516 |  AE2ED = 0.6940408298368298 |  PDR = 0.9930555555555556
+Generated Packets 433 | ReceivedPackets 430
+TL = 297819128 |  AE2ED = 0.692602623255814 |  PDR = 0.9930715935334873
+Generated Packets 435 | ReceivedPackets 431
+TL = 297957926 |  AE2ED = 0.6913176937354988 |  PDR = 0.9908045977011494
+Generated Packets 435 | ReceivedPackets 432
+TL = 299240953 |  AE2ED = 0.6926873912037037 |  PDR = 0.993103448275862
+Generated Packets 436 | ReceivedPackets 433
+TL = 299396367 |  AE2ED = 0.6914465750577368 |  PDR = 0.9931192660550459
+Generated Packets 437 | ReceivedPackets 434
+TL = 299714774 |  AE2ED = 0.6905870368663594 |  PDR = 0.9931350114416476
+Generated Packets 438 | ReceivedPackets 435
+TL = 299763833 |  AE2ED = 0.6891122597701149 |  PDR = 0.9931506849315068
+Generated Packets 439 | ReceivedPackets 436
+TL = 299882698 |  AE2ED = 0.6878043532110092 |  PDR = 0.9931662870159453
+Generated Packets 441 | ReceivedPackets 437
+TL = 299958419 |  AE2ED = 0.686403704805492 |  PDR = 0.9909297052154195
+Generated Packets 442 | ReceivedPackets 438
+TL = 300995756 |  AE2ED = 0.6872049223744292 |  PDR = 0.9909502262443439
+Generated Packets 442 | ReceivedPackets 439
+TL = 301336965 |  AE2ED = 0.6864167767653758 |  PDR = 0.9932126696832579
+Generated Packets 443 | ReceivedPackets 440
+TL = 301523081 |  AE2ED = 0.6852797295454545 |  PDR = 0.9932279909706546
+Generated Packets 444 | ReceivedPackets 441
+TL = 303606936 |  AE2ED = 0.6884511020408163 |  PDR = 0.9932432432432432
+Generated Packets 445 | ReceivedPackets 442
+TL = 303691628 |  AE2ED = 0.6870851312217194 |  PDR = 0.9932584269662922
+Generated Packets 446 | ReceivedPackets 443
+TL = 303823686 |  AE2ED = 0.6858322483069977 |  PDR = 0.9932735426008968
+Generated Packets 447 | ReceivedPackets 444
+TL = 304351265 |  AE2ED = 0.685475822072072 |  PDR = 0.9932885906040269
+Generated Packets 448 | ReceivedPackets 445
+TL = 304595764 |  AE2ED = 0.6844848629213484 |  PDR = 0.9933035714285714
+Generated Packets 449 | ReceivedPackets 446
+TL = 304687496 |  AE2ED = 0.6831558206278027 |  PDR = 0.9933184855233853
+Generated Packets 450 | ReceivedPackets 447
+TL = 304984189 |  AE2ED = 0.6822912505592841 |  PDR = 0.9933333333333333
+Generated Packets 451 | ReceivedPackets 448
+TL = 305119621 |  AE2ED = 0.6810705825892857 |  PDR = 0.9933481152993349
+Generated Packets 454 | ReceivedPackets 449
+TL = 305295464 |  AE2ED = 0.6799453541202672 |  PDR = 0.9889867841409692
+Generated Packets 455 | ReceivedPackets 450
+TL = 309389391 |  AE2ED = 0.6875319799999999 |  PDR = 0.989010989010989
+Generated Packets 455 | ReceivedPackets 451
+TL = 310146672 |  AE2ED = 0.6876866341463415 |  PDR = 0.9912087912087912
+Generated Packets 455 | ReceivedPackets 452
+TL = 313544574 |  AE2ED = 0.693682685840708 |  PDR = 0.9934065934065934
+Generated Packets 457 | ReceivedPackets 453
+TL = 313697323 |  AE2ED = 0.6924885717439294 |  PDR = 0.9912472647702407
+Generated Packets 457 | ReceivedPackets 454
+TL = 314167913 |  AE2ED = 0.6919998083700442 |  PDR = 0.9934354485776805
+Generated Packets 458 | ReceivedPackets 455
+TL = 314220974 |  AE2ED = 0.6905955472527472 |  PDR = 0.9934497816593887
+Generated Packets 459 | ReceivedPackets 456
+TL = 314365512 |  AE2ED = 0.6893980526315789 |  PDR = 0.9934640522875817
+Generated Packets 460 | ReceivedPackets 457
+TL = 314634249 |  AE2ED = 0.6884775689277899 |  PDR = 0.9934782608695653
+Generated Packets 461 | ReceivedPackets 458
+TL = 314795839 |  AE2ED = 0.6873271593886463 |  PDR = 0.9934924078091106
+Generated Packets 462 | ReceivedPackets 459
+TL = 314941204 |  AE2ED = 0.6861464139433551 |  PDR = 0.9935064935064936
+Generated Packets 463 | ReceivedPackets 460
+TL = 315042021 |  AE2ED = 0.6848739586956522 |  PDR = 0.9935205183585313
+Generated Packets 464 | ReceivedPackets 461
+TL = 315859755 |  AE2ED = 0.6851621583514099 |  PDR = 0.9935344827586207
+Generated Packets 465 | ReceivedPackets 462
+TL = 316414318 |  AE2ED = 0.6848794761904762 |  PDR = 0.9935483870967742
+Generated Packets 466 | ReceivedPackets 463
+TL = 316601011 |  AE2ED = 0.6838034794816414 |  PDR = 0.9935622317596566
+Generated Packets 467 | ReceivedPackets 464
+TL = 316925697 |  AE2ED = 0.6830295193965518 |  PDR = 0.9935760171306209
+Generated Packets 468 | ReceivedPackets 465
+TL = 317121955 |  AE2ED = 0.6819826989247312 |  PDR = 0.9935897435897436
+Generated Packets 469 | ReceivedPackets 466
+TL = 318528570 |  AE2ED = 0.6835377038626609 |  PDR = 0.9936034115138592
+Generated Packets 470 | ReceivedPackets 467
+TL = 318553124 |  AE2ED = 0.6821266038543897 |  PDR = 0.9936170212765958
+Generated Packets 473 | ReceivedPackets 468
+TL = 318578258 |  AE2ED = 0.6807227735042735 |  PDR = 0.9894291754756871
+Generated Packets 473 | ReceivedPackets 469
+TL = 321024045 |  AE2ED = 0.684486236673774 |  PDR = 0.9915433403805497
+Generated Packets 473 | ReceivedPackets 470
+TL = 323327682 |  AE2ED = 0.6879312382978724 |  PDR = 0.9936575052854123
+Generated Packets 477 | ReceivedPackets 471
+TL = 323636910 |  AE2ED = 0.6871271974522293 |  PDR = 0.9874213836477987
+Generated Packets 478 | ReceivedPackets 472
+TL = 327418055 |  AE2ED = 0.6936823199152542 |  PDR = 0.9874476987447699
+Generated Packets 478 | ReceivedPackets 473
+TL = 331309668 |  AE2ED = 0.7004432727272727 |  PDR = 0.9895397489539749
+Generated Packets 478 | ReceivedPackets 474
+TL = 335149542 |  AE2ED = 0.7070665443037975 |  PDR = 0.9916317991631799
+Generated Packets 478 | ReceivedPackets 475
+TL = 335425137 |  AE2ED = 0.7061581831578948 |  PDR = 0.9937238493723849
+Generated Packets 479 | ReceivedPackets 476
+TL = 335573897 |  AE2ED = 0.7049871785714286 |  PDR = 0.9937369519832986
+Generated Packets 480 | ReceivedPackets 477
+TL = 335712603 |  AE2ED = 0.7038000062893082 |  PDR = 0.99375
+Generated Packets 481 | ReceivedPackets 478
+TL = 335888295 |  AE2ED = 0.7026951778242677 |  PDR = 0.9937629937629938
+Generated Packets 482 | ReceivedPackets 479
+TL = 335912804 |  AE2ED = 0.7012793402922756 |  PDR = 0.9937759336099585
+Generated Packets 484 | ReceivedPackets 480
+TL = 336074571 |  AE2ED = 0.7001553562499999 |  PDR = 0.9917355371900827
+Generated Packets 487 | ReceivedPackets 481
+TL = 336423911 |  AE2ED = 0.6994260103950104 |  PDR = 0.9876796714579056
+Generated Packets 488 | ReceivedPackets 482
+TL = 336878071 |  AE2ED = 0.6989171597510374 |  PDR = 0.9877049180327869
+Generated Packets 488 | ReceivedPackets 483
+TL = 339625608 |  AE2ED = 0.7031586086956522 |  PDR = 0.9897540983606558
+Generated Packets 488 | ReceivedPackets 484
+TL = 342205551 |  AE2ED = 0.7070362623966941 |  PDR = 0.9918032786885246
+Generated Packets 488 | ReceivedPackets 485
+TL = 344417413 |  AE2ED = 0.7101389958762886 |  PDR = 0.9938524590163934
+Generated Packets 489 | ReceivedPackets 486
+TL = 344636773 |  AE2ED = 0.7091291625514403 |  PDR = 0.9938650306748467
+Generated Packets 490 | ReceivedPackets 487
+TL = 344749890 |  AE2ED = 0.707905318275154 |  PDR = 0.9938775510204082
+Generated Packets 491 | ReceivedPackets 488
+TL = 344867178 |  AE2ED = 0.7066950368852459 |  PDR = 0.9938900203665988
+Generated Packets 492 | ReceivedPackets 489
+TL = 345009514 |  AE2ED = 0.7055409284253579 |  PDR = 0.9939024390243902
+Generated Packets 493 | ReceivedPackets 490
+TL = 347529601 |  AE2ED = 0.7092440836734694 |  PDR = 0.9939148073022313
+Generated Packets 494 | ReceivedPackets 491
+TL = 347622819 |  AE2ED = 0.7079894480651732 |  PDR = 0.9939271255060729
+Generated Packets 495 | ReceivedPackets 492
+TL = 347695180 |  AE2ED = 0.7066975203252033 |  PDR = 0.9939393939393939
+Generated Packets 498 | ReceivedPackets 493
+TL = 350533813 |  AE2ED = 0.7110219330628803 |  PDR = 0.9899598393574297
+Generated Packets 498 | ReceivedPackets 494
+TL = 354444629 |  AE2ED = 0.7174992489878542 |  PDR = 0.9919678714859438
+Generated Packets 498 | ReceivedPackets 495
+TL = 356383873 |  AE2ED = 0.7199674202020202 |  PDR = 0.9939759036144579
+Generated Packets 499 | ReceivedPackets 496
+TL = 357397429 |  AE2ED = 0.7205593326612904 |  PDR = 0.9939879759519038
+Generated Packets 500 | ReceivedPackets 497
+TL = 357502922 |  AE2ED = 0.7193217746478874 |  PDR = 0.994
+Generated Packets 501 | ReceivedPackets 498
+TL = 357638349 |  AE2ED = 0.7181492951807228 |  PDR = 0.9940119760479041
+Generated Packets 502 | ReceivedPackets 499
+TL = 359365545 |  AE2ED = 0.7201714328657314 |  PDR = 0.9940239043824701
+Generated Packets 503 | ReceivedPackets 500
+TL = 359487348 |  AE2ED = 0.718974696 |  PDR = 0.9940357852882704
+Generated Packets 504 | ReceivedPackets 501
+TL = 359779107 |  AE2ED = 0.7181219700598803 |  PDR = 0.9940476190476191
+Generated Packets 505 | ReceivedPackets 502
+TL = 360510894 |  AE2ED = 0.7181491912350597 |  PDR = 0.994059405940594
 Generated Packets 506 | ReceivedPackets 503
-TL = 412001270 |  AE2ED = 0.8190880119284295 |  PDR = 0.9940711462450593
-Generated Packets 506 | ReceivedPackets 504
-TL = 412883458 |  AE2ED = 0.8192132103174603 |  PDR = 0.9960474308300395
-Generated Packets 506 | ReceivedPackets 505
-TL = 413206562 |  AE2ED = 0.8182308158415841 |  PDR = 0.9980237154150198
-Generated Packets 506 | ReceivedPackets 506
-TL = 414937793 |  AE2ED = 0.8200351640316206 |  PDR = 1
-Generated Packets 507 | ReceivedPackets 507
-TL = 415040155 |  AE2ED = 0.8186196351084812 |  PDR = 1
-Generated Packets 508 | ReceivedPackets 508
-TL = 417437267 |  AE2ED = 0.8217269035433071 |  PDR = 1
-Generated Packets 509 | ReceivedPackets 509
-TL = 417561447 |  AE2ED = 0.8203564774066797 |  PDR = 1
-Generated Packets 510 | ReceivedPackets 510
-TL = 417950938 |  AE2ED = 0.8195116431372549 |  PDR = 1
-Generated Packets 511 | ReceivedPackets 511
-TL = 418068432 |  AE2ED = 0.818137831702544 |  PDR = 1
-Generated Packets 512 | ReceivedPackets 512
-TL = 418092606 |  AE2ED = 0.81658712109375 |  PDR = 1
-Generated Packets 515 | ReceivedPackets 513
-TL = 418460421 |  AE2ED = 0.8157123216374269 |  PDR = 0.996116504854369
-Generated Packets 516 | ReceivedPackets 514
-TL = 418677894 |  AE2ED = 0.8145484319066149 |  PDR = 0.9961240310077519
-Generated Packets 517 | ReceivedPackets 515
-TL = 418745632 |  AE2ED = 0.8130983145631068 |  PDR = 0.9961315280464217
-Generated Packets 517 | ReceivedPackets 516
-TL = 421410237 |  AE2ED = 0.8166865058139534 |  PDR = 0.9980657640232108
-Generated Packets 518 | ReceivedPackets 517
-TL = 421618734 |  AE2ED = 0.8155101237911025 |  PDR = 0.9980694980694981
-Generated Packets 518 | ReceivedPackets 518
-TL = 424848757 |  AE2ED = 0.8201713455598456 |  PDR = 1
-Generated Packets 521 | ReceivedPackets 519
-TL = 429047151 |  AE2ED = 0.8266804450867051 |  PDR = 0.9961612284069098
-Generated Packets 521 | ReceivedPackets 520
-TL = 431087196 |  AE2ED = 0.8290138384615384 |  PDR = 0.9980806142034548
-Generated Packets 521 | ReceivedPackets 521
-TL = 431422101 |  AE2ED = 0.828065452975048 |  PDR = 1
-Generated Packets 522 | ReceivedPackets 522
-TL = 431910769 |  AE2ED = 0.8274152662835249 |  PDR = 1
-Generated Packets 524 | ReceivedPackets 523
-TL = 432935546 |  AE2ED = 0.8277926309751434 |  PDR = 0.9980916030534351
-Generated Packets 524 | ReceivedPackets 524
-TL = 434345838 |  AE2ED = 0.8289042709923664 |  PDR = 1
-Generated Packets 526 | ReceivedPackets 525
-TL = 436545885 |  AE2ED = 0.8315159714285714 |  PDR = 0.9980988593155894
-Generated Packets 526 | ReceivedPackets 526
-TL = 437001453 |  AE2ED = 0.8308012414448669 |  PDR = 1
-Generated Packets 528 | ReceivedPackets 527
-TL = 437366984 |  AE2ED = 0.8299183757115749 |  PDR = 0.9981060606060606
-Generated Packets 529 | ReceivedPackets 528
-TL = 438106203 |  AE2ED = 0.8297465965909091 |  PDR = 0.998109640831758
-Generated Packets 529 | ReceivedPackets 529
-TL = 441151825 |  AE2ED = 0.8339353969754253 |  PDR = 1
-Generated Packets 530 | ReceivedPackets 530
-TL = 441269473 |  AE2ED = 0.8325839113207547 |  PDR = 1
-Generated Packets 531 | ReceivedPackets 531
-TL = 441314172 |  AE2ED = 0.8311001355932204 |  PDR = 1
-Generated Packets 533 | ReceivedPackets 532
-TL = 441474834 |  AE2ED = 0.8298399135338346 |  PDR = 0.99812382739212
-Generated Packets 534 | ReceivedPackets 533
-TL = 443149064 |  AE2ED = 0.8314241350844278 |  PDR = 0.99812734082397
-Generated Packets 535 | ReceivedPackets 534
-TL = 443394479 |  AE2ED = 0.8303267397003745 |  PDR = 0.9981308411214953
-Generated Packets 535 | ReceivedPackets 535
-TL = 449039586 |  AE2ED = 0.8393263289719626 |  PDR = 1
-Generated Packets 536 | ReceivedPackets 536
-TL = 449458856 |  AE2ED = 0.8385426417910448 |  PDR = 1
-Generated Packets 537 | ReceivedPackets 537
-TL = 449602863 |  AE2ED = 0.8372492793296089 |  PDR = 1
-Generated Packets 539 | ReceivedPackets 538
-TL = 449744319 |  AE2ED = 0.8359559832713754 |  PDR = 0.9981447124304267
-Generated Packets 539 | ReceivedPackets 539
-TL = 450052142 |  AE2ED = 0.8349761447124304 |  PDR = 1
-Generated Packets 540 | ReceivedPackets 540
-TL = 451558654 |  AE2ED = 0.8362197296296296 |  PDR = 1
-Generated Packets 541 | ReceivedPackets 541
-TL = 451758036 |  AE2ED = 0.8350425804066544 |  PDR = 1
-Generated Packets 542 | ReceivedPackets 542
-TL = 451908802 |  AE2ED = 0.8337800774907749 |  PDR = 1
-Generated Packets 543 | ReceivedPackets 543
-TL = 452318511 |  AE2ED = 0.8329990994475138 |  PDR = 1
-Generated Packets 544 | ReceivedPackets 544
-TL = 452442262 |  AE2ED = 0.8316953345588235 |  PDR = 1
-Generated Packets 545 | ReceivedPackets 545
-TL = 452602911 |  AE2ED = 0.8304640568807339 |  PDR = 1
-Generated Packets 546 | ReceivedPackets 546
-TL = 453141316 |  AE2ED = 0.8299291501831502 |  PDR = 1
-Generated Packets 547 | ReceivedPackets 547
-TL = 453850809 |  AE2ED = 0.82970897440585 |  PDR = 1
-Generated Packets 548 | ReceivedPackets 548
-TL = 453908543 |  AE2ED = 0.8283002609489052 |  PDR = 1
-Generated Packets 550 | ReceivedPackets 549
-TL = 454594596 |  AE2ED = 0.8280411584699453 |  PDR = 0.9981818181818182
-Generated Packets 550 | ReceivedPackets 550
-TL = 454783725 |  AE2ED = 0.8268795 |  PDR = 1
-Generated Packets 551 | ReceivedPackets 551
-TL = 455167472 |  AE2ED = 0.8260752667876587 |  PDR = 1
-Generated Packets 552 | ReceivedPackets 552
-TL = 455439459 |  AE2ED = 0.8250714836956522 |  PDR = 1
-Generated Packets 553 | ReceivedPackets 553
-TL = 455683326 |  AE2ED = 0.8240204810126582 |  PDR = 1
-Generated Packets 554 | ReceivedPackets 554
-TL = 455884478 |  AE2ED = 0.8228961696750903 |  PDR = 1
-Generated Packets 555 | ReceivedPackets 555
-TL = 455972017 |  AE2ED = 0.8215712018018018 |  PDR = 1
-Generated Packets 556 | ReceivedPackets 556
-TL = 456461933 |  AE2ED = 0.8209746996402878 |  PDR = 1
-Generated Packets 558 | ReceivedPackets 557
-TL = 456599517 |  AE2ED = 0.8197477863554757 |  PDR = 0.9982078853046595
-Generated Packets 559 | ReceivedPackets 558
-TL = 456653888 |  AE2ED = 0.8183761433691756 |  PDR = 0.998211091234347
-Generated Packets 559 | ReceivedPackets 559
-TL = 457492024 |  AE2ED = 0.8184114919499106 |  PDR = 1
-Generated Packets 561 | ReceivedPackets 560
-TL = 457587676 |  AE2ED = 0.81712085 |  PDR = 0.9982174688057041
-Generated Packets 561 | ReceivedPackets 561
-TL = 458903289 |  AE2ED = 0.8180094278074866 |  PDR = 1
-Generated Packets 562 | ReceivedPackets 562
-TL = 459411436 |  AE2ED = 0.8174580711743772 |  PDR = 1
-Generated Packets 563 | ReceivedPackets 563
-TL = 459525673 |  AE2ED = 0.8162090106571936 |  PDR = 1
-Generated Packets 564 | ReceivedPackets 564
-TL = 459646754 |  AE2ED = 0.8149765141843972 |  PDR = 1
-Generated Packets 565 | ReceivedPackets 565
-TL = 459773453 |  AE2ED = 0.8137583238938053 |  PDR = 1
-Generated Packets 567 | ReceivedPackets 566
-TL = 459906117 |  AE2ED = 0.8125549770318021 |  PDR = 0.9982363315696648
-Generated Packets 567 | ReceivedPackets 567
-TL = 462388251 |  AE2ED = 0.8154995608465608 |  PDR = 1
-Generated Packets 569 | ReceivedPackets 568
-TL = 466569677 |  AE2ED = 0.8214254876760564 |  PDR = 0.9982425307557118
-Generated Packets 569 | ReceivedPackets 569
-TL = 467249627 |  AE2ED = 0.821176848857645 |  PDR = 1
-Generated Packets 570 | ReceivedPackets 570
-TL = 467337501 |  AE2ED = 0.819890352631579 |  PDR = 1
-Generated Packets 571 | ReceivedPackets 571
-TL = 467384833 |  AE2ED = 0.8185373607705779 |  PDR = 1
-Generated Packets 572 | ReceivedPackets 572
-TL = 467452477 |  AE2ED = 0.8172246101398601 |  PDR = 1
-Generated Packets 575 | ReceivedPackets 573
-TL = 467536842 |  AE2ED = 0.8159456230366492 |  PDR = 0.9965217391304347
-Generated Packets 575 | ReceivedPackets 574
-TL = 468377627 |  AE2ED = 0.8159888972125435 |  PDR = 0.9982608695652174
-Generated Packets 575 | ReceivedPackets 575
-TL = 469913560 |  AE2ED = 0.8172409739130435 |  PDR = 1
-Generated Packets 576 | ReceivedPackets 576
-TL = 470113099 |  AE2ED = 0.8161685746527777 |  PDR = 1
-Generated Packets 577 | ReceivedPackets 577
-TL = 470325722 |  AE2ED = 0.8151225684575389 |  PDR = 1
-Generated Packets 578 | ReceivedPackets 578
-TL = 470413243 |  AE2ED = 0.813863742214533 |  PDR = 1
-Generated Packets 579 | ReceivedPackets 579
-TL = 470616904 |  AE2ED = 0.8128098514680484 |  PDR = 1
-Generated Packets 580 | ReceivedPackets 580
-TL = 471051536 |  AE2ED = 0.8121578206896551 |  PDR = 1
-Generated Packets 581 | ReceivedPackets 581
-TL = 471074547 |  AE2ED = 0.8107995645438898 |  PDR = 1
-Generated Packets 583 | ReceivedPackets 582
-TL = 471638364 |  AE2ED = 0.8103751958762887 |  PDR = 0.9982847341337907
-Generated Packets 583 | ReceivedPackets 583
-TL = 472376156 |  AE2ED = 0.8102506963979417 |  PDR = 1
-Generated Packets 584 | ReceivedPackets 584
-TL = 473378137 |  AE2ED = 0.8105790017123288 |  PDR = 1
-Generated Packets 586 | ReceivedPackets 585
-TL = 473541843 |  AE2ED = 0.8094732358974359 |  PDR = 0.9982935153583617
-Generated Packets 588 | ReceivedPackets 586
-TL = 474852531 |  AE2ED = 0.8103285511945393 |  PDR = 0.9965986394557823
-Generated Packets 588 | ReceivedPackets 587
-TL = 476902428 |  AE2ED = 0.8124402521294719 |  PDR = 0.9982993197278912
-Generated Packets 588 | ReceivedPackets 588
-TL = 479053533 |  AE2ED = 0.8147168928571429 |  PDR = 1
-Generated Packets 589 | ReceivedPackets 589
-TL = 479242723 |  AE2ED = 0.8136548777589134 |  PDR = 1
-Generated Packets 590 | ReceivedPackets 590
-TL = 479350083 |  AE2ED = 0.8124577677966102 |  PDR = 1
-Generated Packets 591 | ReceivedPackets 591
-TL = 479465608 |  AE2ED = 0.811278524534687 |  PDR = 1
-Generated Packets 592 | ReceivedPackets 592
-TL = 479704641 |  AE2ED = 0.810311893581081 |  PDR = 1
-Generated Packets 593 | ReceivedPackets 593
-TL = 479832303 |  AE2ED = 0.809160713322091 |  PDR = 1
-Generated Packets 594 | ReceivedPackets 594
-TL = 480089065 |  AE2ED = 0.8082307491582491 |  PDR = 1
-Generated Packets 595 | ReceivedPackets 595
-TL = 480296698 |  AE2ED = 0.8072213411764706 |  PDR = 1
-Generated Packets 596 | ReceivedPackets 596
-TL = 480458304 |  AE2ED = 0.8061380939597315 |  PDR = 1
-Generated Packets 598 | ReceivedPackets 597
-TL = 480918164 |  AE2ED = 0.8055580636515913 |  PDR = 0.9983277591973244
-Generated Packets 599 | ReceivedPackets 598
-TL = 481241162 |  AE2ED = 0.8047511070234113 |  PDR = 0.998330550918197
-Generated Packets 600 | ReceivedPackets 599
-TL = 483855547 |  AE2ED = 0.8077721986644407 |  PDR = 0.9983333333333333
-Generated Packets 607 | ReceivedPackets 600
-TL = 492903684 |  AE2ED = 0.82150614 |  PDR = 0.9884678747940692
-Generated Packets 607 | ReceivedPackets 601
-TL = 497489651 |  AE2ED = 0.8277698019966722 |  PDR = 0.9901153212520593
-Generated Packets 607 | ReceivedPackets 602
-TL = 501081992 |  AE2ED = 0.8323621129568106 |  PDR = 0.9917627677100495
-Generated Packets 607 | ReceivedPackets 603
-TL = 504164219 |  AE2ED = 0.836093232172471 |  PDR = 0.9934102141680395
-Generated Packets 607 | ReceivedPackets 604
-TL = 508912067 |  AE2ED = 0.8425696473509934 |  PDR = 0.9950576606260296
+TL = 360694893 |  AE2ED = 0.7170872624254474 |  PDR = 0.9940711462450593
+Generated Packets 507 | ReceivedPackets 504
+TL = 362354096 |  AE2ED = 0.7189565396825397 |  PDR = 0.9940828402366864
+Generated Packets 508 | ReceivedPackets 505
+TL = 362453092 |  AE2ED = 0.717728895049505 |  PDR = 0.9940944881889764
+Generated Packets 510 | ReceivedPackets 506
+TL = 362518087 |  AE2ED = 0.7164389071146245 |  PDR = 0.9921568627450981
+Generated Packets 510 | ReceivedPackets 507
+TL = 365643915 |  AE2ED = 0.7211911538461538 |  PDR = 0.9941176470588236
+Generated Packets 511 | ReceivedPackets 508
+TL = 365797428 |  AE2ED = 0.7200736771653544 |  PDR = 0.9941291585127201
+Generated Packets 512 | ReceivedPackets 509
+TL = 366105982 |  AE2ED = 0.7192651905697446 |  PDR = 0.994140625
+Generated Packets 513 | ReceivedPackets 510
+TL = 366265100 |  AE2ED = 0.7181668627450981 |  PDR = 0.9941520467836257
+Generated Packets 514 | ReceivedPackets 511
+TL = 366478619 |  AE2ED = 0.7171792935420744 |  PDR = 0.9941634241245136
+Generated Packets 515 | ReceivedPackets 512
+TL = 366580885 |  AE2ED = 0.715978291015625 |  PDR = 0.9941747572815534
+Generated Packets 516 | ReceivedPackets 513
+TL = 366691597 |  AE2ED = 0.7147984346978558 |  PDR = 0.9941860465116279
+Generated Packets 517 | ReceivedPackets 514
+TL = 366790435 |  AE2ED = 0.7136000680933852 |  PDR = 0.9941972920696325
+Generated Packets 518 | ReceivedPackets 515
+TL = 366866077 |  AE2ED = 0.7123613145631067 |  PDR = 0.9942084942084942
+Generated Packets 519 | ReceivedPackets 516
+TL = 366921860 |  AE2ED = 0.7110888759689923 |  PDR = 0.9942196531791907
+Generated Packets 520 | ReceivedPackets 517
+TL = 366946953 |  AE2ED = 0.709761998065764 |  PDR = 0.9942307692307693
+Generated Packets 521 | ReceivedPackets 518
+TL = 367962942 |  AE2ED = 0.71035316988417 |  PDR = 0.9942418426103646
+Generated Packets 522 | ReceivedPackets 519
+TL = 368082763 |  AE2ED = 0.7092153429672446 |  PDR = 0.9942528735632183
+Generated Packets 523 | ReceivedPackets 520
+TL = 368194766 |  AE2ED = 0.7080668576923077 |  PDR = 0.994263862332696
+Generated Packets 524 | ReceivedPackets 521
+TL = 368329967 |  AE2ED = 0.7069673071017275 |  PDR = 0.9942748091603053
+Generated Packets 526 | ReceivedPackets 522
+TL = 368612493 |  AE2ED = 0.7061542011494253 |  PDR = 0.9923954372623575
+Generated Packets 527 | ReceivedPackets 523
+TL = 369767262 |  AE2ED = 0.7070119732313576 |  PDR = 0.9924098671726755
+Generated Packets 528 | ReceivedPackets 524
+TL = 370280077 |  AE2ED = 0.7066413683206108 |  PDR = 0.9924242424242424
+Generated Packets 528 | ReceivedPackets 525
+TL = 374896932 |  AE2ED = 0.7140893942857143 |  PDR = 0.9943181818181818
+Generated Packets 529 | ReceivedPackets 526
+TL = 374950294 |  AE2ED = 0.7128332585551331 |  PDR = 0.994328922495274
+Generated Packets 530 | ReceivedPackets 527
+TL = 375115610 |  AE2ED = 0.7117943263757116 |  PDR = 0.9943396226415094
+Generated Packets 531 | ReceivedPackets 528
+TL = 375174565 |  AE2ED = 0.7105578882575758 |  PDR = 0.9943502824858758
+Generated Packets 532 | ReceivedPackets 529
+TL = 375220353 |  AE2ED = 0.7093012344045369 |  PDR = 0.9943609022556391
+Generated Packets 533 | ReceivedPackets 530
+TL = 377687326 |  AE2ED = 0.7126175962264152 |  PDR = 0.9943714821763602
+Generated Packets 535 | ReceivedPackets 531
+TL = 378602427 |  AE2ED = 0.7129989209039548 |  PDR = 0.9925233644859813
+Generated Packets 535 | ReceivedPackets 532
+TL = 379668996 |  AE2ED = 0.7136635263157894 |  PDR = 0.994392523364486
+Generated Packets 536 | ReceivedPackets 533
+TL = 380107658 |  AE2ED = 0.7131475759849906 |  PDR = 0.9944029850746269
+Generated Packets 537 | ReceivedPackets 534
+TL = 380209644 |  AE2ED = 0.7120030786516854 |  PDR = 0.994413407821229
+Generated Packets 538 | ReceivedPackets 535
+TL = 380354962 |  AE2ED = 0.7109438542056075 |  PDR = 0.9944237918215614
+Generated Packets 540 | ReceivedPackets 536
+TL = 382760006 |  AE2ED = 0.7141044888059702 |  PDR = 0.9925925925925926
+Generated Packets 540 | ReceivedPackets 537
+TL = 384704549 |  AE2ED = 0.7163958081936684 |  PDR = 0.9944444444444445
+Generated Packets 542 | ReceivedPackets 538
+TL = 385187394 |  AE2ED = 0.7159616988847584 |  PDR = 0.992619926199262
+Generated Packets 542 | ReceivedPackets 539
+TL = 385373205 |  AE2ED = 0.7149781168831169 |  PDR = 0.9944649446494465
+Generated Packets 543 | ReceivedPackets 540
+TL = 386320111 |  AE2ED = 0.715407612962963 |  PDR = 0.994475138121547
+Generated Packets 544 | ReceivedPackets 541
+TL = 386422403 |  AE2ED = 0.7142743123844731 |  PDR = 0.9944852941176471
+Generated Packets 545 | ReceivedPackets 542
+TL = 386447195 |  AE2ED = 0.713002204797048 |  PDR = 0.9944954128440368
+Generated Packets 546 | ReceivedPackets 543
+TL = 386532130 |  AE2ED = 0.7118455432780847 |  PDR = 0.9945054945054945
+Generated Packets 547 | ReceivedPackets 544
+TL = 386634792 |  AE2ED = 0.7107257205882354 |  PDR = 0.9945155393053017
+Generated Packets 549 | ReceivedPackets 545
+TL = 386815422 |  AE2ED = 0.7097530678899082 |  PDR = 0.9927140255009107
+Generated Packets 549 | ReceivedPackets 546
+TL = 388331610 |  AE2ED = 0.711230054945055 |  PDR = 0.994535519125683
+Generated Packets 550 | ReceivedPackets 547
+TL = 388470961 |  AE2ED = 0.7101845722120658 |  PDR = 0.9945454545454545
+Generated Packets 551 | ReceivedPackets 548
+TL = 389475336 |  AE2ED = 0.7107214160583941 |  PDR = 0.9945553539019963
+Generated Packets 552 | ReceivedPackets 549
+TL = 389620740 |  AE2ED = 0.7096916939890711 |  PDR = 0.9945652173913043
+Generated Packets 554 | ReceivedPackets 550
+TL = 389962254 |  AE2ED = 0.70902228 |  PDR = 0.9927797833935018
+Generated Packets 555 | ReceivedPackets 551
+TL = 390058020 |  AE2ED = 0.7079092921960072 |  PDR = 0.9927927927927928
+Generated Packets 555 | ReceivedPackets 552
+TL = 392079186 |  AE2ED = 0.7102883804347826 |  PDR = 0.9945945945945946
+Generated Packets 556 | ReceivedPackets 553
+TL = 392104237 |  AE2ED = 0.7090492531645569 |  PDR = 0.9946043165467626
+Generated Packets 557 | ReceivedPackets 554
+TL = 392166724 |  AE2ED = 0.7078821732851985 |  PDR = 0.9946140035906643
+Generated Packets 558 | ReceivedPackets 555
+TL = 392414208 |  AE2ED = 0.7070526270270271 |  PDR = 0.9946236559139785
+Generated Packets 560 | ReceivedPackets 556
+TL = 392487576 |  AE2ED = 0.7059129064748201 |  PDR = 0.9928571428571429
+Generated Packets 561 | ReceivedPackets 557
+TL = 394645388 |  AE2ED = 0.7085195475763016 |  PDR = 0.9928698752228164
+Generated Packets 562 | ReceivedPackets 558
+TL = 394818438 |  AE2ED = 0.7075599247311828 |  PDR = 0.9928825622775801
+Generated Packets 562 | ReceivedPackets 559
+TL = 395731927 |  AE2ED = 0.7079283130590339 |  PDR = 0.994661921708185
+Generated Packets 563 | ReceivedPackets 560
+TL = 395827609 |  AE2ED = 0.7068350160714285 |  PDR = 0.9946714031971581
+Generated Packets 565 | ReceivedPackets 561
+TL = 396003507 |  AE2ED = 0.7058886042780748 |  PDR = 0.9929203539823008
+Generated Packets 565 | ReceivedPackets 562
+TL = 396278494 |  AE2ED = 0.7051218754448398 |  PDR = 0.9946902654867257
+Generated Packets 566 | ReceivedPackets 563
+TL = 396321019 |  AE2ED = 0.703944971580817 |  PDR = 0.9946996466431095
+Generated Packets 567 | ReceivedPackets 564
+TL = 396436515 |  AE2ED = 0.7029016223404255 |  PDR = 0.9947089947089947
+Generated Packets 568 | ReceivedPackets 565
+TL = 397079041 |  AE2ED = 0.7027947628318584 |  PDR = 0.9947183098591549
+Generated Packets 569 | ReceivedPackets 566
+TL = 397651529 |  AE2ED = 0.7025645388692578 |  PDR = 0.9947275922671354
+Generated Packets 570 | ReceivedPackets 567
+TL = 397838504 |  AE2ED = 0.7016552098765433 |  PDR = 0.9947368421052631
+Generated Packets 571 | ReceivedPackets 568
+TL = 398812938 |  AE2ED = 0.7021354542253522 |  PDR = 0.9947460595446584
+Generated Packets 572 | ReceivedPackets 569
+TL = 398918370 |  AE2ED = 0.7010867662565905 |  PDR = 0.9947552447552448
+Generated Packets 573 | ReceivedPackets 570
+TL = 398983988 |  AE2ED = 0.6999719087719298 |  PDR = 0.9947643979057592
+Generated Packets 574 | ReceivedPackets 571
+TL = 399126541 |  AE2ED = 0.6989956935201401 |  PDR = 0.9947735191637631
+Generated Packets 575 | ReceivedPackets 572
+TL = 399172385 |  AE2ED = 0.69785381993007 |  PDR = 0.9947826086956522
+Generated Packets 576 | ReceivedPackets 573
+TL = 399240818 |  AE2ED = 0.6967553542757418 |  PDR = 0.9947916666666666
+Generated Packets 577 | ReceivedPackets 574
+TL = 399406319 |  AE2ED = 0.6958298240418118 |  PDR = 0.9948006932409013
+Generated Packets 579 | ReceivedPackets 575
+TL = 399503298 |  AE2ED = 0.6947883443478261 |  PDR = 0.9930915371329879
+Generated Packets 579 | ReceivedPackets 576
+TL = 400465075 |  AE2ED = 0.6952518663194445 |  PDR = 0.9948186528497409
+Generated Packets 580 | ReceivedPackets 577
+TL = 400508298 |  AE2ED = 0.6941218336221836 |  PDR = 0.9948275862068966
+Generated Packets 581 | ReceivedPackets 578
+TL = 401596099 |  AE2ED = 0.6948029394463667 |  PDR = 0.9948364888123924
+Generated Packets 582 | ReceivedPackets 579
+TL = 402483042 |  AE2ED = 0.6951347875647669 |  PDR = 0.9948453608247423
+Generated Packets 583 | ReceivedPackets 580
+TL = 402571937 |  AE2ED = 0.6940895465517241 |  PDR = 0.9948542024013722
+Generated Packets 584 | ReceivedPackets 581
+TL = 402680357 |  AE2ED = 0.6930815094664372 |  PDR = 0.9948630136986302
+Generated Packets 585 | ReceivedPackets 582
+TL = 403654637 |  AE2ED = 0.6935646683848797 |  PDR = 0.9948717948717949
+Generated Packets 586 | ReceivedPackets 583
+TL = 404082612 |  AE2ED = 0.6931091114922813 |  PDR = 0.9948805460750854
+Generated Packets 587 | ReceivedPackets 584
+TL = 404224589 |  AE2ED = 0.6921653921232876 |  PDR = 0.9948892674616695
+Generated Packets 588 | ReceivedPackets 585
+TL = 404535380 |  AE2ED = 0.6915134700854701 |  PDR = 0.9948979591836735
+Generated Packets 589 | ReceivedPackets 586
+TL = 404687393 |  AE2ED = 0.6905928208191126 |  PDR = 0.9949066213921901
+Generated Packets 590 | ReceivedPackets 587
+TL = 405212653 |  AE2ED = 0.6903111635434412 |  PDR = 0.9949152542372881
+Generated Packets 592 | ReceivedPackets 588
+TL = 405355679 |  AE2ED = 0.6893804064625851 |  PDR = 0.9932432432432432
+Generated Packets 592 | ReceivedPackets 589
+TL = 411448464 |  AE2ED = 0.6985542682512733 |  PDR = 0.9949324324324325
+Generated Packets 593 | ReceivedPackets 590
+TL = 411986798 |  AE2ED = 0.6982827084745762 |  PDR = 0.9949409780775716
+Generated Packets 594 | ReceivedPackets 591
+TL = 412113040 |  AE2ED = 0.6973147884940779 |  PDR = 0.9949494949494949
+Generated Packets 595 | ReceivedPackets 592
+TL = 412344163 |  AE2ED = 0.6965273023648648 |  PDR = 0.9949579831932773
+Generated Packets 596 | ReceivedPackets 593
+TL = 412489612 |  AE2ED = 0.6955979966273187 |  PDR = 0.9949664429530202
+Generated Packets 597 | ReceivedPackets 594
+TL = 413007147 |  AE2ED = 0.6952982272727273 |  PDR = 0.9949748743718593
+Generated Packets 598 | ReceivedPackets 595
+TL = 413415654 |  AE2ED = 0.694816225210084 |  PDR = 0.9949832775919732
+Generated Packets 599 | ReceivedPackets 596
+TL = 413547721 |  AE2ED = 0.6938720151006711 |  PDR = 0.994991652754591
+Generated Packets 600 | ReceivedPackets 597
+TL = 413693444 |  AE2ED = 0.6929538425460637 |  PDR = 0.995
+Generated Packets 601 | ReceivedPackets 598
+TL = 413999817 |  AE2ED = 0.6923073862876254 |  PDR = 0.9950083194675541
+Generated Packets 603 | ReceivedPackets 599
+TL = 414065374 |  AE2ED = 0.691261058430718 |  PDR = 0.9933665008291874
+Generated Packets 603 | ReceivedPackets 600
+TL = 416199126 |  AE2ED = 0.6936652099999999 |  PDR = 0.9950248756218906
+Generated Packets 605 | ReceivedPackets 601
+TL = 416278080 |  AE2ED = 0.6926423960066556 |  PDR = 0.9933884297520661
+Generated Packets 609 | ReceivedPackets 602
+TL = 417443678 |  AE2ED = 0.6934280365448504 |  PDR = 0.9885057471264368
+Generated Packets 609 | ReceivedPackets 603
+TL = 420138318 |  AE2ED = 0.6967467960199005 |  PDR = 0.9901477832512315
+Generated Packets 610 | ReceivedPackets 604
+TL = 420162796 |  AE2ED = 0.6956337682119205 |  PDR = 0.9901639344262295
 Generated Packets 610 | ReceivedPackets 605
-TL = 509433228 |  AE2ED = 0.8420383933884298 |  PDR = 0.9918032786885246
-Generated Packets 611 | ReceivedPackets 606
-TL = 513552517 |  AE2ED = 0.8474463976897689 |  PDR = 0.9918166939443536
-Generated Packets 611 | ReceivedPackets 607
-TL = 513680783 |  AE2ED = 0.8462615864909391 |  PDR = 0.9934533551554828
-Generated Packets 611 | ReceivedPackets 608
-TL = 515821922 |  AE2ED = 0.8483913190789474 |  PDR = 0.9950900163666121
-Generated Packets 612 | ReceivedPackets 609
-TL = 516030655 |  AE2ED = 0.8473409770114942 |  PDR = 0.9950980392156863
+TL = 422113981 |  AE2ED = 0.6977090595041322 |  PDR = 0.9918032786885246
+Generated Packets 610 | ReceivedPackets 606
+TL = 425769625 |  AE2ED = 0.7025901402640263 |  PDR = 0.9934426229508196
+Generated Packets 610 | ReceivedPackets 607
+TL = 431360066 |  AE2ED = 0.7106426128500823 |  PDR = 0.9950819672131147
+Generated Packets 612 | ReceivedPackets 608
+TL = 431855926 |  AE2ED = 0.7102893519736841 |  PDR = 0.9934640522875817
+Generated Packets 613 | ReceivedPackets 609
+TL = 431880706 |  AE2ED = 0.7091637208538587 |  PDR = 0.9934747145187602
 Generated Packets 613 | ReceivedPackets 610
-TL = 516141770 |  AE2ED = 0.8461340491803279 |  PDR = 0.9951060358890701
-Generated Packets 615 | ReceivedPackets 611
-TL = 516316486 |  AE2ED = 0.8450351653027823 |  PDR = 0.9934959349593496
+TL = 432597367 |  AE2ED = 0.7091760114754099 |  PDR = 0.9951060358890701
+Generated Packets 614 | ReceivedPackets 611
+TL = 432906008 |  AE2ED = 0.7085204713584288 |  PDR = 0.995114006514658
 Generated Packets 615 | ReceivedPackets 612
-TL = 516931801 |  AE2ED = 0.8446598055555555 |  PDR = 0.9951219512195122
+TL = 434062988 |  AE2ED = 0.709253248366013 |  PDR = 0.9951219512195122
 Generated Packets 616 | ReceivedPackets 613
-TL = 517025913 |  AE2ED = 0.8434354208809135 |  PDR = 0.9951298701298701
-Generated Packets 618 | ReceivedPackets 614
-TL = 517049147 |  AE2ED = 0.8420995879478828 |  PDR = 0.9935275080906149
+TL = 434188582 |  AE2ED = 0.7083011125611746 |  PDR = 0.9951298701298701
+Generated Packets 617 | ReceivedPackets 614
+TL = 434263839 |  AE2ED = 0.7072700960912053 |  PDR = 0.9951377633711507
 Generated Packets 618 | ReceivedPackets 615
-TL = 519714765 |  AE2ED = 0.8450646585365854 |  PDR = 0.9951456310679612
-Generated Packets 619 | ReceivedPackets 616
-TL = 519780103 |  AE2ED = 0.8437988685064935 |  PDR = 0.9951534733441034
-Generated Packets 620 | ReceivedPackets 617
-TL = 520036143 |  AE2ED = 0.8428462609400325 |  PDR = 0.9951612903225806
-Generated Packets 621 | ReceivedPackets 618
-TL = 520191970 |  AE2ED = 0.8417345792880259 |  PDR = 0.9951690821256038
+TL = 434306446 |  AE2ED = 0.7061893430894309 |  PDR = 0.9951456310679612
+Generated Packets 622 | ReceivedPackets 616
+TL = 436059398 |  AE2ED = 0.7078886331168831 |  PDR = 0.9903536977491961
+Generated Packets 622 | ReceivedPackets 617
+TL = 437884452 |  AE2ED = 0.7096992739059969 |  PDR = 0.9919614147909968
+Generated Packets 622 | ReceivedPackets 618
+TL = 439816216 |  AE2ED = 0.7116767249190938 |  PDR = 0.9935691318327974
 Generated Packets 622 | ReceivedPackets 619
-TL = 521131382 |  AE2ED = 0.8418923780290791 |  PDR = 0.9951768488745981
+TL = 442590180 |  AE2ED = 0.7150083683360259 |  PDR = 0.9951768488745981
 Generated Packets 623 | ReceivedPackets 620
-TL = 521234632 |  AE2ED = 0.8407010193548388 |  PDR = 0.9951845906902087
-Generated Packets 626 | ReceivedPackets 621
-TL = 525448777 |  AE2ED = 0.8461332962962963 |  PDR = 0.9920127795527156
-Generated Packets 626 | ReceivedPackets 622
-TL = 528778049 |  AE2ED = 0.8501254807073955 |  PDR = 0.9936102236421726
-Generated Packets 626 | ReceivedPackets 623
-TL = 531447928 |  AE2ED = 0.8530464333868378 |  PDR = 0.9952076677316294
+TL = 443005747 |  AE2ED = 0.7145253983870968 |  PDR = 0.9951845906902087
+Generated Packets 625 | ReceivedPackets 621
+TL = 445483524 |  AE2ED = 0.71736477294686 |  PDR = 0.9936
+Generated Packets 625 | ReceivedPackets 622
+TL = 448089400 |  AE2ED = 0.7204009646302251 |  PDR = 0.9952
+Generated Packets 627 | ReceivedPackets 623
+TL = 448212136 |  AE2ED = 0.7194416308186197 |  PDR = 0.9936204146730463
 Generated Packets 627 | ReceivedPackets 624
-TL = 531616956 |  AE2ED = 0.85195025 |  PDR = 0.9952153110047847
+TL = 450285971 |  AE2ED = 0.7216121330128205 |  PDR = 0.9952153110047847
 Generated Packets 628 | ReceivedPackets 625
-TL = 532944097 |  AE2ED = 0.8527105551999999 |  PDR = 0.9952229299363057
-Generated Packets 630 | ReceivedPackets 626
-TL = 533323755 |  AE2ED = 0.8519548801916933 |  PDR = 0.9936507936507937
+TL = 450715722 |  AE2ED = 0.7211451552 |  PDR = 0.9952229299363057
+Generated Packets 629 | ReceivedPackets 626
+TL = 453536285 |  AE2ED = 0.724498857827476 |  PDR = 0.9952305246422893
 Generated Packets 630 | ReceivedPackets 627
-TL = 534573078 |  AE2ED = 0.8525886411483254 |  PDR = 0.9952380952380953
+TL = 453820913 |  AE2ED = 0.7237973094098883 |  PDR = 0.9952380952380953
 Generated Packets 631 | ReceivedPackets 628
-TL = 534647593 |  AE2ED = 0.8513496703821656 |  PDR = 0.9952456418383518
-Generated Packets 632 | ReceivedPackets 629
-TL = 534721264 |  AE2ED = 0.8501132972972972 |  PDR = 0.995253164556962
+TL = 453885737 |  AE2ED = 0.7227479888535031 |  PDR = 0.9952456418383518
+Generated Packets 633 | ReceivedPackets 629
+TL = 454030256 |  AE2ED = 0.7218287058823529 |  PDR = 0.9936808846761453
 Generated Packets 633 | ReceivedPackets 630
-TL = 534830254 |  AE2ED = 0.848936911111111 |  PDR = 0.995260663507109
+TL = 456534079 |  AE2ED = 0.7246572682539683 |  PDR = 0.995260663507109
 Generated Packets 634 | ReceivedPackets 631
-TL = 535057759 |  AE2ED = 0.8479520744849446 |  PDR = 0.9952681388012619
+TL = 456660631 |  AE2ED = 0.7237093993660856 |  PDR = 0.9952681388012619
 Generated Packets 635 | ReceivedPackets 632
-TL = 535349806 |  AE2ED = 0.8470724778481012 |  PDR = 0.9952755905511811
-Generated Packets 637 | ReceivedPackets 633
-TL = 535510498 |  AE2ED = 0.8459881484992101 |  PDR = 0.9937205651491365
+TL = 457164219 |  AE2ED = 0.7233611060126582 |  PDR = 0.9952755905511811
+Generated Packets 636 | ReceivedPackets 633
+TL = 457259821 |  AE2ED = 0.7223693854660348 |  PDR = 0.9952830188679245
 Generated Packets 637 | ReceivedPackets 634
-TL = 536272013 |  AE2ED = 0.8458549100946372 |  PDR = 0.9952904238618524
-Generated Packets 639 | ReceivedPackets 635
-TL = 536664903 |  AE2ED = 0.8451415795275591 |  PDR = 0.9937402190923318
+TL = 457389036 |  AE2ED = 0.721433810725552 |  PDR = 0.9952904238618524
+Generated Packets 638 | ReceivedPackets 635
+TL = 460314540 |  AE2ED = 0.7249047874015748 |  PDR = 0.9952978056426333
 Generated Packets 639 | ReceivedPackets 636
-TL = 539206792 |  AE2ED = 0.8478094213836478 |  PDR = 0.9953051643192489
+TL = 460414767 |  AE2ED = 0.7239225896226416 |  PDR = 0.9953051643192489
 Generated Packets 641 | ReceivedPackets 637
-TL = 540970182 |  AE2ED = 0.849246753532182 |  PDR = 0.9937597503900156
-Generated Packets 641 | ReceivedPackets 638
-TL = 542021492 |  AE2ED = 0.8495634670846395 |  PDR = 0.9953198127925117
-Generated Packets 642 | ReceivedPackets 639
-TL = 542941869 |  AE2ED = 0.8496742863849764 |  PDR = 0.9953271028037384
-Generated Packets 643 | ReceivedPackets 640
-TL = 543042882 |  AE2ED = 0.848504503125 |  PDR = 0.995334370139969
-Generated Packets 646 | ReceivedPackets 641
-TL = 543939512 |  AE2ED = 0.8485795819032762 |  PDR = 0.9922600619195047
-Generated Packets 646 | ReceivedPackets 642
-TL = 544543530 |  AE2ED = 0.848198644859813 |  PDR = 0.9938080495356038
+TL = 464403631 |  AE2ED = 0.7290480863422292 |  PDR = 0.9937597503900156
+Generated Packets 642 | ReceivedPackets 638
+TL = 464493460 |  AE2ED = 0.7280461755485893 |  PDR = 0.9937694704049844
+Generated Packets 643 | ReceivedPackets 639
+TL = 465979308 |  AE2ED = 0.7292320938967136 |  PDR = 0.9937791601866252
+Generated Packets 644 | ReceivedPackets 640
+TL = 466111286 |  AE2ED = 0.728298884375 |  PDR = 0.9937888198757764
+Generated Packets 644 | ReceivedPackets 641
+TL = 467864793 |  AE2ED = 0.7298982730109204 |  PDR = 0.9953416149068323
+Generated Packets 645 | ReceivedPackets 642
+TL = 467977120 |  AE2ED = 0.7289363239875389 |  PDR = 0.9953488372093023
 Generated Packets 646 | ReceivedPackets 643
-TL = 545699116 |  AE2ED = 0.8486766967340591 |  PDR = 0.9953560371517027
-Generated Packets 647 | ReceivedPackets 644
-TL = 546213436 |  AE2ED = 0.8481575093167703 |  PDR = 0.9953632148377125
-Generated Packets 648 | ReceivedPackets 645
-TL = 546281391 |  AE2ED = 0.8469478930232559 |  PDR = 0.9953703703703703
+TL = 468069057 |  AE2ED = 0.7279456562986003 |  PDR = 0.9953560371517027
+Generated Packets 649 | ReceivedPackets 644
+TL = 470460134 |  AE2ED = 0.7305281583850932 |  PDR = 0.9922958397534669
+Generated Packets 649 | ReceivedPackets 645
+TL = 470838915 |  AE2ED = 0.7299828139534884 |  PDR = 0.9938366718027735
 Generated Packets 649 | ReceivedPackets 646
-TL = 546400290 |  AE2ED = 0.8458208823529412 |  PDR = 0.9953775038520801
+TL = 473386432 |  AE2ED = 0.7327963343653251 |  PDR = 0.9953775038520801
 Generated Packets 650 | ReceivedPackets 647
-TL = 546550891 |  AE2ED = 0.8447463539412674 |  PDR = 0.9953846153846154
+TL = 473636035 |  AE2ED = 0.7320495131375581 |  PDR = 0.9953846153846154
 Generated Packets 651 | ReceivedPackets 648
-TL = 547522048 |  AE2ED = 0.8449414320987654 |  PDR = 0.9953917050691244
+TL = 473695889 |  AE2ED = 0.731012174382716 |  PDR = 0.9953917050691244
 Generated Packets 652 | ReceivedPackets 649
-TL = 547619904 |  AE2ED = 0.8437902989214175 |  PDR = 0.995398773006135
+TL = 474069564 |  AE2ED = 0.7304615778120185 |  PDR = 0.995398773006135
 Generated Packets 653 | ReceivedPackets 650
-TL = 547747119 |  AE2ED = 0.8426878753846154 |  PDR = 0.9954058192955589
-Generated Packets 654 | ReceivedPackets 651
-TL = 547975145 |  AE2ED = 0.8417436943164363 |  PDR = 0.9954128440366973
+TL = 475965985 |  AE2ED = 0.7322553615384615 |  PDR = 0.9954058192955589
+Generated Packets 655 | ReceivedPackets 651
+TL = 476014960 |  AE2ED = 0.7312057757296466 |  PDR = 0.9938931297709923
 Generated Packets 655 | ReceivedPackets 652
-TL = 548271557 |  AE2ED = 0.8409072960122699 |  PDR = 0.9954198473282443
-Generated Packets 656 | ReceivedPackets 653
-TL = 548521025 |  AE2ED = 0.8400015696784074 |  PDR = 0.9954268292682927
-Generated Packets 657 | ReceivedPackets 654
-TL = 549022916 |  AE2ED = 0.8394845810397553 |  PDR = 0.9954337899543378
+TL = 477146970 |  AE2ED = 0.7318205061349693 |  PDR = 0.9954198473282443
+Generated Packets 657 | ReceivedPackets 653
+TL = 477308632 |  AE2ED = 0.7309473690658499 |  PDR = 0.9939117199391172
+Generated Packets 658 | ReceivedPackets 654
+TL = 477427696 |  AE2ED = 0.7300117675840978 |  PDR = 0.993920972644377
 Generated Packets 658 | ReceivedPackets 655
-TL = 549333892 |  AE2ED = 0.8386776977099236 |  PDR = 0.9954407294832827
-Generated Packets 660 | ReceivedPackets 656
-TL = 549557774 |  AE2ED = 0.8377405091463415 |  PDR = 0.9939393939393939
+TL = 478370780 |  AE2ED = 0.7303370687022901 |  PDR = 0.9954407294832827
+Generated Packets 659 | ReceivedPackets 656
+TL = 478677850 |  AE2ED = 0.729691844512195 |  PDR = 0.9954476479514416
 Generated Packets 660 | ReceivedPackets 657
-TL = 550450854 |  AE2ED = 0.8378247397260273 |  PDR = 0.9954545454545455
+TL = 479016916 |  AE2ED = 0.7290972846270929 |  PDR = 0.9954545454545455
 Generated Packets 661 | ReceivedPackets 658
-TL = 550502138 |  AE2ED = 0.8366293890577509 |  PDR = 0.9954614220877458
+TL = 479169742 |  AE2ED = 0.7282214924012158 |  PDR = 0.9954614220877458
 Generated Packets 662 | ReceivedPackets 659
-TL = 550638798 |  AE2ED = 0.835567220030349 |  PDR = 0.9954682779456193
+TL = 481489541 |  AE2ED = 0.7306366327769348 |  PDR = 0.9954682779456193
 Generated Packets 663 | ReceivedPackets 660
-TL = 550753078 |  AE2ED = 0.8344743606060606 |  PDR = 0.995475113122172
-Generated Packets 664 | ReceivedPackets 661
-TL = 550820830 |  AE2ED = 0.8333144175491679 |  PDR = 0.9954819277108434
-Generated Packets 665 | ReceivedPackets 662
-TL = 551030574 |  AE2ED = 0.8323724682779456 |  PDR = 0.9954887218045113
+TL = 482201357 |  AE2ED = 0.7306081166666667 |  PDR = 0.995475113122172
+Generated Packets 665 | ReceivedPackets 661
+TL = 484773491 |  AE2ED = 0.7333940862329804 |  PDR = 0.9939849624060151
+Generated Packets 666 | ReceivedPackets 662
+TL = 484909075 |  AE2ED = 0.7324910498489425 |  PDR = 0.993993993993994
 Generated Packets 666 | ReceivedPackets 663
-TL = 551095179 |  AE2ED = 0.8312144479638008 |  PDR = 0.9954954954954955
+TL = 491799793 |  AE2ED = 0.7417794766214177 |  PDR = 0.9954954954954955
 Generated Packets 667 | ReceivedPackets 664
-TL = 551173206 |  AE2ED = 0.8300801295180722 |  PDR = 0.9955022488755623
-Generated Packets 670 | ReceivedPackets 665
-TL = 551387441 |  AE2ED = 0.8291540466165414 |  PDR = 0.9925373134328358
-Generated Packets 671 | ReceivedPackets 666
-TL = 551594583 |  AE2ED = 0.8282200945945946 |  PDR = 0.992548435171386
-Generated Packets 671 | ReceivedPackets 667
-TL = 553093372 |  AE2ED = 0.8292254452773613 |  PDR = 0.9940387481371088
+TL = 492608196 |  AE2ED = 0.741879813253012 |  PDR = 0.9955022488755623
+Generated Packets 668 | ReceivedPackets 665
+TL = 492958651 |  AE2ED = 0.7412912045112782 |  PDR = 0.9955089820359282
+Generated Packets 669 | ReceivedPackets 666
+TL = 493196986 |  AE2ED = 0.740536015015015 |  PDR = 0.9955156950672646
+Generated Packets 670 | ReceivedPackets 667
+TL = 493266126 |  AE2ED = 0.7395294242878561 |  PDR = 0.9955223880597015
 Generated Packets 671 | ReceivedPackets 668
-TL = 555856050 |  AE2ED = 0.8321198353293413 |  PDR = 0.9955290611028316
+TL = 493398099 |  AE2ED = 0.7386199086826347 |  PDR = 0.9955290611028316
 Generated Packets 672 | ReceivedPackets 669
-TL = 558790215 |  AE2ED = 0.8352619058295965 |  PDR = 0.9955357142857143
+TL = 493510998 |  AE2ED = 0.7376846008968609 |  PDR = 0.9955357142857143
 Generated Packets 673 | ReceivedPackets 670
-TL = 558941103 |  AE2ED = 0.8342404522388059 |  PDR = 0.9955423476968797
+TL = 493724087 |  AE2ED = 0.7369016223880598 |  PDR = 0.9955423476968797
 Generated Packets 674 | ReceivedPackets 671
-TL = 559045302 |  AE2ED = 0.8331524619970193 |  PDR = 0.9955489614243324
-Generated Packets 675 | ReceivedPackets 672
-TL = 559169495 |  AE2ED = 0.8320974627976191 |  PDR = 0.9955555555555555
-Generated Packets 676 | ReceivedPackets 673
-TL = 559220584 |  AE2ED = 0.8309369747399703 |  PDR = 0.9955621301775148
-Generated Packets 677 | ReceivedPackets 674
-TL = 559714917 |  AE2ED = 0.83043756231454 |  PDR = 0.9955686853766618
-Generated Packets 678 | ReceivedPackets 675
-TL = 561292614 |  AE2ED = 0.8315446133333333 |  PDR = 0.995575221238938
-Generated Packets 679 | ReceivedPackets 676
-TL = 561428439 |  AE2ED = 0.8305154423076923 |  PDR = 0.9955817378497791
+TL = 493856192 |  AE2ED = 0.7360002861400894 |  PDR = 0.9955489614243324
+Generated Packets 677 | ReceivedPackets 672
+TL = 494016399 |  AE2ED = 0.7351434508928572 |  PDR = 0.9926144756277696
+Generated Packets 677 | ReceivedPackets 673
+TL = 495671799 |  AE2ED = 0.7365108454680535 |  PDR = 0.9940915805022157
+Generated Packets 678 | ReceivedPackets 674
+TL = 497522649 |  AE2ED = 0.7381641676557864 |  PDR = 0.9941002949852508
+Generated Packets 680 | ReceivedPackets 675
+TL = 497705483 |  AE2ED = 0.7373414562962963 |  PDR = 0.9926470588235294
+Generated Packets 680 | ReceivedPackets 676
+TL = 499483112 |  AE2ED = 0.7388803431952663 |  PDR = 0.9941176470588236
 Generated Packets 680 | ReceivedPackets 677
-TL = 561583219 |  AE2ED = 0.8295173101920237 |  PDR = 0.9955882352941177
-Generated Packets 682 | ReceivedPackets 678
-TL = 561747256 |  AE2ED = 0.8285357758112094 |  PDR = 0.9941348973607038
+TL = 504064841 |  AE2ED = 0.7445566336779911 |  PDR = 0.9955882352941177
+Generated Packets 681 | ReceivedPackets 678
+TL = 505211129 |  AE2ED = 0.7451491578171091 |  PDR = 0.9955947136563876
 Generated Packets 682 | ReceivedPackets 679
-TL = 562938896 |  AE2ED = 0.8290705390279822 |  PDR = 0.9956011730205279
+TL = 505306644 |  AE2ED = 0.7441924064801179 |  PDR = 0.9956011730205279
 Generated Packets 683 | ReceivedPackets 680
-TL = 563072874 |  AE2ED = 0.828048344117647 |  PDR = 0.9956076134699854
+TL = 505331760 |  AE2ED = 0.7431349411764706 |  PDR = 0.9956076134699854
 Generated Packets 684 | ReceivedPackets 681
-TL = 563193658 |  AE2ED = 0.8270097767988253 |  PDR = 0.9956140350877193
+TL = 505443907 |  AE2ED = 0.7422083803230544 |  PDR = 0.9956140350877193
 Generated Packets 686 | ReceivedPackets 682
-TL = 563216883 |  AE2ED = 0.8258312067448681 |  PDR = 0.9941690962099126
+TL = 506127268 |  AE2ED = 0.7421220938416423 |  PDR = 0.9941690962099126
 Generated Packets 686 | ReceivedPackets 683
-TL = 563782254 |  AE2ED = 0.825449859443631 |  PDR = 0.9956268221574344
+TL = 506406776 |  AE2ED = 0.7414447672035139 |  PDR = 0.9956268221574344
 Generated Packets 687 | ReceivedPackets 684
-TL = 563833221 |  AE2ED = 0.8243175745614035 |  PDR = 0.9956331877729258
-Generated Packets 688 | ReceivedPackets 685
-TL = 563897195 |  AE2ED = 0.8232075839416059 |  PDR = 0.9956395348837209
+TL = 506684686 |  AE2ED = 0.7407670847953217 |  PDR = 0.9956331877729258
+Generated Packets 689 | ReceivedPackets 685
+TL = 506990510 |  AE2ED = 0.7401321313868613 |  PDR = 0.9941944847605225
 Generated Packets 689 | ReceivedPackets 686
-TL = 564524757 |  AE2ED = 0.8229223862973761 |  PDR = 0.9956458635703919
+TL = 508180474 |  AE2ED = 0.740787862973761 |  PDR = 0.9956458635703919
 Generated Packets 690 | ReceivedPackets 687
-TL = 564906207 |  AE2ED = 0.8222797772925764 |  PDR = 0.9956521739130435
+TL = 508482718 |  AE2ED = 0.740149516739447 |  PDR = 0.9956521739130435
 Generated Packets 691 | ReceivedPackets 688
-TL = 565377078 |  AE2ED = 0.8217690087209302 |  PDR = 0.9956584659913169
+TL = 508886941 |  AE2ED = 0.7396612514534884 |  PDR = 0.9956584659913169
 Generated Packets 692 | ReceivedPackets 689
-TL = 565497847 |  AE2ED = 0.8207515921625543 |  PDR = 0.9956647398843931
-Generated Packets 694 | ReceivedPackets 690
-TL = 565632223 |  AE2ED = 0.8197568449275362 |  PDR = 0.9942363112391931
+TL = 509047155 |  AE2ED = 0.7388202539912917 |  PDR = 0.9956647398843931
+Generated Packets 693 | ReceivedPackets 690
+TL = 509223107 |  AE2ED = 0.7380045028985507 |  PDR = 0.9956709956709957
 Generated Packets 694 | ReceivedPackets 691
-TL = 566057238 |  AE2ED = 0.8191855832127352 |  PDR = 0.9956772334293948
+TL = 509374975 |  AE2ED = 0.7371562590448625 |  PDR = 0.9956772334293948
 Generated Packets 695 | ReceivedPackets 692
-TL = 566366136 |  AE2ED = 0.8184481734104045 |  PDR = 0.99568345323741
-Generated Packets 698 | ReceivedPackets 693
-TL = 570171053 |  AE2ED = 0.8227576522366522 |  PDR = 0.9928366762177651
+TL = 509569915 |  AE2ED = 0.7363727095375723 |  PDR = 0.99568345323741
+Generated Packets 697 | ReceivedPackets 693
+TL = 509689373 |  AE2ED = 0.7354825007215007 |  PDR = 0.994261119081779
 Generated Packets 698 | ReceivedPackets 694
-TL = 571523719 |  AE2ED = 0.8235212089337176 |  PDR = 0.994269340974212
+TL = 510758049 |  AE2ED = 0.7359626066282421 |  PDR = 0.994269340974212
 Generated Packets 698 | ReceivedPackets 695
-TL = 572207020 |  AE2ED = 0.8233194532374101 |  PDR = 0.995702005730659
-Generated Packets 699 | ReceivedPackets 696
-TL = 572254599 |  AE2ED = 0.8222048836206897 |  PDR = 0.9957081545064378
+TL = 510893390 |  AE2ED = 0.7350984028776978 |  PDR = 0.995702005730659
+Generated Packets 700 | ReceivedPackets 696
+TL = 514815942 |  AE2ED = 0.7396780775862069 |  PDR = 0.9942857142857143
 Generated Packets 700 | ReceivedPackets 697
-TL = 572675079 |  AE2ED = 0.8216285208034433 |  PDR = 0.9957142857142857
+TL = 516545683 |  AE2ED = 0.7410985408895265 |  PDR = 0.9957142857142857
 Generated Packets 701 | ReceivedPackets 698
-TL = 572812557 |  AE2ED = 0.8206483624641834 |  PDR = 0.9957203994293866
-Generated Packets 703 | ReceivedPackets 699
-TL = 576050446 |  AE2ED = 0.8241065035765379 |  PDR = 0.9943100995732574
+TL = 516915037 |  AE2ED = 0.7405659555873926 |  PDR = 0.9957203994293866
+Generated Packets 702 | ReceivedPackets 699
+TL = 517036413 |  AE2ED = 0.7396801330472103 |  PDR = 0.9957264957264957
 Generated Packets 703 | ReceivedPackets 700
-TL = 580141764 |  AE2ED = 0.8287739485714285 |  PDR = 0.9957325746799431
+TL = 517101969 |  AE2ED = 0.7387170985714285 |  PDR = 0.9957325746799431
 Generated Packets 704 | ReceivedPackets 701
-TL = 580183053 |  AE2ED = 0.82765057489301 |  PDR = 0.9957386363636364
+TL = 517210854 |  AE2ED = 0.7378186219686163 |  PDR = 0.9957386363636364
 Generated Packets 705 | ReceivedPackets 702
-TL = 580240867 |  AE2ED = 0.8265539415954416 |  PDR = 0.9957446808510638
+TL = 517254267 |  AE2ED = 0.7368294401709401 |  PDR = 0.9957446808510638
 Generated Packets 706 | ReceivedPackets 703
-TL = 581711874 |  AE2ED = 0.8274706600284495 |  PDR = 0.9957507082152974
-Generated Packets 708 | ReceivedPackets 704
-TL = 582238177 |  AE2ED = 0.8270428650568182 |  PDR = 0.9943502824858758
+TL = 517419357 |  AE2ED = 0.7360161550497867 |  PDR = 0.9957507082152974
+Generated Packets 707 | ReceivedPackets 704
+TL = 517531506 |  AE2ED = 0.7351299801136364 |  PDR = 0.9957567185289957
 Generated Packets 708 | ReceivedPackets 705
-TL = 582944330 |  AE2ED = 0.8268713900709219 |  PDR = 0.9957627118644068
+TL = 517556225 |  AE2ED = 0.734122304964539 |  PDR = 0.9957627118644068
 Generated Packets 709 | ReceivedPackets 706
-TL = 583745218 |  AE2ED = 0.8268345864022663 |  PDR = 0.995768688293371
+TL = 521848776 |  AE2ED = 0.7391625722379603 |  PDR = 0.995768688293371
 Generated Packets 710 | ReceivedPackets 707
-TL = 585165036 |  AE2ED = 0.8276733182461103 |  PDR = 0.995774647887324
+TL = 522361726 |  AE2ED = 0.7388426110325318 |  PDR = 0.995774647887324
 Generated Packets 711 | ReceivedPackets 708
-TL = 585420761 |  AE2ED = 0.826865481638418 |  PDR = 0.9957805907172996
+TL = 522517710 |  AE2ED = 0.7380193644067796 |  PDR = 0.9957805907172996
 Generated Packets 712 | ReceivedPackets 709
-TL = 585481578 |  AE2ED = 0.8257850183356841 |  PDR = 0.9957865168539326
-Generated Packets 716 | ReceivedPackets 710
-TL = 587500942 |  AE2ED = 0.8274661154929578 |  PDR = 0.9916201117318436
-Generated Packets 716 | ReceivedPackets 711
-TL = 589254843 |  AE2ED = 0.8287691181434599 |  PDR = 0.9930167597765364
-Generated Packets 716 | ReceivedPackets 712
-TL = 590628938 |  AE2ED = 0.829535025280899 |  PDR = 0.994413407821229
-Generated Packets 717 | ReceivedPackets 713
-TL = 590839027 |  AE2ED = 0.828666237026648 |  PDR = 0.9944211994421199
+TL = 522542825 |  AE2ED = 0.7370138575458391 |  PDR = 0.9957865168539326
+Generated Packets 718 | ReceivedPackets 710
+TL = 522633050 |  AE2ED = 0.7361028873239437 |  PDR = 0.9888579387186629
+Generated Packets 718 | ReceivedPackets 711
+TL = 525495796 |  AE2ED = 0.7390939465541491 |  PDR = 0.9902506963788301
+Generated Packets 718 | ReceivedPackets 712
+TL = 528188758 |  AE2ED = 0.7418381432584269 |  PDR = 0.9916434540389972
+Generated Packets 718 | ReceivedPackets 713
+TL = 531057765 |  AE2ED = 0.7448215497896212 |  PDR = 0.9930362116991643
 Generated Packets 718 | ReceivedPackets 714
-TL = 590913308 |  AE2ED = 0.827609675070028 |  PDR = 0.9944289693593314
+TL = 534426662 |  AE2ED = 0.7484967254901961 |  PDR = 0.9944289693593314
 Generated Packets 719 | ReceivedPackets 715
-TL = 591258714 |  AE2ED = 0.8269352643356643 |  PDR = 0.9944367176634215
+TL = 534604337 |  AE2ED = 0.7476983734265734 |  PDR = 0.9944367176634215
 Generated Packets 720 | ReceivedPackets 716
-TL = 591580826 |  AE2ED = 0.8262302039106145 |  PDR = 0.9944444444444445
-Generated Packets 721 | ReceivedPackets 717
-TL = 591678769 |  AE2ED = 0.8252144616457462 |  PDR = 0.9944521497919556
+TL = 534663223 |  AE2ED = 0.7467363449720671 |  PDR = 0.9944444444444445
+Generated Packets 722 | ReceivedPackets 717
+TL = 534788749 |  AE2ED = 0.7458699428172942 |  PDR = 0.9930747922437673
 Generated Packets 722 | ReceivedPackets 718
-TL = 591839216 |  AE2ED = 0.8242886016713092 |  PDR = 0.9944598337950139
+TL = 535252064 |  AE2ED = 0.7454764122562674 |  PDR = 0.9944598337950139
 Generated Packets 723 | ReceivedPackets 719
-TL = 592355566 |  AE2ED = 0.8238603143254519 |  PDR = 0.9944674965421854
+TL = 535993876 |  AE2ED = 0.7454713157162726 |  PDR = 0.9944674965421854
 Generated Packets 724 | ReceivedPackets 720
-TL = 592496422 |  AE2ED = 0.8229116972222222 |  PDR = 0.994475138121547
+TL = 536627711 |  AE2ED = 0.7453162652777778 |  PDR = 0.994475138121547
 Generated Packets 725 | ReceivedPackets 721
-TL = 592577572 |  AE2ED = 0.8218829015256588 |  PDR = 0.9944827586206897
+TL = 536746588 |  AE2ED = 0.7444474174757282 |  PDR = 0.9944827586206897
 Generated Packets 726 | ReceivedPackets 722
-TL = 592711866 |  AE2ED = 0.8209305623268698 |  PDR = 0.9944903581267218
+TL = 537676687 |  AE2ED = 0.744704552631579 |  PDR = 0.9944903581267218
 Generated Packets 727 | ReceivedPackets 723
-TL = 592799253 |  AE2ED = 0.819915979253112 |  PDR = 0.9944979367262724
+TL = 537876160 |  AE2ED = 0.7439504287690181 |  PDR = 0.9944979367262724
 Generated Packets 728 | ReceivedPackets 724
-TL = 594460328 |  AE2ED = 0.8210778011049724 |  PDR = 0.9945054945054945
+TL = 539265109 |  AE2ED = 0.7448413107734807 |  PDR = 0.9945054945054945
 Generated Packets 729 | ReceivedPackets 725
-TL = 594534837 |  AE2ED = 0.8200480510344828 |  PDR = 0.9945130315500685
+TL = 539313807 |  AE2ED = 0.7438811131034483 |  PDR = 0.9945130315500685
 Generated Packets 730 | ReceivedPackets 726
-TL = 595571070 |  AE2ED = 0.8203458264462811 |  PDR = 0.9945205479452055
-Generated Packets 733 | ReceivedPackets 727
-TL = 595725472 |  AE2ED = 0.819429810178817 |  PDR = 0.9918144611186903
-Generated Packets 733 | ReceivedPackets 728
-TL = 597462166 |  AE2ED = 0.8206897884615385 |  PDR = 0.9931787175989086
+TL = 539459351 |  AE2ED = 0.7430569573002754 |  PDR = 0.9945205479452055
+Generated Packets 731 | ReceivedPackets 727
+TL = 539655471 |  AE2ED = 0.742304636863824 |  PDR = 0.9945280437756497
+Generated Packets 732 | ReceivedPackets 728
+TL = 539813602 |  AE2ED = 0.7415022005494506 |  PDR = 0.994535519125683
 Generated Packets 733 | ReceivedPackets 729
-TL = 599406464 |  AE2ED = 0.8222310891632374 |  PDR = 0.9945429740791268
+TL = 540033218 |  AE2ED = 0.7407863072702332 |  PDR = 0.9945429740791268
 Generated Packets 734 | ReceivedPackets 730
-TL = 599504202 |  AE2ED = 0.8212386328767124 |  PDR = 0.9945504087193461
+TL = 540109105 |  AE2ED = 0.7398754863013699 |  PDR = 0.9945504087193461
 Generated Packets 735 | ReceivedPackets 731
-TL = 599616233 |  AE2ED = 0.8202684445964432 |  PDR = 0.9945578231292517
+TL = 540237849 |  AE2ED = 0.739039465116279 |  PDR = 0.9945578231292517
 Generated Packets 736 | ReceivedPackets 732
-TL = 599750499 |  AE2ED = 0.8193312827868853 |  PDR = 0.9945652173913043
-Generated Packets 737 | ReceivedPackets 733
-TL = 599948897 |  AE2ED = 0.81848417053206 |  PDR = 0.994572591587517
+TL = 540621671 |  AE2ED = 0.7385541953551913 |  PDR = 0.9945652173913043
+Generated Packets 738 | ReceivedPackets 733
+TL = 540753970 |  AE2ED = 0.7377271077762619 |  PDR = 0.9932249322493225
 Generated Packets 738 | ReceivedPackets 734
-TL = 600063661 |  AE2ED = 0.8175254237057221 |  PDR = 0.994579945799458
+TL = 541172294 |  AE2ED = 0.7372919536784741 |  PDR = 0.994579945799458
 Generated Packets 740 | ReceivedPackets 735
-TL = 600236647 |  AE2ED = 0.8166484993197278 |  PDR = 0.9932432432432432
+TL = 543370061 |  AE2ED = 0.7392789945578232 |  PDR = 0.9932432432432432
 Generated Packets 740 | ReceivedPackets 736
-TL = 601636533 |  AE2ED = 0.8174409415760869 |  PDR = 0.9945945945945946
+TL = 546552876 |  AE2ED = 0.7425990163043478 |  PDR = 0.9945945945945946
 Generated Packets 741 | ReceivedPackets 737
-TL = 601767447 |  AE2ED = 0.8165094260515603 |  PDR = 0.9946018893387314
-Generated Packets 742 | ReceivedPackets 738
-TL = 602179613 |  AE2ED = 0.8159615352303523 |  PDR = 0.9946091644204852
+TL = 546668464 |  AE2ED = 0.7417482550881954 |  PDR = 0.9946018893387314
+Generated Packets 743 | ReceivedPackets 738
+TL = 548346594 |  AE2ED = 0.7430170650406505 |  PDR = 0.9932705248990579
 Generated Packets 743 | ReceivedPackets 739
-TL = 602307060 |  AE2ED = 0.815029851150203 |  PDR = 0.9946164199192463
-Generated Packets 744 | ReceivedPackets 740
-TL = 602474687 |  AE2ED = 0.8141549824324325 |  PDR = 0.9946236559139785
-Generated Packets 745 | ReceivedPackets 741
-TL = 602575516 |  AE2ED = 0.8131923292847504 |  PDR = 0.9946308724832215
+TL = 549870538 |  AE2ED = 0.7440737997293639 |  PDR = 0.9946164199192463
+Generated Packets 746 | ReceivedPackets 740
+TL = 553159928 |  AE2ED = 0.7475134162162161 |  PDR = 0.9919571045576407
+Generated Packets 746 | ReceivedPackets 741
+TL = 556533873 |  AE2ED = 0.7510578582995951 |  PDR = 0.9932975871313673
 Generated Packets 746 | ReceivedPackets 742
-TL = 602722763 |  AE2ED = 0.8122948288409703 |  PDR = 0.9946380697050938
+TL = 560288508 |  AE2ED = 0.7551058059299192 |  PDR = 0.9946380697050938
 Generated Packets 747 | ReceivedPackets 743
-TL = 602837684 |  AE2ED = 0.8113562368775236 |  PDR = 0.9946452476572959
+TL = 560394023 |  AE2ED = 0.754231524899058 |  PDR = 0.9946452476572959
 Generated Packets 748 | ReceivedPackets 744
-TL = 602969089 |  AE2ED = 0.8104423239247313 |  PDR = 0.9946524064171123
+TL = 560502872 |  AE2ED = 0.7533640752688172 |  PDR = 0.9946524064171123
 Generated Packets 750 | ReceivedPackets 745
-TL = 605184912 |  AE2ED = 0.8123287409395974 |  PDR = 0.9933333333333333
+TL = 562320578 |  AE2ED = 0.754792722147651 |  PDR = 0.9933333333333333
 Generated Packets 750 | ReceivedPackets 746
-TL = 606219986 |  AE2ED = 0.812627327077748 |  PDR = 0.9946666666666667
-Generated Packets 751 | ReceivedPackets 747
-TL = 606428145 |  AE2ED = 0.8118181325301205 |  PDR = 0.9946737683089214
-Generated Packets 752 | ReceivedPackets 748
-TL = 606525766 |  AE2ED = 0.8108633235294118 |  PDR = 0.9946808510638298
+TL = 562709617 |  AE2ED = 0.7543024356568365 |  PDR = 0.9946666666666667
+Generated Packets 752 | ReceivedPackets 747
+TL = 562783011 |  AE2ED = 0.7533909116465863 |  PDR = 0.9933510638297872
+Generated Packets 753 | ReceivedPackets 748
+TL = 563215972 |  AE2ED = 0.7529625294117647 |  PDR = 0.9933598937583001
 Generated Packets 753 | ReceivedPackets 749
-TL = 606610576 |  AE2ED = 0.8098939599465955 |  PDR = 0.9946879150066401
-Generated Packets 754 | ReceivedPackets 750
-TL = 606698007 |  AE2ED = 0.808930676 |  PDR = 0.9946949602122016
-Generated Packets 756 | ReceivedPackets 751
-TL = 606869016 |  AE2ED = 0.8080812463382157 |  PDR = 0.9933862433862434
+TL = 563372820 |  AE2ED = 0.7521666488651535 |  PDR = 0.9946879150066401
+Generated Packets 755 | ReceivedPackets 750
+TL = 563967448 |  AE2ED = 0.7519565973333333 |  PDR = 0.9933774834437086
+Generated Packets 755 | ReceivedPackets 751
+TL = 565067427 |  AE2ED = 0.7524200093209055 |  PDR = 0.9947019867549669
 Generated Packets 756 | ReceivedPackets 752
-TL = 606998925 |  AE2ED = 0.8071794215425532 |  PDR = 0.9947089947089947
-Generated Packets 758 | ReceivedPackets 753
-TL = 607049650 |  AE2ED = 0.8061748339973439 |  PDR = 0.9934036939313984
+TL = 565228912 |  AE2ED = 0.7516341914893617 |  PDR = 0.9947089947089947
+Generated Packets 757 | ReceivedPackets 753
+TL = 565344419 |  AE2ED = 0.750789401062417 |  PDR = 0.9947159841479525
 Generated Packets 758 | ReceivedPackets 754
-TL = 607625000 |  AE2ED = 0.805868700265252 |  PDR = 0.9947229551451188
+TL = 565459803 |  AE2ED = 0.7499466883289125 |  PDR = 0.9947229551451188
 Generated Packets 759 | ReceivedPackets 755
-TL = 607904094 |  AE2ED = 0.8051709854304636 |  PDR = 0.994729907773386
-Generated Packets 760 | ReceivedPackets 756
-TL = 607961919 |  AE2ED = 0.8041824325396825 |  PDR = 0.9947368421052631
+TL = 565541945 |  AE2ED = 0.749062178807947 |  PDR = 0.994729907773386
+Generated Packets 761 | ReceivedPackets 756
+TL = 565637607 |  AE2ED = 0.7481978928571429 |  PDR = 0.9934296977660972
 Generated Packets 761 | ReceivedPackets 757
-TL = 608453424 |  AE2ED = 0.8037693844121533 |  PDR = 0.9947437582128777
-Generated Packets 763 | ReceivedPackets 758
-TL = 609642062 |  AE2ED = 0.8042771266490765 |  PDR = 0.9934469200524246
+TL = 567353670 |  AE2ED = 0.7494764464993395 |  PDR = 0.9947437582128777
+Generated Packets 762 | ReceivedPackets 758
+TL = 567902093 |  AE2ED = 0.7492112044854882 |  PDR = 0.994750656167979
 Generated Packets 763 | ReceivedPackets 759
-TL = 610061287 |  AE2ED = 0.8037698115942029 |  PDR = 0.9947575360419397
+TL = 568050845 |  AE2ED = 0.7484200856389986 |  PDR = 0.9947575360419397
 Generated Packets 764 | ReceivedPackets 760
-TL = 610084547 |  AE2ED = 0.8027428249999999 |  PDR = 0.9947643979057592
-Generated Packets 767 | ReceivedPackets 761
-TL = 610489284 |  AE2ED = 0.8022198212877792 |  PDR = 0.9921773142112125
-Generated Packets 767 | ReceivedPackets 762
-TL = 611520958 |  AE2ED = 0.8025209422572178 |  PDR = 0.9934810951760105
+TL = 568182825 |  AE2ED = 0.7476089802631579 |  PDR = 0.9947643979057592
+Generated Packets 765 | ReceivedPackets 761
+TL = 568506342 |  AE2ED = 0.7470516977660973 |  PDR = 0.9947712418300654
+Generated Packets 766 | ReceivedPackets 762
+TL = 568654710 |  AE2ED = 0.7462660236220473 |  PDR = 0.9947780678851175
 Generated Packets 767 | ReceivedPackets 763
-TL = 613384648 |  AE2ED = 0.8039117273918742 |  PDR = 0.9947848761408083
-Generated Packets 769 | ReceivedPackets 764
-TL = 613511850 |  AE2ED = 0.8030259816753927 |  PDR = 0.9934980494148244
-Generated Packets 770 | ReceivedPackets 765
-TL = 614491885 |  AE2ED = 0.8032573660130718 |  PDR = 0.9935064935064936
+TL = 568780089 |  AE2ED = 0.7454522791612057 |  PDR = 0.9947848761408083
+Generated Packets 768 | ReceivedPackets 764
+TL = 568905661 |  AE2ED = 0.744640917539267 |  PDR = 0.9947916666666666
+Generated Packets 769 | ReceivedPackets 765
+TL = 569158163 |  AE2ED = 0.7439975986928105 |  PDR = 0.9947984395318595
 Generated Packets 770 | ReceivedPackets 766
-TL = 615296523 |  AE2ED = 0.8032591684073107 |  PDR = 0.9948051948051948
-Generated Packets 772 | ReceivedPackets 767
-TL = 616090806 |  AE2ED = 0.8032474654498044 |  PDR = 0.9935233160621761
-Generated Packets 773 | ReceivedPackets 768
-TL = 616195023 |  AE2ED = 0.80233726953125 |  PDR = 0.9935316946959897
-Generated Packets 774 | ReceivedPackets 769
-TL = 617713816 |  AE2ED = 0.8032689414824448 |  PDR = 0.9935400516795866
-Generated Packets 774 | ReceivedPackets 770
-TL = 623553496 |  AE2ED = 0.809809735064935 |  PDR = 0.9948320413436692
-Generated Packets 775 | ReceivedPackets 771
-TL = 623667720 |  AE2ED = 0.8089075486381323 |  PDR = 0.9948387096774194
+TL = 572075379 |  AE2ED = 0.7468346984334204 |  PDR = 0.9948051948051948
+Generated Packets 771 | ReceivedPackets 767
+TL = 572738595 |  AE2ED = 0.7467256779661017 |  PDR = 0.9948119325551232
+Generated Packets 772 | ReceivedPackets 768
+TL = 573528835 |  AE2ED = 0.7467823372395834 |  PDR = 0.9948186528497409
+Generated Packets 773 | ReceivedPackets 769
+TL = 573667487 |  AE2ED = 0.7459915305591678 |  PDR = 0.9948253557567918
+Generated Packets 775 | ReceivedPackets 770
+TL = 573718685 |  AE2ED = 0.7450892012987014 |  PDR = 0.9935483870967742
+Generated Packets 776 | ReceivedPackets 771
+TL = 577439256 |  AE2ED = 0.7489484513618677 |  PDR = 0.9935567010309279
 Generated Packets 776 | ReceivedPackets 772
-TL = 623718824 |  AE2ED = 0.8079259378238343 |  PDR = 0.9948453608247423
+TL = 578454753 |  AE2ED = 0.7492937215025907 |  PDR = 0.9948453608247423
 Generated Packets 777 | ReceivedPackets 773
-TL = 624223395 |  AE2ED = 0.8075334993531694 |  PDR = 0.9948519948519948
+TL = 578479497 |  AE2ED = 0.7483563997412678 |  PDR = 0.9948519948519948
 Generated Packets 778 | ReceivedPackets 774
-TL = 624277157 |  AE2ED = 0.8065596343669251 |  PDR = 0.9948586118251928
+TL = 578783657 |  AE2ED = 0.7477825025839793 |  PDR = 0.9948586118251928
 Generated Packets 779 | ReceivedPackets 775
-TL = 624594033 |  AE2ED = 0.805927784516129 |  PDR = 0.9948652118100129
+TL = 579005070 |  AE2ED = 0.7471033161290322 |  PDR = 0.9948652118100129
 Generated Packets 780 | ReceivedPackets 776
-TL = 624635256 |  AE2ED = 0.8049423402061856 |  PDR = 0.9948717948717949
+TL = 579070617 |  AE2ED = 0.7462250219072165 |  PDR = 0.9948717948717949
 Generated Packets 781 | ReceivedPackets 777
-TL = 625773759 |  AE2ED = 0.8053716332046332 |  PDR = 0.9948783610755442
+TL = 579614430 |  AE2ED = 0.7459645173745174 |  PDR = 0.9948783610755442
 Generated Packets 782 | ReceivedPackets 778
-TL = 626809255 |  AE2ED = 0.8056674228791774 |  PDR = 0.9948849104859335
-Generated Packets 783 | ReceivedPackets 779
-TL = 626939575 |  AE2ED = 0.8048004813863928 |  PDR = 0.9948914431673053
-Generated Packets 784 | ReceivedPackets 780
-TL = 627200849 |  AE2ED = 0.8041036525641025 |  PDR = 0.9948979591836735
-Generated Packets 785 | ReceivedPackets 781
-TL = 627431955 |  AE2ED = 0.803369980793854 |  PDR = 0.9949044585987261
-Generated Packets 786 | ReceivedPackets 782
-TL = 627588644 |  AE2ED = 0.8025430230179028 |  PDR = 0.9949109414758269
-Generated Packets 787 | ReceivedPackets 783
-TL = 628151206 |  AE2ED = 0.802236533844189 |  PDR = 0.9949174078780177
-Generated Packets 788 | ReceivedPackets 784
-TL = 628208830 |  AE2ED = 0.8012867729591837 |  PDR = 0.9949238578680203
-Generated Packets 789 | ReceivedPackets 785
-TL = 628366243 |  AE2ED = 0.8004665515923567 |  PDR = 0.9949302915082383
-Generated Packets 792 | ReceivedPackets 786
-TL = 628394140 |  AE2ED = 0.7994836386768448 |  PDR = 0.9924242424242424
-Generated Packets 792 | ReceivedPackets 787
-TL = 628516362 |  AE2ED = 0.7986230775095299 |  PDR = 0.9936868686868687
-Generated Packets 794 | ReceivedPackets 788
-TL = 634029661 |  AE2ED = 0.804606168781726 |  PDR = 0.9924433249370277
-Generated Packets 794 | ReceivedPackets 789
-TL = 637829202 |  AE2ED = 0.808402030418251 |  PDR = 0.9937027707808564
-Generated Packets 794 | ReceivedPackets 790
-TL = 640099188 |  AE2ED = 0.8102521367088608 |  PDR = 0.9949622166246851
-Generated Packets 795 | ReceivedPackets 791
-TL = 640322365 |  AE2ED = 0.8095099431099873 |  PDR = 0.9949685534591195
-Generated Packets 796 | ReceivedPackets 792
-TL = 640670067 |  AE2ED = 0.8089268522727273 |  PDR = 0.9949748743718593
-Generated Packets 797 | ReceivedPackets 793
-TL = 640808228 |  AE2ED = 0.8080809936948298 |  PDR = 0.9949811794228356
-Generated Packets 798 | ReceivedPackets 794
-TL = 641008230 |  AE2ED = 0.8073151511335012 |  PDR = 0.9949874686716792
-Generated Packets 799 | ReceivedPackets 795
-TL = 641185520 |  AE2ED = 0.8065226666666666 |  PDR = 0.9949937421777222
-Generated Packets 800 | ReceivedPackets 796
-TL = 641260167 |  AE2ED = 0.8056032248743719 |  PDR = 0.995
-Generated Packets 801 | ReceivedPackets 797
-TL = 641345384 |  AE2ED = 0.8046993525721455 |  PDR = 0.9950062421972534
-Generated Packets 802 | ReceivedPackets 798
-TL = 641889032 |  AE2ED = 0.8043722205513785 |  PDR = 0.9950124688279302
-Generated Packets 803 | ReceivedPackets 799
-TL = 642324460 |  AE2ED = 0.8039104630788485 |  PDR = 0.9950186799501868
-Generated Packets 804 | ReceivedPackets 800
-TL = 642478612 |  AE2ED = 0.803098265 |  PDR = 0.9950248756218906
-Generated Packets 805 | ReceivedPackets 801
-TL = 645066116 |  AE2ED = 0.8053259875156055 |  PDR = 0.9950310559006211
-Generated Packets 806 | ReceivedPackets 802
-TL = 645256374 |  AE2ED = 0.8045590698254365 |  PDR = 0.9950372208436724
-Generated Packets 807 | ReceivedPackets 803
-TL = 645659278 |  AE2ED = 0.8040588767123288 |  PDR = 0.9950433705080545
-Generated Packets 808 | ReceivedPackets 804
-TL = 645898575 |  AE2ED = 0.8033564365671642 |  PDR = 0.995049504950495
-Generated Packets 810 | ReceivedPackets 805
-TL = 647841894 |  AE2ED = 0.8047725391304348 |  PDR = 0.9938271604938271
-Generated Packets 810 | ReceivedPackets 806
-TL = 650429871 |  AE2ED = 0.8069849516129033 |  PDR = 0.9950617283950617
-Generated Packets 811 | ReceivedPackets 807
-TL = 650556835 |  AE2ED = 0.8061422986369269 |  PDR = 0.9950678175092479
-Generated Packets 812 | ReceivedPackets 808
-TL = 650631098 |  AE2ED = 0.8052365074257426 |  PDR = 0.9950738916256158
-Generated Packets 813 | ReceivedPackets 809
-TL = 650718934 |  AE2ED = 0.8043497330037083 |  PDR = 0.995079950799508
-Generated Packets 815 | ReceivedPackets 810
-TL = 650933193 |  AE2ED = 0.8036212259259259 |  PDR = 0.9938650306748467
-Generated Packets 816 | ReceivedPackets 811
-TL = 651057106 |  AE2ED = 0.8027831146732429 |  PDR = 0.9938725490196079
-Generated Packets 817 | ReceivedPackets 812
-TL = 651134958 |  AE2ED = 0.801890342364532 |  PDR = 0.9938800489596084
-Generated Packets 817 | ReceivedPackets 813
-TL = 655888918 |  AE2ED = 0.8067514366543665 |  PDR = 0.9951040391676866
-Generated Packets 819 | ReceivedPackets 814
-TL = 656016719 |  AE2ED = 0.8059173452088452 |  PDR = 0.9938949938949939
-Generated Packets 819 | ReceivedPackets 815
-TL = 657966677 |  AE2ED = 0.8073210760736197 |  PDR = 0.9951159951159951
-Generated Packets 820 | ReceivedPackets 816
-TL = 658037838 |  AE2ED = 0.8064189191176471 |  PDR = 0.9951219512195122
-Generated Packets 821 | ReceivedPackets 817
-TL = 658442658 |  AE2ED = 0.8059273659730722 |  PDR = 0.9951278928136419
-Generated Packets 823 | ReceivedPackets 818
-TL = 658706470 |  AE2ED = 0.8052646332518337 |  PDR = 0.9939246658566221
-Generated Packets 823 | ReceivedPackets 819
-TL = 659806109 |  AE2ED = 0.8056240647130647 |  PDR = 0.9951397326852977
-Generated Packets 824 | ReceivedPackets 820
-TL = 660335069 |  AE2ED = 0.8052866695121952 |  PDR = 0.9951456310679612
-Generated Packets 825 | ReceivedPackets 821
-TL = 660692070 |  AE2ED = 0.8047406455542021 |  PDR = 0.9951515151515151
-Generated Packets 826 | ReceivedPackets 822
-TL = 660802766 |  AE2ED = 0.8038963090024331 |  PDR = 0.9951573849878934
-Generated Packets 828 | ReceivedPackets 823
-TL = 662669596 |  AE2ED = 0.8051878444714459 |  PDR = 0.9939613526570048
-Generated Packets 830 | ReceivedPackets 824
-TL = 663096597 |  AE2ED = 0.804728879854369 |  PDR = 0.9927710843373494
-Generated Packets 830 | ReceivedPackets 825
-TL = 663987528 |  AE2ED = 0.8048333672727274 |  PDR = 0.9939759036144579
-Generated Packets 830 | ReceivedPackets 826
-TL = 668458141 |  AE2ED = 0.8092713571428571 |  PDR = 0.9951807228915662
-Generated Packets 831 | ReceivedPackets 827
-TL = 668549217 |  AE2ED = 0.8084029226118501 |  PDR = 0.9951865222623345
-Generated Packets 832 | ReceivedPackets 828
-TL = 668696494 |  AE2ED = 0.8076044613526571 |  PDR = 0.9951923076923077
-Generated Packets 833 | ReceivedPackets 829
-TL = 668840788 |  AE2ED = 0.806804328106152 |  PDR = 0.9951980792316927
-Generated Packets 835 | ReceivedPackets 830
-TL = 670400492 |  AE2ED = 0.8077114361445783 |  PDR = 0.9940119760479041
-Generated Packets 835 | ReceivedPackets 831
-TL = 670548947 |  AE2ED = 0.8069181070998797 |  PDR = 0.9952095808383233
-Generated Packets 836 | ReceivedPackets 832
-TL = 670616234 |  AE2ED = 0.8060291274038461 |  PDR = 0.9952153110047847
-Generated Packets 837 | ReceivedPackets 833
-TL = 670969308 |  AE2ED = 0.8054853637454983 |  PDR = 0.995221027479092
-Generated Packets 838 | ReceivedPackets 834
-TL = 671362460 |  AE2ED = 0.8049909592326139 |  PDR = 0.9952267303102625
-Generated Packets 840 | ReceivedPackets 835
-TL = 671754290 |  AE2ED = 0.8044961556886228 |  PDR = 0.9940476190476191
-Generated Packets 840 | ReceivedPackets 836
-TL = 672029529 |  AE2ED = 0.8038630729665072 |  PDR = 0.9952380952380953
-Generated Packets 841 | ReceivedPackets 837
-TL = 672386931 |  AE2ED = 0.8033296666666666 |  PDR = 0.995243757431629
-Generated Packets 842 | ReceivedPackets 838
-TL = 672547498 |  AE2ED = 0.802562646778043 |  PDR = 0.995249406175772
-Generated Packets 843 | ReceivedPackets 839
-TL = 672622031 |  AE2ED = 0.8016949117997616 |  PDR = 0.9952550415183867
-Generated Packets 844 | ReceivedPackets 840
-TL = 673451235 |  AE2ED = 0.8017276607142857 |  PDR = 0.995260663507109
-Generated Packets 845 | ReceivedPackets 841
-TL = 673538749 |  AE2ED = 0.8008784173602854 |  PDR = 0.9952662721893492
-Generated Packets 846 | ReceivedPackets 842
-TL = 673635709 |  AE2ED = 0.8000424097387173 |  PDR = 0.9952718676122931
-Generated Packets 847 | ReceivedPackets 843
-TL = 674421712 |  AE2ED = 0.8000257556346383 |  PDR = 0.9952774498229043
-Generated Packets 848 | ReceivedPackets 844
-TL = 674757900 |  AE2ED = 0.7994761848341232 |  PDR = 0.9952830188679245
-Generated Packets 849 | ReceivedPackets 845
-TL = 674912190 |  AE2ED = 0.7987126508875739 |  PDR = 0.9952885747938751
-Generated Packets 850 | ReceivedPackets 846
-TL = 675566212 |  AE2ED = 0.798541621749409 |  PDR = 0.9952941176470588
-Generated Packets 851 | ReceivedPackets 847
-TL = 675630822 |  AE2ED = 0.7976751145218417 |  PDR = 0.9952996474735605
-Generated Packets 853 | ReceivedPackets 848
-TL = 675712263 |  AE2ED = 0.7968304988207547 |  PDR = 0.9941383352872216
-Generated Packets 853 | ReceivedPackets 849
-TL = 676687543 |  AE2ED = 0.7970406866902238 |  PDR = 0.9953106682297772
-Generated Packets 854 | ReceivedPackets 850
-TL = 676863271 |  AE2ED = 0.7963097305882353 |  PDR = 0.9953161592505855
-Generated Packets 855 | ReceivedPackets 851
-TL = 677334918 |  AE2ED = 0.795928223266745 |  PDR = 0.9953216374269006
-Generated Packets 856 | ReceivedPackets 852
-TL = 678966774 |  AE2ED = 0.7969093591549296 |  PDR = 0.9953271028037384
-Generated Packets 857 | ReceivedPackets 853
-TL = 679040837 |  AE2ED = 0.7960619425556857 |  PDR = 0.9953325554259043
-Generated Packets 858 | ReceivedPackets 854
-TL = 679166928 |  AE2ED = 0.7952774332552693 |  PDR = 0.9953379953379954
-Generated Packets 859 | ReceivedPackets 855
-TL = 679241548 |  AE2ED = 0.7944345590643275 |  PDR = 0.9953434225844005
-Generated Packets 860 | ReceivedPackets 856
-TL = 679622301 |  AE2ED = 0.7939512862149533 |  PDR = 0.9953488372093023
-Generated Packets 861 | ReceivedPackets 857
-TL = 679795893 |  AE2ED = 0.7932274130688448 |  PDR = 0.9953542392566783
-Generated Packets 862 | ReceivedPackets 858
-TL = 679913309 |  AE2ED = 0.7924397540792542 |  PDR = 0.9953596287703016
-Generated Packets 864 | ReceivedPackets 859
-TL = 680179783 |  AE2ED = 0.7918274540162981 |  PDR = 0.9942129629629629
-Generated Packets 864 | ReceivedPackets 860
-TL = 682623904 |  AE2ED = 0.7937487255813953 |  PDR = 0.9953703703703703
-Generated Packets 867 | ReceivedPackets 861
-TL = 682844863 |  AE2ED = 0.7930834645760744 |  PDR = 0.9930795847750865
-Generated Packets 867 | ReceivedPackets 862
-TL = 683065209 |  AE2ED = 0.792419035962877 |  PDR = 0.994232987312572
-Generated Packets 867 | ReceivedPackets 863
-TL = 684061065 |  AE2ED = 0.7926547682502897 |  PDR = 0.9953863898500577
-Generated Packets 868 | ReceivedPackets 864
-TL = 685067827 |  AE2ED = 0.7929025775462963 |  PDR = 0.9953917050691244
-Generated Packets 869 | ReceivedPackets 865
-TL = 685215596 |  AE2ED = 0.7921567583815029 |  PDR = 0.9953970080552359
+TL = 579867077 |  AE2ED = 0.7453304331619537 |  PDR = 0.9948849104859335
+Generated Packets 784 | ReceivedPackets 779
+TL = 581188661 |  AE2ED = 0.7460701681643132 |  PDR = 0.9936224489795918
+Generated Packets 790 | ReceivedPackets 780
+TL = 584969575 |  AE2ED = 0.7499609935897437 |  PDR = 0.9873417721518988
+Generated Packets 790 | ReceivedPackets 781
+TL = 587765064 |  AE2ED = 0.7525801075544174 |  PDR = 0.9886075949367089
+Generated Packets 790 | ReceivedPackets 782
+TL = 590114290 |  AE2ED = 0.7546218542199489 |  PDR = 0.9898734177215189
+Generated Packets 790 | ReceivedPackets 783
+TL = 591840344 |  AE2ED = 0.7558625083014049 |  PDR = 0.9911392405063291
+Generated Packets 791 | ReceivedPackets 784
+TL = 591962616 |  AE2ED = 0.7550543571428572 |  PDR = 0.9911504424778761
+Generated Packets 792 | ReceivedPackets 785
+TL = 591987314 |  AE2ED = 0.7541239668789809 |  PDR = 0.9911616161616161
+Generated Packets 793 | ReceivedPackets 786
+TL = 592215200 |  AE2ED = 0.7534544529262086 |  PDR = 0.9911727616645649
+Generated Packets 794 | ReceivedPackets 787
+TL = 592337164 |  AE2ED = 0.7526520508259212 |  PDR = 0.9911838790931989
+Generated Packets 795 | ReceivedPackets 788
+TL = 592452726 |  AE2ED = 0.7518435609137056 |  PDR = 0.9911949685534591
+Generated Packets 796 | ReceivedPackets 789
+TL = 592730160 |  AE2ED = 0.7512422813688213 |  PDR = 0.9912060301507538
+Generated Packets 797 | ReceivedPackets 790
+TL = 593236909 |  AE2ED = 0.7509327962025316 |  PDR = 0.9912170639899623
+Generated Packets 799 | ReceivedPackets 791
+TL = 593360288 |  AE2ED = 0.7501394285714286 |  PDR = 0.9899874843554443
+Generated Packets 799 | ReceivedPackets 792
+TL = 598035551 |  AE2ED = 0.7550953926767676 |  PDR = 0.9912390488110138
+Generated Packets 800 | ReceivedPackets 793
+TL = 598127399 |  AE2ED = 0.7542590151324086 |  PDR = 0.99125
+Generated Packets 801 | ReceivedPackets 794
+TL = 600561037 |  AE2ED = 0.7563741020151133 |  PDR = 0.9912609238451935
+Generated Packets 803 | ReceivedPackets 795
+TL = 600621538 |  AE2ED = 0.7554987899371068 |  PDR = 0.9900373599003736
+Generated Packets 803 | ReceivedPackets 796
+TL = 601294739 |  AE2ED = 0.7553954007537689 |  PDR = 0.9912826899128269
+Generated Packets 804 | ReceivedPackets 797
+TL = 601319841 |  AE2ED = 0.7544790978670012 |  PDR = 0.9912935323383084
+Generated Packets 805 | ReceivedPackets 798
+TL = 601362137 |  AE2ED = 0.7535866378446116 |  PDR = 0.991304347826087
+Generated Packets 806 | ReceivedPackets 799
+TL = 601913990 |  AE2ED = 0.7533341551939925 |  PDR = 0.9913151364764268
+Generated Packets 807 | ReceivedPackets 800
+TL = 602395550 |  AE2ED = 0.7529944375 |  PDR = 0.9913258983890955
+Generated Packets 809 | ReceivedPackets 801
+TL = 602774549 |  AE2ED = 0.7525275268414482 |  PDR = 0.9901112484548825
+Generated Packets 809 | ReceivedPackets 802
+TL = 605305753 |  AE2ED = 0.7547453279301746 |  PDR = 0.9913473423980222
+Generated Packets 810 | ReceivedPackets 803
+TL = 605361389 |  AE2ED = 0.753874706102117 |  PDR = 0.991358024691358
+Generated Packets 811 | ReceivedPackets 804
+TL = 605997762 |  AE2ED = 0.7537285597014926 |  PDR = 0.9913686806411838
+Generated Packets 812 | ReceivedPackets 805
+TL = 606111069 |  AE2ED = 0.7529330049689441 |  PDR = 0.9913793103448276
+Generated Packets 813 | ReceivedPackets 806
+TL = 606236438 |  AE2ED = 0.7521543895781637 |  PDR = 0.991389913899139
+Generated Packets 814 | ReceivedPackets 807
+TL = 606428971 |  AE2ED = 0.7514609306071871 |  PDR = 0.9914004914004914
+Generated Packets 816 | ReceivedPackets 808
+TL = 606454936 |  AE2ED = 0.7505630396039603 |  PDR = 0.9901960784313726
+Generated Packets 817 | ReceivedPackets 809
+TL = 608948534 |  AE2ED = 0.7527175945611866 |  PDR = 0.9902080783353733
+Generated Packets 818 | ReceivedPackets 810
+TL = 609341312 |  AE2ED = 0.752273224691358 |  PDR = 0.9902200488997555
+Generated Packets 819 | ReceivedPackets 811
+TL = 610680628 |  AE2ED = 0.752997075215783 |  PDR = 0.9902319902319903
+Generated Packets 819 | ReceivedPackets 812
+TL = 610982806 |  AE2ED = 0.7524418793103448 |  PDR = 0.9914529914529915
+Generated Packets 820 | ReceivedPackets 813
+TL = 611776752 |  AE2ED = 0.7524929298892988 |  PDR = 0.9914634146341463
+Generated Packets 821 | ReceivedPackets 814
+TL = 611801546 |  AE2ED = 0.7515989508599509 |  PDR = 0.9914738124238733
+Generated Packets 823 | ReceivedPackets 815
+TL = 612044460 |  AE2ED = 0.7509747975460124 |  PDR = 0.9902794653705954
+Generated Packets 823 | ReceivedPackets 816
+TL = 614384565 |  AE2ED = 0.7529222610294118 |  PDR = 0.991494532199271
+Generated Packets 824 | ReceivedPackets 817
+TL = 614479988 |  AE2ED = 0.752117488372093 |  PDR = 0.991504854368932
+Generated Packets 825 | ReceivedPackets 818
+TL = 614608442 |  AE2ED = 0.7513550635696822 |  PDR = 0.9915151515151515
+Generated Packets 826 | ReceivedPackets 819
+TL = 615754832 |  AE2ED = 0.7518374017094017 |  PDR = 0.9915254237288136
+Generated Packets 828 | ReceivedPackets 820
+TL = 616093801 |  AE2ED = 0.7513339036585366 |  PDR = 0.9903381642512077
+Generated Packets 828 | ReceivedPackets 821
+TL = 616408281 |  AE2ED = 0.7508018038976857 |  PDR = 0.9915458937198067
+Generated Packets 829 | ReceivedPackets 822
+TL = 616753253 |  AE2ED = 0.7503080936739659 |  PDR = 0.991556091676719
+Generated Packets 830 | ReceivedPackets 823
+TL = 616878799 |  AE2ED = 0.7495489659781288 |  PDR = 0.9915662650602409
+Generated Packets 831 | ReceivedPackets 824
+TL = 617823786 |  AE2ED = 0.7497861480582524 |  PDR = 0.9915764139590855
+Generated Packets 832 | ReceivedPackets 825
+TL = 617891583 |  AE2ED = 0.7489594945454545 |  PDR = 0.9915865384615384
+Generated Packets 833 | ReceivedPackets 826
+TL = 618050151 |  AE2ED = 0.7482447348668281 |  PDR = 0.9915966386554622
+Generated Packets 834 | ReceivedPackets 827
+TL = 623375824 |  AE2ED = 0.7537797146311971 |  PDR = 0.9916067146282974
+Generated Packets 835 | ReceivedPackets 828
+TL = 623544164 |  AE2ED = 0.7530726618357488 |  PDR = 0.9916167664670659
+Generated Packets 836 | ReceivedPackets 829
+TL = 625605046 |  AE2ED = 0.7546502364294331 |  PDR = 0.9916267942583732
+Generated Packets 837 | ReceivedPackets 830
+TL = 625679980 |  AE2ED = 0.7538313012048192 |  PDR = 0.991636798088411
+Generated Packets 838 | ReceivedPackets 831
+TL = 626299569 |  AE2ED = 0.7536697581227437 |  PDR = 0.9916467780429594
+Generated Packets 841 | ReceivedPackets 832
+TL = 629412107 |  AE2ED = 0.7565049362980769 |  PDR = 0.9892984542211652
+Generated Packets 841 | ReceivedPackets 833
+TL = 632132786 |  AE2ED = 0.7588628883553421 |  PDR = 0.990487514863258
+Generated Packets 841 | ReceivedPackets 834
+TL = 632673613 |  AE2ED = 0.7586014544364509 |  PDR = 0.9916765755053508
+Generated Packets 842 | ReceivedPackets 835
+TL = 633335698 |  AE2ED = 0.7584858658682635 |  PDR = 0.9916864608076009
+Generated Packets 843 | ReceivedPackets 836
+TL = 633441332 |  AE2ED = 0.7577049425837321 |  PDR = 0.9916963226571768
+Generated Packets 844 | ReceivedPackets 837
+TL = 633596586 |  AE2ED = 0.7569851684587813 |  PDR = 0.9917061611374408
+Generated Packets 845 | ReceivedPackets 838
+TL = 634182183 |  AE2ED = 0.7567806479713604 |  PDR = 0.991715976331361
+Generated Packets 846 | ReceivedPackets 839
+TL = 635165184 |  AE2ED = 0.7570502789034566 |  PDR = 0.991725768321513
+Generated Packets 847 | ReceivedPackets 840
+TL = 635261671 |  AE2ED = 0.7562638940476191 |  PDR = 0.9917355371900827
+Generated Packets 849 | ReceivedPackets 841
+TL = 638014174 |  AE2ED = 0.7586375434007134 |  PDR = 0.9905771495877503
+Generated Packets 849 | ReceivedPackets 842
+TL = 640361271 |  AE2ED = 0.7605240748218527 |  PDR = 0.9917550058892816
+Generated Packets 850 | ReceivedPackets 843
+TL = 640386015 |  AE2ED = 0.7596512633451957 |  PDR = 0.991764705882353
+Generated Packets 851 | ReceivedPackets 844
+TL = 640517966 |  AE2ED = 0.7589075426540284 |  PDR = 0.9917743830787309
+Generated Packets 852 | ReceivedPackets 845
+TL = 640567184 |  AE2ED = 0.758067673372781 |  PDR = 0.9917840375586855
+Generated Packets 854 | ReceivedPackets 846
+TL = 641071692 |  AE2ED = 0.7577679574468085 |  PDR = 0.990632318501171
+Generated Packets 854 | ReceivedPackets 847
+TL = 641206931 |  AE2ED = 0.7570329763872491 |  PDR = 0.9918032786885246
+Generated Packets 855 | ReceivedPackets 848
+TL = 641325810 |  AE2ED = 0.7562804363207547 |  PDR = 0.991812865497076
+Generated Packets 857 | ReceivedPackets 849
+TL = 643182303 |  AE2ED = 0.757576328621908 |  PDR = 0.9906651108518086
+Generated Packets 857 | ReceivedPackets 850
+TL = 644625248 |  AE2ED = 0.7583826447058823 |  PDR = 0.9918319719953326
+Generated Packets 858 | ReceivedPackets 851
+TL = 644787294 |  AE2ED = 0.7576818965922444 |  PDR = 0.9918414918414918
+Generated Packets 859 | ReceivedPackets 852
+TL = 647440130 |  AE2ED = 0.7599062558685445 |  PDR = 0.9918509895227008
+Generated Packets 860 | ReceivedPackets 853
+TL = 647556873 |  AE2ED = 0.7591522543962484 |  PDR = 0.9918604651162791
+Generated Packets 861 | ReceivedPackets 854
+TL = 647622488 |  AE2ED = 0.758340149882904 |  PDR = 0.991869918699187
+Generated Packets 863 | ReceivedPackets 855
+TL = 647895712 |  AE2ED = 0.7577727625730994 |  PDR = 0.9907300115874855
+Generated Packets 863 | ReceivedPackets 856
+TL = 649974583 |  AE2ED = 0.7593161016355141 |  PDR = 0.9918887601390498
+Generated Packets 864 | ReceivedPackets 857
+TL = 650089518 |  AE2ED = 0.7585641983663944 |  PDR = 0.9918981481481481
+Generated Packets 865 | ReceivedPackets 858
+TL = 650444565 |  AE2ED = 0.7580938986013985 |  PDR = 0.991907514450867
+Generated Packets 866 | ReceivedPackets 859
+TL = 650563755 |  AE2ED = 0.7573501222351572 |  PDR = 0.9919168591224018
+Generated Packets 868 | ReceivedPackets 860
+TL = 650709163 |  AE2ED = 0.756638561627907 |  PDR = 0.9907834101382489
+Generated Packets 868 | ReceivedPackets 861
+TL = 650889910 |  AE2ED = 0.7559696980255517 |  PDR = 0.9919354838709677
+Generated Packets 869 | ReceivedPackets 862
+TL = 650948538 |  AE2ED = 0.755160716937355 |  PDR = 0.9919447640966629
+Generated Packets 870 | ReceivedPackets 863
+TL = 651358686 |  AE2ED = 0.7547609339513326 |  PDR = 0.9919540229885058
 Script timed out
 Performance Calculation
-Generated Packets 869 | ReceivedPackets 865
-TL = 685215596 |  AE2ED = 0.7921567583815029 |  PDR = 0.9953970080552359
+Generated Packets 870 | ReceivedPackets 863
+TL = 651358686 |  AE2ED = 0.7547609339513326 |  PDR = 0.9919540229885058
