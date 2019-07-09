@@ -14,9 +14,9 @@ log_rpl = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/da
 log_power = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/powertracker.log");    // open powertracker log file
 log_script = new FileWriter("/home/abhi/contiki/examples/ipv6/suppression-attack/data/script.log");         // open script logfile
 
-TIMEOUT(1800000);
+TIMEOUT(300000);
 
-var c = 0, i = 1, period = 18000000;
+var c = 0, i = 1, period = 3000000;
 
 timeout_function = function () {
     try{
@@ -251,8 +251,3 @@ while(1){
             break;
         }  
 }
-
-
-
-
-
