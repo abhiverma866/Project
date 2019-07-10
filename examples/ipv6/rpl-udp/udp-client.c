@@ -110,8 +110,8 @@ send_packet(void *ptr)
   PRINTF("Sending DATA to %d 'Hello %d' with NodeID= %d\n", server_ipaddr.u8[sizeof(server_ipaddr.u8) - 1], seq_id, node_id);
   sprintf(buf, "Hello %d from the client abhive", seq_id);
   //sprintf(buf, "mlqvnugxsiqggdrdagdzmeatwjoepw");
-  printf("Size of data %d\n", strlen(buf));
-  printf("Data is %s\n", buf);
+  //printf("Size of data %d\n", strlen(buf));
+  //printf("Data is %s\n", buf);
   uip_udp_packet_sendto(client_conn, buf, strlen(buf),
                         &server_ipaddr, UIP_HTONS(UDP_SERVER_PORT));
 }
@@ -185,7 +185,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
   PROCESS_BEGIN();
   /* Start powertracing, once every two seconds. */
-  //powertrace_start(CLOCK_SECOND * 30);
+  powertrace_start(CLOCK_SECOND * 30);
   //printf("Ticks per second: %u\n", RTIMER_SECOND);
 
   PROCESS_PAUSE();

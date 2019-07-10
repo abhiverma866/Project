@@ -12,12 +12,12 @@
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <captureEffect value="false" />
-      <tx_power value="0.0" />
-      <system_gain_mean value="-20.0" />
-      <obstacle_attenuation value="-10.0" />
-      <system_gain_var value="0.0" />
       <tx_with_gain value="false" />
+      <system_gain_mean value="-20.0" />
+      <tx_power value="0.0" />
+      <captureEffect value="false" />
+      <system_gain_var value="0.0" />
+      <obstacle_attenuation value="-10.0" />
       <obstacles />
     </radiomedium>
     <events>
@@ -27,7 +27,7 @@
       org.contikios.cooja.mspmote.Z1MoteType
       <identifier>z11</identifier>
       <description>Z1 Mote Type #z11</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/Suppression comment work/UDP-SERVER-CLIENT-NORMAL/10-R/udp-server.z1</firmware>
+      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/udp-server.z1</firmware>
       <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
       <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
       <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
@@ -45,7 +45,7 @@
       org.contikios.cooja.mspmote.Z1MoteType
       <identifier>z12</identifier>
       <description>Z1 Mote Type #z12</description>
-      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/Suppression comment work/UDP-SERVER-CLIENT-NORMAL/10-R/udp-client.z1</firmware>
+      <firmware EXPORT="copy">[CONTIKI_DIR]/examples/ipv6/suppression-attack/udp-client.z1</firmware>
       <moteinterface>org.contikios.cooja.interfaces.Position</moteinterface>
       <moteinterface>org.contikios.cooja.interfaces.RimeAddress</moteinterface>
       <moteinterface>org.contikios.cooja.interfaces.IPAddress</moteinterface>
@@ -63,8 +63,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>13.80038753495606</x>
-        <y>15.831691009358998</y>
+        <x>6.549499274653978E-10</x>
+        <y>4.369286606739371E-9</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -81,8 +81,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>0.0</x>
-        <y>0.0</y>
+        <x>13.814114767823964</x>
+        <y>14.57176773768905</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -621,7 +621,7 @@
   <plugin>
     org.contikios.cooja.plugins.SimControl
     <width>406</width>
-    <z>0</z>
+    <z>1</z>
     <height>281</height>
     <location_x>1</location_x>
     <location_y>499</location_y>
@@ -635,10 +635,10 @@
       <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
       <skin>org.contikios.mrm.MRMVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.MoteTypeVisualizerSkin</skin>
-      <viewport>2.3939393939393936 0.0 0.0 2.3939393939393936 50.95054545454548 62.97963636363639</viewport>
+      <viewport>1.9949494949494955 0.0 0.0 1.9949494949494955 110.83447326857332 101.14325698050416</viewport>
     </plugin_config>
     <width>407</width>
-    <z>4</z>
+    <z>0</z>
     <height>497</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
@@ -651,7 +651,7 @@
       <coloring />
     </plugin_config>
     <width>658</width>
-    <z>2</z>
+    <z>3</z>
     <height>495</height>
     <location_x>407</location_x>
     <location_y>0</location_y>
@@ -659,7 +659,7 @@
   <plugin>
     PowerTracker
     <width>314</width>
-    <z>3</z>
+    <z>4</z>
     <height>282</height>
     <location_x>405</location_x>
     <location_y>497</location_y>
@@ -671,7 +671,7 @@
       <active>true</active>
     </plugin_config>
     <width>547</width>
-    <z>1</z>
+    <z>2</z>
     <height>778</height>
     <location_x>1061</location_x>
     <location_y>1</location_y>

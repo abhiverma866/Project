@@ -1,745 +1,772 @@
-898590	ID:24	Rime started with address 193.12.0.0.0.0.0.24
-907166	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3377-gb06de690d started. Node id is set to 24.
-912751	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-920769	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
-922912	ID:24	Starting 'UDP client process'
-926340	ID:24	UDP client process started nbr:10 routes:0
-929779	ID:24	Client IPv6 addresses: fd00::c30c:0:0:18
-931575	ID:24	fe80::c30c:0:0:18
-936220	ID:8	Rime started with address 193.12.0.0.0.0.0.8
-936718	ID:24	Created a connection with the server :: local/remote port 8765/5678
-944628	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3377-gb06de690d started. Node id is set to 8.
-950249	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-958223	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
-960366	ID:8	Starting 'UDP client process'
-963793	ID:8	UDP client process started nbr:10 routes:0
-967121	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
-968805	ID:8	fe80::c30c:0:0:8
-973947	ID:8	Created a connection with the server :: local/remote port 8765/5678
-1005255	ID:28	Rime started with address 193.12.0.0.0.0.0.28
-1013831	ID:28	MAC c1:0c:00:00:00:00:00:1c Contiki-3.x-3377-gb06de690d started. Node id is set to 28.
-1019417	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1027436	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001c
-1029579	ID:28	Starting 'UDP client process'
-1033006	ID:28	UDP client process started nbr:10 routes:0
-1036446	ID:28	Client IPv6 addresses: fd00::c30c:0:0:1c
-1038243	ID:28	fe80::c30c:0:0:1c
-1043386	ID:28	Created a connection with the server :: local/remote port 8765/5678
-1054023	ID:11	Rime started with address 193.12.0.0.0.0.0.11
-1062555	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3377-gb06de690d started. Node id is set to 11.
-1067213	ID:31	Rime started with address 193.12.0.0.0.0.0.31
-1068153	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1075793	ID:31	MAC c1:0c:00:00:00:00:00:1f Contiki-3.x-3377-gb06de690d started. Node id is set to 31.
-1076128	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
-1078271	ID:11	Starting 'UDP client process'
-1081414	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1081699	ID:11	UDP client process started nbr:10 routes:0
-1085026	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
-1086711	ID:11	fe80::c30c:0:0:b
-1089433	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001f
-1091576	ID:31	Starting 'UDP client process'
-1091854	ID:11	Created a connection with the server :: local/remote port 8765/5678
-1095021	ID:31	UDP client process started nbr:10 routes:0
-1098462	ID:31	Client IPv6 addresses: fd00::c30c:0:0:1f
-1099571	ID:2	Rime started with address 193.12.0.0.0.0.0.2
-1100259	ID:31	fe80::c30c:0:0:1f
-1105401	ID:31	Created a connection with the server :: local/remote port 8765/5678
-1107674	ID:30	Rime started with address 193.12.0.0.0.0.0.30
-1107979	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3377-gb06de690d started. Node id is set to 2.
-1113600	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1114107	ID:6	Rime started with address 193.12.0.0.0.0.0.6
-1116254	ID:30	MAC c1:0c:00:00:00:00:00:1e Contiki-3.x-3377-gb06de690d started. Node id is set to 30.
-1121574	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
-1121875	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1122515	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3377-gb06de690d started. Node id is set to 6.
-1123717	ID:2	Starting 'UDP client process'
-1127144	ID:2	UDP client process started nbr:10 routes:0
-1128136	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1129894	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001e
-1130472	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
-1132037	ID:30	Starting 'UDP client process'
-1132156	ID:2	fe80::c30c:0:0:2
-1135482	ID:30	UDP client process started nbr:10 routes:0
-1136110	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
-1137298	ID:2	Created a connection with the server :: local/remote port 8765/5678
-1138253	ID:6	Starting 'UDP client process'
-1138923	ID:30	Client IPv6 addresses: fd00::c30c:0:0:1e
-1140720	ID:30	fe80::c30c:0:0:1e
-1141680	ID:6	UDP client process started nbr:10 routes:0
-1145008	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
-1145862	ID:30	Created a connection with the server :: local/remote port 8765/5678
-1146692	ID:6	fe80::c30c:0:0:6
-1151834	ID:6	Created a connection with the server :: local/remote port 8765/5678
-1190068	ID:18	Rime started with address 193.12.0.0.0.0.0.18
-1198644	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3377-gb06de690d started. Node id is set to 18.
-1204229	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1211809	ID:4	Rime started with address 193.12.0.0.0.0.0.4
-1212247	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
-1214390	ID:18	Starting 'UDP client process'
-1217818	ID:18	UDP client process started nbr:10 routes:0
-1220217	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3377-gb06de690d started. Node id is set to 4.
-1221257	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
-1223053	ID:18	fe80::c30c:0:0:12
-1225838	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1228196	ID:18	Created a connection with the server :: local/remote port 8765/5678
-1233812	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
-1235955	ID:4	Starting 'UDP client process'
-1239382	ID:4	UDP client process started nbr:10 routes:0
-1242710	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
-1244394	ID:4	fe80::c30c:0:0:4
-1245487	ID:1	Rime started with address 193.12.0.0.0.0.0.1
-1249198	ID:27	Rime started with address 193.12.0.0.0.0.0.27
-1249536	ID:4	Created a connection with the server :: local/remote port 8765/5678
-1253892	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3377-gb06de690d started. Node id is set to 1.
-1257774	ID:27	MAC c1:0c:00:00:00:00:00:1b Contiki-3.x-3377-gb06de690d started. Node id is set to 27.
-1259513	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1263360	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1265221	ID:7	Rime started with address 193.12.0.0.0.0.0.7
-1267487	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
-1269630	ID:1	Starting 'UDP server process'
-1271379	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001b
-1272378	ID:1	UDP server started. nbr:10 routes:0
-1273522	ID:27	Starting 'UDP client process'
-1273629	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3377-gb06de690d started. Node id is set to 7.
-1275126	ID:1	created a new RPL dag
-1276949	ID:27	UDP client process started nbr:10 routes:0
-1278450	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
-1279250	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1280076	ID:1	fd00::ff:fe00:1
-1280389	ID:27	Client IPv6 addresses: fd00::c30c:0:0:1b
-1281771	ID:1	fe80::c30c:0:0:1
-1282186	ID:27	fe80::c30c:0:0:1b
-1287224	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
-1287329	ID:27	Created a connection with the server :: local/remote port 8765/5678
-1287719	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
-1289367	ID:7	Starting 'UDP client process'
-1292794	ID:7	UDP client process started nbr:10 routes:0
-1296122	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
-1297806	ID:7	fe80::c30c:0:0:7
-1302948	ID:7	Created a connection with the server :: local/remote port 8765/5678
-1313660	ID:14	Rime started with address 193.12.0.0.0.0.0.14
-1322192	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3377-gb06de690d started. Node id is set to 14.
-1326112	ID:15	Rime started with address 193.12.0.0.0.0.0.15
-1327790	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1331056	ID:25	Rime started with address 193.12.0.0.0.0.0.25
-1334644	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3377-gb06de690d started. Node id is set to 15.
-1335765	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
-1336043	ID:20	Rime started with address 193.12.0.0.0.0.0.20
-1336505	ID:16	Rime started with address 193.12.0.0.0.0.0.16
-1337908	ID:14	Starting 'UDP client process'
-1339632	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3377-gb06de690d started. Node id is set to 25.
-1340242	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1341336	ID:14	UDP client process started nbr:10 routes:0
-1344619	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3377-gb06de690d started. Node id is set to 20.
-1344663	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
-1345081	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3377-gb06de690d started. Node id is set to 16.
-1345217	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1346348	ID:14	fe80::c30c:0:0:e
-1348217	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
-1350204	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1350360	ID:15	Starting 'UDP client process'
-1350666	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1351491	ID:14	Created a connection with the server :: local/remote port 8765/5678
-1353235	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
-1353788	ID:15	UDP client process started nbr:10 routes:0
-1355378	ID:25	Starting 'UDP client process'
-1357115	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
-1358222	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
-1358684	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
-1358800	ID:15	fe80::c30c:0:0:f
-1358806	ID:25	UDP client process started nbr:10 routes:0
-1360365	ID:20	Starting 'UDP client process'
-1360827	ID:16	Starting 'UDP client process'
-1362245	ID:25	Client IPv6 addresses: fd00::c30c:0:0:19
-1363793	ID:20	UDP client process started nbr:10 routes:0
-1363943	ID:15	Created a connection with the server :: local/remote port 8765/5678
-1364041	ID:25	fe80::c30c:0:0:19
-1364255	ID:16	UDP client process started nbr:10 routes:0
-1367232	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
-1367694	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
-1369028	ID:20	fe80::c30c:0:0:14
-1369184	ID:25	Created a connection with the server :: local/remote port 8765/5678
-1369490	ID:16	fe80::c30c:0:0:10
-1374171	ID:20	Created a connection with the server :: local/remote port 8765/5678
-1374633	ID:16	Created a connection with the server :: local/remote port 8765/5678
-1420043	ID:10	Rime started with address 193.12.0.0.0.0.0.10
-1428575	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3377-gb06de690d started. Node id is set to 10.
-1434173	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1442148	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
-1444291	ID:10	Starting 'UDP client process'
-1447719	ID:10	UDP client process started nbr:10 routes:0
-1451046	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
-1452731	ID:10	fe80::c30c:0:0:a
-1457874	ID:10	Created a connection with the server :: local/remote port 8765/5678
-1457898	ID:12	Rime started with address 193.12.0.0.0.0.0.12
-1466430	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3377-gb06de690d started. Node id is set to 12.
-1472028	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1480003	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
-1482146	ID:12	Starting 'UDP client process'
-1485574	ID:12	UDP client process started nbr:10 routes:0
-1488901	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
-1490586	ID:12	fe80::c30c:0:0:c
-1495729	ID:12	Created a connection with the server :: local/remote port 8765/5678
-1500530	ID:29	Rime started with address 193.12.0.0.0.0.0.29
-1509106	ID:29	MAC c1:0c:00:00:00:00:00:1d Contiki-3.x-3377-gb06de690d started. Node id is set to 29.
-1514692	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1522711	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001d
-1524854	ID:29	Starting 'UDP client process'
-1526620	ID:22	Rime started with address 193.12.0.0.0.0.0.22
-1528281	ID:29	UDP client process started nbr:10 routes:0
-1531721	ID:29	Client IPv6 addresses: fd00::c30c:0:0:1d
-1533518	ID:29	fe80::c30c:0:0:1d
-1535196	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3377-gb06de690d started. Node id is set to 22.
-1538661	ID:29	Created a connection with the server :: local/remote port 8765/5678
-1540781	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1548799	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
-1550942	ID:22	Starting 'UDP client process'
-1554025	ID:26	Rime started with address 193.12.0.0.0.0.0.26
-1554370	ID:22	UDP client process started nbr:10 routes:0
-1557809	ID:22	Client IPv6 addresses: fd00::c30c:0:0:16
-1559605	ID:22	fe80::c30c:0:0:16
-1562601	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3377-gb06de690d started. Node id is set to 26.
-1564748	ID:22	Created a connection with the server :: local/remote port 8765/5678
-1568187	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1571928	ID:9	Rime started with address 193.12.0.0.0.0.0.9
-1576206	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
-1578349	ID:26	Starting 'UDP client process'
-1578562	ID:5	Rime started with address 193.12.0.0.0.0.0.5
-1580336	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3377-gb06de690d started. Node id is set to 9.
-1581776	ID:26	UDP client process started nbr:10 routes:0
-1582621	ID:19	Rime started with address 193.12.0.0.0.0.0.19
-1585216	ID:26	Client IPv6 addresses: fd00::c30c:0:0:1a
-1585957	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1586970	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3377-gb06de690d started. Node id is set to 5.
-1587013	ID:26	fe80::c30c:0:0:1a
-1591197	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3377-gb06de690d started. Node id is set to 19.
-1592156	ID:26	Created a connection with the server :: local/remote port 8765/5678
-1592591	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1593931	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
-1596074	ID:9	Starting 'UDP client process'
-1596782	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1599501	ID:9	UDP client process started nbr:10 routes:0
-1600565	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
-1602708	ID:5	Starting 'UDP client process'
-1602829	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
-1604513	ID:9	fe80::c30c:0:0:9
-1604800	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
-1606135	ID:5	UDP client process started nbr:10 routes:0
-1606943	ID:19	Starting 'UDP client process'
-1609463	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
-1609655	ID:9	Created a connection with the server :: local/remote port 8765/5678
-1610371	ID:19	UDP client process started nbr:10 routes:0
-1611147	ID:5	fe80::c30c:0:0:5
-1613810	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
-1615606	ID:19	fe80::c30c:0:0:13
-1616289	ID:5	Created a connection with the server :: local/remote port 8765/5678
-1620749	ID:19	Created a connection with the server :: local/remote port 8765/5678
-1672612	ID:17	Rime started with address 193.12.0.0.0.0.0.17
-1681188	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3377-gb06de690d started. Node id is set to 17.
-1686773	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1694791	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
-1696934	ID:17	Starting 'UDP client process'
-1700362	ID:17	UDP client process started nbr:10 routes:0
-1703801	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
-1705597	ID:17	fe80::c30c:0:0:11
-1710740	ID:17	Created a connection with the server :: local/remote port 8765/5678
-1747435	ID:13	Rime started with address 193.12.0.0.0.0.0.13
-1755967	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3377-gb06de690d started. Node id is set to 13.
-1761565	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1762791	ID:3	Rime started with address 193.12.0.0.0.0.0.3
-1769540	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
-1770233	ID:21	Rime started with address 193.12.0.0.0.0.0.21
-1771199	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3377-gb06de690d started. Node id is set to 3.
-1771683	ID:13	Starting 'UDP client process'
-1775111	ID:13	UDP client process started nbr:10 routes:0
-1776820	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1778438	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
-1778809	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3377-gb06de690d started. Node id is set to 21.
-1780123	ID:13	fe80::c30c:0:0:d
-1784394	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1784794	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
-1785266	ID:13	Created a connection with the server :: local/remote port 8765/5678
-1786937	ID:3	Starting 'UDP client process'
-1790364	ID:3	UDP client process started nbr:10 routes:0
-1792412	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
-1793692	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
-1794555	ID:21	Starting 'UDP client process'
-1795376	ID:3	fe80::c30c:0:0:3
-1797983	ID:21	UDP client process started nbr:10 routes:0
-1800518	ID:3	Created a connection with the server :: local/remote port 8765/5678
-1801422	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
-1803218	ID:21	fe80::c30c:0:0:15
-1808361	ID:21	Created a connection with the server :: local/remote port 8765/5678
-1808789	ID:23	Rime started with address 193.12.0.0.0.0.0.23
-1817365	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3377-gb06de690d started. Node id is set to 23.
-1822950	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1830968	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
-1833111	ID:23	Starting 'UDP client process'
-1836539	ID:23	UDP client process started nbr:10 routes:0
-1839978	ID:23	Client IPv6 addresses: fd00::c30c:0:0:17
-1841774	ID:23	fe80::c30c:0:0:17
-1846917	ID:23	Created a connection with the server :: local/remote port 8765/5678
-62621311	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
-62622871	ID:6	Size of data 30
-62626536	ID:6	Data is Hello 1 from the client abhive
-62872914	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
-63990915	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
-63992475	ID:11	Size of data 30
-63995251	ID:11	Data is Hello 1 from the client abhive
-64347366	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
-65330307	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
-65331867	ID:18	Size of data 30
-65334644	ID:18	Data is Hello 1 from the client abhive
-65469802	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 18 at NodeID= 1
-66535135	ID:19	Sending DATA to 1 'Hello 1' with NodeID= 19
-66536695	ID:19	Size of data 30
-66539471	ID:19	Data is Hello 1 from the client abhive
-66721151	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 19 at NodeID= 1
-67340043	ID:31	Sending DATA to 1 'Hello 1' with NodeID= 31
-67341603	ID:31	Size of data 30
-67344379	ID:31	Data is Hello 1 from the client abhive
-67846365	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 31 at NodeID= 1
-71364574	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
-71366134	ID:15	Size of data 30
-71368910	ID:15	Data is Hello 1 from the client abhive
-71738547	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
-71740107	ID:12	Size of data 30
-71742883	ID:12	Data is Hello 1 from the client abhive
-71748995	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
-71750555	ID:7	Size of data 30
-71753330	ID:7	Data is Hello 1 from the client abhive
-71874040	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
-73473286	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
-73856214	ID:28	Sending DATA to 1 'Hello 1' with NodeID= 28
-73857774	ID:28	Size of data 30
-73860550	ID:28	Data is Hello 1 from the client abhive
-74595013	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 28 at NodeID= 1
-79779369	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
-79780929	ID:8	Size of data 30
-79783704	ID:8	Data is Hello 1 from the client abhive
-79802383	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
-83426521	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
-83428081	ID:13	Size of data 30
-83430857	ID:13	Data is Hello 1 from the client abhive
-83469372	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
-85789198	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
-85790758	ID:17	Size of data 30
-85793534	ID:17	Data is Hello 1 from the client abhive
-86742110	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
-87618202	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
-87619762	ID:9	Size of data 30
-87622538	ID:9	Data is Hello 1 from the client abhive
-87751949	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
-89335773	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
-89337333	ID:5	Size of data 30
-89340731	ID:5	Data is Hello 1 from the client abhive
-89501374	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
-89588267	ID:25	Sending DATA to 1 'Hello 1' with NodeID= 25
-89589827	ID:25	Size of data 30
-89593499	ID:25	Data is Hello 1 from the client abhive
-92230940	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
-92232500	ID:3	Size of data 30
-92235275	ID:3	Data is Hello 1 from the client abhive
-92253998	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
-92325539	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
-92327099	ID:2	Size of data 30
-92329875	ID:2	Data is Hello 1 from the client abhive
-92348508	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
-99425879	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
-99427439	ID:21	Size of data 30
-99430215	ID:21	Data is Hello 1 from the client abhive
-101054075	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 21 at NodeID= 1
-101179958	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
-101181518	ID:4	Size of data 30
-101184294	ID:4	Data is Hello 1 from the client abhive
-101206434	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
-101515134	ID:20	Sending DATA to 1 'Hello 1' with NodeID= 20
-101516694	ID:20	Size of data 30
-101519506	ID:20	Data is Hello 1 from the client abhive
-102279986	ID:26	Sending DATA to 1 'Hello 1' with NodeID= 26
-102281546	ID:26	Size of data 30
-102284322	ID:26	Data is Hello 1 from the client abhive
-102480388	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 20 at NodeID= 1
-105860213	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 26 at NodeID= 1
-113195505	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
-113197065	ID:16	Size of data 30
-113199869	ID:16	Data is Hello 1 from the client abhive
-113376903	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 16 at NodeID= 1
-113899003	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
-113900563	ID:14	Size of data 30
-113903373	ID:14	Data is Hello 1 from the client abhive
-114011339	ID:23	Sending DATA to 1 'Hello 1' with NodeID= 23
-114012899	ID:23	Size of data 30
-114015689	ID:23	Data is Hello 1 from the client abhive
-114135622	ID:22	Sending DATA to 1 'Hello 1' with NodeID= 22
-114137182	ID:22	Size of data 30
-114139984	ID:22	Data is Hello 1 from the client abhive
-114765181	ID:24	Sending DATA to 1 'Hello 1' with NodeID= 24
-114766741	ID:24	Size of data 30
-114769553	ID:24	Data is Hello 1 from the client abhive
-117818936	ID:27	Sending DATA to 1 'Hello 1' with NodeID= 27
-117820496	ID:27	Size of data 30
-117823286	ID:27	Data is Hello 1 from the client abhive
-119372703	ID:30	Sending DATA to 1 'Hello 1' with NodeID= 30
-119374263	ID:30	Size of data 30
-119377074	ID:30	Data is Hello 1 from the client abhive
-119516707	ID:29	Sending DATA to 1 'Hello 1' with NodeID= 29
-119518267	ID:29	Size of data 30
-119521068	ID:29	Data is Hello 1 from the client abhive
-120349134	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
-120350694	ID:10	Size of data 30
-120353506	ID:10	Data is Hello 1 from the client abhive
-122020280	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
-122021840	ID:13	Size of data 30
-122024648	ID:13	Data is Hello 2 from the client abhive
-122291379	ID:25	Sending DATA to 1 'Hello 2' with NodeID= 25
-122292939	ID:25	Size of data 30
-122295715	ID:25	Data is Hello 2 from the client abhive
-123809474	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
-124257797	ID:24	Sending DATA to 1 'Hello 2' with NodeID= 24
-124259357	ID:24	Size of data 30
-124262168	ID:24	Data is Hello 2 from the client abhive
-126990924	ID:26	Sending DATA to 1 'Hello 2' with NodeID= 26
-126992484	ID:26	Size of data 30
-126995260	ID:26	Data is Hello 2 from the client abhive
-127105450	ID:19	Sending DATA to 1 'Hello 2' with NodeID= 19
-127107010	ID:19	Size of data 30
-127109786	ID:19	Data is Hello 2 from the client abhive
-128070272	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
-128071832	ID:16	Size of data 30
-128074608	ID:16	Data is Hello 2 from the client abhive
-129123952	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 16 at NodeID= 1
-129647034	ID:27	Sending DATA to 1 'Hello 2' with NodeID= 27
-129648594	ID:27	Size of data 30
-129651370	ID:27	Data is Hello 2 from the client abhive
-131824872	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 19 at NodeID= 1
-131837698	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 27 at NodeID= 1
-132186227	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
-132187787	ID:11	Size of data 30
-132191465	ID:11	Data is Hello 2 from the client abhive
-132373362	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 11 at NodeID= 1
-133871796	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
-133873356	ID:3	Size of data 30
-133876132	ID:3	Data is Hello 2 from the client abhive
-133894694	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 3 at NodeID= 1
-133935198	ID:30	Sending DATA to 1 'Hello 2' with NodeID= 30
-133936758	ID:30	Size of data 30
-133939534	ID:30	Data is Hello 2 from the client abhive
-134222578	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 30 at NodeID= 1
-134452968	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
-134454528	ID:5	Size of data 30
-134457303	ID:5	Data is Hello 2 from the client abhive
-134496256	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 5 at NodeID= 1
-134898573	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
-134900133	ID:17	Size of data 30
-134902909	ID:17	Data is Hello 2 from the client abhive
-134998500	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 17 at NodeID= 1
-138677254	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
-138678814	ID:10	Size of data 30
-138682577	ID:10	Data is Hello 2 from the client abhive
-138852297	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
-138853857	ID:4	Size of data 30
-138856633	ID:4	Data is Hello 2 from the client abhive
-138879631	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 4 at NodeID= 1
-138886998	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 10 at NodeID= 1
-139808811	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
-139810371	ID:6	Size of data 30
-139813147	ID:6	Data is Hello 2 from the client abhive
-139996414	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 6 at NodeID= 1
-142762464	ID:28	Sending DATA to 1 'Hello 2' with NodeID= 28
-142764024	ID:28	Size of data 30
-142767702	ID:28	Data is Hello 2 from the client abhive
-143219681	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 28 at NodeID= 1
-147669282	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
-147670842	ID:2	Size of data 30
-147673618	ID:2	Data is Hello 2 from the client abhive
-147800660	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 2 at NodeID= 1
-156766646	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
-156768206	ID:9	Size of data 30
-156770982	ID:9	Data is Hello 2 from the client abhive
-156857715	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
-156859275	ID:8	Size of data 30
-156862054	ID:8	Data is Hello 2 from the client abhive
-156873162	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 9 at NodeID= 1
-156894125	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 8 at NodeID= 1
-158441005	ID:23	Sending DATA to 1 'Hello 2' with NodeID= 23
-158442565	ID:23	Size of data 30
-158446235	ID:23	Data is Hello 2 from the client abhive
-158720297	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 23 at NodeID= 1
-162940081	ID:22	Sending DATA to 1 'Hello 2' with NodeID= 22
-162941641	ID:22	Size of data 30
-162944417	ID:22	Data is Hello 2 from the client abhive
-163127899	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 22 at NodeID= 1
-163883376	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
-163884936	ID:14	Size of data 30
-163887753	ID:14	Data is Hello 2 from the client abhive
-163970511	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 14 at NodeID= 1
-169075511	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
-169077071	ID:15	Size of data 30
-169079847	ID:15	Data is Hello 2 from the client abhive
-169445055	ID:20	Sending DATA to 1 'Hello 2' with NodeID= 20
-169446615	ID:20	Size of data 30
-169449407	ID:20	Data is Hello 2 from the client abhive
-170372160	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 15 at NodeID= 1
-170527449	ID:21	Sending DATA to 1 'Hello 2' with NodeID= 21
-170529009	ID:21	Size of data 30
-170532680	ID:21	Data is Hello 2 from the client abhive
-170998932	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 21 at NodeID= 1
-171720013	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 20 at NodeID= 1
-172121305	ID:31	Sending DATA to 1 'Hello 2' with NodeID= 31
-172122865	ID:31	Size of data 30
-172125676	ID:31	Data is Hello 2 from the client abhive
-172471821	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 31 at NodeID= 1
-173975564	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
-173977124	ID:7	Size of data 30
-173979900	ID:7	Data is Hello 2 from the client abhive
-173999147	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 7 at NodeID= 1
-175074491	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
-175076051	ID:12	Size of data 30
-175078861	ID:12	Data is Hello 2 from the client abhive
-175098074	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 12 at NodeID= 1
-178611342	ID:18	Sending DATA to 1 'Hello 2' with NodeID= 18
-178612902	ID:18	Size of data 30
-178615678	ID:18	Data is Hello 2 from the client abhive
-178721293	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 18 at NodeID= 1
-179788989	ID:29	Sending DATA to 1 'Hello 2' with NodeID= 29
-179790549	ID:29	Size of data 30
-179793325	ID:29	Data is Hello 2 from the client abhive
-180095511	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 29 at NodeID= 1
-181285890	ID:28	Sending DATA to 1 'Hello 3' with NodeID= 28
-181287450	ID:28	Size of data 30
-181290226	ID:28	Data is Hello 3 from the client abhive
-181721726	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 28 at NodeID= 1
-182242310	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
-182243870	ID:17	Size of data 30
-182246646	ID:17	Data is Hello 3 from the client abhive
-182367696	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 17 at NodeID= 1
-184202113	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
-184203673	ID:7	Size of data 30
-184206448	ID:7	Data is Hello 3 from the client abhive
-184225294	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 7 at NodeID= 1
-185413014	ID:26	Sending DATA to 1 'Hello 3' with NodeID= 26
-185414574	ID:26	Size of data 30
-185417351	ID:26	Data is Hello 3 from the client abhive
-185720226	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 26 at NodeID= 1
-188464937	ID:21	Sending DATA to 1 'Hello 3' with NodeID= 21
-188466497	ID:21	Size of data 30
-188469273	ID:21	Data is Hello 3 from the client abhive
-188996890	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 21 at NodeID= 1
-190489567	ID:15	Sending DATA to 1 'Hello 3' with NodeID= 15
-190491127	ID:15	Size of data 30
-190493903	ID:15	Data is Hello 3 from the client abhive
-190749229	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 15 at NodeID= 1
-190820576	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
-190822136	ID:4	Size of data 30
-190824911	ID:4	Data is Hello 3 from the client abhive
-190843718	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 4 at NodeID= 1
-192185060	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
-192186620	ID:10	Size of data 30
-192189396	ID:10	Data is Hello 3 from the client abhive
-192370746	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 10 at NodeID= 1
-192883371	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
-192884931	ID:14	Size of data 30
-192887707	ID:14	Data is Hello 3 from the client abhive
-193220371	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 14 at NodeID= 1
-194111705	ID:25	Sending DATA to 1 'Hello 3' with NodeID= 25
-194113265	ID:25	Size of data 30
-194116041	ID:25	Data is Hello 3 from the client abhive
-194471726	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 25 at NodeID= 1
-196286754	ID:30	Sending DATA to 1 'Hello 3' with NodeID= 30
-196288314	ID:30	Size of data 30
-196291090	ID:30	Data is Hello 3 from the client abhive
-196722007	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 30 at NodeID= 1
-201043186	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
-201044746	ID:6	Size of data 30
-201047522	ID:6	Data is Hello 3 from the client abhive
-201247788	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 6 at NodeID= 1
-203408244	ID:18	Sending DATA to 1 'Hello 3' with NodeID= 18
-203409804	ID:18	Size of data 30
-203412593	ID:18	Data is Hello 3 from the client abhive
-203596878	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 18 at NodeID= 1
-207496300	ID:31	Sending DATA to 1 'Hello 3' with NodeID= 31
-207497860	ID:31	Size of data 30
-207500636	ID:31	Data is Hello 3 from the client abhive
-208668228	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
-208669788	ID:12	Size of data 30
-208672564	ID:12	Data is Hello 3 from the client abhive
-208691915	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 12 at NodeID= 1
-209042960	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 31 at NodeID= 1
-210163991	ID:29	Sending DATA to 1 'Hello 3' with NodeID= 29
-210165551	ID:29	Size of data 30
-210168327	ID:29	Data is Hello 3 from the client abhive
-215903650	ID:2	Sending DATA to 1 'Hello 3' with NodeID= 2
-215905210	ID:2	Size of data 30
-215907986	ID:2	Data is Hello 3 from the client abhive
-215926633	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 2 at NodeID= 1
-217546426	ID:24	Sending DATA to 1 'Hello 3' with NodeID= 24
-217547986	ID:24	Size of data 30
-217550762	ID:24	Data is Hello 3 from the client abhive
-218221151	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 24 at NodeID= 1
-220688507	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
-220690067	ID:9	Size of data 30
-220692843	ID:9	Data is Hello 3 from the client abhive
-220745859	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 9 at NodeID= 1
-223242158	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
-223243718	ID:16	Size of data 30
-223246531	ID:16	Data is Hello 3 from the client abhive
-223498717	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 16 at NodeID= 1
-225957020	ID:19	Sending DATA to 1 'Hello 3' with NodeID= 19
-225958580	ID:19	Size of data 30
-225961356	ID:19	Data is Hello 3 from the client abhive
-226220871	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 19 at NodeID= 1
-227354137	ID:22	Sending DATA to 1 'Hello 3' with NodeID= 22
-227355697	ID:22	Size of data 30
-227358473	ID:22	Data is Hello 3 from the client abhive
-227498927	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 22 at NodeID= 1
-227715584	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
-227717144	ID:13	Size of data 30
-227719920	ID:13	Data is Hello 3 from the client abhive
-227847149	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 13 at NodeID= 1
-229340308	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
-229341868	ID:3	Size of data 30
-229344644	ID:3	Data is Hello 3 from the client abhive
-229363539	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
-229874511	ID:20	Sending DATA to 1 'Hello 3' with NodeID= 20
-229876071	ID:20	Size of data 30
-229878881	ID:20	Data is Hello 3 from the client abhive
-229894126	ID:23	Sending DATA to 1 'Hello 3' with NodeID= 23
-229895686	ID:23	Size of data 30
-229898462	ID:23	Data is Hello 3 from the client abhive
-231095511	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 23 at NodeID= 1
-234029984	ID:11	Sending DATA to 1 'Hello 3' with NodeID= 11
-234031544	ID:11	Size of data 30
-234034321	ID:11	Data is Hello 3 from the client abhive
-234230175	ID:5	Sending DATA to 1 'Hello 3' with NodeID= 5
-234231738	ID:5	Size of data 30
-234234514	ID:5	Data is Hello 3 from the client abhive
-234259876	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 11 at NodeID= 1
-234371043	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 5 at NodeID= 1
-238873119	ID:8	Sending DATA to 1 'Hello 3' with NodeID= 8
-238874679	ID:8	Size of data 30
-238877454	ID:8	Data is Hello 3 from the client abhive
-238896193	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 8 at NodeID= 1
-240842354	ID:27	Sending DATA to 1 'Hello 3' with NodeID= 27
-240843914	ID:27	Size of data 30
-240846723	ID:27	Data is Hello 3 from the client abhive
-241220158	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 27 at NodeID= 1
-241675992	ID:6	Sending DATA to 1 'Hello 4' with NodeID= 6
-241677552	ID:6	Size of data 30
-241680328	ID:6	Data is Hello 4 from the client abhive
-241873732	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 6 at NodeID= 1
-242242103	ID:29	Sending DATA to 1 'Hello 4' with NodeID= 29
-242243663	ID:29	Size of data 30
-242246439	ID:29	Data is Hello 4 from the client abhive
-242720724	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 29 at NodeID= 1
-245018206	ID:22	Sending DATA to 1 'Hello 4' with NodeID= 22
-245019766	ID:22	Size of data 30
-245022542	ID:22	Data is Hello 4 from the client abhive
-245119944	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 22 at NodeID= 1
-252731942	ID:10	Sending DATA to 1 'Hello 4' with NodeID= 10
-252733502	ID:10	Size of data 30
-252736278	ID:10	Data is Hello 4 from the client abhive
-252996929	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 10 at NodeID= 1
-256514353	ID:11	Sending DATA to 1 'Hello 4' with NodeID= 11
-256515913	ID:11	Size of data 30
-256518689	ID:11	Data is Hello 4 from the client abhive
-256746249	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 11 at NodeID= 1
-257678675	ID:7	Sending DATA to 1 'Hello 4' with NodeID= 7
-257680235	ID:7	Size of data 30
-257683011	ID:7	Data is Hello 4 from the client abhive
-257702065	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 7 at NodeID= 1
-257878888	ID:19	Sending DATA to 1 'Hello 4' with NodeID= 19
-257880448	ID:19	Size of data 30
-257883224	ID:19	Data is Hello 4 from the client abhive
-260347220	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 19 at NodeID= 1
-260763744	ID:8	Sending DATA to 1 'Hello 4' with NodeID= 8
-260765304	ID:8	Size of data 30
-260768079	ID:8	Data is Hello 4 from the client abhive
-260786757	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 8 at NodeID= 1
-264283587	ID:25	Sending DATA to 1 'Hello 4' with NodeID= 25
-264285147	ID:25	Size of data 30
-264287956	ID:25	Data is Hello 4 from the client abhive
-264846293	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 25 at NodeID= 1
-270090050	ID:31	Sending DATA to 1 'Hello 4' with NodeID= 31
-270091610	ID:31	Size of data 30
-270094386	ID:31	Data is Hello 4 from the client abhive
-270470872	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 31 at NodeID= 1
-273341448	ID:30	Sending DATA to 1 'Hello 4' with NodeID= 30
-273343008	ID:30	Size of data 30
-273345784	ID:30	Data is Hello 4 from the client abhive
-273571327	ID:9	Sending DATA to 1 'Hello 4' with NodeID= 9
-273572887	ID:9	Size of data 30
-273575663	ID:9	Data is Hello 4 from the client abhive
-273622059	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 9 at NodeID= 1
-273721152	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 30 at NodeID= 1
-274801528	ID:13	Sending DATA to 1 'Hello 4' with NodeID= 13
-274803088	ID:13	Size of data 30
-274805898	ID:13	Data is Hello 4 from the client abhive
-274844232	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 13 at NodeID= 1
-277117753	ID:14	Sending DATA to 1 'Hello 4' with NodeID= 14
-277119313	ID:14	Size of data 30
-277122123	ID:14	Data is Hello 4 from the client abhive
-277220582	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 14 at NodeID= 1
-279080314	ID:18	Sending DATA to 1 'Hello 4' with NodeID= 18
-279081874	ID:18	Size of data 30
-279084682	ID:18	Data is Hello 4 from the client abhive
-279219799	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 18 at NodeID= 1
-280061090	ID:27	Sending DATA to 1 'Hello 4' with NodeID= 27
-280062650	ID:27	Size of data 30
-280065426	ID:27	Data is Hello 4 from the client abhive
-280720226	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 27 at NodeID= 1
-282398404	ID:16	Sending DATA to 1 'Hello 4' with NodeID= 16
-282399964	ID:16	Size of data 30
-282402740	ID:16	Data is Hello 4 from the client abhive
-283036477	ID:2	Sending DATA to 1 'Hello 4' with NodeID= 2
-283038037	ID:2	Size of data 30
-283040812	ID:2	Data is Hello 4 from the client abhive
-283059446	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 2 at NodeID= 1
-283497145	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 16 at NodeID= 1
-284859652	ID:4	Sending DATA to 1 'Hello 4' with NodeID= 4
-284861212	ID:4	Size of data 30
-284863988	ID:4	Data is Hello 4 from the client abhive
-284882781	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 4 at NodeID= 1
-285944871	ID:24	Sending DATA to 1 'Hello 4' with NodeID= 24
-285946431	ID:24	Size of data 30
-285949240	ID:24	Data is Hello 4 from the client abhive
-286222882	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 24 at NodeID= 1
-287457779	ID:28	Sending DATA to 1 'Hello 4' with NodeID= 28
-287459339	ID:28	Size of data 30
-287462115	ID:28	Data is Hello 4 from the client abhive
-287845724	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 28 at NodeID= 1
-288062636	ID:17	Sending DATA to 1 'Hello 4' with NodeID= 17
-288064196	ID:17	Size of data 30
-288066972	ID:17	Data is Hello 4 from the client abhive
-288119304	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 17 at NodeID= 1
-288843808	ID:5	Sending DATA to 1 'Hello 4' with NodeID= 5
-288845368	ID:5	Size of data 30
-288848145	ID:5	Data is Hello 4 from the client abhive
-288999022	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 5 at NodeID= 1
-291348144	ID:12	Sending DATA to 1 'Hello 4' with NodeID= 12
-291349704	ID:12	Size of data 30
-291352512	ID:12	Data is Hello 4 from the client abhive
-291371598	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 12 at NodeID= 1
-291753507	ID:23	Sending DATA to 1 'Hello 4' with NodeID= 23
-291755067	ID:23	Size of data 30
-291757877	ID:23	Data is Hello 4 from the client abhive
-291973073	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 23 at NodeID= 1
-292833316	ID:15	Sending DATA to 1 'Hello 4' with NodeID= 15
-292834876	ID:15	Size of data 30
-292838554	ID:15	Data is Hello 4 from the client abhive
-293002279	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 15 at NodeID= 1
-293754007	ID:21	Sending DATA to 1 'Hello 4' with NodeID= 21
-293755567	ID:21	Size of data 30
-293758343	ID:21	Data is Hello 4 from the client abhive
-294121986	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 21 at NodeID= 1
-296545619	ID:26	Sending DATA to 1 'Hello 4' with NodeID= 26
-296547179	ID:26	Size of data 30
-296549988	ID:26	Data is Hello 4 from the client abhive
-298113752	ID:3	Sending DATA to 1 'Hello 4' with NodeID= 3
-298115312	ID:3	Size of data 30
-298118088	ID:3	Data is Hello 4 from the client abhive
-298137024	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 3 at NodeID= 1
-298218254	ID:20	Sending DATA to 1 'Hello 4' with NodeID= 20
-298219814	ID:20	Size of data 30
-298223486	ID:20	Data is Hello 4 from the client abhive
-298847363	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 20 at NodeID= 1
+925974	ID:26	Rime started with address 193.12.0.0.0.0.0.26
+934550	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3395-g94f237b65 started. Node id is set to 26.
+940135	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+948155	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
+950298	ID:26	Starting 'UDP client process'
+953810	ID:26	UDP client process started nbr:10 routes:0
+957250	ID:26	Client IPv6 addresses: fd00::c30c:0:0:1a
+959048	ID:26	fe80::c30c:0:0:1a
+964222	ID:26	Created a connection with the server :: local/remote port 8765/5678
+981108	ID:27	Rime started with address 193.12.0.0.0.0.0.27
+984121	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+989684	ID:27	MAC c1:0c:00:00:00:00:00:1b Contiki-3.x-3395-g94f237b65 started. Node id is set to 27.
+992653	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3395-g94f237b65 started. Node id is set to 11.
+995269	ID:27	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+998252	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1003289	ID:27	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001b
+1005432	ID:27	Starting 'UDP client process'
+1006226	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1007929	ID:25	Rime started with address 193.12.0.0.0.0.0.25
+1008369	ID:11	Starting 'UDP client process'
+1008944	ID:27	UDP client process started nbr:10 routes:0
+1010118	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+1011882	ID:11	UDP client process started nbr:10 routes:0
+1012384	ID:27	Client IPv6 addresses: fd00::c30c:0:0:1b
+1014182	ID:27	fe80::c30c:0:0:1b
+1015210	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1016504	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3395-g94f237b65 started. Node id is set to 25.
+1016895	ID:11	fe80::c30c:0:0:b
+1018650	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3395-g94f237b65 started. Node id is set to 15.
+1019356	ID:27	Created a connection with the server :: local/remote port 8765/5678
+1022037	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1022090	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1024249	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1030108	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
+1032223	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+1032251	ID:25	Starting 'UDP client process'
+1034366	ID:15	Starting 'UDP client process'
+1035764	ID:25	UDP client process started nbr:10 routes:0
+1037879	ID:15	UDP client process started nbr:10 routes:0
+1039203	ID:25	Client IPv6 addresses: fd00::c30c:0:0:19
+1041000	ID:25	fe80::c30c:0:0:19
+1041207	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+1042892	ID:15	fe80::c30c:0:0:f
+1046177	ID:25	Created a connection with the server :: local/remote port 8765/5678
+1048034	ID:15	Created a connection with the server :: local/remote port 8765/5678
+1049022	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1057597	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3395-g94f237b65 started. Node id is set to 19.
+1063183	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1065535	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1071201	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1073344	ID:19	Starting 'UDP client process'
+1074067	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3395-g94f237b65 started. Node id is set to 13.
+1076857	ID:19	UDP client process started nbr:10 routes:0
+1079666	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1080296	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
+1082093	ID:19	fe80::c30c:0:0:13
+1087270	ID:19	Created a connection with the server :: local/remote port 8765/5678
+1087640	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1089783	ID:13	Starting 'UDP client process'
+1093296	ID:13	UDP client process started nbr:10 routes:0
+1096624	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1098309	ID:13	fe80::c30c:0:0:d
+1103451	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1110617	ID:28	Rime started with address 193.12.0.0.0.0.0.28
+1119193	ID:28	MAC c1:0c:00:00:00:00:00:1c Contiki-3.x-3395-g94f237b65 started. Node id is set to 28.
+1119455	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1124017	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1124778	ID:28	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1127863	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3395-g94f237b65 started. Node id is set to 4.
+1132549	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3395-g94f237b65 started. Node id is set to 12.
+1132798	ID:28	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001c
+1133484	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1134941	ID:28	Starting 'UDP client process'
+1138148	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1138453	ID:28	UDP client process started nbr:10 routes:0
+1141458	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1141893	ID:28	Client IPv6 addresses: fd00::c30c:0:0:1c
+1143601	ID:4	Starting 'UDP client process'
+1143691	ID:28	fe80::c30c:0:0:1c
+1146122	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1147114	ID:4	UDP client process started nbr:10 routes:0
+1148265	ID:12	Starting 'UDP client process'
+1148865	ID:28	Created a connection with the server :: local/remote port 8765/5678
+1150441	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+1151778	ID:12	UDP client process started nbr:10 routes:0
+1152125	ID:4	fe80::c30c:0:0:4
+1155106	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1156791	ID:12	fe80::c30c:0:0:c
+1157268	ID:4	Created a connection with the server :: local/remote port 8765/5678
+1161529	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1161933	ID:12	Created a connection with the server :: local/remote port 8765/5678
+1170104	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3395-g94f237b65 started. Node id is set to 17.
+1170661	ID:31	Rime started with address 193.12.0.0.0.0.0.31
+1173987	ID:22	Rime started with address 193.12.0.0.0.0.0.22
+1174102	ID:29	Rime started with address 193.12.0.0.0.0.0.29
+1175690	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1179239	ID:31	MAC c1:0c:00:00:00:00:00:1f Contiki-3.x-3395-g94f237b65 started. Node id is set to 31.
+1182562	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3395-g94f237b65 started. Node id is set to 22.
+1182678	ID:29	MAC c1:0c:00:00:00:00:00:1d Contiki-3.x-3395-g94f237b65 started. Node id is set to 29.
+1183708	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1184825	ID:31	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1185851	ID:17	Starting 'UDP client process'
+1188148	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1188263	ID:29	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1189364	ID:17	UDP client process started nbr:10 routes:0
+1192803	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1192844	ID:31	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001f
+1194600	ID:17	fe80::c30c:0:0:11
+1194987	ID:31	Starting 'UDP client process'
+1196166	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
+1196283	ID:29	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001d
+1198309	ID:22	Starting 'UDP client process'
+1198426	ID:29	Starting 'UDP client process'
+1198499	ID:31	UDP client process started nbr:10 routes:0
+1199777	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1201822	ID:22	UDP client process started nbr:10 routes:0
+1201938	ID:29	UDP client process started nbr:10 routes:0
+1201940	ID:31	Client IPv6 addresses: fd00::c30c:0:0:1f
+1203737	ID:31	fe80::c30c:0:0:1f
+1205261	ID:22	Client IPv6 addresses: fd00::c30c:0:0:16
+1205378	ID:29	Client IPv6 addresses: fd00::c30c:0:0:1d
+1207058	ID:22	fe80::c30c:0:0:16
+1207176	ID:29	fe80::c30c:0:0:1d
+1208908	ID:31	Created a connection with the server :: local/remote port 8765/5678
+1212235	ID:22	Created a connection with the server :: local/remote port 8765/5678
+1212350	ID:29	Created a connection with the server :: local/remote port 8765/5678
+1227389	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1235964	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3395-g94f237b65 started. Node id is set to 20.
+1241550	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1249568	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1251711	ID:20	Starting 'UDP client process'
+1255224	ID:20	UDP client process started nbr:10 routes:0
+1258663	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
+1260460	ID:20	fe80::c30c:0:0:14
+1265637	ID:20	Created a connection with the server :: local/remote port 8765/5678
+1291452	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1300027	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3395-g94f237b65 started. Node id is set to 16.
+1305613	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1313631	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1315774	ID:16	Starting 'UDP client process'
+1319287	ID:16	UDP client process started nbr:10 routes:0
+1322726	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1324523	ID:16	fe80::c30c:0:0:10
+1329700	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1338369	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1346777	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3395-g94f237b65 started. Node id is set to 5.
+1352398	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1360372	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1362515	ID:5	Starting 'UDP client process'
+1366028	ID:5	UDP client process started nbr:10 routes:0
+1369355	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1371039	ID:5	fe80::c30c:0:0:5
+1376182	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1378811	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1387386	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3395-g94f237b65 started. Node id is set to 21.
+1392972	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1397230	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1400990	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1403133	ID:21	Starting 'UDP client process'
+1405638	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3395-g94f237b65 started. Node id is set to 2.
+1406646	ID:21	UDP client process started nbr:10 routes:0
+1410085	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
+1411259	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1411882	ID:21	fe80::c30c:0:0:15
+1417059	ID:21	Created a connection with the server :: local/remote port 8765/5678
+1417637	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1419233	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1421376	ID:2	Starting 'UDP client process'
+1424889	ID:2	UDP client process started nbr:10 routes:0
+1426045	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3395-g94f237b65 started. Node id is set to 9.
+1428216	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1429900	ID:2	fe80::c30c:0:0:2
+1431666	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1435043	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1439640	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1441783	ID:9	Starting 'UDP client process'
+1445296	ID:9	UDP client process started nbr:10 routes:0
+1448623	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1450307	ID:9	fe80::c30c:0:0:9
+1455450	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1507726	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+1516258	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3395-g94f237b65 started. Node id is set to 14.
+1517843	ID:24	Rime started with address 193.12.0.0.0.0.0.24
+1521857	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1526418	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3395-g94f237b65 started. Node id is set to 24.
+1529831	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+1531974	ID:14	Starting 'UDP client process'
+1532004	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1535487	ID:14	UDP client process started nbr:10 routes:0
+1538815	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1540022	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
+1540500	ID:14	fe80::c30c:0:0:e
+1542046	ID:23	Rime started with address 193.12.0.0.0.0.0.23
+1542165	ID:24	Starting 'UDP client process'
+1545642	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1545678	ID:24	UDP client process started nbr:10 routes:0
+1546111	ID:30	Rime started with address 193.12.0.0.0.0.0.30
+1549117	ID:24	Client IPv6 addresses: fd00::c30c:0:0:18
+1550621	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3395-g94f237b65 started. Node id is set to 23.
+1550914	ID:24	fe80::c30c:0:0:18
+1554689	ID:30	MAC c1:0c:00:00:00:00:00:1e Contiki-3.x-3395-g94f237b65 started. Node id is set to 30.
+1556091	ID:24	Created a connection with the server :: local/remote port 8765/5678
+1556207	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1560275	ID:30	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1564225	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
+1566368	ID:23	Starting 'UDP client process'
+1568294	ID:30	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001e
+1569881	ID:23	UDP client process started nbr:10 routes:0
+1570437	ID:30	Starting 'UDP client process'
+1573320	ID:23	Client IPv6 addresses: fd00::c30c:0:0:17
+1573949	ID:30	UDP client process started nbr:10 routes:0
+1575117	ID:23	fe80::c30c:0:0:17
+1577390	ID:30	Client IPv6 addresses: fd00::c30c:0:0:1e
+1579187	ID:30	fe80::c30c:0:0:1e
+1580294	ID:23	Created a connection with the server :: local/remote port 8765/5678
+1584358	ID:30	Created a connection with the server :: local/remote port 8765/5678
+1611139	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1619671	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3395-g94f237b65 started. Node id is set to 10.
+1625270	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1633244	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1635387	ID:10	Starting 'UDP client process'
+1638900	ID:10	UDP client process started nbr:10 routes:0
+1642228	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+1642407	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1643913	ID:10	fe80::c30c:0:0:a
+1649055	ID:10	Created a connection with the server :: local/remote port 8765/5678
+1650073	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1650815	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3395-g94f237b65 started. Node id is set to 3.
+1656436	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1658481	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3395-g94f237b65 started. Node id is set to 7.
+1664102	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1664410	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1666553	ID:3	Starting 'UDP client process'
+1670066	ID:3	UDP client process started nbr:10 routes:0
+1672076	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1673393	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+1674219	ID:7	Starting 'UDP client process'
+1675077	ID:3	fe80::c30c:0:0:3
+1677732	ID:7	UDP client process started nbr:10 routes:0
+1680220	ID:3	Created a connection with the server :: local/remote port 8765/5678
+1681059	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+1682743	ID:7	fe80::c30c:0:0:7
+1687886	ID:7	Created a connection with the server :: local/remote port 8765/5678
+1689031	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1697439	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3395-g94f237b65 started. Node id is set to 8.
+1700353	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1703060	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1708759	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3395-g94f237b65 started. Node id is set to 1.
+1711034	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1713177	ID:8	Starting 'UDP client process'
+1714381	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1716690	ID:8	UDP client process started nbr:10 routes:0
+1720017	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+1721701	ID:8	fe80::c30c:0:0:8
+1722355	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1724497	ID:1	Starting 'UDP server process'
+1726844	ID:8	Created a connection with the server :: local/remote port 8765/5678
+1727331	ID:1	UDP server started. nbr:10 routes:0
+1730086	ID:1	created a new RPL dag
+1733410	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1735036	ID:1	fd00::ff:fe00:1
+1736720	ID:1	fe80::c30c:0:0:1
+1742668	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1797497	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1805905	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3395-g94f237b65 started. Node id is set to 6.
+1811526	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1819500	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1821643	ID:6	Starting 'UDP client process'
+1825156	ID:6	UDP client process started nbr:10 routes:0
+1828483	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+1830167	ID:6	fe80::c30c:0:0:6
+1835310	ID:6	Created a connection with the server :: local/remote port 8765/5678
+1839549	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1848124	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3395-g94f237b65 started. Node id is set to 18.
+1853710	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1861728	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1863871	ID:18	Starting 'UDP client process'
+1867384	ID:18	UDP client process started nbr:10 routes:0
+1870823	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
+1872620	ID:18	fe80::c30c:0:0:12
+1877797	ID:18	Created a connection with the server :: local/remote port 8765/5678
+30965590	ID:26	 3943 P 193.12 0 91259 891699 63100 27528 0 11524 91259 891699 63100 27528 0 11524 (radio 9.21% / 9.21% tx 6.41% / 6.41% listen 2.80% / 2.80%)
+31017646	ID:27	 3943 P 193.12 0 4366 978589 0 9088 0 8736 4366 978589 0 9088 0 8736 (radio 0.92% / 0.92% tx 0.00% / 0.00% listen 0.92% / 0.92%)
+31023401	ID:11	 3943 P 193.12 0 14626 968335 5739 19104 0 18351 14626 968335 5739 19104 0 18351 (radio 2.52% / 2.52% tx 0.58% / 0.58% listen 1.94% / 1.94%)
+31046581	ID:25	 3943 P 193.12 0 9280 973675 2653 20067 0 19443 9280 973675 2653 20067 0 19443 (radio 2.31% / 2.31% tx 0.26% / 0.26% listen 2.04% / 2.04%)
+31049653	ID:15	 3943 P 193.12 0 88796 894165 59666 37321 0 21083 88796 894165 59666 37321 0 21083 (radio 9.86% / 9.86% tx 6.07% / 6.07% listen 3.79% / 3.79%)
+31088651	ID:19	 3943 P 193.12 0 87664 895294 60445 35834 0 19355 87664 895294 60445 35834 0 19355 (radio 9.79% / 9.79% tx 6.14% / 6.14% listen 3.64% / 3.64%)
+31105155	ID:13	 3943 P 193.12 0 92231 890730 61360 34308 0 18571 92231 890730 61360 34308 0 18571 (radio 9.73% / 9.73% tx 6.24% / 6.24% listen 3.49% / 3.49%)
+31150236	ID:28	 3943 P 193.12 0 34823 948135 20931 15979 0 10871 34823 948135 20931 15979 0 10871 (radio 3.75% / 3.75% tx 2.12% / 2.12% listen 1.62% / 1.62%)
+31159183	ID:4	 3943 P 193.12 0 54049 928919 34138 29338 0 20138 54049 928919 34138 29338 0 20138 (radio 6.45% / 6.45% tx 3.47% / 3.47% listen 2.98% / 2.98%)
+31163635	ID:12	 3943 P 193.12 0 50468 932493 33073 22907 0 14389 50468 932493 33073 22907 0 14389 (radio 5.69% / 5.69% tx 3.36% / 3.36% listen 2.33% / 2.33%)
+31201148	ID:17	 3943 P 193.12 0 49668 933290 32637 23082 0 15256 49668 933290 32637 23082 0 15256 (radio 5.66% / 5.66% tx 3.32% / 3.32% listen 2.34% / 2.34%)
+31210278	ID:31	 3943 P 193.12 0 57905 925053 38796 23005 0 12194 57905 925053 38796 23005 0 12194 (radio 6.28% / 6.28% tx 3.94% / 3.94% listen 2.34% / 2.34%)
+31212724	ID:22	 3943 P 193.12 0 8711 974244 2652 13701 0 13447 8711 974244 2652 13701 0 13447 (radio 1.66% / 1.66% tx 0.26% / 0.26% listen 1.39% / 1.39%)
+31213375	ID:29	 3943 P 193.12 0 15395 967563 5736 15937 0 15386 15395 967563 5736 15937 0 15386 (radio 2.20% / 2.20% tx 0.58% / 0.58% listen 1.62% / 1.62%)
+31273458	ID:20	 3943 P 193.12 0 92773 890395 61302 36067 0 19408 92773 890395 61302 36067 0 19408 (radio 9.90% / 9.90% tx 6.23% / 6.23% listen 3.66% / 3.66%)
+31331075	ID:16	 3943 P 193.12 0 50632 932326 32637 25870 0 17568 50632 932326 32637 25870 0 17568 (radio 5.95% / 5.95% tx 3.32% / 3.32% listen 2.63% / 2.63%)
+31378008	ID:5	 3943 P 193.12 0 63451 919517 41505 28178 0 17955 63451 919517 41505 28178 0 17955 (radio 7.08% / 7.08% tx 4.22% / 4.22% listen 2.86% / 2.86%)
+31418432	ID:21	 3943 P 193.12 0 50822 932136 32873 23988 0 15637 50822 932136 32873 23988 0 15637 (radio 5.78% / 5.78% tx 3.34% / 3.34% listen 2.44% / 2.44%)
+31436964	ID:2	 3943 P 193.12 0 69830 913138 44752 26121 0 15104 69830 913138 44752 26121 0 15104 (radio 7.21% / 7.21% tx 4.55% / 4.55% listen 2.65% / 2.65%)
+31458017	ID:9	 3943 P 193.12 0 128819 854149 88144 44391 0 21423 128819 854149 88144 44391 0 21423 (radio 13.48% / 13.48% tx 8.96% / 8.96% listen 4.51% / 4.51%)
+31547353	ID:14	 3943 P 193.12 0 76621 906340 48997 35486 0 23030 76621 906340 48997 35486 0 23030 (radio 8.59% / 8.59% tx 4.98% / 4.98% listen 3.61% / 3.61%)
+31567217	ID:24	 3944 P 193.12 0 89518 893757 58563 32705 0 16537 89518 893757 58563 32705 0 16537 (radio 9.28% / 9.28% tx 5.95% / 5.95% listen 3.32% / 3.32%)
+31581665	ID:23	 3943 P 193.12 0 94743 888215 64938 32493 0 14785 94743 888215 64938 32493 0 14785 (radio 9.91% / 9.91% tx 6.60% / 6.60% listen 3.30% / 3.30%)
+31585732	ID:30	 3943 P 193.12 0 91467 891491 62339 28196 0 11836 91467 891491 62339 28196 0 11836 (radio 9.21% / 9.21% tx 6.34% / 6.34% listen 2.86% / 2.86%)
+31652021	ID:10	 3943 P 193.12 0 165478 817483 115784 49471 0 18995 165478 817483 115784 49471 0 18995 (radio 16.81% / 16.81% tx 11.77% / 11.77% listen 5.03% / 5.03%)
+31682137	ID:3	 3943 P 193.12 0 72533 910435 47089 28060 0 15581 72533 910435 47089 28060 0 15581 (radio 7.64% / 7.64% tx 4.79% / 4.79% listen 2.85% / 2.85%)
+31689803	ID:7	 3943 P 193.12 0 60268 922700 37916 23112 0 13945 60268 922700 37916 23112 0 13945 (radio 6.20% / 6.20% tx 3.85% / 3.85% listen 2.35% / 2.35%)
+31728402	ID:8	 3943 P 193.12 0 30379 952589 9356 26100 0 20704 30379 952589 9356 26100 0 20704 (radio 3.60% / 3.60% tx 0.95% / 0.95% listen 2.65% / 2.65%)
+31740385	ID:1	 3943 P 193.12 0 27605 955361 10099 972391 0 0 27605 955361 10099 972391 0 0 (radio 99.-8644% / 99.-8644% tx 1.02% / 1.02% listen 98.-8647% / 98.-8647%)
+31837225	ID:6	 3943 P 193.12 0 54566 928402 35722 21928 0 13764 54566 928402 35722 21928 0 13764 (radio 5.86% / 5.86% tx 3.63% / 3.63% listen 2.23% / 2.23%)
+31879078	ID:18	 3943 P 193.12 0 55688 927270 35616 29875 0 21441 55688 927270 35616 29875 0 21441 (radio 6.66% / 6.66% tx 3.62% / 3.62% listen 3.03% / 3.03%)
+60968410	ID:26	 7783 P 193.12 1 113513 1852578 70312 38242 0 19770 22253 960879 7212 10714 0 8246 (radio 5.52% / 1.82% tx 3.57% / 0.73% listen 1.94% / 1.08%)
+61020690	ID:27	 7783 P 193.12 1 68213 1897784 40787 25908 0 16355 63846 919195 40787 16820 0 7619 (radio 3.39% / 5.86% tx 2.07% / 4.14% listen 1.31% / 1.71%)
+61026964	ID:11	 7783 P 193.12 1 50847 1915256 23507 30745 0 25390 36219 946921 17768 11641 0 7039 (radio 2.75% / 2.99% tx 1.19% / 1.80% listen 1.56% / 1.18%)
+61047766	ID:25	 7783 P 193.12 1 63151 1902846 34753 38828 0 31476 53870 929171 32100 18761 0 12033 (radio 3.74% / 5.17% tx 1.76% / 3.26% listen 1.97% / 1.90%)
+61049954	ID:15	 7783 P 193.12 1 108262 1857738 66421 49771 0 32720 19465 963573 6755 12450 0 11637 (radio 5.91% / 1.95% tx 3.37% / 0.68% listen 2.53% / 1.26%)
+61088859	ID:19	 7783 P 193.12 1 112228 1853769 69665 54631 0 35411 24563 958475 9220 18797 0 16056 (radio 6.32% / 2.85% tx 3.54% / 0.93% listen 2.77% / 1.91%)
+61105371	ID:13	 7783 P 193.12 1 109242 1856758 64444 47791 0 31268 17010 966028 3084 13483 0 12697 (radio 5.70% / 1.68% tx 3.27% / 0.31% listen 2.43% / 1.37%)
+61151700	ID:28	 7783 P 193.12 1 54333 1911711 27099 29387 0 23263 19509 963576 6168 13408 0 12392 (radio 2.87% / 1.99% tx 1.37% / 0.62% listen 1.49% / 1.36%)
+61158766	ID:4	 7783 P 193.12 1 71178 1894829 37222 38181 0 27415 17128 965910 3084 8843 0 7277 (radio 3.83% / 1.21% tx 1.89% / 0.31% listen 1.94% / 0.89%)
+61166578	ID:12	 7783 P 193.12 1 67860 1898243 38398 33234 0 23071 17391 965750 5325 10327 0 8682 (radio 3.64% / 1.59% tx 1.95% / 0.54% listen 1.69% / 1.05%)
+61201365	ID:17	 7783 P 193.12 1 116234 1849763 73725 42164 0 24250 66565 916473 41088 19082 0 8994 (radio 5.89% / 6.12% tx 3.75% / 4.17% listen 2.14% / 1.94%)
+61209850	ID:31	 7783 P 193.12 1 80313 1885684 48077 32638 0 20208 22407 960631 9281 9633 0 8014 (radio 4.10% / 1.92% tx 2.44% / 0.94% listen 1.66% / 0.97%)
+61213881	ID:29	 7783 P 193.12 1 51099 1914898 22783 32179 0 27652 35702 947335 17047 16242 0 12266 (radio 2.79% / 3.38% tx 1.15% / 1.73% listen 1.63% / 1.65%)
+61214627	ID:22	 7783 P 193.12 1 62362 1903661 34171 33798 0 25073 53650 929417 31519 20097 0 11626 (radio 3.45% / 5.25% tx 1.73% / 3.20% listen 1.71% / 2.04%)
+61287677	ID:20	 7785 P 193.12 1 115551 1851116 65327 51381 0 32833 22777 960721 4025 15314 0 13425 (radio 5.93% / 1.96% tx 3.32% / 0.40% listen 2.61% / 1.55%)
+61333146	ID:16	 7783 P 193.12 1 69500 1896578 38804 34424 0 25888 18866 964252 6167 8554 0 8320 (radio 3.72% / 1.49% tx 1.97% / 0.62% listen 1.75% / 0.87%)
+61382159	ID:5	 7783 P 193.12 1 90877 1875270 50711 39073 0 26413 27425 955753 9206 10895 0 8458 (radio 4.56% / 2.04% tx 2.57% / 0.93% listen 1.98% / 1.10%)
+61418298	ID:21	 7783 P 193.12 1 67954 1898052 39039 32376 0 23408 17131 965916 6166 8388 0 7771 (radio 3.63% / 1.48% tx 1.98% / 0.62% listen 1.64% / 0.85%)
+61441311	ID:2	 7783 P 193.12 1 87148 1879014 48659 34465 0 22648 17317 965876 3907 8344 0 7544 (radio 4.22% / 1.24% tx 2.47% / 0.39% listen 1.75% / 0.84%)
+61457753	ID:9	 7783 P 193.12 1 179244 1786763 116111 61731 0 31335 50424 932614 27967 17340 0 9912 (radio 9.04% / 4.60% tx 5.90% / 2.84% listen 3.13% / 1.76%)
+61547774	ID:14	 7783 P 193.12 1 161951 1804049 103073 58609 0 31354 85329 897709 54076 23123 0 8324 (radio 8.22% / 7.85% tx 5.24% / 5.50% listen 2.98% / 2.35%)
+61558299	ID:24	 7783 P 193.12 1 193866 1772131 121167 60797 0 27271 104346 878374 62604 28092 0 10734 (radio 9.25% / 9.22% tx 6.16% / 6.37% listen 3.09% / 2.85%)
+61585901	ID:30	 7783 P 193.12 1 109073 1856924 68606 40780 0 23411 17605 965433 6267 12584 0 11575 (radio 5.56% / 1.91% tx 3.48% / 0.63% listen 2.07% / 1.28%)
+61617435	ID:23	 7787 P 193.12 1 158993 1808161 96697 55777 0 29854 64249 919946 31759 23284 0 15069 (radio 7.75% / 5.59% tx 4.91% / 3.22% listen 2.83% / 2.36%)
+61651186	ID:10	 7783 P 193.12 1 187491 1778509 121952 61263 0 29503 22012 961026 6168 11792 0 10508 (radio 9.31% / 1.82% tx 6.20% / 0.62% listen 3.11% / 1.19%)
+61670511	ID:30	Sending DATA to 1 'Hello 1' with NodeID= 30
+61681710	ID:3	 7783 P 193.12 1 90623 1875384 53259 35833 0 22502 18089 964949 6170 7773 0 6921 (radio 4.53% / 1.41% tx 2.70% / 0.62% listen 1.82% / 0.79%)
+61689282	ID:7	 7783 P 193.12 1 73870 1892137 40999 30032 0 20358 13601 969437 3083 6920 0 6413 (radio 3.61% / 1.01% tx 2.08% / 0.31% listen 1.52% / 0.70%)
+61739358	ID:8	 7784 P 193.12 1 53030 1913331 13148 37509 0 29505 22650 960742 3792 11409 0 8801 (radio 2.57% / 1.54% tx 0.66% / 0.38% listen 1.90% / 1.16%)
+61740700	ID:1	 7783 P 193.12 1 43908 1922098 13466 1952059 0 0 16301 966737 3367 979667 0 0 (radio 99.-8641% / 99.-8639% tx 0.68% / 0.34% listen 99.-8710% / 99.-8673%)
+61836763	ID:6	 7783 P 193.12 1 68937 1897070 39874 28902 0 19809 14370 968668 4152 6974 0 6045 (radio 3.49% / 1.13% tx 2.02% / 0.42% listen 1.47% / 0.70%)
+61849278	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 30 at NodeID= 1
+61879286	ID:18	 7783 P 193.12 1 92839 1873158 52977 49969 0 36637 37150 945888 17361 20094 0 15196 (radio 5.23% / 3.81% tx 2.69% / 1.76% listen 2.54% / 2.04%)
+62048422	ID:19	Sending DATA to 1 'Hello 1' with NodeID= 19
+62348709	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 19 at NodeID= 1
+63433193	ID:26	Sending DATA to 1 'Hello 1' with NodeID= 26
+64173678	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
+68316459	ID:27	Sending DATA to 1 'Hello 1' with NodeID= 27
+68844405	ID:28	Sending DATA to 1 'Hello 1' with NodeID= 28
+70131668	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 27 at NodeID= 1
+70871873	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
+71853883	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
+72802893	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
+72852206	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
+74101143	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
+76096147	ID:23	Sending DATA to 1 'Hello 1' with NodeID= 23
+76117229	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
+77349291	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
+77478647	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
+77599561	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
+79852744	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
+79975477	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
+84851802	ID:20	Sending DATA to 1 'Hello 1' with NodeID= 20
+84907685	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
+85600945	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
+86573544	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
+86601623	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 20 at NodeID= 1
+87756017	ID:31	Sending DATA to 1 'Hello 1' with NodeID= 31
+88939265	ID:22	Sending DATA to 1 'Hello 1' with NodeID= 22
+89510800	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
+89976757	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
+90966474	ID:26	 11623 P 193.12 2 199532 2749505 125716 69577 0 32815 86018 896927 55404 31335 0 13045 (radio 6.62% / 8.82% tx 4.26% / 5.63% listen 2.35% / 3.18%)
+91020939	ID:27	 11623 P 193.12 2 83313 2865724 46399 39855 0 29169 15098 967940 5612 13947 0 12814 (radio 2.92% / 1.98% tx 1.57% / 0.57% listen 1.35% / 1.41%)
+91023969	ID:11	 11623 P 193.12 2 62977 2886064 26593 46396 0 40758 12128 970808 3086 15651 0 15368 (radio 2.47% / 1.90% tx 0.90% / 0.31% listen 1.57% / 1.59%)
+91072114	ID:15	 11625 P 193.12 2 138588 2811170 76405 70511 0 51494 30324 953432 9984 20740 0 18774 (radio 4.98% / 3.12% tx 2.59% / 1.01% listen 2.39% / 2.10%)
+91101325	ID:19	 11624 P 193.12 2 154269 2795164 89363 79657 0 53747 42040 941395 19698 25026 0 18336 (radio 5.73% / 4.54% tx 3.02% / 2.00% listen 2.70% / 2.54%)
+91105746	ID:13	 11623 P 193.12 2 163438 2785602 92182 69985 0 43323 54195 928844 27738 22194 0 12055 (radio 5.49% / 5.07% tx 3.12% / 2.82% listen 2.37% / 2.25%)
+91159802	ID:4	 11623 P 193.12 2 138935 2810113 77011 63261 0 38625 67756 915284 39789 25080 0 11210 (radio 4.75% / 6.59% tx 2.61% / 4.04% listen 2.14% / 2.55%)
+91164073	ID:12	 11623 P 193.12 2 138586 2810455 80810 52655 0 32140 70724 912212 42412 19421 0 9069 (radio 4.52% / 6.29% tx 2.74% / 4.31% listen 1.78% / 1.97%)
+91175257	ID:25	 11639 P 193.12 2 85974 2867242 40080 61263 0 52070 22821 964396 5327 22435 0 20594 (radio 3.43% / 2.81% tx 1.35% / 0.53% listen 2.07% / 2.27%)
+91201742	ID:17	 11623 P 193.12 2 158336 2790701 96961 61349 0 34525 42101 940938 23236 19185 0 10275 (radio 5.36% / 4.31% tx 3.28% / 2.36% listen 2.08% / 1.95%)
+91211187	ID:31	 11623 P 193.12 2 183209 2765828 116460 63281 0 30103 102895 880144 68383 30643 0 9895 (radio 6.09% / 10.07% tx 3.94% / 6.95% listen 2.14% / 3.11%)
+91213835	ID:28	 11631 P 193.12 2 160829 2790260 95659 62728 0 35048 106495 878549 68560 33341 0 11785 (radio 5.36% / 10.34% tx 3.24% / 6.96% listen 2.12% / 3.38%)
+91214198	ID:22	 11623 P 193.12 2 113043 2835994 62632 55932 0 36594 50679 932333 28461 22134 0 11521 (radio 4.02% / 5.14% tx 2.12% / 2.89% listen 1.89% / 2.25%)
+91214330	ID:29	 11623 P 193.12 2 101280 2847758 52462 54807 0 41925 50180 932860 29679 22628 0 14273 (radio 3.63% / 5.32% tx 1.77% / 3.01% listen 1.85% / 2.30%)
+91278398	ID:20	 11624 P 193.12 2 232088 2717285 138880 91201 0 47292 116536 866169 73553 39820 0 14459 (radio 7.80% / 11.53% tx 4.70% / 7.48% listen 3.09% / 4.05%)
+91337058	ID:16	 11623 P 193.12 2 121146 2828065 66868 57601 0 38729 51645 931487 28064 23177 0 12841 (radio 4.22% / 5.21% tx 2.26% / 2.85% listen 1.95% / 2.35%)
+91409088	ID:5	 11626 P 193.12 2 144482 2805559 80202 61173 0 41043 53604 930289 29491 22100 0 14630 (radio 4.79% / 5.24% tx 2.71% / 2.99% listen 2.07% / 2.24%)
+91422403	ID:21	 11623 P 193.12 2 125903 2823243 72822 57090 0 38580 57947 925191 33783 24714 0 15172 (radio 4.40% / 5.95% tx 2.46% / 3.43% listen 1.93% / 2.51%)
+91437385	ID:2	 11623 P 193.12 2 104839 2844208 53370 46003 0 32832 17690 965194 4711 11538 0 10184 (radio 3.36% / 1.65% tx 1.80% / 0.47% listen 1.55% / 1.17%)
+91472175	ID:9	 11624 P 193.12 2 211565 2737951 125987 82063 0 46806 32320 951188 9876 20332 0 15471 (radio 7.05% / 3.07% tx 4.27% / 1.00% listen 2.78% / 2.06%)
+91558313	ID:24	 11623 P 193.12 2 288869 2660169 179461 93299 0 41462 95002 888038 58294 32502 0 14191 (radio 9.24% / 9.23% tx 6.08% / 5.92% listen 3.16% / 3.30%)
+91558590	ID:14	 11624 P 193.12 2 222486 2726894 133859 85364 0 45063 60534 922845 30786 26755 0 13709 (radio 7.43% / 5.85% tx 4.53% / 3.13% listen 2.89% / 2.72%)
+91586322	ID:30	 11623 P 193.12 2 152338 2796699 92397 61606 0 38338 43264 939775 23791 20826 0 14927 (radio 5.22% / 4.53% tx 3.13% / 2.42% listen 2.08% / 2.11%)
+91664359	ID:10	 11624 P 193.12 2 294218 2655233 186304 93395 0 43274 106726 876724 64352 32132 0 13771 (radio 9.48% / 9.81% tx 6.31% / 6.54% listen 3.16% / 3.26%)
+91682519	ID:3	 11623 P 193.12 2 120457 2828590 68520 51671 0 32167 29833 953206 15261 15838 0 9665 (radio 4.07% / 3.16% tx 2.32% / 1.55% listen 1.75% / 1.61%)
+91689056	ID:7	 11623 P 193.12 2 84395 2864653 40999 40470 0 30125 10524 972516 0 10438 0 9767 (radio 2.76% / 1.06% tx 1.39% / 0.00% listen 1.37% / 1.06%)
+91728981	ID:8	 11623 P 193.12 2 87214 2861834 19283 55471 0 41665 34182 948503 6135 17962 0 12160 (radio 2.53% / 2.45% tx 0.65% / 0.62% listen 1.88% / 1.82%)
+91740229	ID:1	 11623 P 193.12 2 53982 2895064 13466 2935099 0 0 10073 972966 0 983038 0 0 (radio 99.-8640% / 99.-8639% tx 0.45% / 0.00% listen 99.-8686% / 99.-8639%)
+91754788	ID:23	 11645 P 193.12 2 237723 2716960 141148 86130 0 44812 78729 908799 44451 30353 0 14958 (radio 7.69% / 7.57% tx 4.77% / 4.50% listen 2.91% / 3.07%)
+91838104	ID:6	 11623 P 193.12 2 170230 2778817 107160 57721 0 29032 101292 881747 67286 28819 0 9223 (radio 5.59% / 9.77% tx 3.63% / 6.84% listen 1.95% / 2.93%)
+91879619	ID:18	 11623 P 193.12 2 115111 2833928 59604 67652 0 53042 22271 960770 6627 17683 0 16405 (radio 4.31% / 2.47% tx 2.02% / 0.67% listen 2.29% / 1.79%)
+93439228	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
+94305835	ID:24	Sending DATA to 1 'Hello 1' with NodeID= 24
+95474318	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
+101537506	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
+101598392	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
+107595646	ID:29	Sending DATA to 1 'Hello 1' with NodeID= 29
+107973178	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 29 at NodeID= 1
+108602513	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
+108621788	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
+108798572	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
+109098208	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
+114093086	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
+114381981	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
+116003038	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
+116790253	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 14 at NodeID= 1
+118249546	ID:25	Sending DATA to 1 'Hello 1' with NodeID= 25
+121021325	ID:27	 15463 P 193.12 3 136894 3795183 78902 61390 0 40832 53580 929459 32503 21535 0 11663 (radio 3.56% / 5.49% tx 2.00% / 3.30% listen 1.56% / 2.19%)
+121024125	ID:11	 15463 P 193.12 3 102368 3829711 46830 63881 0 49442 39390 943647 20237 17485 0 8684 (radio 2.81% / 3.83% tx 1.19% / 2.05% listen 1.62% / 1.77%)
+121050815	ID:15	 15463 P 193.12 3 225471 3706609 127187 104027 0 69530 86881 895439 50782 33516 0 18036 (radio 5.88% / 8.58% tx 3.23% / 5.16% listen 2.64% / 3.41%)
+121064145	ID:26	 15475 P 193.12 3 336520 3598715 215775 104575 0 42846 136986 849210 90059 34998 0 10031 (radio 8.14% / 12.68% tx 5.48% / 9.13% listen 2.65% / 3.54%)
+121089722	ID:19	 15463 P 193.12 3 188241 3743836 100978 105723 0 75919 33970 948672 11615 26066 0 22172 (radio 5.25% / 3.83% tx 2.56% / 1.18% listen 2.68% / 2.65%)
+121105583	ID:13	 15463 P 193.12 3 178435 3753645 95263 88712 0 61510 14996 968043 3081 18727 0 18187 (radio 4.67% / 2.21% tx 2.42% / 0.31% listen 2.25% / 1.90%)
+121151106	ID:28	 15463 P 193.12 3 196530 3735548 114026 81435 0 50335 35700 945288 18367 18707 0 15287 (radio 4.97% / 3.77% tx 2.89% / 1.87% listen 2.07% / 1.90%)
+121159797	ID:4	 15463 P 193.12 3 193419 3738668 110546 80636 0 47173 54483 928555 33535 17375 0 8548 (radio 4.86% / 5.17% tx 2.81% / 3.41% listen 2.05% / 1.76%)
+121192952	ID:12	 15466 P 193.12 3 233500 3699519 141787 81258 0 41399 94913 889064 60977 28603 0 9259 (radio 5.67% / 9.10% tx 3.60% / 6.19% listen 2.06% / 2.90%)
+121202495	ID:17	 15463 P 193.12 3 172064 3760036 100044 77209 0 49667 13727 969335 3083 15860 0 15142 (radio 4.50% / 1.92% tx 2.54% / 0.31% listen 1.96% / 1.61%)
+121210878	ID:31	 15463 P 193.12 3 199464 3732613 122633 74991 0 41247 16253 966785 6173 11710 0 11144 (radio 5.02% / 1.81% tx 3.11% / 0.62% listen 1.90% / 1.19%)
+121214106	ID:29	 15463 P 193.12 3 119685 3812392 56810 70423 0 55944 18404 964634 4348 15616 0 14019 (radio 3.23% / 2.03% tx 1.44% / 0.44% listen 1.79% / 1.58%)
+121217278	ID:22	 15463 P 193.12 3 173651 3758526 98655 81106 0 50493 60607 922532 36023 25174 0 13899 (radio 4.57% / 6.22% tx 2.50% / 3.66% listen 2.06% / 2.56%)
+121268694	ID:20	 15463 P 193.12 3 392666 3539411 246144 136088 0 61961 160577 822126 107264 44887 0 14669 (radio 9.72% / 15.48% tx 6.25% / 10.91% listen 3.46% / 4.56%)
+121313765	ID:25	 15497 P 193.12 3 128007 3812773 55457 87641 0 71917 42032 945531 15377 26378 0 19847 (radio 3.63% / 4.22% tx 1.40% / 1.55% listen 2.22% / 2.67%)
+121331669	ID:16	 15463 P 193.12 3 149416 3782661 79506 73585 0 52228 28269 954596 12638 15984 0 13499 (radio 3.89% / 2.91% tx 2.02% / 1.28% listen 1.87% / 1.62%)
+121378109	ID:5	 15463 P 193.12 3 158041 3774046 83285 70774 0 49746 13558 968487 3083 9601 0 8703 (radio 3.91% / 1.29% tx 2.11% / 0.31% listen 1.79% / 0.97%)
+121391710	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
+121412007	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
+121419028	ID:21	 15463 P 193.12 3 170356 3761721 96399 81567 0 58238 44451 938478 23577 24477 0 19658 (radio 4.52% / 4.88% tx 2.45% / 2.39% listen 2.07% / 2.49%)
+121446031	ID:2	 15464 P 193.12 3 152299 3780070 76600 63176 0 42765 47458 935862 23230 17173 0 9933 (radio 3.55% / 4.10% tx 1.94% / 2.36% listen 1.60% / 1.74%)
+121458388	ID:9	 15463 P 193.12 3 259349 3672737 152917 104723 0 60428 47783 934786 26930 22660 0 13622 (radio 6.55% / 5.04% tx 3.88% / 2.74% listen 2.66% / 2.30%)
+121548659	ID:14	 15463 P 193.12 3 324433 3607647 197924 121465 0 60570 101946 880753 64065 36101 0 15507 (radio 8.12% / 10.19% tx 5.03% / 6.51% listen 3.08% / 3.67%)
+121558773	ID:24	 15463 P 193.12 3 393044 3539033 242998 127776 0 56933 104174 878864 63537 34477 0 15471 (radio 9.42% / 9.97% tx 6.17% / 6.46% listen 3.24% / 3.50%)
+121582727	ID:23	 15463 P 193.12 3 337367 3594710 203826 118754 0 60763 99642 877750 62678 32624 0 15951 (radio 8.20% / 9.75% tx 5.18% / 6.41% listen 3.02% / 3.33%)
+121586160	ID:30	 15463 P 193.12 3 170111 3761966 98453 74777 0 51019 17771 965267 6056 13171 0 12681 (radio 4.40% / 1.95% tx 2.50% / 0.61% listen 1.90% / 1.33%)
+121651576	ID:10	 15463 P 193.12 3 311258 3620822 189283 110338 0 59671 17038 965589 2979 16943 0 16397 (radio 7.61% / 2.02% tx 4.81% / 0.30% listen 2.80% / 1.72%)
+121690893	ID:3	 15464 P 193.12 3 141916 3790444 74304 64289 0 43424 21458 961854 5784 12618 0 11257 (radio 3.52% / 1.87% tx 1.88% / 0.58% listen 1.63% / 1.28%)
+121696490	ID:7	 15463 P 193.12 3 120278 3812006 55216 56922 0 41835 35882 947353 14217 16452 0 11710 (radio 2.85% / 3.11% tx 1.40% / 1.44% listen 1.44% / 1.67%)
+121740912	ID:1	 15463 P 193.12 3 71949 3860137 16833 3914769 0 0 17966 965073 3367 979668 0 0 (radio 99.-9732% / 99.-8639% tx 0.42% / 0.34% listen 99.-9775% / 99.-8673%)
+121742910	ID:8	 15464 P 193.12 3 149192 3783340 43872 79564 0 55090 61977 921506 24589 24093 0 13425 (radio 3.13% / 4.94% tx 1.11% / 2.50% listen 2.02% / 2.44%)
+121837445	ID:6	 15463 P 193.12 3 185222 3746865 113325 64414 0 35565 14990 968048 6165 6693 0 6533 (radio 4.52% / 1.30% tx 2.88% / 0.62% listen 1.63% / 0.68%)
+121880248	ID:18	 15463 P 193.12 3 210686 3721391 116462 100348 0 67770 95574 887463 56858 32696 0 14728 (radio 5.51% / 9.10% tx 2.96% / 5.78% listen 2.55% / 3.32%)
+123921027	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
+124627441	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
+125598762	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 13 at NodeID= 1
+127264268	ID:30	Sending DATA to 1 'Hello 2' with NodeID= 30
+127601541	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 30 at NodeID= 1
+128025240	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
+129691452	ID:27	Sending DATA to 1 'Hello 2' with NodeID= 27
+131501873	ID:29	Sending DATA to 1 'Hello 2' with NodeID= 29
+132428662	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 29 at NodeID= 1
+132893613	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
+132901071	ID:23	Sending DATA to 1 'Hello 2' with NodeID= 23
+133759008	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
+133798720	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
+134110552	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
+134292085	ID:18	Sending DATA to 1 'Hello 2' with NodeID= 18
+136429215	ID:25	Sending DATA to 1 'Hello 2' with NodeID= 25
+137979787	ID:21	Sending DATA to 1 'Hello 2' with NodeID= 21
+139100479	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 21 at NodeID= 1
+139936160	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 18 at NodeID= 1
+140632841	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
+140851359	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 6 at NodeID= 1
+144884524	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
+145098762	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 15 at NodeID= 1
+145228123	ID:19	Sending DATA to 1 'Hello 2' with NodeID= 19
+150646637	ID:31	Sending DATA to 1 'Hello 2' with NodeID= 31
+150720381	ID:24	Sending DATA to 1 'Hello 2' with NodeID= 24
+150966497	ID:26	 19303 P 193.12 4 358135 4556983 223994 117971 0 54944 21614 958268 8219 13396 0 12098 (radio 6.95% / 2.20% tx 4.55% / 0.83% listen 2.40% / 1.36%)
+151021545	ID:27	 19303 P 193.12 4 194742 4720375 112977 84329 0 52408 57847 925192 34075 22939 0 11576 (radio 4.01% / 5.79% tx 2.29% / 3.46% listen 1.71% / 2.33%)
+151024383	ID:11	 19303 P 193.12 4 190106 4725014 101851 92049 0 59388 87736 895303 55021 28168 0 9946 (radio 3.94% / 8.46% tx 2.07% / 5.59% listen 1.87% / 2.86%)
+151048623	ID:25	 19303 P 193.12 4 234416 4680701 119696 114960 0 80392 106408 867928 64239 27319 0 8475 (radio 4.77% / 9.39% tx 2.43% / 6.59% listen 2.33% / 2.80%)
+151050809	ID:15	 19303 P 193.12 4 277588 4637532 158584 131321 0 85681 52116 930923 31397 27294 0 16151 (radio 5.89% / 5.97% tx 3.22% / 3.19% listen 2.67% / 2.77%)
+151076331	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
+151097008	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 2 at NodeID= 1
+151106244	ID:13	 19303 P 193.12 4 242425 4672695 129240 115651 0 79393 63989 919050 33977 26939 0 17883 (radio 4.98% / 6.19% tx 2.62% / 3.45% listen 2.35% / 2.74%)
+151151296	ID:28	 19303 P 193.12 4 249195 4665923 140652 102372 0 64479 52664 930375 26626 20937 0 14144 (radio 4.94% / 4.83% tx 2.86% / 2.70% listen 2.08% / 2.12%)
+151164864	ID:12	 19303 P 193.12 4 368991 4546130 228020 114640 0 49924 135490 846611 86233 33382 0 8525 (radio 6.97% / 12.17% tx 4.63% / 8.78% listen 2.33% / 3.39%)
+151167211	ID:4	 19304 P 193.12 4 283182 4632179 169372 109833 0 56331 89762 893511 58826 29197 0 9158 (radio 5.68% / 8.95% tx 3.44% / 5.98% listen 2.23% / 2.96%)
+151201651	ID:17	 19303 P 193.12 4 186989 4728128 102484 94511 0 65029 14924 968092 2440 17302 0 15362 (radio 4.00% / 2.00% tx 2.08% / 0.24% listen 1.92% / 1.76%)
+151214146	ID:29	 19303 P 193.12 4 137204 4777913 59488 87103 0 69928 17518 965521 2678 16680 0 13984 (radio 2.98% / 1.96% tx 1.21% / 0.27% listen 1.77% / 1.69%)
+151214712	ID:22	 19303 P 193.12 4 233615 4681503 133393 103457 0 63920 59962 922977 34738 22351 0 13427 (radio 4.81% / 5.80% tx 2.71% / 3.53% listen 2.10% / 2.27%)
+151235908	ID:22	Sending DATA to 1 'Hello 2' with NodeID= 22
+151267862	ID:20	 19303 P 193.12 4 411963 4503155 249695 153398 0 78277 19296 963744 3551 17310 0 16316 (radio 8.20% / 2.12% tx 5.08% / 0.36% listen 3.12% / 1.76%)
+151306525	ID:19	 19330 P 193.12 4 230476 4691745 116329 134576 0 97789 42234 947909 15351 28853 0 21870 (radio 5.09% / 4.46% tx 2.36% / 1.55% listen 2.73% / 2.91%)
+151331452	ID:16	 19303 P 193.12 4 165893 4749224 85356 88107 0 65545 16476 966563 5850 14522 0 13317 (radio 3.52% / 2.07% tx 1.73% / 0.59% listen 1.79% / 1.47%)
+151348032	ID:31	 19320 P 193.12 4 233793 4685815 141132 90823 0 50937 34328 953202 18499 15832 0 9690 (radio 4.71% / 3.47% tx 2.86% / 1.87% listen 1.84% / 1.60%)
+151378977	ID:5	 19303 P 193.12 4 211679 4703448 113975 94103 0 60949 53636 929402 30690 23329 0 11203 (radio 4.23% / 5.49% tx 2.31% / 3.12% listen 1.91% / 2.37%)
+151419056	ID:21	 19303 P 193.12 4 211071 4704046 117502 98992 0 68102 40714 942325 21103 17425 0 9864 (radio 4.40% / 3.91% tx 2.39% / 2.14% listen 2.01% / 1.77%)
+151437399	ID:2	 19303 P 193.12 4 178207 4736921 86204 76472 0 54819 25907 956851 9604 13296 0 12054 (radio 3.30% / 2.33% tx 1.75% / 0.97% listen 1.55% / 1.35%)
+151458447	ID:9	 19303 P 193.12 4 313154 4601973 182247 133604 0 78567 53803 929236 29330 28881 0 18139 (radio 6.42% / 5.92% tx 3.70% / 2.98% listen 2.71% / 2.93%)
+151548995	ID:14	 19303 P 193.12 4 450993 4464129 277695 163977 0 73987 126559 856482 79771 42512 0 13417 (radio 8.-776% / 12.43% tx 5.64% / 8.11% listen 3.33% / 4.32%)
+151570098	ID:24	 19304 P 193.12 4 434212 4481285 257544 149757 0 72642 41167 942252 14546 21981 0 15709 (radio 8.28% / 3.71% tx 5.23% / 1.47% listen 3.04% / 2.23%)
+151583239	ID:23	 19303 P 193.12 4 485455 4429663 296613 157671 0 72891 148087 834953 92787 38917 0 12128 (radio 9.-850% / 13.39% tx 6.03% / 9.43% listen 3.20% / 3.95%)
+151586369	ID:30	 19303 P 193.12 4 189512 4725605 104539 88238 0 62286 19400 963639 6086 13461 0 11267 (radio 3.92% / 1.98% tx 2.12% / 0.61% listen 1.79% / 1.36%)
+151651794	ID:10	 19303 P 193.12 4 350060 4565060 209043 134306 0 76986 38801 944238 19760 23968 0 17315 (radio 6.98% / 4.44% tx 4.25% / 2.01% listen 2.73% / 2.43%)
+151683019	ID:3	 19303 P 193.12 4 200543 4714584 105264 86008 0 53661 58625 924140 30960 21719 0 10237 (radio 3.89% / 5.36% tx 2.14% / 3.15% listen 1.74% / 2.20%)
+151690242	ID:7	 19303 P 193.12 4 148655 4766473 62169 73081 0 53772 28376 954467 6953 16159 0 11937 (radio 2.75% / 2.35% tx 1.26% / 0.70% listen 1.48% / 1.64%)
+151729358	ID:8	 19303 P 193.12 4 175676 4739452 44877 100951 0 72253 26483 956112 1005 21387 0 17163 (radio 2.96% / 2.27% tx 0.91% / 0.10% listen 2.05% / 2.17%)
+151740494	ID:1	 19303 P 193.12 4 88602 4826524 16833 4897810 0 0 16652 966387 0 983039 0 0 (radio 99.-9514% / 100.-8739% tx 0.34% / 0.00% listen 99.-9548% / 100.-8739%)
+151837821	ID:6	 19303 P 193.12 4 202424 4712703 119288 77619 0 46267 17201 965838 5963 13205 0 10702 (radio 4.00% / 1.94% tx 2.42% / 0.60% listen 1.57% / 1.34%)
+151880215	ID:18	 19303 P 193.12 4 271998 4643119 142620 130649 0 89676 61311 921728 26158 30301 0 21906 (radio 5.55% / 5.74% tx 2.90% / 2.66% listen 2.65% / 3.08%)
+152600029	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 24 at NodeID= 1
+157032159	ID:28	Sending DATA to 1 'Hello 2' with NodeID= 28
+157316999	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 28 at NodeID= 1
+159276959	ID:26	Sending DATA to 1 'Hello 2' with NodeID= 26
+159726048	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 26 at NodeID= 1
+161654694	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
+161811557	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 12 at NodeID= 1
+162290999	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
+162598211	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 4 at NodeID= 1
+164914312	ID:20	Sending DATA to 1 'Hello 2' with NodeID= 20
+165099343	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 20 at NodeID= 1
+167551574	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
+167698033	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 17 at NodeID= 1
+173133766	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
+173153190	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 8 at NodeID= 1
+179514968	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
+179598485	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 14 at NodeID= 1
+180415143	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
+180760492	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 7 at NodeID= 1
+180965976	ID:26	 23143 P 193.12 5 373372 5524785 228901 125873 0 61429 15236 967802 4907 7902 0 6485 (radio 6.01% / 1.30% tx 3.88% / 0.49% listen 2.13% / 0.80%)
+181020898	ID:27	 23143 P 193.12 5 210766 5687391 118879 92773 0 59396 16023 967016 5902 8444 0 6988 (radio 3.58% / 1.45% tx 2.01% / 0.60% listen 1.57% / 0.85%)
+181024523	ID:11	 23143 P 193.12 5 228161 5669999 122488 104290 0 66746 38053 944985 20637 12241 0 7358 (radio 3.84% / 3.34% tx 2.07% / 2.09% listen 1.76% / 1.24%)
+181048106	ID:25	 23143 P 193.12 5 250952 5647205 123490 125074 0 89683 16535 966504 3794 10114 0 9291 (radio 4.21% / 1.41% tx 2.09% / 0.38% listen 2.12% / 1.02%)
+181050595	ID:15	 23143 P 193.12 5 297888 5600272 163405 143689 0 97100 20299 962740 4821 12368 0 11419 (radio 5.20% / 1.74% tx 2.77% / 0.49% listen 2.43% / 1.25%)
+181089734	ID:19	 23143 P 193.12 5 311806 5586351 167070 159988 0 106231 81328 894606 50741 25412 0 8442 (radio 5.54% / 7.80% tx 2.83% / 5.19% listen 2.71% / 2.60%)
+181106242	ID:13	 23143 P 193.12 5 303289 5594871 157002 136768 0 91918 60862 922176 27762 21117 0 12525 (radio 4.98% / 4.97% tx 2.66% / 2.82% listen 2.31% / 2.14%)
+181151070	ID:28	 23143 P 193.12 5 283753 5614404 158582 114664 0 71870 34557 948481 17930 12292 0 7391 (radio 4.63% / 3.07% tx 2.68% / 1.82% listen 1.94% / 1.25%)
+181160038	ID:4	 23143 P 193.12 5 345935 5552232 206374 130126 0 64908 62752 920053 37002 20293 0 8577 (radio 5.70% / 5.82% tx 3.49% / 3.76% listen 2.20% / 2.06%)
+181164624	ID:12	 23143 P 193.12 5 400196 5497964 238553 130478 0 61572 31204 951834 10533 15838 0 11648 (radio 6.25% / 2.68% tx 4.04% / 1.07% listen 2.21% / 1.61%)
+181201981	ID:17	 23143 P 193.12 5 273916 5624241 154207 118732 0 73113 86925 896113 51723 24221 0 8084 (radio 4.62% / 7.72% tx 2.61% / 5.26% listen 2.01% / 2.46%)
+181210709	ID:31	 23143 P 193.12 5 253652 5644504 150377 100167 0 56467 19858 958689 9245 9344 0 5530 (radio 4.24% / 1.89% tx 2.54% / 0.94% listen 1.69% / 0.95%)
+181213679	ID:29	 23143 P 193.12 5 152252 5745905 64320 96324 0 77212 15047 967992 4832 9221 0 7284 (radio 2.72% / 1.42% tx 1.09% / 0.49% listen 1.63% / 0.93%)
+181214469	ID:22	 23143 P 193.12 5 267704 5630453 148824 116753 0 72970 34088 948950 15431 13296 0 9050 (radio 4.50% / 2.92% tx 2.52% / 1.56% listen 1.97% / 1.35%)
+181267608	ID:20	 23143 P 193.12 5 432416 5465741 256234 164166 0 87205 20452 962586 6539 10768 0 8928 (radio 7.12% / 1.76% tx 4.34% / 0.66% listen 2.78% / 1.09%)
+181331089	ID:16	 23143 P 193.12 5 179331 5718826 88440 95915 0 73006 13437 969602 3084 7808 0 7461 (radio 3.12% / 1.10% tx 1.49% / 0.31% listen 1.62% / 0.79%)
+181378990	ID:5	 23143 P 193.12 5 226210 5671957 117060 105210 0 71088 14530 968509 3085 11107 0 10139 (radio 3.76% / 1.44% tx 1.98% / 0.31% listen 1.78% / 1.12%)
+181418025	ID:21	 23143 P 193.12 5 220684 5677473 117502 106023 0 74385 9612 973427 0 7031 0 6283 (radio 3.78% / 0.71% tx 1.99% / 0.00% listen 1.79% / 0.71%)
+181437345	ID:2	 23143 P 193.12 5 198964 5699203 90236 87555 0 65099 20756 962282 4032 11083 0 10280 (radio 3.01% / 1.53% tx 1.52% / 0.41% listen 1.48% / 1.12%)
+181548517	ID:14	 23143 P 193.12 5 479557 5418602 287759 182277 0 87953 28563 954473 10064 18300 0 13966 (radio 7.-632% / 2.88% tx 4.87% / 1.02% listen 3.09% / 1.86%)
+181556499	ID:9	 23155 P 193.12 5 390960 5510391 225902 156257 0 88459 77805 908418 43655 22653 0 9892 (radio 6.47% / 6.72% tx 3.82% / 4.42% listen 2.64% / 2.29%)
+181569334	ID:24	 23144 P 193.12 5 461551 5436961 269890 163444 0 82164 27338 955676 12346 13687 0 9522 (radio 7.-694% / 2.64% tx 4.57% / 1.25% listen 2.77% / 1.39%)
+181585077	ID:30	 23143 P 193.12 5 196691 5701465 104539 95038 0 68709 7178 975860 0 6800 0 6423 (radio 3.38% / 0.69% tx 1.77% / 0.00% listen 1.61% / 0.69%)
+181593805	ID:23	 23144 P 193.12 5 515687 5382834 304551 172373 0 84761 30231 953171 7938 14702 0 11870 (radio 8.-720% / 2.30% tx 5.16% / 0.80% listen 2.92% / 1.49%)
+181661320	ID:10	 23144 P 193.12 5 377682 5520795 218393 148562 0 88216 27621 955735 9350 14256 0 11230 (radio 6.22% / 2.40% tx 3.70% / 0.95% listen 2.51% / 1.44%)
+181690234	ID:7	 23143 P 193.12 5 190190 5707977 78956 88032 0 61246 41534 941504 16787 14951 0 7474 (radio 2.83% / 3.22% tx 1.33% / 1.70% listen 1.49% / 1.52%)
+181705512	ID:3	 23146 P 193.12 5 226729 5672189 111669 97407 0 61645 26184 957605 6405 11399 0 7984 (radio 3.54% / 1.80% tx 1.89% / 0.65% listen 1.65% / 1.15%)
+181729356	ID:8	 23143 P 193.12 5 200015 5698151 45935 114328 0 83591 24338 958699 1058 13377 0 11338 (radio 2.71% / 1.46% tx 0.77% / 0.10% listen 1.93% / 1.36%)
+181740666	ID:1	 23143 P 193.12 5 101838 5796327 16833 5880849 0 0 13234 969803 0 983038 0 0 (radio 99.-9368% / 100.-8739% tx 0.28% / 0.00% listen 99.-9396% / 100.-8739%)
+181837835	ID:6	 23143 P 193.12 5 246480 5651686 146423 92733 0 53465 44055 938983 27135 15114 0 7198 (radio 4.05% / 4.29% tx 2.48% / 2.76% listen 1.57% / 1.53%)
+181880460	ID:18	 23143 P 193.12 5 312507 5585650 158229 146819 0 101070 40507 942531 15609 16170 0 11394 (radio 5.17% / 3.23% tx 2.68% / 1.58% listen 2.48% / 1.64%)
+182359396	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
+183822024	ID:15	Sending DATA to 1 'Hello 3' with NodeID= 15
+185131006	ID:31	Sending DATA to 1 'Hello 3' with NodeID= 31
+185170468	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 15 at NodeID= 1
+185975413	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 31 at NodeID= 1
+187805625	ID:8	Sending DATA to 1 'Hello 3' with NodeID= 8
+187824984	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 8 at NodeID= 1
+189479580	ID:18	Sending DATA to 1 'Hello 3' with NodeID= 18
+189712115	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
+190452655	ID:25	Sending DATA to 1 'Hello 3' with NodeID= 25
+191598462	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 25 at NodeID= 1
+191600273	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
+192499240	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 10 at NodeID= 1
+193734608	ID:20	Sending DATA to 1 'Hello 3' with NodeID= 20
+193866742	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 14 at NodeID= 1
+193878883	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 20 at NodeID= 1
+195540865	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
+196177799	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 16 at NodeID= 1
+197181241	ID:19	Sending DATA to 1 'Hello 3' with NodeID= 19
+197472967	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 19 at NodeID= 1
+198493812	ID:24	Sending DATA to 1 'Hello 3' with NodeID= 24
+198725233	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 24 at NodeID= 1
+202369824	ID:23	Sending DATA to 1 'Hello 3' with NodeID= 23
+202687135	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 23 at NodeID= 1
+204438542	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
+204458812	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 7 at NodeID= 1
+204636778	ID:27	Sending DATA to 1 'Hello 3' with NodeID= 27
+204934689	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 27 at NodeID= 1
+205086593	ID:28	Sending DATA to 1 'Hello 3' with NodeID= 28
+205437022	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 28 at NodeID= 1
+208391820	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
+208412274	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
+210965188	ID:26	 26983 P 193.12 6 380760 6500437 228901 133135 0 68300 7387 975652 0 7262 0 6871 (radio 5.26% / 0.73% tx 3.32% / 0.00% listen 1.93% / 0.73%)
+211021149	ID:27	 26983 P 193.12 6 226732 6654465 124385 101486 0 66856 15965 967074 5506 8713 0 7460 (radio 3.28% / 1.44% tx 1.80% / 0.56% listen 1.47% / 0.88%)
+211024798	ID:11	 26983 P 193.12 6 263749 6617452 140198 118926 0 78595 35587 947453 17710 14636 0 11849 (radio 3.76% / 3.29% tx 2.03% / 1.80% listen 1.72% / 1.48%)
+211048422	ID:25	 26983 P 193.12 6 278385 6602812 135107 137528 0 97327 27432 955607 11617 12454 0 7644 (radio 3.96% / 2.44% tx 1.96% / 1.18% listen 1.99% / 1.26%)
+211050996	ID:15	 26983 P 193.12 6 331701 6549499 175648 163654 0 112901 33812 949227 12243 19965 0 15801 (radio 4.93% / 3.27% tx 2.55% / 1.24% listen 2.37% / 2.03%)
+211089918	ID:19	 26983 P 193.12 6 347031 6534166 183269 178222 0 117896 35224 947815 16199 18234 0 11665 (radio 5.25% / 3.50% tx 2.66% / 1.64% listen 2.58% / 1.85%)
+211106469	ID:13	 26983 P 193.12 6 360480 6520721 188272 163136 0 106320 57190 925850 31270 26368 0 14402 (radio 5.10% / 5.86% tx 2.73% / 3.18% listen 2.37% / 2.68%)
+211150660	ID:28	 26983 P 193.12 6 300938 6580259 163716 123194 0 78803 17184 965855 5134 8530 0 6933 (radio 4.16% / 1.38% tx 2.37% / 0.52% listen 1.79% / 0.86%)
+211160294	ID:4	 26983 P 193.12 6 379675 6501533 222007 146467 0 77866 33738 949301 15633 16341 0 12958 (radio 5.35% / 3.25% tx 3.22% / 1.59% listen 2.12% / 1.66%)
+211164039	ID:12	 26983 P 193.12 6 412100 6469101 241636 139065 0 70065 11903 971137 3083 8587 0 8493 (radio 5.53% / 1.18% tx 3.51% / 0.31% listen 2.02% / 0.87%)
+211201582	ID:17	 26983 P 193.12 6 292605 6588593 160819 127722 0 81476 18688 964352 6612 8990 0 8363 (radio 4.19% / 1.58% tx 2.33% / 0.67% listen 1.85% / 0.91%)
+211210705	ID:31	 26983 P 193.12 6 273078 6608119 159469 108699 0 62549 19424 963615 9092 8532 0 6082 (radio 3.89% / 1.79% tx 2.31% / 0.92% listen 1.57% / 0.86%)
+211213062	ID:29	 26983 P 193.12 6 161151 6720046 64320 104022 0 84198 8898 974141 0 7698 0 6986 (radio 2.44% / 0.78% tx 0.93% / 0.00% listen 1.51% / 0.78%)
+211214495	ID:22	 26983 P 193.12 6 321118 6560080 181085 132537 0 79805 53413 929627 32261 15784 0 6835 (radio 4.55% / 4.88% tx 2.63% / 3.28% listen 1.92% / 1.60%)
+211267784	ID:20	 26983 P 193.12 6 443313 6437884 256866 176104 0 98773 10896 972143 632 11938 0 11568 (radio 6.-595% / 1.27% tx 3.73% / 0.06% listen 2.55% / 1.21%)
+211331941	ID:16	 26983 P 193.12 6 218348 6662849 107500 111596 0 81883 39015 944023 19060 15681 0 8877 (radio 3.18% / 3.53% tx 1.56% / 1.93% listen 1.62% / 1.59%)
+211379157	ID:5	 26983 P 193.12 6 278456 6602752 147274 125916 0 82986 52244 930795 30214 20706 0 11898 (radio 3.97% / 5.17% tx 2.14% / 3.07% listen 1.82% / 2.10%)
+211418867	ID:21	 26983 P 193.12 6 238787 6642411 125257 115285 0 81974 18101 964938 7755 9262 0 7589 (radio 3.49% / 1.73% tx 1.82% / 0.78% listen 1.67% / 0.94%)
+211436447	ID:2	 26983 P 193.12 6 213201 6668006 90236 97848 0 74859 14236 968803 0 10293 0 9760 (radio 2.73% / 1.04% tx 1.31% / 0.00% listen 1.42% / 1.04%)
+211458994	ID:9	 26983 P 193.12 6 520493 6360715 302751 191039 0 99978 129532 850324 76849 34782 0 11519 (radio 7.-607% / 11.39% tx 4.39% / 7.84% listen 2.77% / 3.54%)
+211548783	ID:14	 26983 P 193.12 6 571566 6309634 342472 216130 0 101801 92007 891032 54713 33853 0 13848 (radio 8.-613% / 9.00% tx 4.97% / 5.56% listen 3.14% / 3.44%)
+211558069	ID:24	 26983 P 193.12 6 480511 6400686 274392 172679 0 90221 18959 963725 4502 9235 0 8057 (radio 6.-575% / 1.39% tx 3.98% / 0.45% listen 2.50% / 0.93%)
+211582476	ID:23	 26983 P 193.12 6 539566 6341631 310893 182867 0 93215 23877 958797 6342 10494 0 8454 (radio 7.-607% / 1.71% tx 4.51% / 0.64% listen 2.65% / 1.06%)
+211586076	ID:30	 26983 P 193.12 6 208565 6672633 107624 102147 0 75542 11872 971168 3085 7109 0 6833 (radio 3.04% / 1.03% tx 1.56% / 0.31% listen 1.48% / 0.72%)
+211652000	ID:10	 26983 P 193.12 6 435635 6445565 244738 170487 0 103426 57951 924770 26345 21925 0 15210 (radio 6.03% / 4.91% tx 3.55% / 2.68% listen 2.47% / 2.23%)
+211682801	ID:3	 26983 P 193.12 6 254535 6626672 119465 110392 0 68940 27804 954483 7796 12985 0 7295 (radio 3.34% / 2.11% tx 1.73% / 0.79% listen 1.60% / 1.32%)
+211689577	ID:7	 26983 P 193.12 6 201745 6679462 79302 96014 0 67632 11554 971485 346 7982 0 6386 (radio 2.54% / 0.84% tx 1.15% / 0.03% listen 1.39% / 0.81%)
+211729399	ID:8	 26983 P 193.12 6 220053 6661154 47719 130896 0 96747 20036 963003 1784 16568 0 13156 (radio 2.59% / 1.86% tx 0.69% / 0.18% listen 1.90% / 1.68%)
+211740441	ID:1	 26983 P 193.12 6 113212 6767994 16833 6863889 0 0 11372 971667 0 983038 0 0 (radio 99.-9888% / 99.-8639% tx 0.24% / 0.00% listen 99.-9288% / 99.-8639%)
+211838096	ID:6	 26983 P 193.12 6 294429 6586778 174162 111623 0 62123 47947 935092 27739 18890 0 8658 (radio 4.15% / 4.74% tx 2.53% / 2.82% listen 1.62% / 1.92%)
+211880247	ID:18	 26983 P 193.12 6 336850 6544347 167778 161377 0 112535 24342 958697 9549 14558 0 11465 (radio 4.78% / 2.45% tx 2.43% / 0.97% listen 2.34% / 1.48%)
+212573827	ID:26	Sending DATA to 1 'Hello 3' with NodeID= 26
+212848627	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 26 at NodeID= 1
+213518622	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
+213930068	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 9 at NodeID= 1
+214936406	ID:30	Sending DATA to 1 'Hello 3' with NodeID= 30
+215598180	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 30 at NodeID= 1
+217447422	ID:5	Sending DATA to 1 'Hello 3' with NodeID= 5
+217552899	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 5 at NodeID= 1
+225368729	ID:22	Sending DATA to 1 'Hello 3' with NodeID= 22
+225559840	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 22 at NodeID= 1
+226393090	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
+226437479	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 13 at NodeID= 1
+229498440	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
+229559971	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 12 at NodeID= 1
+230470393	ID:29	Sending DATA to 1 'Hello 3' with NodeID= 29
+230756979	ID:11	Sending DATA to 1 'Hello 3' with NodeID= 11
+231323546	ID:21	Sending DATA to 1 'Hello 3' with NodeID= 21
+231751509	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 29 at NodeID= 1
+231904465	ID:2	Sending DATA to 1 'Hello 3' with NodeID= 2
+231926333	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 2 at NodeID= 1
+232303955	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 21 at NodeID= 1
+236028139	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
+236310202	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 17 at NodeID= 1
+239072242	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
+239179612	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 4 at NodeID= 1
+240968526	ID:26	 30823 P 193.12 7 395959 7468359 233563 142910 0 77273 15197 967922 4662 9775 0 8973 (radio 4.78% / 1.46% tx 2.96% / 0.47% listen 1.81% / 0.99%)
+241020943	ID:27	 30823 P 193.12 7 236615 7627622 127470 106816 0 72114 9881 973157 3085 5330 0 5258 (radio 2.97% / 0.85% tx 1.62% / 0.31% listen 1.35% / 0.54%)
+241024628	ID:11	 30823 P 193.12 7 318885 7545355 171267 136053 0 84760 55135 927903 31069 17127 0 6165 (radio 3.90% / 4.90% tx 2.17% / 3.16% listen 1.73% / 1.74%)
+241050596	ID:15	 30823 P 193.12 7 349468 7514772 179263 174562 0 122425 17765 965273 3615 10908 0 9524 (radio 4.49% / 1.47% tx 2.27% / 0.36% listen 2.21% / 1.10%)
+241075569	ID:25	 30826 P 193.12 7 319504 7545616 155469 152051 0 105322 41118 942804 20362 14523 0 7995 (radio 3.90% / 3.54% tx 1.97% / 2.06% listen 1.93% / 1.47%)
+241100889	ID:19	 30824 P 193.12 7 373604 7491004 190784 191955 0 127065 26572 956838 7515 13733 0 9169 (radio 4.86% / 2.16% tx 2.42% / 0.76% listen 2.44% / 1.39%)
+241105996	ID:13	 30823 P 193.12 7 392028 7472212 195546 175656 0 116139 31547 951491 7274 12520 0 9819 (radio 4.72% / 2.01% tx 2.48% / 0.73% listen 2.23% / 1.27%)
+241159614	ID:4	 30823 P 193.12 7 396844 7467403 227174 154415 0 84390 17168 965870 5167 7948 0 6524 (radio 4.85% / 1.33% tx 2.88% / 0.52% listen 1.96% / 0.80%)
+241162868	ID:28	 30824 P 193.12 7 308061 7556607 163716 129174 0 84579 7122 976348 0 5980 0 5776 (radio 3.72% / 0.60% tx 2.08% / 0.00% listen 1.64% / 0.60%)
+241164064	ID:12	 30823 P 193.12 7 429189 7435051 245432 147066 0 76930 17088 965950 3796 8001 0 6865 (radio 4.99% / 1.20% tx 3.12% / 0.38% listen 1.87% / 0.81%)
+241201577	ID:17	 30823 P 193.12 7 313074 7551163 168216 135788 0 87124 20468 962570 7397 8066 0 5648 (radio 3.86% / 1.57% tx 2.13% / 0.75% listen 1.72% / 0.82%)
+241211121	ID:31	 30823 P 193.12 7 300200 7564037 172651 119073 0 69184 27121 955918 13182 10374 0 6635 (radio 3.70% / 2.39% tx 2.19% / 1.34% listen 1.51% / 1.05%)
+241213936	ID:29	 30823 P 193.12 7 174046 7690191 68667 111502 0 91042 12893 970145 4347 7480 0 6844 (radio 2.29% / 1.20% tx 0.87% / 0.44% listen 1.41% / 0.76%)
+241216461	ID:22	 30823 P 193.12 7 331437 7532880 182273 139353 0 86042 10318 972800 1188 6816 0 6237 (radio 4.08% / 0.81% tx 2.31% / 0.12% listen 1.77% / 0.69%)
+241267805	ID:20	 30823 P 193.12 7 457914 7406323 259949 186100 0 108232 14600 968439 3083 9996 0 9459 (radio 5.-479% / 1.33% tx 3.30% / 0.31% listen 2.36% / 1.01%)
+241339242	ID:16	 30824 P 193.12 7 230626 7633865 110585 119987 0 89810 12277 971016 3085 8391 0 7927 (radio 2.93% / 1.16% tx 1.40% / 0.31% listen 1.52% / 0.85%)
+241378530	ID:5	 30823 P 193.12 7 294047 7570200 151327 135540 0 90918 15590 967448 4053 9624 0 7932 (radio 3.64% / 1.39% tx 1.92% / 0.41% listen 1.72% / 0.97%)
+241422550	ID:21	 30823 P 193.12 7 279777 7584567 146891 130899 0 88917 40989 942156 21634 15614 0 6943 (radio 3.53% / 3.78% tx 1.86% / 2.20% listen 1.66% / 1.58%)
+241437177	ID:2	 30823 P 193.12 7 226519 7637728 93402 104426 0 81050 13316 969722 3166 6578 0 6191 (radio 2.51% / 0.99% tx 1.18% / 0.32% listen 1.32% / 0.66%)
+241458590	ID:9	 30823 P 193.12 7 556633 7307614 316829 204289 0 108318 36139 946899 14078 13250 0 8340 (radio 6.-484% / 2.77% tx 4.02% / 1.43% listen 2.59% / 1.34%)
+241548612	ID:14	 30823 P 193.12 7 635575 7228665 377682 235423 0 108671 64008 919031 35210 19293 0 6870 (radio 7.-467% / 5.54% tx 4.80% / 3.58% listen 2.99% / 1.96%)
+241568666	ID:24	 30824 P 193.12 7 492103 7372488 274925 179922 0 96552 11591 971802 533 7243 0 6331 (radio 5.-468% / 0.79% tx 3.49% / 0.05% listen 2.28% / 0.73%)
+241581414	ID:23	 30823 P 193.12 7 548276 7315960 310893 189313 0 99213 8709 974329 0 6446 0 5998 (radio 6.-511% / 0.65% tx 3.95% / 0.00% listen 2.40% / 0.65%)
+241588812	ID:30	 30823 P 193.12 7 227304 7637014 112600 112642 0 83491 18738 964381 4976 10495 0 7949 (radio 2.86% / 1.57% tx 1.43% / 0.50% listen 1.43% / 1.06%)
+241621866	ID:17	Sending DATA to 1 'Hello 4' with NodeID= 17
+241651372	ID:10	 30823 P 193.12 7 453995 7410245 247820 180456 0 112688 18359 964680 3082 9969 0 9262 (radio 5.44% / 1.32% tx 3.15% / 0.31% listen 2.29% / 1.01%)
+241682264	ID:3	 30823 P 193.12 7 268069 7596177 119821 118425 0 75402 13533 969505 356 8033 0 6462 (radio 3.02% / 0.85% tx 1.52% / 0.03% listen 1.50% / 0.81%)
+241689976	ID:7	 30823 P 193.12 7 221880 7642367 85211 103867 0 72952 20134 962905 5909 7853 0 5320 (radio 2.40% / 1.39% tx 1.08% / 0.60% listen 1.32% / 0.79%)
+241729404	ID:8	 30823 P 193.12 7 243612 7620634 51574 141779 0 104411 23558 959480 3855 10883 0 7664 (radio 2.45% / 1.49% tx 0.65% / 0.39% listen 1.80% / 1.10%)
+241740665	ID:1	 30823 P 193.12 7 124764 7739481 16833 7846929 0 0 11551 971487 0 983038 0 0 (radio 99.-9732% / 100.-8739% tx 0.21% / 0.00% listen 99.-9753% / 100.-8739%)
+241837444	ID:6	 30823 P 193.12 7 303007 7561240 175772 119829 0 69780 8577 974462 1610 8206 0 7657 (radio 3.75% / 0.99% tx 2.23% / 0.16% listen 1.52% / 0.83%)
+241879831	ID:18	 30823 P 193.12 7 351573 7512664 170861 170620 0 121663 14722 968317 3083 9243 0 9128 (radio 4.34% / 1.25% tx 2.17% / 0.31% listen 2.16% / 0.94%)
+241936923	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 17 at NodeID= 1
+242147597	ID:11	Sending DATA to 1 'Hello 4' with NodeID= 11
+242305415	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 11 at NodeID= 1
+242633994	ID:3	Sending DATA to 1 'Hello 4' with NodeID= 3
+242654278	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 3 at NodeID= 1
+243586586	ID:28	Sending DATA to 1 'Hello 4' with NodeID= 28
+244187773	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 28 at NodeID= 1
+245086875	ID:8	Sending DATA to 1 'Hello 4' with NodeID= 8
+245106255	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 8 at NodeID= 1
+249507133	ID:14	Sending DATA to 1 'Hello 4' with NodeID= 14
+249972893	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 14 at NodeID= 1
+250759446	ID:29	Sending DATA to 1 'Hello 4' with NodeID= 29
+250912712	ID:30	Sending DATA to 1 'Hello 4' with NodeID= 30
+252226089	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 30 at NodeID= 1
+252436702	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 29 at NodeID= 1
+252478476	ID:4	Sending DATA to 1 'Hello 4' with NodeID= 4
+252552829	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 4 at NodeID= 1
+255013825	ID:31	Sending DATA to 1 'Hello 4' with NodeID= 31
+255351116	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 31 at NodeID= 1
+256220276	ID:22	Sending DATA to 1 'Hello 4' with NodeID= 22
+256437808	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 22 at NodeID= 1
+259468983	ID:20	Sending DATA to 1 'Hello 4' with NodeID= 20
+259489848	ID:24	Sending DATA to 1 'Hello 4' with NodeID= 24
+260310269	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 24 at NodeID= 1
+260599531	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 20 at NodeID= 1
+264414091	ID:6	Sending DATA to 1 'Hello 4' with NodeID= 6
+264554524	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 6 at NodeID= 1
+268855521	ID:27	Sending DATA to 1 'Hello 4' with NodeID= 27
+269186828	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 27 at NodeID= 1
+269420305	ID:12	Sending DATA to 1 'Hello 4' with NodeID= 12
+269560403	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 12 at NodeID= 1
+270965992	ID:26	 34663 P 193.12 8 406106 8441172 235706 150923 0 84596 10146 972813 2143 8013 0 7323 (radio 4.37% / 1.03% tx 2.66% / 0.21% listen 1.70% / 0.81%)
+270974775	ID:2	Sending DATA to 1 'Hello 4' with NodeID= 2
+270995447	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 2 at NodeID= 1
+271021151	ID:27	 34663 P 193.12 8 246675 8600602 129208 114408 0 78917 10059 972980 1738 7592 0 6803 (radio 2.75% / 0.94% tx 1.46% / 0.17% listen 1.29% / 0.77%)
+271024383	ID:11	 34663 P 193.12 8 349966 8497314 185233 145428 0 91020 31080 951959 13966 9375 0 6260 (radio 3.73% / 2.37% tx 2.09% / 1.42% listen 1.64% / 0.95%)
+271048649	ID:25	 34663 P 193.12 8 359066 8488212 171720 167827 0 114274 39560 942596 16251 15776 0 8952 (radio 3.83% / 3.26% tx 1.94% / 1.65% listen 1.89% / 1.60%)
+271049397	ID:15	 34663 P 193.12 8 359394 8487886 179263 183031 0 130223 9925 973114 0 8469 0 7798 (radio 4.09% / 0.86% tx 2.02% / 0.00% listen 2.06% / 0.86%)
+271089747	ID:19	 34663 P 193.12 8 403884 8443394 199487 207419 0 137445 30279 952390 8703 15464 0 10380 (radio 4.59% / 2.45% tx 2.25% / 0.88% listen 2.34% / 1.57%)
+271106259	ID:13	 34663 P 193.12 8 436508 8410773 216893 194672 0 125156 44479 938561 21347 19016 0 9017 (radio 4.65% / 4.10% tx 2.45% / 2.17% listen 2.20% / 1.93%)
+271150660	ID:28	 34663 P 193.12 8 325006 8522271 168853 138800 0 92283 16943 965664 5137 9626 0 7704 (radio 3.47% / 1.50% tx 1.90% / 0.52% listen 1.56% / 0.97%)
+271159609	ID:4	 34663 P 193.12 8 411915 8435372 229266 163421 0 91449 15070 967969 2092 9006 0 7059 (radio 4.43% / 1.12% tx 2.59% / 0.21% listen 1.84% / 0.91%)
+271164244	ID:12	 34663 P 193.12 8 440012 8407268 248039 157423 0 86241 10822 972217 2607 10357 0 9311 (radio 4.58% / 1.31% tx 2.80% / 0.26% listen 1.77% / 1.05%)
+271180736	ID:7	Sending DATA to 1 'Hello 4' with NodeID= 7
+271201067	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 7 at NodeID= 1
+271201811	ID:17	 34663 P 193.12 8 332963 8514314 175734 146849 0 94828 19888 963151 7518 11061 0 7704 (radio 3.64% / 1.88% tx 1.98% / 0.76% listen 1.65% / 1.12%)
+271210660	ID:31	 34663 P 193.12 8 317255 8530022 179687 126211 0 75483 17054 965985 7036 7138 0 6299 (radio 3.45% / 1.44% tx 2.03% / 0.71% listen 1.42% / 0.72%)
+271213987	ID:22	 34663 P 193.12 8 351230 8496047 189676 149228 0 93560 19791 963167 7403 9875 0 7518 (radio 3.83% / 1.75% tx 2.14% / 0.75% listen 1.68% / 1.00%)
+271214011	ID:29	 34663 P 193.12 8 185469 8661808 68983 121553 0 100157 11422 971617 316 10051 0 9115 (radio 2.15% / 1.05% tx 0.77% / 0.03% listen 1.37% / 1.02%)
+271267975	ID:20	 34663 P 193.12 8 485535 8361742 268434 197813 0 116702 27620 955419 8485 11713 0 8470 (radio 5.-459% / 2.05% tx 3.03% / 0.86% listen 2.23% / 1.19%)
+271330656	ID:16	 34663 P 193.12 8 238441 8608836 110585 126636 0 96196 7814 974971 0 6649 0 6386 (radio 2.68% / 0.67% tx 1.24% / 0.00% listen 1.43% / 0.67%)
+271378535	ID:5	 34663 P 193.12 8 308825 8538463 155387 143843 0 98260 14777 968263 4060 8303 0 7342 (radio 3.38% / 1.25% tx 1.75% / 0.41% listen 1.62% / 0.84%)
+271418020	ID:21	 34663 P 193.12 8 285708 8561569 146891 137823 0 95841 5929 977002 0 6924 0 6924 (radio 3.21% / 0.70% tx 1.66% / 0.00% listen 1.55% / 0.70%)
+271448816	ID:2	 34664 P 193.12 8 241476 8606192 96382 113067 0 88280 14956 968464 2980 8641 0 7230 (radio 2.36% / 1.18% tx 1.08% / 0.30% listen 1.27% / 0.87%)
+271458660	ID:9	 34663 P 193.12 8 603549 8243739 343423 219876 0 115985 46915 936125 26594 15587 0 7667 (radio 6.-449% / 4.29% tx 3.88% / 2.70% listen 2.48% / 1.58%)
+271548612	ID:14	 34663 P 193.12 8 657741 8189539 384990 250039 0 119502 22165 960874 7308 14616 0 10831 (radio 7.-468% / 2.23% tx 4.35% / 0.74% listen 2.82% / 1.48%)
+271558746	ID:24	 34663 P 193.12 8 569445 8277832 318191 198296 0 104148 77340 905344 43266 18374 0 7596 (radio 5.-402% / 6.27% tx 3.59% / 4.40% listen 2.24% / 1.86%)
+271582908	ID:23	 34663 P 193.12 8 577297 8269981 318082 202114 0 109699 29019 954021 7189 12801 0 10486 (radio 5.-398% / 2.03% tx 3.59% / 0.73% listen 2.28% / 1.30%)
+271586390	ID:30	 34663 P 193.12 8 247625 8599652 119682 124640 0 92498 20320 962638 7082 11998 0 9007 (radio 2.76% / 1.94% tx 1.35% / 0.72% listen 1.40% / 1.22%)
+271670452	ID:10	 34665 P 193.12 8 478264 8369635 254092 190373 0 120251 24268 959390 6272 9917 0 7563 (radio 5.-484% / 1.64% tx 2.87% / 0.63% listen 2.15% / 1.00%)
+271682561	ID:3	 34663 P 193.12 8 282751 8564536 123369 126946 0 82537 14680 968359 3548 8521 0 7135 (radio 2.82% / 1.22% tx 1.39% / 0.36% listen 1.43% / 0.86%)
+271695832	ID:7	 34663 P 193.12 8 237554 8609931 86032 112457 0 79888 15673 967564 821 8590 0 6936 (radio 2.24% / 0.95% tx 0.97% / 0.08% listen 1.27% / 0.87%)
+271729187	ID:8	 34663 P 193.12 8 263130 8584157 55214 151483 0 112186 19516 963523 3640 9704 0 7775 (radio 2.33% / 1.35% tx 0.62% / 0.37% listen 1.71% / 0.98%)
+271740440	ID:1	 34663 P 193.12 8 137012 8710274 16833 8829969 0 0 12246 970793 0 983038 0 0 (radio 99.-9610% / 99.-8639% tx 0.19% / 0.00% listen 99.-9629% / 99.-8639%)
+271837605	ID:6	 34663 P 193.12 8 313364 8533923 177115 127160 0 75803 10356 972683 1343 7331 0 6023 (radio 3.43% / 0.88% tx 2.00% / 0.13% listen 1.43% / 0.74%)
+271880274	ID:18	 34663 P 193.12 8 401065 8446213 193725 189149 0 130561 49491 933549 22864 18529 0 8898 (radio 4.32% / 4.21% tx 2.18% / 2.32% listen 2.13% / 1.88%)
+274069852	ID:25	Sending DATA to 1 'Hello 4' with NodeID= 25
+274725564	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 25 at NodeID= 1
+275033104	ID:5	Sending DATA to 1 'Hello 4' with NodeID= 5
+275177829	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 5 at NodeID= 1
+277986103	ID:15	Sending DATA to 1 'Hello 4' with NodeID= 15
+279055419	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 15 at NodeID= 1
+279510270	ID:13	Sending DATA to 1 'Hello 4' with NodeID= 13
+280430874	ID:10	Sending DATA to 1 'Hello 4' with NodeID= 10
+280679635	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 10 at NodeID= 1
+283775851	ID:23	Sending DATA to 1 'Hello 4' with NodeID= 23
+284812381	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 23 at NodeID= 1
+290939305	ID:16	Sending DATA to 1 'Hello 4' with NodeID= 16
+291304845	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 16 at NodeID= 1
+291909254	ID:9	Sending DATA to 1 'Hello 4' with NodeID= 9
+292429545	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 9 at NodeID= 1
+295620419	ID:21	Sending DATA to 1 'Hello 4' with NodeID= 21
+295975355	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 21 at NodeID= 1
+297503041	ID:18	Sending DATA to 1 'Hello 4' with NodeID= 18
+297687253	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 18 at NodeID= 1
+297814070	ID:19	Sending DATA to 1 'Hello 4' with NodeID= 19
+298097995	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 19 at NodeID= 1
+298839464	ID:26	Sending DATA to 1 'Hello 4' with NodeID= 26
+299223977	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 26 at NodeID= 1

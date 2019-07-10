@@ -108,46 +108,39 @@ handle_periodic_timer(void *ptr)
 static void
 new_dio_interval(rpl_instance_t *instance)
 {
-  //uint32_t time;
+  uint32_t time;
   clock_time_t ticks;
-  uint16_t replay_interval;
+
   /* TODO: too small timer intervals for many cases */
-  //time = 1UL << instance->dio_intcurrent;
+  time = 1UL << instance->dio_intcurrent;
+
   /* Convert from milliseconds to CLOCK_TICKS. */
-  //ticks = (time * CLOCK_SECOND) / 1000;
-  replay_interval = 1;
-  ticks = replay_interval*CLOCK_SECOND;
+  ticks = (time * CLOCK_SECOND) / 1000;
   instance->dio_next_delay = ticks;
-  //printf("1 second in ticks %lu\n", CLOCK_SECOND);
-  printf("ticks value %lu\n", ticks);
-  //printf("replay interval value in seconds %i\n", replay_interval);
-  //printf("instance->dio_intcurrent %i\n", instance->dio_intcurrent);
-  //printf("time %lu\n", time);
-  //printf("RPL_DIO_INTERVAL_MIN+RPL_DIO_INTERVAL_DOUBLINGS %i\n",(RPL_DIO_INTERVAL_MIN + RPL_DIO_INTERVAL_DOUBLINGS));
 
   /* random number between I/2 and I */
-  //ticks = ticks / 2 + (ticks / 2 * (uint32_t)random_rand()) / RANDOM_RAND_MAX;
-  //ticks = CLOCK_SECOND*2;
-   /*
+  ticks = ticks / 2 + (ticks / 2 * (uint32_t)random_rand()) / RANDOM_RAND_MAX;
+
+  /*
    * The intervals must be equally long among the nodes for Trickle to
    * operate efficiently. Therefore we need to calculate the delay between
    * the randomized time and the start time of the next interval.
    */
-  //instance->dio_next_delay -= ticks;
+  instance->dio_next_delay -= ticks;
   instance->dio_send = 1;
 
-// #if RPL_CONF_STATS
-//   /* keep some stats */
-//   instance->dio_totint++;
-//   instance->dio_totrecv += instance->dio_counter;
-//   ANNOTATE("#A rank=%u.%u(%u),stats=%d %d %d %d,color=%s\n",
-// 	   DAG_RANK(instance->current_dag->rank, instance),
-//            (10 * (instance->current_dag->rank % instance->min_hoprankinc)) / instance->min_hoprankinc,
-//            instance->current_dag->version,
-//            instance->dio_totint, instance->dio_totsend,
-//            instance->dio_totrecv,instance->dio_intcurrent,
-// 	   instance->current_dag->rank == ROOT_RANK(instance) ? "BLUE" : "ORANGE");
-// #endif /* RPL_CONF_STATS */
+#if RPL_CONF_STATS
+  /* keep some stats */
+  instance->dio_totint++;
+  instance->dio_totrecv += instance->dio_counter;
+  ANNOTATE("#A rank=%u.%u(%u),stats=%d %d %d %d,color=%s\n",
+	   DAG_RANK(instance->current_dag->rank, instance),
+           (10 * (instance->current_dag->rank % instance->min_hoprankinc)) / instance->min_hoprankinc,
+           instance->current_dag->version,
+           instance->dio_totint, instance->dio_totsend,
+           instance->dio_totrecv,instance->dio_intcurrent,
+	   instance->current_dag->rank == ROOT_RANK(instance) ? "BLUE" : "ORANGE");
+#endif /* RPL_CONF_STATS */
 
   /* reset the redundancy counter */
   instance->dio_counter = 0;
@@ -191,23 +184,21 @@ handle_dio_timer(void *ptr)
              instance->dio_counter, instance->dio_redundancy);
     }
     instance->dio_send = 0;
-    //PRINTF("RPL: Scheduling DIO timer %lu ticks in future (sent)\n", instance->dio_next_delay);
-    //ctimer_set(&instance->dio_timer, instance->dio_next_delay, handle_dio_timer, instance);
-    PRINTF("RPL: Scheduling DIO timer %i ticks in future (sent)\n", 0);
-    ctimer_set(&instance->dio_timer, 0, handle_dio_timer, instance);
-  } 
-   else {
-    // /* check if we need to double interval */
-    // if(instance->dio_intcurrent < instance->dio_intmin + instance->dio_intdoubl) {
-    //   instance->dio_intcurrent++;
-    //   PRINTF("RPL: DIO Timer interval doubled %d\n", instance->dio_intcurrent);
-    // }
+    PRINTF("RPL: Scheduling DIO timer %lu ticks in future (sent)\n",
+           instance->dio_next_delay);
+    ctimer_set(&instance->dio_timer, instance->dio_next_delay, handle_dio_timer, instance);
+  } else {
+    /* check if we need to double interval */
+    if(instance->dio_intcurrent < instance->dio_intmin + instance->dio_intdoubl) {
+      instance->dio_intcurrent++;
+      PRINTF("RPL: DIO Timer interval doubled %d\n", instance->dio_intcurrent);
+    }
     new_dio_interval(instance);
   }
 
-// #if DEBUG
-//   rpl_print_neighbor_list();
-// #endif
+#if DEBUG
+  rpl_print_neighbor_list();
+#endif
 }
 /*---------------------------------------------------------------------------*/
 void
@@ -265,9 +256,9 @@ static void
 handle_dao_timer(void *ptr)
 {
   rpl_instance_t *instance;
+  uint8_t i;
 #if RPL_WITH_MULTICAST
   uip_mcast6_route_t *mcast_route;
-  uint8_t i;
 #endif
 
   instance = (rpl_instance_t *)ptr;
@@ -384,7 +375,6 @@ rpl_schedule_unicast_dio_immediately(rpl_instance_t *instance)
   ctimer_set(&instance->unicast_dio_timer, 0,
                   handle_unicast_dio_timer, instance);
 }
-
 /*---------------------------------------------------------------------------*/
 #if RPL_WITH_PROBING
 clock_time_t
@@ -399,7 +389,6 @@ get_probing_delay(rpl_dag_t *dag)
     return ((RPL_PROBING_INTERVAL) / 2) + random_rand() % (RPL_PROBING_INTERVAL);
   }
 }
-
 /*---------------------------------------------------------------------------*/
 rpl_parent_t *
 get_probing_target(rpl_dag_t *dag)

@@ -43,7 +43,7 @@
 #define UIP_CONF_MAX_ROUTES   30
 #else
 /* configure number of neighbors and routes */
-#define NBR_TABLE_CONF_MAX_NEIGHBORS 20   
+#define NBR_TABLE_CONF_MAX_NEIGHBORS 10   
 #define UIP_CONF_MAX_ROUTES   10
 #endif /* TEST_MORE_ROUTES */
 
@@ -57,15 +57,15 @@
 /*--------------------------------------------*/
 /* Define protocol stack */
 #undef NETSTACK_CONF_RDC
-#define NETSTACK_CONF_RDC     nullrdc_driver 
-//#define NETSTACK_CONF_RDC contikimac_driver
+//#define NETSTACK_CONF_RDC     nullrdc_driver 
+#define NETSTACK_CONF_RDC contikimac_driver
 #undef NETSTACK_CONF_RADIO
 #define NETSTACK_CONF_RADIO cc2420_driver
 #undef NETSTACK_CONF_FRAMER
 #define NETSTACK_CONF_FRAMER framer_802154
 #undef NETSTACK_CONF_MAC
-#define NETSTACK_CONF_MAC   nullmac_driver
-//#define NETSTACK_CONF_MAC   csma_driver
+//#define NETSTACK_CONF_MAC   nullmac_driver
+#define NETSTACK_CONF_MAC   csma_driver
 //#undef NETSTACK_CONF_NETWORK
 //#define NETSTACK_CONF_NETWORK sicslowpan_driver
 /* End protocol stack */
