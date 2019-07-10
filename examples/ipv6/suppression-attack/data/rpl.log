@@ -1,0 +1,552 @@
+90273445	ID:34	RPL: Sending a DIS to ff02::1a
+90318290	ID:35	RPL: Sending a DIS to ff02::1a
+90360207	ID:35	RPL: Sending a DIS to ff02::1a
+90439739	ID:34	RPL: Sending a DIS to ff02::1a
+90462383	ID:33	RPL: Sending a DIS to ff02::1a
+90500891	ID:33	RPL: Sending a DIS to ff02::1a
+91118094	ID:36	RPL: Sending a DIS to ff02::1a
+91214077	ID:32	RPL: Sending a DIS to ff02::1a
+91285306	ID:36	RPL: Sending a DIS to ff02::1a
+91383270	ID:32	RPL: Sending a DIS to ff02::1a
+94867526	ID:32	RPL: Received a DIO from fe80::c30c:0:0:4
+94871295	ID:32	RPL: Incoming DIO (id, ver, rank) = (30,240,691)
+94875794	ID:32	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+94878020	ID:32	RPL: DIO option 4, length: 14
+94884046	ID:32	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+94886272	ID:32	RPL: DIO option 8, length: 30
+94888541	ID:32	RPL: Copying prefix information
+94895736	ID:32	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:4, c1:0c:00:00:00:00:00:04
+95898118	ID:32	RPL: Sending prefix info in DIO for fd00::
+95901286	ID:32	RPL: Sending a multicast-DIO with rank 691
+96905903	ID:32	RPL: Sending prefix info in DIO for fd00::
+96909071	ID:32	RPL: Sending a multicast-DIO with rank 691
+97351021	ID:35	RPL: Received a DIO from fe80::c30c:0:0:14
+97354903	ID:35	RPL: Incoming DIO (id, ver, rank) = (30,240,1302)
+97359401	ID:35	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+97361627	ID:35	RPL: DIO option 4, length: 14
+97367646	ID:35	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+97368387	ID:33	RPL: Received a DIO from fe80::c30c:0:0:14
+97369873	ID:35	RPL: DIO option 8, length: 30
+97372141	ID:35	RPL: Copying prefix information
+97372269	ID:33	RPL: Incoming DIO (id, ver, rank) = (30,240,1302)
+97376767	ID:33	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+97378993	ID:33	RPL: DIO option 4, length: 14
+97379676	ID:35	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:14, c1:0c:00:00:00:00:00:14
+97385012	ID:33	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+97387239	ID:33	RPL: DIO option 8, length: 30
+97389522	ID:33	RPL: Copying prefix information
+97397013	ID:33	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:14, c1:0c:00:00:00:00:00:14
+97913715	ID:32	RPL: Sending prefix info in DIO for fd00::
+97916883	ID:32	RPL: Sending a multicast-DIO with rank 691
+98271372	ID:36	RPL: Received a DIO from fe80::c30c:0:0:f
+98275293	ID:36	RPL: Incoming DIO (id, ver, rank) = (30,240,1241)
+98279791	ID:36	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+98282017	ID:36	RPL: DIO option 4, length: 14
+98288036	ID:36	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+98290263	ID:36	RPL: DIO option 8, length: 30
+98292531	ID:36	RPL: Copying prefix information
+98293151	ID:34	RPL: Received a DIO from fe80::c30c:0:0:f
+98297035	ID:34	RPL: Incoming DIO (id, ver, rank) = (30,240,1241)
+98299905	ID:36	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:f, c1:0c:00:00:00:00:00:0f
+98301534	ID:34	RPL: Incoming DIO (dag_id, pref) = (fd00::ff:fe00:1, 0)
+98303760	ID:34	RPL: DIO option 4, length: 14
+98309779	ID:34	RPL: DAG conf:dbl=8, min=12 red=10 maxinc=896 mininc=128 ocp=1 d_l=10 l_u=60
+98312005	ID:34	RPL: DIO option 8, length: 30
+98314274	ID:34	RPL: Copying prefix information
+98321750	ID:34	RPL: Neighbor added to neighbor cache fe80::c30c:0:0:f, c1:0c:00:00:00:00:00:0f
+98383873	ID:35	RPL: Sending prefix info in DIO for fd00::
+98387153	ID:35	RPL: Sending a multicast-DIO with rank 1302
+98400757	ID:33	RPL: Sending prefix info in DIO for fd00::
+98404037	ID:33	RPL: Sending a multicast-DIO with rank 1302
+98921527	ID:32	RPL: Sending prefix info in DIO for fd00::
+98924695	ID:32	RPL: Sending a multicast-DIO with rank 691
+99301892	ID:36	RPL: Sending prefix info in DIO for fd00::
+99305173	ID:36	RPL: Sending a multicast-DIO with rank 1241
+99322480	ID:34	RPL: Sending prefix info in DIO for fd00::
+99325761	ID:34	RPL: Sending a multicast-DIO with rank 1241
+99391680	ID:35	RPL: Sending prefix info in DIO for fd00::
+99394960	ID:35	RPL: Sending a multicast-DIO with rank 1302
+99408542	ID:33	RPL: Sending prefix info in DIO for fd00::
+99411822	ID:33	RPL: Sending a multicast-DIO with rank 1302
+99929340	ID:32	RPL: Sending prefix info in DIO for fd00::
+99932508	ID:32	RPL: Sending a multicast-DIO with rank 691
+100309699	ID:36	RPL: Sending prefix info in DIO for fd00::
+100312980	ID:36	RPL: Sending a multicast-DIO with rank 1241
+100330287	ID:34	RPL: Sending prefix info in DIO for fd00::
+100333568	ID:34	RPL: Sending a multicast-DIO with rank 1241
+100399492	ID:35	RPL: Sending prefix info in DIO for fd00::
+100402772	ID:35	RPL: Sending a multicast-DIO with rank 1302
+100416332	ID:33	RPL: Sending prefix info in DIO for fd00::
+100419612	ID:33	RPL: Sending a multicast-DIO with rank 1302
+100937137	ID:32	RPL: Sending prefix info in DIO for fd00::
+100940305	ID:32	RPL: Sending a multicast-DIO with rank 691
+101317511	ID:36	RPL: Sending prefix info in DIO for fd00::
+101320792	ID:36	RPL: Sending a multicast-DIO with rank 1241
+101338077	ID:34	RPL: Sending prefix info in DIO for fd00::
+101341358	ID:34	RPL: Sending a multicast-DIO with rank 1241
+101407456	ID:35	RPL: Sending prefix info in DIO for fd00::
+101410736	ID:35	RPL: Sending a multicast-DIO with rank 1302
+101424167	ID:33	RPL: Sending prefix info in DIO for fd00::
+101427447	ID:33	RPL: Sending a multicast-DIO with rank 1302
+101944950	ID:32	RPL: Sending prefix info in DIO for fd00::
+101948117	ID:32	RPL: Sending a multicast-DIO with rank 691
+102325317	ID:36	RPL: Sending prefix info in DIO for fd00::
+102328598	ID:36	RPL: Sending a multicast-DIO with rank 1241
+102346134	ID:34	RPL: Sending prefix info in DIO for fd00::
+102349415	ID:34	RPL: Sending a multicast-DIO with rank 1241
+102415080	ID:35	RPL: Sending prefix info in DIO for fd00::
+102418360	ID:35	RPL: Sending a multicast-DIO with rank 1302
+102431964	ID:33	RPL: Sending prefix info in DIO for fd00::
+102435244	ID:33	RPL: Sending a multicast-DIO with rank 1302
+102952762	ID:32	RPL: Sending prefix info in DIO for fd00::
+102955930	ID:32	RPL: Sending a multicast-DIO with rank 691
+103333136	ID:36	RPL: Sending prefix info in DIO for fd00::
+103336417	ID:36	RPL: Sending a multicast-DIO with rank 1241
+103353702	ID:34	RPL: Sending prefix info in DIO for fd00::
+103356983	ID:34	RPL: Sending a multicast-DIO with rank 1241
+103422892	ID:35	RPL: Sending prefix info in DIO for fd00::
+103426172	ID:35	RPL: Sending a multicast-DIO with rank 1302
+103439811	ID:33	RPL: Sending prefix info in DIO for fd00::
+103443091	ID:33	RPL: Sending a multicast-DIO with rank 1302
+103960575	ID:32	RPL: Sending prefix info in DIO for fd00::
+103963742	ID:32	RPL: Sending a multicast-DIO with rank 691
+104340933	ID:36	RPL: Sending prefix info in DIO for fd00::
+104344214	ID:36	RPL: Sending a multicast-DIO with rank 1241
+104361522	ID:34	RPL: Sending prefix info in DIO for fd00::
+104364803	ID:34	RPL: Sending a multicast-DIO with rank 1241
+104430705	ID:35	RPL: Sending prefix info in DIO for fd00::
+104433985	ID:35	RPL: Sending a multicast-DIO with rank 1302
+104447589	ID:33	RPL: Sending prefix info in DIO for fd00::
+104450869	ID:33	RPL: Sending a multicast-DIO with rank 1302
+104968387	ID:32	RPL: Sending prefix info in DIO for fd00::
+104971555	ID:32	RPL: Sending a multicast-DIO with rank 691
+105348746	ID:36	RPL: Sending prefix info in DIO for fd00::
+105352027	ID:36	RPL: Sending a multicast-DIO with rank 1241
+105369334	ID:34	RPL: Sending prefix info in DIO for fd00::
+105372615	ID:34	RPL: Sending a multicast-DIO with rank 1241
+105438706	ID:35	RPL: Sending prefix info in DIO for fd00::
+105441986	ID:35	RPL: Sending a multicast-DIO with rank 1302
+105455394	ID:33	RPL: Sending prefix info in DIO for fd00::
+105458674	ID:33	RPL: Sending a multicast-DIO with rank 1302
+105976200	ID:32	RPL: Sending prefix info in DIO for fd00::
+105980267	ID:32	RPL: Sending a multicast-DIO with rank 691
+106377313	ID:34	RPL: Sending prefix info in DIO for fd00::
+106380594	ID:34	RPL: Sending a multicast-DIO with rank 1241
+106446352	ID:35	RPL: Sending prefix info in DIO for fd00::
+106449632	ID:35	RPL: Sending a multicast-DIO with rank 1302
+106463214	ID:33	RPL: Sending prefix info in DIO for fd00::
+106466494	ID:33	RPL: Sending a multicast-DIO with rank 1302
+106515463	ID:36	RPL: Sending prefix info in DIO for fd00::
+106518745	ID:36	RPL: Sending a multicast-DIO with rank 1241
+106984034	ID:32	RPL: Sending prefix info in DIO for fd00::
+106987202	ID:32	RPL: Sending a multicast-DIO with rank 691
+107384937	ID:34	RPL: Sending prefix info in DIO for fd00::
+107388218	ID:34	RPL: Sending a multicast-DIO with rank 1241
+107454142	ID:35	RPL: Sending prefix info in DIO for fd00::
+107457422	ID:35	RPL: Sending a multicast-DIO with rank 1302
+107471026	ID:33	RPL: Sending prefix info in DIO for fd00::
+107474306	ID:33	RPL: Sending a multicast-DIO with rank 1302
+107520621	ID:36	RPL: Sending prefix info in DIO for fd00::
+107523902	ID:36	RPL: Sending a multicast-DIO with rank 1241
+107995837	ID:32	RPL: Sending prefix info in DIO for fd00::
+107999022	ID:32	RPL: Sending a multicast-DIO with rank 691
+108461955	ID:35	RPL: Sending prefix info in DIO for fd00::
+108466135	ID:35	RPL: Sending a multicast-DIO with rank 1302
+108478839	ID:33	RPL: Sending prefix info in DIO for fd00::
+108482652	ID:33	RPL: Sending a multicast-DIO with rank 1302
+108511589	ID:34	RPL: Sending prefix info in DIO for fd00::
+108514900	ID:34	RPL: Sending a multicast-DIO with rank 1241
+108528433	ID:36	RPL: Sending prefix info in DIO for fd00::
+108531714	ID:36	RPL: Sending a multicast-DIO with rank 1241
+109007450	ID:32	RPL: Sending prefix info in DIO for fd00::
+109010617	ID:32	RPL: Sending a multicast-DIO with rank 691
+109469956	ID:35	RPL: Sending prefix info in DIO for fd00::
+109473236	ID:35	RPL: Sending a multicast-DIO with rank 1302
+109517749	ID:34	RPL: Sending prefix info in DIO for fd00::
+109521030	ID:34	RPL: Sending a multicast-DIO with rank 1241
+109536294	ID:36	RPL: Sending prefix info in DIO for fd00::
+109539575	ID:36	RPL: Sending a multicast-DIO with rank 1241
+109568719	ID:33	RPL: Sending prefix info in DIO for fd00::
+109571999	ID:33	RPL: Sending a multicast-DIO with rank 1302
+110015262	ID:32	RPL: Sending prefix info in DIO for fd00::
+110018430	ID:32	RPL: Sending a multicast-DIO with rank 691
+110477580	ID:35	RPL: Sending prefix info in DIO for fd00::
+110480860	ID:35	RPL: Sending a multicast-DIO with rank 1302
+110525562	ID:34	RPL: Sending prefix info in DIO for fd00::
+110529820	ID:34	RPL: Sending a multicast-DIO with rank 1241
+110544059	ID:36	RPL: Sending prefix info in DIO for fd00::
+110547340	ID:36	RPL: Sending a multicast-DIO with rank 1241
+110580379	ID:33	RPL: Sending prefix info in DIO for fd00::
+110583659	ID:33	RPL: Sending a multicast-DIO with rank 1302
+111023075	ID:32	RPL: Sending prefix info in DIO for fd00::
+111026242	ID:32	RPL: Sending a multicast-DIO with rank 691
+111485392	ID:35	RPL: Sending prefix info in DIO for fd00::
+111488672	ID:35	RPL: Sending a multicast-DIO with rank 1302
+111533563	ID:34	RPL: Sending prefix info in DIO for fd00::
+111536844	ID:34	RPL: Sending a multicast-DIO with rank 1241
+111588192	ID:33	RPL: Sending prefix info in DIO for fd00::
+111591472	ID:33	RPL: Sending a multicast-DIO with rank 1302
+111596689	ID:36	RPL: Sending prefix info in DIO for fd00::
+111599970	ID:36	RPL: Sending a multicast-DIO with rank 1241
+112030887	ID:32	RPL: Sending prefix info in DIO for fd00::
+112034055	ID:32	RPL: Sending a multicast-DIO with rank 691
+112493205	ID:35	RPL: Sending prefix info in DIO for fd00::
+112496485	ID:35	RPL: Sending a multicast-DIO with rank 1302
+112541187	ID:34	RPL: Sending prefix info in DIO for fd00::
+112544468	ID:34	RPL: Sending a multicast-DIO with rank 1241
+112596026	ID:33	RPL: Sending prefix info in DIO for fd00::
+112599306	ID:33	RPL: Sending a multicast-DIO with rank 1302
+112606536	ID:36	RPL: Sending prefix info in DIO for fd00::
+112609817	ID:36	RPL: Sending a multicast-DIO with rank 1241
+113038700	ID:32	RPL: Sending prefix info in DIO for fd00::
+113041867	ID:32	RPL: Sending a multicast-DIO with rank 691
+113501206	ID:35	RPL: Sending prefix info in DIO for fd00::
+113504486	ID:35	RPL: Sending a multicast-DIO with rank 1302
+113548999	ID:34	RPL: Sending prefix info in DIO for fd00::
+113552280	ID:34	RPL: Sending a multicast-DIO with rank 1241
+113603817	ID:33	RPL: Sending prefix info in DIO for fd00::
+113607581	ID:33	RPL: Sending a multicast-DIO with rank 1302
+113614349	ID:36	RPL: Sending prefix info in DIO for fd00::
+113617630	ID:36	RPL: Sending a multicast-DIO with rank 1241
+114046512	ID:32	RPL: Sending prefix info in DIO for fd00::
+114049680	ID:32	RPL: Sending a multicast-DIO with rank 691
+114508830	ID:35	RPL: Sending prefix info in DIO for fd00::
+114512110	ID:35	RPL: Sending a multicast-DIO with rank 1302
+114556812	ID:34	RPL: Sending prefix info in DIO for fd00::
+114560093	ID:34	RPL: Sending a multicast-DIO with rank 1241
+114612019	ID:33	RPL: Sending prefix info in DIO for fd00::
+114615299	ID:33	RPL: Sending a multicast-DIO with rank 1302
+114622161	ID:36	RPL: Sending prefix info in DIO for fd00::
+114625442	ID:36	RPL: Sending a multicast-DIO with rank 1241
+115054325	ID:32	RPL: Sending prefix info in DIO for fd00::
+115057492	ID:32	RPL: Sending a multicast-DIO with rank 691
+115516642	ID:35	RPL: Sending prefix info in DIO for fd00::
+115519922	ID:35	RPL: Sending a multicast-DIO with rank 1302
+115564813	ID:34	RPL: Sending prefix info in DIO for fd00::
+115568094	ID:34	RPL: Sending a multicast-DIO with rank 1241
+115619464	ID:33	RPL: Sending prefix info in DIO for fd00::
+115622744	ID:33	RPL: Sending a multicast-DIO with rank 1302
+115629974	ID:36	RPL: Sending prefix info in DIO for fd00::
+115633737	ID:36	RPL: Sending a multicast-DIO with rank 1241
+116062171	ID:32	RPL: Sending prefix info in DIO for fd00::
+116065339	ID:32	RPL: Sending a multicast-DIO with rank 691
+116524455	ID:35	RPL: Sending prefix info in DIO for fd00::
+116527735	ID:35	RPL: Sending a multicast-DIO with rank 1302
+116572437	ID:34	RPL: Sending prefix info in DIO for fd00::
+116575718	ID:34	RPL: Sending a multicast-DIO with rank 1241
+116627269	ID:33	RPL: Sending prefix info in DIO for fd00::
+116630549	ID:33	RPL: Sending a multicast-DIO with rank 1302
+116638180	ID:36	RPL: Sending prefix info in DIO for fd00::
+116641590	ID:36	RPL: Sending a multicast-DIO with rank 1241
+117069950	ID:32	RPL: Sending prefix info in DIO for fd00::
+117073117	ID:32	RPL: Sending a multicast-DIO with rank 691
+117532456	ID:35	RPL: Sending prefix info in DIO for fd00::
+117535736	ID:35	RPL: Sending a multicast-DIO with rank 1302
+117580249	ID:34	RPL: Sending prefix info in DIO for fd00::
+117583530	ID:34	RPL: Sending a multicast-DIO with rank 1241
+117635089	ID:33	RPL: Sending prefix info in DIO for fd00::
+117638369	ID:33	RPL: Sending a multicast-DIO with rank 1302
+117645621	ID:36	RPL: Sending prefix info in DIO for fd00::
+117648902	ID:36	RPL: Sending a multicast-DIO with rank 1241
+118188483	ID:32	RPL: Sending prefix info in DIO for fd00::
+118191689	ID:32	RPL: Sending a multicast-DIO with rank 691
+118540080	ID:35	RPL: Sending prefix info in DIO for fd00::
+118543360	ID:35	RPL: Sending a multicast-DIO with rank 1302
+118588062	ID:34	RPL: Sending prefix info in DIO for fd00::
+118591343	ID:34	RPL: Sending a multicast-DIO with rank 1241
+118642894	ID:33	RPL: Sending prefix info in DIO for fd00::
+118646174	ID:33	RPL: Sending a multicast-DIO with rank 1302
+118653426	ID:36	RPL: Sending prefix info in DIO for fd00::
+118656707	ID:36	RPL: Sending a multicast-DIO with rank 1241
+119194950	ID:32	RPL: Sending prefix info in DIO for fd00::
+119198117	ID:32	RPL: Sending a multicast-DIO with rank 691
+119547892	ID:35	RPL: Sending prefix info in DIO for fd00::
+119551172	ID:35	RPL: Sending a multicast-DIO with rank 1302
+119596063	ID:34	RPL: Sending prefix info in DIO for fd00::
+119599344	ID:34	RPL: Sending a multicast-DIO with rank 1241
+119661224	ID:36	RPL: Sending prefix info in DIO for fd00::
+119664505	ID:36	RPL: Sending a multicast-DIO with rank 1241
+119901217	ID:33	RPL: Sending prefix info in DIO for fd00::
+119904497	ID:33	RPL: Sending a multicast-DIO with rank 1302
+120202762	ID:32	RPL: Sending prefix info in DIO for fd00::
+120205930	ID:32	RPL: Sending a multicast-DIO with rank 691
+120555727	ID:35	RPL: Sending prefix info in DIO for fd00::
+120559007	ID:35	RPL: Sending a multicast-DIO with rank 1302
+120603687	ID:34	RPL: Sending prefix info in DIO for fd00::
+120606968	ID:34	RPL: Sending a multicast-DIO with rank 1241
+120669058	ID:36	RPL: Sending prefix info in DIO for fd00::
+120672339	ID:36	RPL: Sending a multicast-DIO with rank 1241
+120908504	ID:33	RPL: Sending prefix info in DIO for fd00::
+120911784	ID:33	RPL: Sending a multicast-DIO with rank 1302
+121210575	ID:32	RPL: Sending prefix info in DIO for fd00::
+121213742	ID:32	RPL: Sending a multicast-DIO with rank 691
+121563755	ID:35	RPL: Sending prefix info in DIO for fd00::
+121567035	ID:35	RPL: Sending a multicast-DIO with rank 1302
+121611499	ID:34	RPL: Sending prefix info in DIO for fd00::
+121614780	ID:34	RPL: Sending a multicast-DIO with rank 1241
+121768350	ID:36	RPL: Sending prefix info in DIO for fd00::
+121771631	ID:36	RPL: Sending a multicast-DIO with rank 1241
+121916317	ID:33	RPL: Sending prefix info in DIO for fd00::
+121919597	ID:33	RPL: Sending a multicast-DIO with rank 1302
+122218387	ID:32	RPL: Sending prefix info in DIO for fd00::
+122221555	ID:32	RPL: Sending a multicast-DIO with rank 691
+122571352	ID:35	RPL: Sending prefix info in DIO for fd00::
+122574632	ID:35	RPL: Sending a multicast-DIO with rank 1302
+122619312	ID:34	RPL: Sending prefix info in DIO for fd00::
+122622593	ID:34	RPL: Sending a multicast-DIO with rank 1241
+122778411	ID:36	RPL: Sending prefix info in DIO for fd00::
+122781692	ID:36	RPL: Sending a multicast-DIO with rank 1241
+122924318	ID:33	RPL: Sending prefix info in DIO for fd00::
+122927598	ID:33	RPL: Sending a multicast-DIO with rank 1302
+123226200	ID:32	RPL: Sending prefix info in DIO for fd00::
+123229893	ID:32	RPL: Sending a multicast-DIO with rank 691
+123579164	ID:35	RPL: Sending prefix info in DIO for fd00::
+123582444	ID:35	RPL: Sending a multicast-DIO with rank 1302
+123627313	ID:34	RPL: Sending prefix info in DIO for fd00::
+123630594	ID:34	RPL: Sending a multicast-DIO with rank 1241
+123786224	ID:36	RPL: Sending prefix info in DIO for fd00::
+123789505	ID:36	RPL: Sending a multicast-DIO with rank 1241
+123931942	ID:33	RPL: Sending prefix info in DIO for fd00::
+123935222	ID:33	RPL: Sending a multicast-DIO with rank 1302
+124234012	ID:32	RPL: Sending prefix info in DIO for fd00::
+124237180	ID:32	RPL: Sending a multicast-DIO with rank 691
+124586977	ID:35	RPL: Sending prefix info in DIO for fd00::
+124590790	ID:35	RPL: Sending a multicast-DIO with rank 1302
+124634937	ID:34	RPL: Sending prefix info in DIO for fd00::
+124638218	ID:34	RPL: Sending a multicast-DIO with rank 1241
+124794036	ID:36	RPL: Sending prefix info in DIO for fd00::
+124797317	ID:36	RPL: Sending a multicast-DIO with rank 1241
+124939754	ID:33	RPL: Sending prefix info in DIO for fd00::
+124943034	ID:33	RPL: Sending a multicast-DIO with rank 1302
+125241825	ID:32	RPL: Sending prefix info in DIO for fd00::
+125244992	ID:32	RPL: Sending a multicast-DIO with rank 691
+125642749	ID:34	RPL: Sending prefix info in DIO for fd00::
+125646030	ID:34	RPL: Sending a multicast-DIO with rank 1241
+125732737	ID:35	RPL: Sending prefix info in DIO for fd00::
+125736017	ID:35	RPL: Sending a multicast-DIO with rank 1302
+125801849	ID:36	RPL: Sending prefix info in DIO for fd00::
+125805130	ID:36	RPL: Sending a multicast-DIO with rank 1241
+125947567	ID:33	RPL: Sending prefix info in DIO for fd00::
+125950847	ID:33	RPL: Sending a multicast-DIO with rank 1302
+126249637	ID:32	RPL: Sending prefix info in DIO for fd00::
+126252805	ID:32	RPL: Sending a multicast-DIO with rank 691
+126650562	ID:34	RPL: Sending prefix info in DIO for fd00::
+126654743	ID:34	RPL: Sending a multicast-DIO with rank 1241
+126809661	ID:36	RPL: Sending prefix info in DIO for fd00::
+126812942	ID:36	RPL: Sending a multicast-DIO with rank 1241
+126876039	ID:35	RPL: Sending prefix info in DIO for fd00::
+126879319	ID:35	RPL: Sending a multicast-DIO with rank 1302
+126955568	ID:33	RPL: Sending prefix info in DIO for fd00::
+126958848	ID:33	RPL: Sending a multicast-DIO with rank 1302
+127257450	ID:32	RPL: Sending prefix info in DIO for fd00::
+127260617	ID:32	RPL: Sending a multicast-DIO with rank 691
+127658563	ID:34	RPL: Sending prefix info in DIO for fd00::
+127661844	ID:34	RPL: Sending a multicast-DIO with rank 1241
+127817474	ID:36	RPL: Sending prefix info in DIO for fd00::
+127820755	ID:36	RPL: Sending a multicast-DIO with rank 1241
+127883845	ID:35	RPL: Sending prefix info in DIO for fd00::
+127887125	ID:35	RPL: Sending a multicast-DIO with rank 1302
+127963192	ID:33	RPL: Sending prefix info in DIO for fd00::
+127966472	ID:33	RPL: Sending a multicast-DIO with rank 1302
+128265262	ID:32	RPL: Sending prefix info in DIO for fd00::
+128268430	ID:32	RPL: Sending a multicast-DIO with rank 691
+128666187	ID:34	RPL: Sending prefix info in DIO for fd00::
+128669468	ID:34	RPL: Sending a multicast-DIO with rank 1241
+128825286	ID:36	RPL: Sending prefix info in DIO for fd00::
+128828567	ID:36	RPL: Sending a multicast-DIO with rank 1241
+128891664	ID:35	RPL: Sending prefix info in DIO for fd00::
+128894944	ID:35	RPL: Sending a multicast-DIO with rank 1302
+128971004	ID:33	RPL: Sending prefix info in DIO for fd00::
+128974284	ID:33	RPL: Sending a multicast-DIO with rank 1302
+129273075	ID:32	RPL: Sending prefix info in DIO for fd00::
+129276242	ID:32	RPL: Sending a multicast-DIO with rank 691
+129673999	ID:34	RPL: Sending prefix info in DIO for fd00::
+129677280	ID:34	RPL: Sending a multicast-DIO with rank 1241
+129833121	ID:36	RPL: Sending prefix info in DIO for fd00::
+129836402	ID:36	RPL: Sending a multicast-DIO with rank 1241
+129978817	ID:33	RPL: Sending prefix info in DIO for fd00::
+129982997	ID:33	RPL: Sending a multicast-DIO with rank 1302
+130277944	ID:35	RPL: Sending prefix info in DIO for fd00::
+130280887	ID:32	RPL: Sending prefix info in DIO for fd00::
+130281224	ID:35	RPL: Sending a multicast-DIO with rank 1302
+130284055	ID:32	RPL: Sending a multicast-DIO with rank 691
+130681812	ID:34	RPL: Sending prefix info in DIO for fd00::
+130685093	ID:34	RPL: Sending a multicast-DIO with rank 1241
+130840934	ID:36	RPL: Sending prefix info in DIO for fd00::
+130844215	ID:36	RPL: Sending a multicast-DIO with rank 1241
+130987239	ID:33	RPL: Sending prefix info in DIO for fd00::
+130990519	ID:33	RPL: Sending a multicast-DIO with rank 1302
+131288700	ID:32	RPL: Sending prefix info in DIO for fd00::
+131290080	ID:35	RPL: Sending prefix info in DIO for fd00::
+131291867	ID:32	RPL: Sending a multicast-DIO with rank 691
+131293360	ID:35	RPL: Sending a multicast-DIO with rank 1302
+131689813	ID:34	RPL: Sending prefix info in DIO for fd00::
+131693094	ID:34	RPL: Sending a multicast-DIO with rank 1241
+131994442	ID:33	RPL: Sending prefix info in DIO for fd00::
+131997722	ID:33	RPL: Sending a multicast-DIO with rank 1302
+132091955	ID:36	RPL: Sending prefix info in DIO for fd00::
+132095236	ID:36	RPL: Sending a multicast-DIO with rank 1241
+132296512	ID:32	RPL: Sending prefix info in DIO for fd00::
+132297926	ID:35	RPL: Sending prefix info in DIO for fd00::
+132299680	ID:32	RPL: Sending a multicast-DIO with rank 691
+132301206	ID:35	RPL: Sending a multicast-DIO with rank 1302
+132697437	ID:34	RPL: Sending prefix info in DIO for fd00::
+132700718	ID:34	RPL: Sending a multicast-DIO with rank 1241
+133002254	ID:33	RPL: Sending prefix info in DIO for fd00::
+133005534	ID:33	RPL: Sending a multicast-DIO with rank 1302
+133239349	ID:36	RPL: Sending prefix info in DIO for fd00::
+133242630	ID:36	RPL: Sending a multicast-DIO with rank 1241
+133304325	ID:32	RPL: Sending prefix info in DIO for fd00::
+133305727	ID:35	RPL: Sending prefix info in DIO for fd00::
+133307493	ID:32	RPL: Sending a multicast-DIO with rank 691
+133309007	ID:35	RPL: Sending a multicast-DIO with rank 1302
+133705249	ID:34	RPL: Sending prefix info in DIO for fd00::
+133708530	ID:34	RPL: Sending a multicast-DIO with rank 1241
+134010067	ID:33	RPL: Sending prefix info in DIO for fd00::
+134013347	ID:33	RPL: Sending a multicast-DIO with rank 1302
+134247183	ID:36	RPL: Sending prefix info in DIO for fd00::
+134250464	ID:36	RPL: Sending a multicast-DIO with rank 1241
+134312137	ID:32	RPL: Sending prefix info in DIO for fd00::
+134313706	ID:35	RPL: Sending prefix info in DIO for fd00::
+134315305	ID:32	RPL: Sending a multicast-DIO with rank 691
+134316986	ID:35	RPL: Sending a multicast-DIO with rank 1302
+134713084	ID:34	RPL: Sending prefix info in DIO for fd00::
+134716365	ID:34	RPL: Sending a multicast-DIO with rank 1241
+135018068	ID:33	RPL: Sending prefix info in DIO for fd00::
+135021348	ID:33	RPL: Sending a multicast-DIO with rank 1302
+135254996	ID:36	RPL: Sending prefix info in DIO for fd00::
+135258809	ID:36	RPL: Sending a multicast-DIO with rank 1241
+135319950	ID:32	RPL: Sending prefix info in DIO for fd00::
+135321330	ID:35	RPL: Sending prefix info in DIO for fd00::
+135323117	ID:32	RPL: Sending a multicast-DIO with rank 691
+135324610	ID:35	RPL: Sending a multicast-DIO with rank 1302
+135721063	ID:34	RPL: Sending prefix info in DIO for fd00::
+135724344	ID:34	RPL: Sending a multicast-DIO with rank 1241
+136025714	ID:33	RPL: Sending prefix info in DIO for fd00::
+136028994	ID:33	RPL: Sending a multicast-DIO with rank 1302
+136262808	ID:36	RPL: Sending prefix info in DIO for fd00::
+136266089	ID:36	RPL: Sending a multicast-DIO with rank 1241
+136327762	ID:32	RPL: Sending prefix info in DIO for fd00::
+136329164	ID:35	RPL: Sending prefix info in DIO for fd00::
+136330930	ID:32	RPL: Sending a multicast-DIO with rank 691
+136332444	ID:35	RPL: Sending a multicast-DIO with rank 1302
+136728709	ID:34	RPL: Sending prefix info in DIO for fd00::
+136731990	ID:34	RPL: Sending a multicast-DIO with rank 1241
+137033520	ID:33	RPL: Sending prefix info in DIO for fd00::
+137036800	ID:33	RPL: Sending a multicast-DIO with rank 1302
+137270621	ID:36	RPL: Sending prefix info in DIO for fd00::
+137273902	ID:36	RPL: Sending a multicast-DIO with rank 1241
+137335575	ID:32	RPL: Sending prefix info in DIO for fd00::
+137336977	ID:35	RPL: Sending prefix info in DIO for fd00::
+137338743	ID:32	RPL: Sending a multicast-DIO with rank 691
+137341212	ID:35	RPL: Sending a multicast-DIO with rank 1302
+137952251	ID:34	RPL: Sending prefix info in DIO for fd00::
+137955532	ID:34	RPL: Sending a multicast-DIO with rank 1241
+138041317	ID:33	RPL: Sending prefix info in DIO for fd00::
+138044597	ID:33	RPL: Sending a multicast-DIO with rank 1302
+138343387	ID:32	RPL: Sending prefix info in DIO for fd00::
+138346555	ID:32	RPL: Sending a multicast-DIO with rank 691
+138347218	ID:35	RPL: Sending prefix info in DIO for fd00::
+138350512	ID:35	RPL: Sending a multicast-DIO with rank 1302
+138350558	ID:36	RPL: Sending prefix info in DIO for fd00::
+138353839	ID:36	RPL: Sending a multicast-DIO with rank 1241
+138963062	ID:34	RPL: Sending prefix info in DIO for fd00::
+138966343	ID:34	RPL: Sending a multicast-DIO with rank 1241
+139049318	ID:33	RPL: Sending prefix info in DIO for fd00::
+139052598	ID:33	RPL: Sending a multicast-DIO with rank 1302
+139351200	ID:32	RPL: Sending prefix info in DIO for fd00::
+139352602	ID:35	RPL: Sending prefix info in DIO for fd00::
+139355268	ID:32	RPL: Sending a multicast-DIO with rank 691
+139355882	ID:35	RPL: Sending a multicast-DIO with rank 1302
+139356536	ID:36	RPL: Sending prefix info in DIO for fd00::
+139359817	ID:36	RPL: Sending a multicast-DIO with rank 1241
+139970874	ID:34	RPL: Sending prefix info in DIO for fd00::
+139974155	ID:34	RPL: Sending a multicast-DIO with rank 1241
+140056942	ID:33	RPL: Sending prefix info in DIO for fd00::
+140060222	ID:33	RPL: Sending a multicast-DIO with rank 1302
+140359012	ID:32	RPL: Sending prefix info in DIO for fd00::
+140360414	ID:35	RPL: Sending prefix info in DIO for fd00::
+140362180	ID:32	RPL: Sending a multicast-DIO with rank 691
+140363694	ID:35	RPL: Sending a multicast-DIO with rank 1302
+140364349	ID:36	RPL: Sending prefix info in DIO for fd00::
+140367630	ID:36	RPL: Sending a multicast-DIO with rank 1241
+140978709	ID:34	RPL: Sending prefix info in DIO for fd00::
+140981990	ID:34	RPL: Sending a multicast-DIO with rank 1241
+141064754	ID:33	RPL: Sending prefix info in DIO for fd00::
+141068034	ID:33	RPL: Sending a multicast-DIO with rank 1302
+141366825	ID:32	RPL: Sending prefix info in DIO for fd00::
+141368227	ID:35	RPL: Sending prefix info in DIO for fd00::
+141369993	ID:32	RPL: Sending a multicast-DIO with rank 691
+141371507	ID:35	RPL: Sending a multicast-DIO with rank 1302
+141372161	ID:36	RPL: Sending prefix info in DIO for fd00::
+141375442	ID:36	RPL: Sending a multicast-DIO with rank 1241
+141986499	ID:34	RPL: Sending prefix info in DIO for fd00::
+141989780	ID:34	RPL: Sending a multicast-DIO with rank 1241
+142072567	ID:33	RPL: Sending prefix info in DIO for fd00::
+142075847	ID:33	RPL: Sending a multicast-DIO with rank 1302
+142374659	ID:32	RPL: Sending prefix info in DIO for fd00::
+142376245	ID:35	RPL: Sending prefix info in DIO for fd00::
+142377827	ID:32	RPL: Sending a multicast-DIO with rank 691
+142379525	ID:35	RPL: Sending a multicast-DIO with rank 1302
+142379974	ID:36	RPL: Sending prefix info in DIO for fd00::
+142383737	ID:36	RPL: Sending a multicast-DIO with rank 1241
+142994312	ID:34	RPL: Sending prefix info in DIO for fd00::
+142997593	ID:34	RPL: Sending a multicast-DIO with rank 1241
+143080568	ID:33	RPL: Sending prefix info in DIO for fd00::
+143083848	ID:33	RPL: Sending a multicast-DIO with rank 1302
+143382472	ID:32	RPL: Sending prefix info in DIO for fd00::
+143383830	ID:35	RPL: Sending prefix info in DIO for fd00::
+143385640	ID:32	RPL: Sending a multicast-DIO with rank 691
+143387110	ID:35	RPL: Sending a multicast-DIO with rank 1302
+143388176	ID:36	RPL: Sending prefix info in DIO for fd00::
+143391457	ID:36	RPL: Sending a multicast-DIO with rank 1241
+144002146	ID:34	RPL: Sending prefix info in DIO for fd00::
+144005427	ID:34	RPL: Sending a multicast-DIO with rank 1241
+144088192	ID:33	RPL: Sending prefix info in DIO for fd00::
+144091472	ID:33	RPL: Sending a multicast-DIO with rank 1302
+144390284	ID:32	RPL: Sending prefix info in DIO for fd00::
+144391642	ID:35	RPL: Sending prefix info in DIO for fd00::
+144393452	ID:32	RPL: Sending a multicast-DIO with rank 691
+144394922	ID:35	RPL: Sending a multicast-DIO with rank 1302
+144395621	ID:36	RPL: Sending prefix info in DIO for fd00::
+144398902	ID:36	RPL: Sending a multicast-DIO with rank 1241
+145009959	ID:34	RPL: Sending prefix info in DIO for fd00::
+145013240	ID:34	RPL: Sending a multicast-DIO with rank 1241
+145096004	ID:33	RPL: Sending prefix info in DIO for fd00::
+145099284	ID:33	RPL: Sending a multicast-DIO with rank 1302
+145398075	ID:32	RPL: Sending prefix info in DIO for fd00::
+145399477	ID:35	RPL: Sending prefix info in DIO for fd00::
+145401243	ID:32	RPL: Sending a multicast-DIO with rank 691
+145402757	ID:35	RPL: Sending a multicast-DIO with rank 1302
+145403433	ID:36	RPL: Sending prefix info in DIO for fd00::
+145406714	ID:36	RPL: Sending a multicast-DIO with rank 1241
+146103817	ID:33	RPL: Sending prefix info in DIO for fd00::
+146107997	ID:33	RPL: Sending a multicast-DIO with rank 1302
+146167762	ID:34	RPL: Sending prefix info in DIO for fd00::
+146171078	ID:34	RPL: Sending a multicast-DIO with rank 1241
+146405887	ID:32	RPL: Sending prefix info in DIO for fd00::
+146407456	ID:35	RPL: Sending prefix info in DIO for fd00::
+146409055	ID:32	RPL: Sending a multicast-DIO with rank 691
+146410736	ID:35	RPL: Sending a multicast-DIO with rank 1302
+146411246	ID:36	RPL: Sending prefix info in DIO for fd00::
+146414527	ID:36	RPL: Sending a multicast-DIO with rank 1241
+147112239	ID:33	RPL: Sending prefix info in DIO for fd00::
+147115519	ID:33	RPL: Sending a multicast-DIO with rank 1302
+147173999	ID:34	RPL: Sending prefix info in DIO for fd00::
+147177280	ID:34	RPL: Sending a multicast-DIO with rank 1241
+147413700	ID:32	RPL: Sending prefix info in DIO for fd00::
+147415102	ID:35	RPL: Sending prefix info in DIO for fd00::
+147416867	ID:32	RPL: Sending a multicast-DIO with rank 691
+147418382	ID:35	RPL: Sending a multicast-DIO with rank 1302
+147419058	ID:36	RPL: Sending prefix info in DIO for fd00::
+147422339	ID:36	RPL: Sending a multicast-DIO with rank 1241
+148119442	ID:33	RPL: Sending prefix info in DIO for fd00::
+148122722	ID:33	RPL: Sending a multicast-DIO with rank 1302
+148181812	ID:34	RPL: Sending prefix info in DIO for fd00::
+148185093	ID:34	RPL: Sending a multicast-DIO with rank 1241
+148421512	ID:32	RPL: Sending prefix info in DIO for fd00::
+148422915	ID:35	RPL: Sending prefix info in DIO for fd00::
+148424680	ID:32	RPL: Sending a multicast-DIO with rank 691
+148426195	ID:35	RPL: Sending a multicast-DIO with rank 1302
+148426871	ID:36	RPL: Sending prefix info in DIO for fd00::
+148430152	ID:36	RPL: Sending a multicast-DIO with rank 1241
