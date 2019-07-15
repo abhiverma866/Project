@@ -9,16 +9,16 @@
   <project EXPORT="discard">[APPS_DIR]/mobility</project>
   <simulation>
     <title>My simulation</title>
-    <randomseed>123456</randomseed>
+    <randomseed>259888</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <system_gain_mean value="-20.0" />
-      <captureEffect value="false" />
       <system_gain_var value="0.0" />
-      <tx_power value="0.0" />
-      <obstacle_attenuation value="-10.0" />
       <tx_with_gain value="false" />
+      <obstacle_attenuation value="-10.0" />
+      <tx_power value="0.0" />
+      <captureEffect value="false" />
+      <system_gain_mean value="-20.0" />
       <obstacles />
     </radiomedium>
     <events>
@@ -640,8 +640,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>20.61216759249699</x>
-        <y>23.507114002441835</y>
+        <x>39.4008847812</x>
+        <y>64.6762047744</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -658,8 +658,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>70.3614544843</x>
-        <y>84.8405920285</y>
+        <x>27.0723891566</x>
+        <y>112.932335895</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -676,8 +676,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>74.8089286988</x>
-        <y>68.26922032</y>
+        <x>113.339430608</x>
+        <y>107.242057712</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -694,8 +694,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>57.5995264632</x>
-        <y>73.0091314571</y>
+        <x>103.445129692</x>
+        <y>30.4702174986</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -712,8 +712,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>87.1156339254</x>
-        <y>109.16751051</y>
+        <x>77.1365748934</x>
+        <y>0.457305924037</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -729,11 +729,11 @@
   </simulation>
   <plugin>
     org.contikios.cooja.plugins.SimControl
-    <width>406</width>
+    <width>288</width>
     <z>0</z>
-    <height>281</height>
+    <height>282</height>
     <location_x>1</location_x>
-    <location_y>499</location_y>
+    <location_y>498</location_y>
   </plugin>
   <plugin>
     org.contikios.cooja.plugins.Visualizer
@@ -747,7 +747,7 @@
       <viewport>1.9949494949494948 0.0 0.0 1.9949494949494948 53.54624579774091 97.14077000067562</viewport>
     </plugin_config>
     <width>407</width>
-    <z>1</z>
+    <z>4</z>
     <height>497</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
@@ -767,10 +767,10 @@
   </plugin>
   <plugin>
     PowerTracker
-    <width>314</width>
-    <z>5</z>
+    <width>433</width>
+    <z>1</z>
     <height>282</height>
-    <location_x>405</location_x>
+    <location_x>286</location_x>
     <location_y>497</location_y>
   </plugin>
   <plugin>
@@ -780,7 +780,7 @@
       <active>true</active>
     </plugin_config>
     <width>547</width>
-    <z>4</z>
+    <z>5</z>
     <height>778</height>
     <location_x>1061</location_x>
     <location_y>1</location_y>
@@ -790,11 +790,11 @@
     <plugin_config>
       <positions EXPORT="copy">/home/abhi/RWMMSim/RWMMSim/positions.dat</positions>
     </plugin_config>
-    <width>500</width>
+    <width>344</width>
     <z>2</z>
-    <height>200</height>
-    <location_x>437</location_x>
-    <location_y>30</location_y>
+    <height>279</height>
+    <location_x>717</location_x>
+    <location_y>500</location_y>
   </plugin>
 </simconf>
 
