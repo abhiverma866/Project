@@ -1,9 +1,9 @@
-all: udp-client udp-server malicious
+all: udp-client udp-server
 CONTIKI=../../..
 
 CFLAGS += -DPROJECT_CONF_H=\"project-conf.h\"
 
-WITH_COMPOWER = 1
+#WITH_COMPOWER = 1
 
 ifdef WITH_COMPOWER
 APPS+=powertrace

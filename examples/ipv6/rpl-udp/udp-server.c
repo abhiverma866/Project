@@ -112,7 +112,7 @@ PROCESS_THREAD(udp_server_process, ev, data)
   PROCESS_BEGIN();
 
   /* Start powertracing, once every two seconds. */
-  powertrace_start(CLOCK_SECOND * 30);
+  //powertrace_start(CLOCK_SECOND * 30);
 
   PROCESS_PAUSE();
 

@@ -50,6 +50,7 @@
 #define UDP_EXAMPLE_ID  190
 
 #define DEBUG DEBUG_FULL
+
 #include "net/ip/uip-debug.h"
 
 #ifndef PERIOD
@@ -185,7 +186,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
   PROCESS_BEGIN();
   /* Start powertracing, once every two seconds. */
-  powertrace_start(CLOCK_SECOND * 30);
+  //powertrace_start(CLOCK_SECOND * 30);
   //printf("Ticks per second: %u\n", RTIMER_SECOND);
 
   PROCESS_PAUSE();
