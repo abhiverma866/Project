@@ -29,6 +29,11 @@
 *.srf06-cc26xx
 *.ev-aducrf101mkxz
 *.report
+
+#ignore vscode files
+*.ipch
+
+
 summary
 *.summary
 *.runerr

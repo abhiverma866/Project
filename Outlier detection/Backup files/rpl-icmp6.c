@@ -56,7 +56,6 @@
 #include "net/ipv6/multicast/uip-mcast6.h"
 #include "random.h"
 
-#include <stdlib.h> //added for qsort
 #include <limits.h>
 #include <string.h>
 
@@ -73,33 +72,7 @@
 #define UIP_IP_BUF       ((struct uip_ip_hdr *)&uip_buf[UIP_LLH_LEN])
 #define UIP_ICMP_BUF     ((struct uip_icmp_hdr *)&uip_buf[uip_l2_l3_hdr_len])
 #define UIP_ICMP_PAYLOAD ((unsigned char *)&uip_buf[uip_l2_l3_icmp_hdr_len])
-
 /*---------------------------------------------------------------------------*/
-//Additional macros for defense mechanism
-
-#define MAX_NUM_NODE 35  //set total number number of nodes in the network
-#define DIO_INTERVAL_THRESHOLD 500 //safe dio interval threshold
-
-#ifndef uip_ipaddr_copy
-#define uip_ipaddr_copy(dest, src) (*(dest) = *(src))
-#endif
-
-#ifndef uip_ip4addr_copy
-#define uip_ip4addr_copy(dest, src) (*((uip_ip4addr_t *)dest) = *((uip_ip4addr_t *)src))
-#endif
-
-#ifndef uip_ip6addr_copy
-#define uip_ip6addr_copy(dest, src) (*((uip_ip6addr_t *)dest) = *((uip_ip6addr_t *)src))
-#endif
-
-#if NETSTACK_CONF_WITH_IPV6
-typedef uip_ip6addr_t uip_ipaddr_t;
-#else
-typedef uip_ip4addr_t uip_ipaddr_t;
-#endif
-
-/*---------------------------------------------------------------------------*/
-
 static void dis_input(void);
 static void dio_input(void);
 static void dao_input(void);
@@ -131,52 +104,6 @@ UIP_ICMP6_HANDLER(dao_handler, ICMP6_RPL, RPL_CODE_DAO, dao_input);
 UIP_ICMP6_HANDLER(dao_ack_handler, ICMP6_RPL, RPL_CODE_DAO_ACK, dao_ack_input);
 /*---------------------------------------------------------------------------*/
 
-//Defense mechanism functions and structures
-
-typedef struct node_data {    // node entry format 
-	uip_ipaddr_t src_id;    
-	unsigned long last_dio_time;
-	uint16_t dio_count;    
-	} node_data;
-
-static node_data node_table[MAX_NUM_NODE];  // node table 
-
-uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
-
-//static uint8_t NUM_BLACKLIST; //this variable stores no. of blacklisted nodes detected till now.
-
-static unsigned short NODES_IN_TABLE; // this variable stores no. of nodes in table.
-
-//uip_ipaddr_t blacklist_table[5];  //array to store the address of blacklisted nodes.
-
-static unsigned short empty_table = 0;  //variable to check if an entry is there in the table or not. 
-
-  
-static void allocate_table()  //function to create an empty table. Empty table means all address entries are zero in the table.
-{
-  printf("Allocate table called\n");
-	if(NETSTACK_CONF_WITH_IPV6){
-		uip_ip6addr(&mask, 0,0,0,0,0,0,0,0);
-		uint8_t i;
-		for(i = 0;  i < MAX_NUM_NODE;  i++){
-			uip_ip6addr(&(node_table[i].src_id), 0,0,0,0,0,0,0,0);
-      node_table[i].last_dio_time = 0;
-      node_table[i].dio_count = 0;
-    }
-	}
-	else{
-		uip_ipaddr(&mask, 255,255,255,255);
-		uint8_t i;
-		for(i = 0;  i < MAX_NUM_NODE;  i++){
-			uip_ipaddr(&(node_table[i].src_id),0,0,0,0);
-      node_table[i].last_dio_time = 0;
-      node_table[i].dio_count = 0;
-    }
-	}
-}
-
-
-/*---------------------------------------------------------------------------*/
 #if RPL_WITH_DAO_ACK
 static uip_ds6_route_t *
 find_route_entry_by_dao_ack(uint8_t seq)
@@ -378,72 +305,6 @@ dio_input(void)
   PRINTF("RPL: Received a DIO from ");
   PRINT6ADDR(&from);
   PRINTF("\n");
-
-  /*---------------------------------------------------------------------------*/
-  // Defense mechanism code
-  
-  printf("RPL: Received a DIO from ");
-  uip_debug_ipaddr_print(&from);
-  printf("\n");
-
-  unsigned long current_time = clock_seconds();  //current time
-  //printf("Time %lu \n", current_time);
-  // uint8_t i;
-
-  /*/First time check if the table is empty or not. 
-  If empty then make initialize an empty table by calling allocate_table().*/
-  
-  if(empty_table==0){
-		empty_table++;
-		allocate_table();
-	}
-
-  unsigned int in_table = 0;
-
-  for(i = 0; i<NODES_IN_TABLE; i++){
-		if(uip_ipaddr_cmp(&(node_table[i].src_id),&(UIP_IP_BUF->srcipaddr))){
-				//printf("Found inside table \n");
-        //printf("Node With Address ");
-				//PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
-
-        //printf("\n");	
-		
-			  in_table = 1; 
-        node_table[i].last_dio_time = current_time; 
-        // printf("%lu \n", node_table[i].dio_interval); 
-        node_table[i].dio_count++;
-			  break; 
-    }
-  }
-
-  if(!in_table){
-  	for(i = 0;  i<MAX_NUM_NODE;  i++){
-			if(uip_ipaddr_cmp(&(node_table[i].src_id),&mask)){ 
-				uip_ipaddr_copy(&(node_table[i].src_id), &UIP_IP_BUF->srcipaddr);
-			  node_table[i].last_dio_time = current_time;
-        node_table[i].dio_count++;
-        NODES_IN_TABLE++; 
-				break; 
-			}
-		}
-  }
-
-  for(i=0; i<MAX_NUM_NODE; i++){
-    if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
-      //PRINT6ADDR(&(node_table[i].src_id));
-      uip_debug_ipaddr_print(&(node_table[i].src_id));
-      printf("   %lu   %d\n", node_table[i].last_dio_time, node_table[i].dio_count);     
-    }
-    else
-    {
-      break;
-    }
-    
-  }
-  printf("----------------------------\n");
-  
-
-  /*---------------------------------------------------------------------------*/
 
   buffer_length = uip_len - uip_l3_icmp_hdr_len;
 
@@ -769,7 +630,8 @@ dio_output(rpl_instance_t *instance, uip_ipaddr_t *uc_addr)
 #endif /* RPL_LEAF_ONLY */
 }
 /*---------------------------------------------------------------------------*/
-static void dao_input_storing(void)
+static void
+dao_input_storing(void)
 {
 #if RPL_WITH_STORING
   uip_ipaddr_t dao_sender_addr;
