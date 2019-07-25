@@ -60,6 +60,8 @@
 #include <limits.h>
 #include <string.h>
 
+#include "net/common.h"
+
 #define DEBUG DEBUG_NONE
 
 #include "net/ip/uip-debug.h"
@@ -77,7 +79,7 @@
 /*---------------------------------------------------------------------------*/
 //Additional macros for defense mechanism
 
-#define MAX_NUM_NODE 35  //set total number number of nodes in the network
+#define MAX_NUM_NODE 14  //set total number number of nodes in the network
 #define DIO_INTERVAL_THRESHOLD 500 //safe dio interval threshold
 
 #ifndef uip_ipaddr_copy
@@ -105,6 +107,8 @@ static void dio_input(void);
 static void dao_input(void);
 static void dao_ack_input(void);
 //static uint8_t seq_dio;
+
+extern uint8_t active;
 
 static void dao_output_target_seq(rpl_parent_t *parent, uip_ipaddr_t *prefix,
                                   uint8_t lifetime, uint8_t seq_no);
@@ -139,9 +143,11 @@ typedef struct node_data {    // node entry format
 	uint16_t dio_count;    
 	} node_data;
 
+static uint16_t previous_dio_time[MAX_NUM_NODE]; 
+
 static node_data node_table[MAX_NUM_NODE];  // node table 
 
-static uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
+uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
 
 //static uint8_t NUM_BLACKLIST; //this variable stores no. of blacklisted nodes detected till now.
 
@@ -162,6 +168,7 @@ static void allocate_table()  //function to create an empty table. Empty table m
 			uip_ip6addr(&(node_table[i].src_id), 0,0,0,0,0,0,0,0);
       node_table[i].last_dio_time = 0;
       node_table[i].dio_count = 0;
+      previous_dio_time[i] = 0;
     }
 	}
 	else{
@@ -171,6 +178,7 @@ static void allocate_table()  //function to create an empty table. Empty table m
 			uip_ipaddr(&(node_table[i].src_id),0,0,0,0);
       node_table[i].last_dio_time = 0;
       node_table[i].dio_count = 0;
+      previous_dio_time[i] = 0;
     }
 	}
 }
@@ -398,7 +406,7 @@ dio_input(void)
 		allocate_table();
 	}
 
-  unsigned int in_table = 0;
+  unsigned short in_table = 0;
 
   for(i = 0; i<NODES_IN_TABLE; i++){
 		if(uip_ipaddr_cmp(&(node_table[i].src_id),&(UIP_IP_BUF->srcipaddr))){
@@ -409,6 +417,7 @@ dio_input(void)
         //printf("\n");	
 		
 			  in_table = 1; 
+        previous_dio_time[i] = node_table[i].last_dio_time;
         node_table[i].last_dio_time = current_time; 
         // printf("%lu \n", node_table[i].dio_interval); 
         node_table[i].dio_count++;
@@ -420,7 +429,8 @@ dio_input(void)
   	for(i = 0;  i<MAX_NUM_NODE;  i++){
 			if(uip_ipaddr_cmp(&(node_table[i].src_id),&mask)){ 
 				uip_ipaddr_copy(&(node_table[i].src_id), &UIP_IP_BUF->srcipaddr);
-			  node_table[i].last_dio_time = current_time;
+			  previous_dio_time[i] = node_table[i].last_dio_time;
+        node_table[i].last_dio_time = current_time; 
         node_table[i].dio_count++;
         NODES_IN_TABLE++; 
 				break; 
@@ -432,7 +442,7 @@ dio_input(void)
     if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
       //PRINT6ADDR(&(node_table[i].src_id));
       uip_debug_ipaddr_print(&(node_table[i].src_id));
-      printf("   %lu   %d\n", node_table[i].last_dio_time, node_table[i].dio_count);     
+      printf(" %d  %lu   %d\n", previous_dio_time[i] ,node_table[i].last_dio_time, node_table[i].dio_count);     
     }
     else
     {
@@ -441,6 +451,11 @@ dio_input(void)
     
   }
   printf("----------------------------\n");
+
+  if(active==1){
+    printf("Deactiavitng!!\n");
+    active = 0;
+  }
   
 
   /*---------------------------------------------------------------------------*/

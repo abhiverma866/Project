@@ -12,6 +12,7 @@
         "node-id.h": "c",
         "uip-debug.h": "c",
         "uip-icmp6.h": "c",
-        "rpl-private.h": "c"
+        "rpl-private.h": "c",
+        "uip.h": "c"
     }
 }
