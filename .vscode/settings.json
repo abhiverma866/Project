@@ -10,6 +10,8 @@
         "stdlib.h": "c",
         "uip-mcast6.h": "c",
         "node-id.h": "c",
-        "uip-debug.h": "c"
+        "uip-debug.h": "c",
+        "uip-icmp6.h": "c",
+        "rpl-private.h": "c"
     }
 }

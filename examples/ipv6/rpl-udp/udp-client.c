@@ -33,6 +33,7 @@
 #include "net/ip/uip.h"
 #include "net/ipv6/uip-ds6.h"
 #include "net/ip/uip-udp-packet.h"
+#include "net/rpl/rpl-private.h"
 #include "sys/ctimer.h"
 #include "sys/node-id.h"
 #ifdef WITH_COMPOWER
@@ -46,6 +47,7 @@
 
 #define UDP_CLIENT_PORT 8765
 #define UDP_SERVER_PORT 5678
+#define MAX_NUM_NODE 35 
 
 #define UDP_EXAMPLE_ID  190
 
@@ -62,8 +64,11 @@
 #define SEND_TIME		(random_rand() % (SEND_INTERVAL))
 #define MAX_PAYLOAD_LEN		60
 
+#define IDS_INTERVAL (15 * CLOCK_SECOND)
+
 static struct uip_udp_conn *client_conn;
 static uip_ipaddr_t server_ipaddr;
+
 
 /*---------------------------------------------------------------------------*/
 PROCESS(udp_client_process, "UDP client process");
@@ -85,6 +90,23 @@ tcpip_handler(void)
   }
 }
 /*---------------------------------------------------------------------------*/
+void antiCopycat(){
+  printf("antiCopycat called !!\n");
+  uint8_t i; 
+  for(i=0; i<MAX_NUM_NODE; i++){
+    if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
+      //PRINT6ADDR(&(node_table[i].src_id));
+      uip_debug_ipaddr_print(&(node_table[i].src_id));
+      printf("   %lu   %d\n", node_table[i].last_dio_time, node_table[i].dio_count);     
+    }
+    else
+    {
+      break;
+    }
+  } 
+}
+/*---------------------------------------------------------------------------*/
+
 static void
 send_packet(void *ptr)
 {
@@ -179,6 +201,8 @@ PROCESS_THREAD(udp_client_process, ev, data)
 {
   static struct etimer periodic;
   static struct ctimer backoff_timer;
+  static struct etimer ids_timer;
+  static struct ctimer call_antiCopycat;
   
   //#if WITH_COMPOWER
   //  static int print = 0;
@@ -216,6 +240,7 @@ PROCESS_THREAD(udp_client_process, ev, data)
 //#endif
 
   etimer_set(&periodic, SEND_INTERVAL);
+  etimer_set(&ids_timer, IDS_INTERVAL);
   while(1) {
     PROCESS_YIELD();
     if(ev == tcpip_event) {
@@ -269,6 +294,11 @@ PROCESS_THREAD(udp_client_process, ev, data)
       }
 #endif
 */
+    }
+
+    if(etimer_expired(&ids_timer)) {
+      etimer_reset(&ids_timer);
+      ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
     }
   }
 

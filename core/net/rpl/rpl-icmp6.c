@@ -141,7 +141,7 @@ typedef struct node_data {    // node entry format
 
 static node_data node_table[MAX_NUM_NODE];  // node table 
 
-uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
+static uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
 
 //static uint8_t NUM_BLACKLIST; //this variable stores no. of blacklisted nodes detected till now.
 
