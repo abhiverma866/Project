@@ -2,7 +2,7 @@
 #include<stdio.h> 
 #include <stdlib.h>
 
-#define MAX_NUM_NODE 8  //set total number number of nodes in the network
+#define MAX_NUM_NODE 4  //set total number number of nodes in the network
 #define DIO_INTERVAL_THRESHOLD 500 //safe dio interval threshold
 
 
@@ -54,6 +54,7 @@ void quicksort(struct node_data node_table[MAX_NUM_NODE],int first,int last){
 
    if(first<last){
      	pivot=first;
+	printf("Inside QS %d %d %d\n", start, last, pivot);
     	i=first;
       	j=last;
 
@@ -226,21 +227,21 @@ void main()
 	node_table[3].dio_interval = 78.63;
 	node_table[3].dio_count = 100;
 	
-	node_table[4].src_id = 5;
-	node_table[4].dio_interval = 501;
-	node_table[4].dio_count = 201;
+	// node_table[4].src_id = 5;
+	// node_table[4].dio_interval = 501;
+	// node_table[4].dio_count = 201;
 	
-	node_table[5].src_id = 6;
-	node_table[5].dio_interval = 8.36;
-	node_table[5].dio_count = 109;
+	// node_table[5].src_id = 6;
+	// node_table[5].dio_interval = 8.36;
+	// node_table[5].dio_count = 109;
 	
-	node_table[6].src_id = 7;
-	node_table[6].dio_interval = 99.99;
-	node_table[6].dio_count = 103;
+	// node_table[6].src_id = 7;
+	// node_table[6].dio_interval = 99.99;
+	// node_table[6].dio_count = 103;
 	
-	node_table[7].src_id = 8;
-	node_table[7].dio_interval = 99.99;
-	node_table[7].dio_count = 110;
+	// node_table[7].src_id = 8;
+	// node_table[7].dio_interval = 99.99;
+	// node_table[7].dio_count = 110;
 	
 	printf("\n");
 	printf("--------------------Node table-----------------------\n");

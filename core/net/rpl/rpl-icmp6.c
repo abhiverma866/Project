@@ -107,8 +107,9 @@ static void dio_input(void);
 static void dao_input(void);
 static void dao_ack_input(void);
 //static uint8_t seq_dio;
+void checkMalicious(void); // IDS function
 
-extern uint8_t active;
+extern uint8_t active; //IDS related status
 
 static void dao_output_target_seq(rpl_parent_t *parent, uip_ipaddr_t *prefix,
                                   uint8_t lifetime, uint8_t seq_no);
@@ -138,12 +139,13 @@ UIP_ICMP6_HANDLER(dao_ack_handler, ICMP6_RPL, RPL_CODE_DAO_ACK, dao_ack_input);
 //Defense mechanism functions and structures
 
 typedef struct node_data {    // node entry format 
-	uip_ipaddr_t src_id;    
+	uip_ipaddr_t src_id; 
+  unsigned long previous_dio_time;   
 	unsigned long last_dio_time;
 	uint16_t dio_count;    
 	} node_data;
 
-static uint16_t previous_dio_time[MAX_NUM_NODE]; 
+static uint8_t start, f_mid, s_mid, last; 
 
 static node_data node_table[MAX_NUM_NODE];  // node table 
 
@@ -168,7 +170,7 @@ static void allocate_table()  //function to create an empty table. Empty table m
 			uip_ip6addr(&(node_table[i].src_id), 0,0,0,0,0,0,0,0);
       node_table[i].last_dio_time = 0;
       node_table[i].dio_count = 0;
-      previous_dio_time[i] = 0;
+      node_table[i].previous_dio_time = 0;
     }
 	}
 	else{
@@ -178,9 +180,186 @@ static void allocate_table()  //function to create an empty table. Empty table m
 			uip_ipaddr(&(node_table[i].src_id),0,0,0,0);
       node_table[i].last_dio_time = 0;
       node_table[i].dio_count = 0;
-      previous_dio_time[i] = 0;
+      node_table[i].previous_dio_time = 0;
     }
 	}
+}
+
+void quicksort(struct node_data node_table[MAX_NUM_NODE],int8_t first,int8_t last){
+   int8_t i, j, pivot;
+   struct node_data temp;
+   //printf("Inside QS %d %d %d\n", start, last, pivot);
+   if(first<last){
+     	pivot=first;
+      //printf("Inside QS %d %d %d\n", start, last, pivot);
+    	i=first;
+      j=last;
+
+      while(i<j){
+        while(node_table[i].dio_count<=node_table[pivot].dio_count&&i<last)
+            i++;
+         while(node_table[j].dio_count>node_table[pivot].dio_count)
+          j--;
+        if(i<j){
+            temp=node_table[i];
+            node_table[i]=node_table[j];
+            node_table[j]=temp;
+         }
+      }
+
+      temp=node_table[pivot];
+      node_table[pivot]=node_table[j];
+      node_table[j]=temp;
+      quicksort(node_table,first,j-1);
+      quicksort(node_table,j+1,last);
+
+   }
+}
+
+void compute_indexes(uint8_t n){
+	start = 0;
+	last = n-1;
+	if(n%2==0){
+		f_mid = n/2 - 1;
+		s_mid = n/2;	
+	}
+	else if(n==1){
+    f_mid = 0;
+		s_mid = 0;
+	}
+  else{
+		f_mid = n/2 - 1;
+		s_mid = n/2 + 1;
+  }
+	
+	//printf("\n");
+	//printf("first: %d | f_mid: %d | s_mid: %d | last: %d \n", start, f_mid, s_mid, last);	
+}
+/*
+float Quartile_2(struct node_data node_table[MAX_NUM_NODE], uint8_t n) {
+   if(n%2==0) {
+       // if there is an even number of elements, return mean of the two elements in the middle
+       return((node_table[n/2].dio_count + node_table[n/2 - 1].dio_count) / 2.0);
+   } else {
+       // else return the element in the middle
+       return node_table[n/2].dio_count;
+   }
+}
+*/
+float Quartile_1(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r) {
+	uint8_t n;
+	n = r-l+1;
+	if(n%2==0) {
+       // if there is an even number of elements, return mean of the two elements in the middle
+       return((node_table[n/2].dio_count + node_table[n/2 - 1].dio_count) / 2.0);
+   } else {
+       // else return the element in the middle
+       return node_table[n/2].dio_count;
+   }
+
+}
+
+float Quartile_3(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r) {
+	uint8_t n;
+	n = r-l+1;
+	if(n%2==0) {
+       // if there is an even number of elements, return mean of the two elements in the middle
+       return((node_table[r-(n/2)].dio_count + node_table[r-(n/2 - 1)].dio_count) / 2.0);
+   } else {
+       // else return the element in the middle
+       return node_table[r-(n/2)].dio_count;
+   }
+}
+
+
+void calculate_outliers(struct node_data node_table[MAX_NUM_NODE], uint8_t n) 
+{ 
+	float IQ_range;
+	float lower_outlier_bound;
+	float upper_outlier_bound;
+	//int lower_outliers;
+	//int upper_outliers;
+	uint8_t i;
+	
+	//compute_indexes(n);
+   
+	float Q1 = Quartile_1(node_table, start, f_mid);
+	//float Q2 = Quartile_2(node_table, n);
+	float Q3 = Quartile_3(node_table, s_mid, last);
+	//printf("\n");
+	//printf("Q1: %f | Q2: %f | Q3: %f\n", Q1, Q2, Q3);
+	//printf("\n");
+	
+	// IQR calculation  
+	IQ_range = (Q3-Q1);
+	//printf("IQ_range: %f\n", IQ_range);
+	//printf("\n");
+
+	//Computer upper and lower limits
+	lower_outlier_bound = Q1-(1.5*IQ_range);
+	//printf("lower_outlier_bound: %f\n", lower_outlier_bound);
+	upper_outlier_bound = Q3+(1.5*IQ_range);
+  //printf("upper_outlier_bound: %f\n", upper_outlier_bound);
+    f_mid = n/2 - 1;
+		s_mid = n/2 + 1;
+  //printf("\n");
+    
+   //uint8_t flag;
+   //flag = 0; 
+   for(i=0;i<n;i++)
+   {
+   	if(node_table[i].dio_count<lower_outlier_bound || node_table[i].dio_count>upper_outlier_bound)
+   	{
+   		//lower_outliers = node_table[i].dio_count;
+   		//printf("lower_outlier is id: %d | dio_count: %d\n", node_table[i].src_id, node_table[i].dio_count);
+   		//printf("Outlier is id ");
+      //uip_debug_ipaddr_print(&(node_table[i].src_id));
+      //printf(" dio_count: %d\n",node_table[i].dio_count);      
+   		if((node_table[i].last_dio_time - node_table[i].previous_dio_time)<=5){
+   			printf("Node ");
+        uip_debug_ipaddr_print(&(node_table[i].src_id));
+        printf(" is MALICIOUS!!\n");
+			//addtoBlacklist() function must be added here      			
+		   }
+   		//flag = 1;
+   	}
+
+   	//if(node_table[i].dio_count>upper_outlier_bound)
+   	//{
+   	//	//upper_outliers = node_table[i].dio_count;
+   	//	printf("upper_outlier is id: %d | dio_count: %d\n", node_table[i].src_id, node_table[i].dio_count);
+   	//	flag = 1;
+   	//}
+   }
+   
+   //if(flag==0){
+   	//printf("There are no possible outliers in the list!!\n");
+   //}
+
+
+} 
+
+void checkMalicious(void){
+    uint8_t i;
+    unsigned short length = 0;  
+    for(i=0; i<MAX_NUM_NODE; i++){
+      if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
+        length++;        
+      }
+      else
+      {
+        break;
+      }
+    }
+  //length = length + 1;
+  compute_indexes(length);
+  //printf("length computed %d\n", length);
+  //printf("%d %d %d %d\n", start, f_mid, s_mid, last);
+  if(length>1){
+    quicksort(node_table, 0, (length-1));
+    //printf("Sorting done!!\n");
+  }
+  calculate_outliers(node_table, length);
 }
 
 
@@ -395,6 +574,7 @@ dio_input(void)
   printf("\n");
 
   unsigned long current_time = clock_seconds();  //current time
+  unsigned long previous_time; 
   //printf("Time %lu \n", current_time);
   // uint8_t i;
 
@@ -417,7 +597,9 @@ dio_input(void)
         //printf("\n");	
 		
 			  in_table = 1; 
-        previous_dio_time[i] = node_table[i].last_dio_time;
+
+        previous_time = node_table[i].last_dio_time;
+        node_table[i].previous_dio_time = previous_time;
         node_table[i].last_dio_time = current_time; 
         // printf("%lu \n", node_table[i].dio_interval); 
         node_table[i].dio_count++;
@@ -429,7 +611,8 @@ dio_input(void)
   	for(i = 0;  i<MAX_NUM_NODE;  i++){
 			if(uip_ipaddr_cmp(&(node_table[i].src_id),&mask)){ 
 				uip_ipaddr_copy(&(node_table[i].src_id), &UIP_IP_BUF->srcipaddr);
-			  previous_dio_time[i] = node_table[i].last_dio_time;
+			  previous_time = node_table[i].last_dio_time;
+        node_table[i].previous_dio_time = previous_time;
         node_table[i].last_dio_time = current_time; 
         node_table[i].dio_count++;
         NODES_IN_TABLE++; 
@@ -442,7 +625,7 @@ dio_input(void)
     if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
       //PRINT6ADDR(&(node_table[i].src_id));
       uip_debug_ipaddr_print(&(node_table[i].src_id));
-      printf(" %d  %lu   %d\n", previous_dio_time[i] ,node_table[i].last_dio_time, node_table[i].dio_count);     
+      printf(" %lu  %lu   %d\n", node_table[i].previous_dio_time ,node_table[i].last_dio_time, node_table[i].dio_count);     
     }
     else
     {
@@ -453,6 +636,7 @@ dio_input(void)
   printf("----------------------------\n");
 
   if(active==1){
+    checkMalicious();
     printf("Deactiavitng!!\n");
     active = 0;
   }

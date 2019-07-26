@@ -98,7 +98,7 @@ void antiCopycat(){
   printf("antiCopycat called !!\n");
   printf("Activating!!\n");
   active = 1;
-  printf("In UDP client active is %d\n", active);
+  //printf("In UDP client active is %d\n", active);
 }
 /*---------------------------------------------------------------------------*/
 
