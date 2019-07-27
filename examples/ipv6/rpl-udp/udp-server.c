@@ -52,9 +52,16 @@
 #define UDP_CLIENT_PORT	8765
 #define UDP_SERVER_PORT	5678
 
+// IDS specific macros
+#include "net/common.h"
+#define MAX_NUM_NODE 14 
+#define IDS_INTERVAL (15 * CLOCK_SECOND)
+
 #define UDP_EXAMPLE_ID  190
 
 static struct uip_udp_conn *server_conn;
+
+extern uint8_t active; //IDS specifc
 
 PROCESS(udp_server_process, "UDP server process");
 AUTOSTART_PROCESSES(&udp_server_process);
@@ -80,6 +87,15 @@ tcpip_handler(void)
   }
 }
 /*---------------------------------------------------------------------------*/
+
+void antiCopycat(){
+  printf("antiCopycat called !!\n");
+  printf("Activating!!\n");
+  active = 1;
+  //printf("In UDP client active is %d\n", active);
+}
+/*---------------------------------------------------------------------------*/
+
 static void
 print_local_addresses(void)
 {
@@ -104,6 +120,10 @@ PROCESS_THREAD(udp_server_process, ev, data)
 {
   uip_ipaddr_t ipaddr;
   struct uip_ds6_addr *root_if;
+
+  //IDS specific timers
+  static struct etimer ids_timer;
+  static struct ctimer call_antiCopycat;
 
   //#if WITH_COMPOWER
   //static int print = 0;
@@ -182,6 +202,8 @@ PROCESS_THREAD(udp_server_process, ev, data)
 //  powertrace_sniff(POWERTRACE_ON);
 //  #endif
 
+  etimer_set(&ids_timer, IDS_INTERVAL); //IDS specific
+
   while(1) {
     PROCESS_YIELD();
     if(ev == tcpip_event) {
@@ -189,6 +211,12 @@ PROCESS_THREAD(udp_server_process, ev, data)
     } else if (ev == sensors_event && data == &button_sensor) {
       PRINTF("Initiaing global repair\n");
       rpl_repair_root(RPL_DEFAULT_INSTANCE);
+    }
+
+
+    if(etimer_expired(&ids_timer)) {
+      etimer_reset(&ids_timer);
+      ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
     }
   }
 

@@ -79,8 +79,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>54.12783578383882</x>
-        <y>-16.80325398157872</y>
+        <x>16.1384952171445</x>
+        <y>-19.725510948247514</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -277,8 +277,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>20.44817816887295</x>
-        <y>57.033441315062966</y>
+        <x>14.186198954582677</x>
+        <y>50.35399681982001</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -295,8 +295,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>50.90866467877285</x>
-        <y>15.107684827122323</y>
+        <x>37.96724096923962</x>
+        <y>14.690219546169635</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -313,8 +313,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>69.01402099728404</x>
-        <y>54.065694281159246</y>
+        <x>79.45065302110116</x>
+        <y>49.473576190679715</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -356,15 +356,55 @@
   <plugin>
     org.contikios.cooja.plugins.LogListener
     <plugin_config>
-      <filter>ID:4</filter>
+      <filter>ID:7</filter>
       <formatted_time />
       <coloring />
     </plugin_config>
-    <width>1019</width>
+    <width>941</width>
     <z>2</z>
     <height>779</height>
     <location_x>581</location_x>
     <location_y>0</location_y>
+  </plugin>
+  <plugin>
+    org.contikios.cooja.plugins.ScriptRunner
+    <plugin_config>
+      <script>/*
+ * Example Contiki test script (JavaScript).
+ * A Contiki test script acts on mote output, such as via printf()'s.
+ * The script may operate on the following variables:
+ *  Mote mote, int id, String msg
+ */
+
+/* Make test automatically fail (timeout) after 100 simulated seconds */
+//TIMEOUT(100000); /* milliseconds. no action at timeout */
+TIMEOUT(1800000, log.log("last msg: " + msg + "\n")); /* milliseconds. print last msg at timeout */
+
+log.log("first mote output: '" + msg + "'\n");
+
+YIELD(); /* wait for another mote output */
+
+log.log("second mote output: '" + msg + "'\n");
+
+log.log("waiting for hello world output from mote 1\n");
+WAIT_UNTIL(id == 1 &amp;&amp; msg.equals("Hello, world"));
+
+write(mote, "Hello, mote\n"); /* Write to mote serial port */
+
+GENERATE_MSG(15000, "continue");
+YIELD_THEN_WAIT_UNTIL(msg.equals("continue"));
+
+log.log("ok, reporting success now\n");
+log.testOK(); /* Report test success and quit */
+//log.testFailed(); /* Report test failure and quit */</script>
+      <active>true</active>
+    </plugin_config>
+    <width>600</width>
+    <z>-1</z>
+    <height>700</height>
+    <location_x>875</location_x>
+    <location_y>35</location_y>
+    <minimized>true</minimized>
   </plugin>
 </simconf>
 
