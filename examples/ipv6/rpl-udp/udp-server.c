@@ -54,14 +54,17 @@
 
 // IDS specific macros
 #include "net/common.h"
-#define MAX_NUM_NODE 14 
-#define IDS_INTERVAL (15 * CLOCK_SECOND)
+#define MAX_NUM_NODE 20 
+#define IDS_INTERVAL (30 * CLOCK_SECOND)
+#define INIT_DELAY (150 * CLOCK_SECOND)
 
 #define UDP_EXAMPLE_ID  190
 
 static struct uip_udp_conn *server_conn;
 
 extern uint8_t active; //IDS specifc
+
+static uint8_t init_delay_flag;
 
 PROCESS(udp_server_process, "UDP server process");
 AUTOSTART_PROCESSES(&udp_server_process);
@@ -123,6 +126,7 @@ PROCESS_THREAD(udp_server_process, ev, data)
 
   //IDS specific timers
   static struct etimer ids_timer;
+  static struct etimer init_delay_timer;
   static struct ctimer call_antiCopycat;
 
   //#if WITH_COMPOWER
@@ -203,6 +207,7 @@ PROCESS_THREAD(udp_server_process, ev, data)
 //  #endif
 
   etimer_set(&ids_timer, IDS_INTERVAL); //IDS specific
+  etimer_set(&init_delay_timer, INIT_DELAY);
 
   while(1) {
     PROCESS_YIELD();
@@ -213,10 +218,17 @@ PROCESS_THREAD(udp_server_process, ev, data)
       rpl_repair_root(RPL_DEFAULT_INSTANCE);
     }
 
+    if(init_delay_flag!=1){
+      if(etimer_expired(&init_delay_timer)){
+        init_delay_flag = 1;
+      }
+    }
 
-    if(etimer_expired(&ids_timer)) {
-      etimer_reset(&ids_timer);
-      ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
+    if(init_delay_flag==1){      
+      if(etimer_expired(&ids_timer)){
+        etimer_reset(&ids_timer);
+        ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
+      }
     }
   }
 
