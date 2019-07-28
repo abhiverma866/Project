@@ -148,7 +148,7 @@ void calculate_outliers(int* a, int n)
 	//Computer upper and lower limits
 	lower_outlier_bound = Q1-(1.5*IQ_range);
 	printf("lower_outlier_bound: %f\n", lower_outlier_bound);
-	upper_outlier_bound = Q3+(1.5*IQ_range);
+	upper_outlier_bound = Q2+(1*IQ_range);
     printf("upper_outlier_bound: %f\n", upper_outlier_bound);
     
     printf("\n");
@@ -188,7 +188,7 @@ void main()
 	//int a[]  = {15, 16, 23, 23, 24, 25, 26, 27, 59};
 	//int a[] = {1, 99, 100, 101, 103, 109, 110, 201};
 	//int a[] = {61, 10, 32, 19, 22, 29, 36, 14, 49, 3};
-	int a[] = {67,88,114,546};
+	int a[] = {61,69, 65,635};
 	int n = sizeof(a)/sizeof(a[0]); //size of array
 	qsort(a, sizeof(a)/sizeof(*a), sizeof(*a), compare_function); //sort the entered array
 	

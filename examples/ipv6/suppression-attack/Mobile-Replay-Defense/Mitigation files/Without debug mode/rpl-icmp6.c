@@ -303,7 +303,7 @@ float Quartile_3(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r
 
 
 void remove_node_table_entry(struct node_data node_table[MAX_NUM_NODE], uint8_t location){
-  printf("Entry Removed\n");
+  //printf("Entry Removed\n");
   uip_ip6addr(&(node_table[location].src_id), 0,0,0,0,0,0,0,0);
   node_table[location].last_dio_time = 0;
   node_table[location].dio_count = 0;
@@ -642,34 +642,34 @@ dio_input(void)
     init_blacklist_table();
 	}
 
-  printf("Printing BLACKLIST TABLE\n");
-  for(i=0; i<NUM_BLACKLIST; i++){
-    //if(!(uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&mask))){
-      uip_debug_ipaddr_print(&(blacklist_table[i].bl_src_ip));
-      printf("  %d  %d", blacklist_table[i].block_count, blacklist_table[i].status);
-      printf("\n");     
-    //}
-    //else
-    //{
-    //  break;
-    //}
-  }
-  printf("----------------------------\n");
+  // printf("Printing BLACKLIST TABLE\n");
+  // for(i=0; i<NUM_BLACKLIST; i++){
+  //   //if(!(uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&mask))){
+  //     uip_debug_ipaddr_print(&(blacklist_table[i].bl_src_ip));
+  //     printf("  %d  %d", blacklist_table[i].block_count, blacklist_table[i].status);
+  //     printf("\n");     
+  //   //}
+  //   //else
+  //   //{
+  //   //  break;
+  //   //}
+  // }
+  // printf("----------------------------\n");
 
   for(i = 0;  i < NUM_BLACKLIST;  i++){ 
     //printf("in blacklist table check loop\n");
   //loop to check if the node that has sent the dis message is in blacklist or not. If yes then return.
  		if(uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&(UIP_IP_BUF->srcipaddr)) && blacklist_table[i].status==1){
-      printf("Node With Address ");
+      //printf("Node With Address ");
 			uip_debug_ipaddr_print(&UIP_IP_BUF->srcipaddr);
-			printf(" is BLACKLISTED, DIO Dropped!!\n");
+			//printf(" is BLACKLISTED, DIO Dropped!!\n");
 			return;
 		}
   }
 
-  printf("RPL: Received a DIO from ");
-  uip_debug_ipaddr_print(&from);
-  printf("\n");
+  //printf("RPL: Received a DIO from ");
+  //uip_debug_ipaddr_print(&from);
+  //printf("\n");
 
   unsigned long previous_time; 
   //printf("Time %lu \n", current_time);
@@ -713,19 +713,19 @@ dio_input(void)
 		}
   }
 
-  for(i=0; i<MAX_NUM_NODE; i++){
-    if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
-      //PRINT6ADDR(&(node_table[i].src_id));
-      uip_debug_ipaddr_print(&(node_table[i].src_id));
-      printf(" %lu  %lu   %d\n", node_table[i].previous_dio_time ,node_table[i].last_dio_time, node_table[i].dio_count);     
-    }
-    else
-    {
-      break;
-    }
+  // for(i=0; i<MAX_NUM_NODE; i++){
+  //   if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
+  //     //PRINT6ADDR(&(node_table[i].src_id));
+  //     uip_debug_ipaddr_print(&(node_table[i].src_id));
+  //     printf(" %lu  %lu   %d\n", node_table[i].previous_dio_time ,node_table[i].last_dio_time, node_table[i].dio_count);     
+  //   }
+  //   else
+  //   {
+  //     break;
+  //   }
     
-  }
-  printf("----------------------------\n");
+  // }
+  // printf("----------------------------\n");
 
   if(active==1){
     checkMalicious();
