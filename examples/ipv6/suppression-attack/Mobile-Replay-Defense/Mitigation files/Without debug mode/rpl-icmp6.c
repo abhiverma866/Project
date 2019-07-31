@@ -661,7 +661,7 @@ dio_input(void)
   //loop to check if the node that has sent the dis message is in blacklist or not. If yes then return.
  		if(uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&(UIP_IP_BUF->srcipaddr)) && blacklist_table[i].status==1){
       //printf("Node With Address ");
-			uip_debug_ipaddr_print(&UIP_IP_BUF->srcipaddr);
+			//uip_debug_ipaddr_print(&UIP_IP_BUF->srcipaddr);
 			//printf(" is BLACKLISTED, DIO Dropped!!\n");
 			return;
 		}

@@ -12,11 +12,14 @@
     <randomseed>123456</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
-      org.contikios.cooja.radiomediums.UDGM
-      <transmitting_range>50.0</transmitting_range>
-      <interference_range>55.0</interference_range>
-      <success_ratio_tx>1.0</success_ratio_tx>
-      <success_ratio_rx>0.9</success_ratio_rx>
+      org.contikios.mrm.MRM
+      <tx_power value="0.0" />
+      <captureEffect value="false" />
+      <system_gain_mean value="-20.0" />
+      <tx_with_gain value="false" />
+      <system_gain_var value="0.0" />
+      <obstacle_attenuation value="-10.0" />
+      <obstacles />
     </radiomedium>
     <events>
       <logoutput>40000</logoutput>
@@ -79,8 +82,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>13.087606837606838</x>
-        <y>-9.08525641025641</y>
+        <x>10.625622725432583</x>
+        <y>-11.381807163132844</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -97,8 +100,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>0.12401383041063596</x>
-        <y>0.12566420457959893</y>
+        <x>0.007505158538568972</x>
+        <y>-0.004835863659319803</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -457,10 +460,10 @@
   <plugin>
     org.contikios.cooja.plugins.SimControl
     <width>280</width>
-    <z>3</z>
+    <z>4</z>
     <height>160</height>
-    <location_x>3</location_x>
-    <location_y>545</location_y>
+    <location_x>4</location_x>
+    <location_y>615</location_y>
   </plugin>
   <plugin>
     org.contikios.cooja.plugins.Visualizer
@@ -469,13 +472,13 @@
       <skin>org.contikios.cooja.plugins.skins.IDVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.GridVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.TrafficVisualizerSkin</skin>
-      <skin>org.contikios.cooja.plugins.skins.UDGMVisualizerSkin</skin>
+      <skin>org.contikios.mrm.MRMVisualizerSkin</skin>
       <skin>org.contikios.cooja.plugins.skins.MoteTypeVisualizerSkin</skin>
-      <viewport>3.6751913090571393 0.0 0.0 3.6751913090571393 108.82443454714328 80.42678267225725</viewport>
+      <viewport>3.1502525252525264 0.0 0.0 3.1502525252525264 109.82771148820697 221.6411058312162</viewport>
     </plugin_config>
-    <width>584</width>
+    <width>511</width>
     <z>0</z>
-    <height>543</height>
+    <height>610</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
   </plugin>
@@ -486,11 +489,19 @@
       <formatted_time />
       <coloring />
     </plugin_config>
-    <width>941</width>
-    <z>4</z>
-    <height>779</height>
-    <location_x>581</location_x>
-    <location_y>0</location_y>
+    <width>608</width>
+    <z>3</z>
+    <height>477</height>
+    <location_x>512</location_x>
+    <location_y>-2</location_y>
+  </plugin>
+  <plugin>
+    PowerTracker
+    <width>400</width>
+    <z>2</z>
+    <height>309</height>
+    <location_x>511</location_x>
+    <location_y>472</location_y>
   </plugin>
   <plugin>
     org.contikios.cooja.plugins.ScriptRunner
@@ -498,19 +509,11 @@
       <scriptfile>[CONTIKI_DIR]/script_replay.js</scriptfile>
       <active>false</active>
     </plugin_config>
-    <width>600</width>
-    <z>2</z>
-    <height>700</height>
-    <location_x>951</location_x>
-    <location_y>72</location_y>
-  </plugin>
-  <plugin>
-    PowerTracker
-    <width>400</width>
+    <width>482</width>
     <z>1</z>
-    <height>400</height>
-    <location_x>251</location_x>
-    <location_y>518</location_y>
+    <height>774</height>
+    <location_x>1121</location_x>
+    <location_y>4</location_y>
   </plugin>
 </simconf>
 

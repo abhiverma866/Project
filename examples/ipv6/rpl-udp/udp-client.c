@@ -50,7 +50,7 @@
 
 // IDS specific macros
 #include "net/common.h"
-#define MAX_NUM_NODE 20 
+#define MAX_NUM_NODE 25
 #define IDS_INTERVAL (30 * CLOCK_SECOND)
 
 #define UDP_EXAMPLE_ID  190
@@ -67,7 +67,7 @@
 #define SEND_INTERVAL		(PERIOD * CLOCK_SECOND)
 #define SEND_TIME		(random_rand() % (SEND_INTERVAL))
 #define MAX_PAYLOAD_LEN		60
-#define INIT_DELAY (150 * CLOCK_SECOND)
+#define INIT_DELAY (120 * CLOCK_SECOND)
 
 static struct uip_udp_conn *client_conn;
 static uip_ipaddr_t server_ipaddr;
@@ -96,7 +96,7 @@ tcpip_handler(void)
 }
 /*---------------------------------------------------------------------------*/
 
-void antiCopycat(){
+static void antiCopycat(){
   printf("antiCopycat called !!\n");
   printf("Activating!!\n");
   active = 1;
@@ -304,10 +304,18 @@ PROCESS_THREAD(udp_client_process, ev, data)
       }
     }
 
-    if(init_delay_flag==1){      
+    if(init_delay_flag==1){
+      //printf("init_flag is 1, checking ids_timer expiry\n");      
       if(etimer_expired(&ids_timer)){
+        //printf("ids_timer expired\n");
+        //printf("ids_timer will be now reset\n");
         etimer_reset(&ids_timer);
-        ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
+        //printf("ids_timer successfullly reset\n");
+        //printf("c_timer antiCopycat will be called now\n");
+        if(active==0){
+          ctimer_set(&call_antiCopycat, 0, antiCopycat, NULL);
+          //printf("c_timer antiCopycat called successfully\n");
+        }
       }
     }
   }

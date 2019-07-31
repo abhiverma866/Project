@@ -13,6 +13,8 @@
         "uip-debug.h": "c",
         "uip-icmp6.h": "c",
         "rpl-private.h": "c",
-        "uip.h": "c"
+        "uip.h": "c",
+        "common.h": "c",
+        "serial-line.h": "c"
     }
 }

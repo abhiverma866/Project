@@ -63,7 +63,7 @@ timeout_function = function () {
 
 packetsReceived= new Array();
 packetsSent = new Array();
-nodeCount = 17;
+nodeCount = 21;
 senderID = 0;
 receiverID = 0;
 PDR = 0;

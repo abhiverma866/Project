@@ -9,16 +9,16 @@
   <project EXPORT="discard">[APPS_DIR]/mobility</project>
   <simulation>
     <title>My simulation</title>
-    <randomseed>123456</randomseed>
+    <randomseed>467854</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <tx_with_gain value="false" />
-      <obstacle_attenuation value="-10.0" />
       <captureEffect value="false" />
       <tx_power value="0.0" />
       <system_gain_mean value="-20.0" />
+      <obstacle_attenuation value="-10.0" />
       <system_gain_var value="0.0" />
+      <tx_with_gain value="false" />
       <obstacles />
     </radiomedium>
     <events>
