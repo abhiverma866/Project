@@ -79,9 +79,9 @@
 /*---------------------------------------------------------------------------*/
 //Additional macros for defense mechanism
 
-#define MAX_NUM_NODE 25 //set total number number of nodes in the network
+#define MAX_NUM_NODE 20 //set total number number of nodes in the network
 #define DIO_INTERVAL_THRESHOLD 5 //safe dio interval threshold
-#define MAX_BLACKLIST_NODE 6
+#define MAX_BLACKLIST_NODE 7
 #define BLOCK_THRESHOLD 4
 
 #ifndef uip_ipaddr_copy

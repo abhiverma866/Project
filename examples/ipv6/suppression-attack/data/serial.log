@@ -654,3 +654,1258 @@
 156406372	ID:21	ticks value 256
 156454697	ID:15	calling checkMalicious
 156457481	ID:15	Deactiavitng!!
+156573282	ID:18	Replaying DIO with fixed interval 
+156575802	ID:18	ticks value 256
+156579028	ID:19	Replaying DIO with fixed interval 
+156581697	ID:19	ticks value 256
+156651807	ID:9	calling checkMalicious
+156654594	ID:9	Deactiavitng!!
+157448657	ID:20	Replaying DIO with fixed interval 
+157451297	ID:20	ticks value 256
+158411544	ID:21	Replaying DIO with fixed interval 
+158414184	ID:21	ticks value 256
+158581095	ID:18	Replaying DIO with fixed interval 
+158583735	ID:18	ticks value 256
+158586835	ID:19	Replaying DIO with fixed interval 
+158589475	ID:19	ticks value 256
+159457156	ID:20	Replaying DIO with fixed interval 
+159460124	ID:20	ticks value 256
+160419357	ID:21	Replaying DIO with fixed interval 
+160421997	ID:21	ticks value 256
+160588908	ID:18	Replaying DIO with fixed interval 
+160591548	ID:18	ticks value 256
+160594648	ID:19	Replaying DIO with fixed interval 
+160597288	ID:19	ticks value 256
+161464282	ID:20	Replaying DIO with fixed interval 
+161466922	ID:20	ticks value 256
+162427169	ID:21	Replaying DIO with fixed interval 
+162429809	ID:21	ticks value 256
+162596720	ID:18	Replaying DIO with fixed interval 
+162599360	ID:18	ticks value 256
+162602460	ID:19	Replaying DIO with fixed interval 
+162605100	ID:19	ticks value 256
+163472095	ID:20	Replaying DIO with fixed interval 
+163474735	ID:20	ticks value 256
+163925354	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
+163961165	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 10 at NodeID= 1
+164434987	ID:21	Replaying DIO with fixed interval 
+164437656	ID:21	ticks value 256
+164604538	ID:18	Replaying DIO with fixed interval 
+164607207	ID:18	ticks value 256
+164610272	ID:19	Replaying DIO with fixed interval 
+164612913	ID:19	ticks value 256
+165156795	ID:17	calling checkMalicious
+165158842	ID:17	Deactiavitng!!
+165479907	ID:20	Replaying DIO with fixed interval 
+165482547	ID:20	ticks value 256
+165547204	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
+165835839	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 7 at NodeID= 1
+166442794	ID:21	Replaying DIO with fixed interval 
+166445434	ID:21	ticks value 256
+166612345	ID:18	Replaying DIO with fixed interval 
+166614985	ID:18	ticks value 256
+166618227	ID:19	Replaying DIO with fixed interval 
+166620867	ID:19	ticks value 256
+167487725	ID:20	Replaying DIO with fixed interval 
+167490394	ID:20	ticks value 256
+167525638	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
+168450607	ID:21	Replaying DIO with fixed interval 
+168453247	ID:21	ticks value 256
+168620158	ID:18	Replaying DIO with fixed interval 
+168622798	ID:18	ticks value 256
+168625932	ID:19	Replaying DIO with fixed interval 
+168628572	ID:19	ticks value 256
+169495532	ID:20	Replaying DIO with fixed interval 
+169498172	ID:20	ticks value 256
+170458419	ID:21	Replaying DIO with fixed interval 
+170461059	ID:21	ticks value 256
+170627970	ID:18	Replaying DIO with fixed interval 
+170630610	ID:18	ticks value 256
+170633713	ID:19	Replaying DIO with fixed interval 
+170636353	ID:19	ticks value 256
+171503345	ID:20	Replaying DIO with fixed interval 
+171505985	ID:20	ticks value 256
+171691387	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
+172466231	ID:21	Replaying DIO with fixed interval 
+172468872	ID:21	ticks value 256
+172635782	ID:18	Replaying DIO with fixed interval 
+172638423	ID:18	ticks value 256
+172641522	ID:19	Replaying DIO with fixed interval 
+172644163	ID:19	ticks value 256
+173511157	ID:20	Replaying DIO with fixed interval 
+173513797	ID:20	ticks value 256
+174435094	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
+174474186	ID:21	Replaying DIO with fixed interval 
+174476826	ID:21	ticks value 256
+174643737	ID:18	Replaying DIO with fixed interval 
+174646377	ID:18	ticks value 256
+174649335	ID:19	Replaying DIO with fixed interval 
+174651975	ID:19	ticks value 256
+174837735	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 5 at NodeID= 1
+175518970	ID:20	Replaying DIO with fixed interval 
+175521610	ID:20	ticks value 256
+175729258	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
+176481856	ID:21	Replaying DIO with fixed interval 
+176484497	ID:21	ticks value 256
+176651407	ID:18	Replaying DIO with fixed interval 
+176654048	ID:18	ticks value 256
+176657148	ID:19	Replaying DIO with fixed interval 
+176659788	ID:19	ticks value 256
+177526924	ID:20	Replaying DIO with fixed interval 
+177529564	ID:20	ticks value 256
+178489669	ID:21	Replaying DIO with fixed interval 
+178492309	ID:21	ticks value 256
+178659220	ID:18	Replaying DIO with fixed interval 
+178661860	ID:18	ticks value 256
+178664960	ID:19	Replaying DIO with fixed interval 
+178667600	ID:19	ticks value 256
+178923720	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
+179209644	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 4 at NodeID= 1
+179534594	ID:20	Replaying DIO with fixed interval 
+179537235	ID:20	ticks value 256
+180498332	ID:21	Replaying DIO with fixed interval 
+180500972	ID:21	ticks value 256
+180667883	ID:18	Replaying DIO with fixed interval 
+180670523	ID:18	ticks value 256
+180673628	ID:19	Replaying DIO with fixed interval 
+180676298	ID:19	ticks value 256
+180963477	ID:6	antiCopycat called !!
+180964399	ID:6	Activating!!
+180969726	ID:15	antiCopycat called !!
+180970648	ID:15	Activating!!
+180978974	ID:10	antiCopycat called !!
+180979896	ID:10	Activating!!
+181013459	ID:1	antiCopycat called !!
+181014381	ID:1	Activating!!
+181155639	ID:7	antiCopycat called !!
+181156561	ID:7	Activating!!
+181168137	ID:9	antiCopycat called !!
+181169059	ID:9	Activating!!
+181173002	ID:17	antiCopycat called !!
+181173924	ID:17	Activating!!
+181284445	ID:12	antiCopycat called !!
+181285367	ID:12	Activating!!
+181542407	ID:20	Replaying DIO with fixed interval 
+181545047	ID:20	ticks value 256
+181563893	ID:14	antiCopycat called !!
+181564815	ID:14	Activating!!
+181580319	ID:11	antiCopycat called !!
+181581241	ID:11	Activating!!
+181581245	ID:15	calling checkMalicious
+181582962	ID:2	antiCopycat called !!
+181583884	ID:2	Activating!!
+181587438	ID:15	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+181588500	ID:15	Deactiavitng!!
+181616201	ID:8	antiCopycat called !!
+181617123	ID:8	Activating!!
+181641647	ID:16	antiCopycat called !!
+181642569	ID:16	Activating!!
+181689015	ID:11	calling checkMalicious
+181695927	ID:11	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+181697122	ID:11	Deactiavitng!!
+181713352	ID:3	antiCopycat called !!
+181714274	ID:3	Activating!!
+181774327	ID:4	antiCopycat called !!
+181775249	ID:4	Activating!!
+182505294	ID:21	Replaying DIO with fixed interval 
+182507934	ID:21	ticks value 256
+182573662	ID:6	calling checkMalicious
+182579973	ID:6	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+182581035	ID:6	Deactiavitng!!
+182591016	ID:10	calling checkMalicious
+182597183	ID:10	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+182598245	ID:10	Deactiavitng!!
+182674845	ID:18	Replaying DIO with fixed interval 
+182677485	ID:18	ticks value 256
+182680585	ID:19	Replaying DIO with fixed interval 
+182683225	ID:19	ticks value 256
+183550219	ID:20	Replaying DIO with fixed interval 
+183552860	ID:20	ticks value 256
+183588366	ID:12	calling checkMalicious
+183595199	ID:12	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+183596261	ID:12	Deactiavitng!!
+183601445	ID:8	calling checkMalicious
+183608270	ID:8	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+183612751	ID:8	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+183613814	ID:8	Deactiavitng!!
+183622996	ID:16	calling checkMalicious
+183625782	ID:16	Deactiavitng!!
+183832003	ID:13	calling checkMalicious
+183834970	ID:13	Deactiavitng!!
+183918333	ID:5	calling checkMalicious
+183921052	ID:5	Deactiavitng!!
+184513107	ID:21	Replaying DIO with fixed interval 
+184515747	ID:21	ticks value 256
+184642288	ID:7	calling checkMalicious
+184645845	ID:7	Deactiavitng!!
+184682658	ID:18	Replaying DIO with fixed interval 
+184685298	ID:18	ticks value 256
+184688398	ID:19	Replaying DIO with fixed interval 
+184691038	ID:19	ticks value 256
+184834877	ID:1	calling checkMalicious
+184838473	ID:1	Deactiavitng!!
+185558032	ID:20	Replaying DIO with fixed interval 
+185560672	ID:20	ticks value 256
+186222231	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
+186241185	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 6 at NodeID= 1
+186520919	ID:21	Replaying DIO with fixed interval 
+186523559	ID:21	ticks value 256
+186568027	ID:2	calling checkMalicious
+186571635	ID:2	Deactiavitng!!
+186690470	ID:18	Replaying DIO with fixed interval 
+186693110	ID:18	ticks value 256
+186696210	ID:19	Replaying DIO with fixed interval 
+186698850	ID:19	ticks value 256
+187565845	ID:20	Replaying DIO with fixed interval 
+187568485	ID:20	ticks value 256
+188528737	ID:21	Replaying DIO with fixed interval 
+188531406	ID:21	ticks value 256
+188698288	ID:18	Replaying DIO with fixed interval 
+188700957	ID:18	ticks value 256
+188704023	ID:19	Replaying DIO with fixed interval 
+188706663	ID:19	ticks value 256
+189573657	ID:20	Replaying DIO with fixed interval 
+189576297	ID:20	ticks value 256
+190536544	ID:21	Replaying DIO with fixed interval 
+190539184	ID:21	ticks value 256
+190706095	ID:18	Replaying DIO with fixed interval 
+190708735	ID:18	ticks value 256
+190711977	ID:19	Replaying DIO with fixed interval 
+190714617	ID:19	ticks value 256
+191582325	ID:20	Replaying DIO with fixed interval 
+191584995	ID:20	ticks value 256
+191667536	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
+191962133	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 10 at NodeID= 1
+192544357	ID:21	Replaying DIO with fixed interval 
+192546997	ID:21	ticks value 256
+192713908	ID:18	Replaying DIO with fixed interval 
+192716548	ID:18	ticks value 256
+192719647	ID:19	Replaying DIO with fixed interval 
+192722288	ID:19	ticks value 256
+193589282	ID:20	Replaying DIO with fixed interval 
+193591922	ID:20	ticks value 256
+194552169	ID:21	Replaying DIO with fixed interval 
+194554809	ID:21	ticks value 256
+194721720	ID:18	Replaying DIO with fixed interval 
+194724360	ID:18	ticks value 256
+194727460	ID:19	Replaying DIO with fixed interval 
+194730100	ID:19	ticks value 256
+195174756	ID:14	calling checkMalicious
+195177494	ID:14	Deactiavitng!!
+195597095	ID:20	Replaying DIO with fixed interval 
+195599735	ID:20	ticks value 256
+196559982	ID:21	Replaying DIO with fixed interval 
+196562622	ID:21	ticks value 256
+196729533	ID:18	Replaying DIO with fixed interval 
+196732173	ID:18	ticks value 256
+196735272	ID:19	Replaying DIO with fixed interval 
+196737913	ID:19	ticks value 256
+197604907	ID:20	Replaying DIO with fixed interval 
+197607547	ID:20	ticks value 256
+198567936	ID:21	Replaying DIO with fixed interval 
+198570576	ID:21	ticks value 256
+198697278	ID:3	calling checkMalicious
+198700875	ID:3	Deactiavitng!!
+198737487	ID:18	Replaying DIO with fixed interval 
+198740127	ID:18	ticks value 256
+198743085	ID:19	Replaying DIO with fixed interval 
+198745725	ID:19	ticks value 256
+198981576	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
+199612720	ID:20	Replaying DIO with fixed interval 
+199615360	ID:20	ticks value 256
+200575606	ID:21	Replaying DIO with fixed interval 
+200578247	ID:21	ticks value 256
+200736571	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
+200745157	ID:18	Replaying DIO with fixed interval 
+200747798	ID:18	ticks value 256
+200750897	ID:19	Replaying DIO with fixed interval 
+200753538	ID:19	ticks value 256
+201620674	ID:20	Replaying DIO with fixed interval 
+201623314	ID:20	ticks value 256
+202583419	ID:21	Replaying DIO with fixed interval 
+202586059	ID:21	ticks value 256
+202752970	ID:18	Replaying DIO with fixed interval 
+202755610	ID:18	ticks value 256
+202758710	ID:19	Replaying DIO with fixed interval 
+202761350	ID:19	ticks value 256
+203628344	ID:20	Replaying DIO with fixed interval 
+203630985	ID:20	ticks value 256
+203685702	ID:2	Sending DATA to 1 'Hello 3' with NodeID= 2
+203704615	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 2 at NodeID= 1
+204591231	ID:21	Replaying DIO with fixed interval 
+204593872	ID:21	ticks value 256
+204760783	ID:18	Replaying DIO with fixed interval 
+204763423	ID:18	ticks value 256
+204766528	ID:19	Replaying DIO with fixed interval 
+204769197	ID:19	ticks value 256
+205636157	ID:20	Replaying DIO with fixed interval 
+205638797	ID:20	ticks value 256
+206599044	ID:21	Replaying DIO with fixed interval 
+206601684	ID:21	ticks value 256
+206762319	ID:4	calling checkMalicious
+206765956	ID:4	Deactiavitng!!
+206768595	ID:18	Replaying DIO with fixed interval 
+206771235	ID:18	ticks value 256
+206774335	ID:19	Replaying DIO with fixed interval 
+206776975	ID:19	ticks value 256
+207017661	ID:15	Sending DATA to 1 'Hello 3' with NodeID= 15
+207643970	ID:20	Replaying DIO with fixed interval 
+207646610	ID:20	ticks value 256
+208606857	ID:21	Replaying DIO with fixed interval 
+208609497	ID:21	ticks value 256
+208776408	ID:18	Replaying DIO with fixed interval 
+208779048	ID:18	ticks value 256
+208782147	ID:19	Replaying DIO with fixed interval 
+208784788	ID:19	ticks value 256
+209005400	ID:5	Sending DATA to 1 'Hello 3' with NodeID= 5
+209651782	ID:20	Replaying DIO with fixed interval 
+209654301	ID:20	ticks value 256
+210614669	ID:21	Replaying DIO with fixed interval 
+210617309	ID:21	ticks value 256
+210784220	ID:18	Replaying DIO with fixed interval 
+210786860	ID:18	ticks value 256
+210789960	ID:19	Replaying DIO with fixed interval 
+210792600	ID:19	ticks value 256
+210963141	ID:6	antiCopycat called !!
+210964063	ID:6	Activating!!
+210969390	ID:15	antiCopycat called !!
+210970312	ID:15	Activating!!
+210978647	ID:10	antiCopycat called !!
+210979569	ID:10	Activating!!
+211013459	ID:1	antiCopycat called !!
+211014381	ID:1	Activating!!
+211058801	ID:5	antiCopycat called !!
+211059723	ID:5	Activating!!
+211155332	ID:7	antiCopycat called !!
+211156254	ID:7	Activating!!
+211221546	ID:13	antiCopycat called !!
+211222468	ID:13	Activating!!
+211235748	ID:12	antiCopycat called !!
+211236670	ID:12	Activating!!
+211563595	ID:14	antiCopycat called !!
+211564517	ID:14	Activating!!
+211580048	ID:11	antiCopycat called !!
+211580970	ID:11	Activating!!
+211582617	ID:2	antiCopycat called !!
+211583539	ID:2	Activating!!
+211635341	ID:16	antiCopycat called !!
+211636263	ID:16	Activating!!
+211650207	ID:8	antiCopycat called !!
+211651129	ID:8	Activating!!
+211659594	ID:20	Replaying DIO with fixed interval 
+211662235	ID:20	ticks value 256
+211663959	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
+211706199	ID:15	calling checkMalicious
+211709035	ID:15	Deactiavitng!!
+211715156	ID:10	calling checkMalicious
+211718849	ID:10	Deactiavitng!!
+211730176	ID:3	antiCopycat called !!
+211731098	ID:3	Activating!!
+211745341	ID:16	calling checkMalicious
+211751437	ID:16	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+211752500	ID:16	Deactiavitng!!
+211835202	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 4 at NodeID= 1
+211836613	ID:4	antiCopycat called !!
+211837535	ID:4	Activating!!
+212623337	ID:21	Replaying DIO with fixed interval 
+212626007	ID:21	ticks value 256
+212648281	ID:1	calling checkMalicious
+212655254	ID:1	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+212656316	ID:1	Deactiavitng!!
+212687808	ID:11	calling checkMalicious
+212691896	ID:2	calling checkMalicious
+212694241	ID:11	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+212695304	ID:11	Deactiavitng!!
+212698825	ID:2	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+212699887	ID:2	Deactiavitng!!
+212700479	ID:6	calling checkMalicious
+212703266	ID:6	Deactiavitng!!
+212716254	ID:3	calling checkMalicious
+212719781	ID:3	Deactiavitng!!
+212726766	ID:8	calling checkMalicious
+212733598	ID:8	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+212734823	ID:8	Deactiavitng!!
+212765591	ID:7	calling checkMalicious
+212769160	ID:7	Deactiavitng!!
+212792888	ID:18	Replaying DIO with fixed interval 
+212795558	ID:18	ticks value 256
+212798623	ID:19	Replaying DIO with fixed interval 
+212801263	ID:19	ticks value 256
+213558574	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
+213667407	ID:20	Replaying DIO with fixed interval 
+213670047	ID:20	ticks value 256
+214630294	ID:21	Replaying DIO with fixed interval 
+214632934	ID:21	ticks value 256
+214799845	ID:18	Replaying DIO with fixed interval 
+214802485	ID:18	ticks value 256
+214805727	ID:19	Replaying DIO with fixed interval 
+214808367	ID:19	ticks value 256
+215675225	ID:20	Replaying DIO with fixed interval 
+215677894	ID:20	ticks value 256
+215713510	ID:12	calling checkMalicious
+215717171	ID:12	Deactiavitng!!
+216638107	ID:21	Replaying DIO with fixed interval 
+216640747	ID:21	ticks value 256
+216807658	ID:18	Replaying DIO with fixed interval 
+216810298	ID:18	ticks value 256
+216813397	ID:19	Replaying DIO with fixed interval 
+216816038	ID:19	ticks value 256
+216923776	ID:14	calling checkMalicious
+216929888	ID:14	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+216930950	ID:14	Deactiavitng!!
+217683032	ID:20	Replaying DIO with fixed interval 
+217685672	ID:20	ticks value 256
+218558050	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
+218578105	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
+218645919	ID:21	Replaying DIO with fixed interval 
+218648559	ID:21	ticks value 256
+218815470	ID:18	Replaying DIO with fixed interval 
+218818110	ID:18	ticks value 256
+218821210	ID:19	Replaying DIO with fixed interval 
+218823850	ID:19	ticks value 256
+219690845	ID:20	Replaying DIO with fixed interval 
+219693485	ID:20	ticks value 256
+220653732	ID:21	Replaying DIO with fixed interval 
+220656372	ID:21	ticks value 256
+220823282	ID:18	Replaying DIO with fixed interval 
+220825923	ID:18	ticks value 256
+220829023	ID:19	Replaying DIO with fixed interval 
+220831663	ID:19	ticks value 256
+221698657	ID:20	Replaying DIO with fixed interval 
+221701297	ID:20	ticks value 256
+222542402	ID:5	calling checkMalicious
+222545095	ID:5	Deactiavitng!!
+222581515	ID:13	calling checkMalicious
+222584371	ID:13	Deactiavitng!!
+222661686	ID:21	Replaying DIO with fixed interval 
+222664326	ID:21	ticks value 256
+222831237	ID:18	Replaying DIO with fixed interval 
+222833877	ID:18	ticks value 256
+222836835	ID:19	Replaying DIO with fixed interval 
+222839475	ID:19	ticks value 256
+223707320	ID:20	Replaying DIO with fixed interval 
+223709960	ID:20	ticks value 256
+224669356	ID:21	Replaying DIO with fixed interval 
+224671997	ID:21	ticks value 256
+224838908	ID:18	Replaying DIO with fixed interval 
+224841548	ID:18	ticks value 256
+224844647	ID:19	Replaying DIO with fixed interval 
+224847167	ID:19	ticks value 256
+225714637	ID:20	Replaying DIO with fixed interval 
+225719382	ID:20	ticks value 256
+226532700	ID:17	calling checkMalicious
+226534716	ID:17	Deactiavitng!!
+226677169	ID:21	Replaying DIO with fixed interval 
+226679809	ID:21	ticks value 256
+226832280	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
+226846720	ID:18	Replaying DIO with fixed interval 
+226849360	ID:18	ticks value 256
+226852460	ID:19	Replaying DIO with fixed interval 
+226855100	ID:19	ticks value 256
+227722094	ID:20	Replaying DIO with fixed interval 
+227724735	ID:20	ticks value 256
+228484775	ID:11	Sending DATA to 1 'Hello 3' with NodeID= 11
+228684982	ID:21	Replaying DIO with fixed interval 
+228687622	ID:21	ticks value 256
+228854533	ID:18	Replaying DIO with fixed interval 
+228857173	ID:18	ticks value 256
+228860278	ID:19	Replaying DIO with fixed interval 
+228862947	ID:19	ticks value 256
+229729907	ID:20	Replaying DIO with fixed interval 
+229732547	ID:20	ticks value 256
+230692794	ID:21	Replaying DIO with fixed interval 
+230695434	ID:21	ticks value 256
+230862345	ID:18	Replaying DIO with fixed interval 
+230864985	ID:18	ticks value 256
+230868085	ID:19	Replaying DIO with fixed interval 
+230870725	ID:19	ticks value 256
+231652530	ID:9	calling checkMalicious
+231655168	ID:9	Deactiavitng!!
+231737719	ID:20	Replaying DIO with fixed interval 
+231740360	ID:20	ticks value 256
+232362715	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
+232700607	ID:21	Replaying DIO with fixed interval 
+232703247	ID:21	ticks value 256
+232870157	ID:18	Replaying DIO with fixed interval 
+232872798	ID:18	ticks value 256
+232875898	ID:19	Replaying DIO with fixed interval 
+232878538	ID:19	ticks value 256
+233745532	ID:20	Replaying DIO with fixed interval 
+233748172	ID:20	ticks value 256
+234708419	ID:21	Replaying DIO with fixed interval 
+234711059	ID:21	ticks value 256
+234877970	ID:18	Replaying DIO with fixed interval 
+234880610	ID:18	ticks value 256
+234883710	ID:19	Replaying DIO with fixed interval 
+234886350	ID:19	ticks value 256
+235753345	ID:20	Replaying DIO with fixed interval 
+235755985	ID:20	ticks value 256
+236716237	ID:21	Replaying DIO with fixed interval 
+236718906	ID:21	ticks value 256
+236885788	ID:18	Replaying DIO with fixed interval 
+236888457	ID:18	ticks value 256
+236891522	ID:19	Replaying DIO with fixed interval 
+236894163	ID:19	ticks value 256
+236992517	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
+237210839	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 7 at NodeID= 1
+237761157	ID:20	Replaying DIO with fixed interval 
+237763797	ID:20	ticks value 256
+238125210	ID:8	Sending DATA to 1 'Hello 3' with NodeID= 8
+238334218	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 8 at NodeID= 1
+238724044	ID:21	Replaying DIO with fixed interval 
+238726684	ID:21	ticks value 256
+238893595	ID:18	Replaying DIO with fixed interval 
+238896235	ID:18	ticks value 256
+238899477	ID:19	Replaying DIO with fixed interval 
+238902117	ID:19	ticks value 256
+239533704	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
+239768975	ID:20	Replaying DIO with fixed interval 
+239771644	ID:20	ticks value 256
+240731857	ID:21	Replaying DIO with fixed interval 
+240734497	ID:21	ticks value 256
+240901407	ID:18	Replaying DIO with fixed interval 
+240904048	ID:18	ticks value 256
+240907147	ID:19	Replaying DIO with fixed interval 
+240909788	ID:19	ticks value 256
+240973188	ID:15	antiCopycat called !!
+240974110	ID:15	Activating!!
+240977980	ID:6	antiCopycat called !!
+240978902	ID:6	Activating!!
+240997841	ID:10	antiCopycat called !!
+240998763	ID:10	Activating!!
+241013459	ID:1	antiCopycat called !!
+241014381	ID:1	Activating!!
+241059118	ID:5	antiCopycat called !!
+241060040	ID:5	Activating!!
+241168119	ID:9	antiCopycat called !!
+241169041	ID:9	Activating!!
+241173011	ID:17	antiCopycat called !!
+241173320	ID:7	antiCopycat called !!
+241173933	ID:17	Activating!!
+241174242	ID:7	Activating!!
+241221835	ID:13	antiCopycat called !!
+241222757	ID:13	Activating!!
+241228847	ID:12	antiCopycat called !!
+241229769	ID:12	Activating!!
+241323424	ID:6	calling checkMalicious
+241326346	ID:6	Deactiavitng!!
+241336608	ID:10	calling checkMalicious
+241340224	ID:10	Deactiavitng!!
+241527436	ID:9	calling checkMalicious
+241530130	ID:9	Deactiavitng!!
+241563874	ID:14	antiCopycat called !!
+241564796	ID:14	Activating!!
+241597840	ID:2	antiCopycat called !!
+241598762	ID:2	Activating!!
+241616201	ID:8	antiCopycat called !!
+241617123	ID:8	Activating!!
+241628468	ID:11	antiCopycat called !!
+241629390	ID:11	Activating!!
+241635648	ID:16	antiCopycat called !!
+241636570	ID:16	Activating!!
+241713342	ID:3	antiCopycat called !!
+241714264	ID:3	Activating!!
+241776782	ID:20	Replaying DIO with fixed interval 
+241779422	ID:20	ticks value 256
+241832496	ID:15	calling checkMalicious
+241839460	ID:15	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+241840523	ID:15	Deactiavitng!!
+241841693	ID:12	calling checkMalicious
+241845251	ID:12	Deactiavitng!!
+241891978	ID:7	calling checkMalicious
+241898383	ID:7	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+241899446	ID:7	Deactiavitng!!
+242739669	ID:21	Replaying DIO with fixed interval 
+242742309	ID:21	ticks value 256
+242800662	ID:14	calling checkMalicious
+242803540	ID:14	Deactiavitng!!
+242813954	ID:11	calling checkMalicious
+242814331	ID:4	Sending DATA to 1 'Hello 4' with NodeID= 4
+242817537	ID:11	Deactiavitng!!
+242909220	ID:18	Replaying DIO with fixed interval 
+242911860	ID:18	ticks value 256
+242914960	ID:19	Replaying DIO with fixed interval 
+242917600	ID:19	ticks value 256
+242964470	ID:1	calling checkMalicious
+242967987	ID:1	Deactiavitng!!
+242994658	ID:16	calling checkMalicious
+242997631	ID:16	Deactiavitng!!
+243081240	ID:13	calling checkMalicious
+243083988	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 4 at NodeID= 1
+243084021	ID:13	Deactiavitng!!
+243744214	ID:15	Sending DATA to 1 'Hello 4' with NodeID= 15
+243784595	ID:20	Replaying DIO with fixed interval 
+243787235	ID:20	ticks value 256
+244748403	ID:21	Replaying DIO with fixed interval 
+244750923	ID:21	ticks value 256
+244917883	ID:18	Replaying DIO with fixed interval 
+244920523	ID:18	ticks value 256
+244923623	ID:19	Replaying DIO with fixed interval 
+244926263	ID:19	ticks value 256
+244943026	ID:2	calling checkMalicious
+244946625	ID:2	Deactiavitng!!
+245698522	ID:3	calling checkMalicious
+245702088	ID:3	Deactiavitng!!
+245792407	ID:20	Replaying DIO with fixed interval 
+245794927	ID:20	ticks value 256
+246755790	ID:21	Replaying DIO with fixed interval 
+246759538	ID:21	ticks value 256
+246924987	ID:18	Replaying DIO with fixed interval 
+246927627	ID:18	ticks value 256
+246931013	ID:19	Replaying DIO with fixed interval 
+246935545	ID:19	ticks value 256
+247981414	ID:20	Replaying DIO with fixed interval 
+247984212	ID:20	ticks value 256
+248545933	ID:5	calling checkMalicious
+248548622	ID:5	Deactiavitng!!
+248763106	ID:21	Replaying DIO with fixed interval 
+248765747	ID:21	ticks value 256
+248854145	ID:8	calling checkMalicious
+248857949	ID:8	Deactiavitng!!
+248932657	ID:18	Replaying DIO with fixed interval 
+248935298	ID:18	ticks value 256
+248938397	ID:19	Replaying DIO with fixed interval 
+248941038	ID:19	ticks value 256
+249987725	ID:20	Replaying DIO with fixed interval 
+249990394	ID:20	ticks value 256
+250770919	ID:21	Replaying DIO with fixed interval 
+250773438	ID:21	ticks value 256
+250940470	ID:18	Replaying DIO with fixed interval 
+250944221	ID:18	ticks value 256
+250946210	ID:19	Replaying DIO with fixed interval 
+250948850	ID:19	ticks value 256
+251292418	ID:3	Sending DATA to 1 'Hello 4' with NodeID= 3
+251328045	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 3 at NodeID= 1
+251995532	ID:20	Replaying DIO with fixed interval 
+251998172	ID:20	ticks value 256
+252778732	ID:21	Replaying DIO with fixed interval 
+252781372	ID:21	ticks value 256
+252948283	ID:18	Replaying DIO with fixed interval 
+252950923	ID:18	ticks value 256
+252954028	ID:19	Replaying DIO with fixed interval 
+252956697	ID:19	ticks value 256
+254003344	ID:20	Replaying DIO with fixed interval 
+254005985	ID:20	ticks value 256
+254786544	ID:21	Replaying DIO with fixed interval 
+254789184	ID:21	ticks value 256
+254956095	ID:18	Replaying DIO with fixed interval 
+254958735	ID:18	ticks value 256
+254961835	ID:19	Replaying DIO with fixed interval 
+254964475	ID:19	ticks value 256
+255164485	ID:11	Sending DATA to 1 'Hello 4' with NodeID= 11
+256011157	ID:20	Replaying DIO with fixed interval 
+256013797	ID:20	ticks value 256
+256698793	ID:6	Sending DATA to 1 'Hello 4' with NodeID= 6
+256718010	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 6 at NodeID= 1
+256794356	ID:21	Replaying DIO with fixed interval 
+256796997	ID:21	ticks value 256
+256963908	ID:18	Replaying DIO with fixed interval 
+256966548	ID:18	ticks value 256
+256969648	ID:19	Replaying DIO with fixed interval 
+256972288	ID:19	ticks value 256
+257083377	ID:9	Sending DATA to 1 'Hello 4' with NodeID= 9
+258018969	ID:20	Replaying DIO with fixed interval 
+258021610	ID:20	ticks value 256
+258802169	ID:21	Replaying DIO with fixed interval 
+258804809	ID:21	ticks value 256
+258971720	ID:18	Replaying DIO with fixed interval 
+258974360	ID:18	ticks value 256
+258977460	ID:19	Replaying DIO with fixed interval 
+258980100	ID:19	ticks value 256
+260026924	ID:20	Replaying DIO with fixed interval 
+260029564	ID:20	ticks value 256
+260809987	ID:21	Replaying DIO with fixed interval 
+260812656	ID:21	ticks value 256
+260979538	ID:18	Replaying DIO with fixed interval 
+260982207	ID:18	ticks value 256
+260985273	ID:19	Replaying DIO with fixed interval 
+260987913	ID:19	ticks value 256
+262034629	ID:20	Replaying DIO with fixed interval 
+262037269	ID:20	ticks value 256
+262817794	ID:21	Replaying DIO with fixed interval 
+262820434	ID:21	ticks value 256
+262987345	ID:18	Replaying DIO with fixed interval 
+262989985	ID:18	ticks value 256
+262993227	ID:19	Replaying DIO with fixed interval 
+262995867	ID:19	ticks value 256
+264042408	ID:20	Replaying DIO with fixed interval 
+264045048	ID:20	ticks value 256
+264825606	ID:21	Replaying DIO with fixed interval 
+264828247	ID:21	ticks value 256
+264995157	ID:18	Replaying DIO with fixed interval 
+264997798	ID:18	ticks value 256
+265000898	ID:19	Replaying DIO with fixed interval 
+265003538	ID:19	ticks value 256
+265268071	ID:14	Sending DATA to 1 'Hello 4' with NodeID= 14
+266050219	ID:20	Replaying DIO with fixed interval 
+266052860	ID:20	ticks value 256
+266369622	ID:17	Sending DATA to 1 'Hello 4' with NodeID= 17
+266833419	ID:21	Replaying DIO with fixed interval 
+266836059	ID:21	ticks value 256
+267002970	ID:18	Replaying DIO with fixed interval 
+267005610	ID:18	ticks value 256
+267008710	ID:19	Replaying DIO with fixed interval 
+267011350	ID:19	ticks value 256
+268058032	ID:20	Replaying DIO with fixed interval 
+268060672	ID:20	ticks value 256
+268841232	ID:21	Replaying DIO with fixed interval 
+268843872	ID:21	ticks value 256
+269010782	ID:18	Replaying DIO with fixed interval 
+269013423	ID:18	ticks value 256
+269016522	ID:19	Replaying DIO with fixed interval 
+269019163	ID:19	ticks value 256
+270065844	ID:20	Replaying DIO with fixed interval 
+270068485	ID:20	ticks value 256
+270849185	ID:21	Replaying DIO with fixed interval 
+270851826	ID:21	ticks value 256
+270963132	ID:6	antiCopycat called !!
+270964054	ID:6	Activating!!
+270973362	ID:15	antiCopycat called !!
+270974284	ID:15	Activating!!
+270978675	ID:10	antiCopycat called !!
+270979597	ID:10	Activating!!
+271013450	ID:1	antiCopycat called !!
+271014372	ID:1	Activating!!
+271018737	ID:18	Replaying DIO with fixed interval 
+271021377	ID:18	ticks value 256
+271024335	ID:19	Replaying DIO with fixed interval 
+271026975	ID:19	ticks value 256
+271058847	ID:5	antiCopycat called !!
+271059769	ID:5	Activating!!
+271155323	ID:7	antiCopycat called !!
+271156245	ID:7	Activating!!
+271167792	ID:9	antiCopycat called !!
+271168714	ID:9	Activating!!
+271221556	ID:13	antiCopycat called !!
+271222478	ID:13	Activating!!
+271228539	ID:12	antiCopycat called !!
+271229461	ID:12	Activating!!
+271563567	ID:14	antiCopycat called !!
+271564489	ID:14	Activating!!
+271577129	ID:11	antiCopycat called !!
+271578051	ID:11	Activating!!
+271582654	ID:2	antiCopycat called !!
+271583576	ID:2	Activating!!
+271611634	ID:16	Sending DATA to 1 'Hello 4' with NodeID= 16
+271615913	ID:8	antiCopycat called !!
+271616835	ID:8	Activating!!
+271713007	ID:3	antiCopycat called !!
+271713929	ID:3	Activating!!
+272036424	ID:16	antiCopycat called !!
+272037346	ID:16	Activating!!
+272049598	ID:14	calling checkMalicious
+272052408	ID:14	Deactiavitng!!
+272066876	ID:2	calling checkMalicious
+272070519	ID:2	Deactiavitng!!
+272073657	ID:20	Replaying DIO with fixed interval 
+272075539	ID:6	calling checkMalicious
+272076297	ID:20	ticks value 256
+272078336	ID:6	Deactiavitng!!
+272338191	ID:10	calling checkMalicious
+272344566	ID:10	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+272345628	ID:10	Deactiavitng!!
+272856857	ID:21	Replaying DIO with fixed interval 
+272859497	ID:21	ticks value 256
+272955938	ID:15	calling checkMalicious
+272959411	ID:15	Deactiavitng!!
+273026408	ID:18	Replaying DIO with fixed interval 
+273029048	ID:18	ticks value 256
+273032148	ID:19	Replaying DIO with fixed interval 
+273034788	ID:19	ticks value 256
+273965010	ID:12	calling checkMalicious
+273968627	ID:12	Deactiavitng!!
+274082603	ID:20	Replaying DIO with fixed interval 
+274085675	ID:20	ticks value 256
+274190019	ID:11	calling checkMalicious
+274193576	ID:11	Deactiavitng!!
+274246282	ID:16	calling checkMalicious
+274249051	ID:16	Deactiavitng!!
+274864669	ID:21	Replaying DIO with fixed interval 
+274867309	ID:21	ticks value 256
+275034220	ID:18	Replaying DIO with fixed interval 
+275036860	ID:18	ticks value 256
+275039960	ID:19	Replaying DIO with fixed interval 
+275042600	ID:19	ticks value 256
+275142237	ID:7	calling checkMalicious
+275149291	ID:7	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+275150353	ID:7	Deactiavitng!!
+275175626	ID:10	Sending DATA to 1 'Hello 4' with NodeID= 10
+275191662	ID:13	Sending DATA to 1 'Hello 4' with NodeID= 13
+275632711	ID:1	calling checkMalicious
+275636113	ID:1	Deactiavitng!!
+275701089	ID:2	Sending DATA to 1 'Hello 4' with NodeID= 2
+275956589	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 2 at NodeID= 1
+276089660	ID:20	Replaying DIO with fixed interval 
+276092300	ID:20	ticks value 256
+276873169	ID:21	Replaying DIO with fixed interval 
+276876136	ID:21	ticks value 256
+277042954	ID:18	Replaying DIO with fixed interval 
+277045474	ID:18	ticks value 256
+277048628	ID:19	Replaying DIO with fixed interval 
+277051298	ID:19	ticks value 256
+278097094	ID:20	Replaying DIO with fixed interval 
+278099735	ID:20	ticks value 256
+278849157	ID:5	Sending DATA to 1 'Hello 4' with NodeID= 5
+278882623	ID:21	Replaying DIO with fixed interval 
+278885264	ID:21	ticks value 256
+279050224	ID:18	Replaying DIO with fixed interval 
+279052865	ID:18	ticks value 256
+279055585	ID:19	Replaying DIO with fixed interval 
+279058225	ID:19	ticks value 256
+279337092	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 5 at NodeID= 1
+279586449	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 10 at NodeID= 1
+279878336	ID:12	Sending DATA to 1 'Hello 4' with NodeID= 12
+279921847	ID:8	Sending DATA to 1 'Hello 4' with NodeID= 8
+280104907	ID:20	Replaying DIO with fixed interval 
+280107547	ID:20	ticks value 256
+280726885	ID:7	Sending DATA to 1 'Hello 4' with NodeID= 7
+280835345	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 7 at NodeID= 1
+280888107	ID:21	Replaying DIO with fixed interval 
+280890747	ID:21	ticks value 256
+281057657	ID:18	Replaying DIO with fixed interval 
+281060298	ID:18	ticks value 256
+281063398	ID:19	Replaying DIO with fixed interval 
+281065917	ID:19	ticks value 256
+282112720	ID:20	Replaying DIO with fixed interval 
+282115360	ID:20	ticks value 256
+282835269	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 8 at NodeID= 1
+282895919	ID:21	Replaying DIO with fixed interval 
+282898560	ID:21	ticks value 256
+283065470	ID:18	Replaying DIO with fixed interval 
+283068110	ID:18	ticks value 256
+283071210	ID:19	Replaying DIO with fixed interval 
+283073739	ID:19	ticks value 256
+283456638	ID:13	calling checkMalicious
+283459349	ID:13	Deactiavitng!!
+284120674	ID:20	Replaying DIO with fixed interval 
+284123314	ID:20	ticks value 256
+284824635	ID:3	calling checkMalicious
+284828211	ID:3	Deactiavitng!!
+284852333	ID:8	calling checkMalicious
+284858816	ID:8	Node fe80::c30c:0:0:14 is PERMANENTLY BLOCKED!!
+284859963	ID:8	Deactiavitng!!
+284884417	ID:4	calling checkMalicious
+284887861	ID:4	Deactiavitng!!
+284903737	ID:21	Replaying DIO with fixed interval 
+284906416	ID:21	ticks value 256
+285073288	ID:18	Replaying DIO with fixed interval 
+285075850	ID:18	ticks value 256
+285079023	ID:19	Replaying DIO with fixed interval 
+285081663	ID:19	ticks value 256
+286128344	ID:20	Replaying DIO with fixed interval 
+286130985	ID:20	ticks value 256
+286911544	ID:21	Replaying DIO with fixed interval 
+286914185	ID:21	ticks value 256
+287081095	ID:18	Replaying DIO with fixed interval 
+287083735	ID:18	ticks value 256
+287086977	ID:19	Replaying DIO with fixed interval 
+287089617	ID:19	ticks value 256
+288136157	ID:20	Replaying DIO with fixed interval 
+288138797	ID:20	ticks value 256
+288919357	ID:21	Replaying DIO with fixed interval 
+288921997	ID:21	ticks value 256
+289088907	ID:18	Replaying DIO with fixed interval 
+289091548	ID:18	ticks value 256
+289094648	ID:19	Replaying DIO with fixed interval 
+289097288	ID:19	ticks value 256
+290143970	ID:20	Replaying DIO with fixed interval 
+290146610	ID:20	ticks value 256
+290927169	ID:21	Replaying DIO with fixed interval 
+290929809	ID:21	ticks value 256
+291096720	ID:18	Replaying DIO with fixed interval 
+291099360	ID:18	ticks value 256
+291102460	ID:19	Replaying DIO with fixed interval 
+291104979	ID:19	ticks value 256
+292151782	ID:20	Replaying DIO with fixed interval 
+292154422	ID:20	ticks value 256
+292934981	ID:21	Replaying DIO with fixed interval 
+292937622	ID:21	ticks value 256
+293104532	ID:18	Replaying DIO with fixed interval 
+293107173	ID:18	ticks value 256
+293110272	ID:19	Replaying DIO with fixed interval 
+293112913	ID:19	ticks value 256
+294159595	ID:20	Replaying DIO with fixed interval 
+294162235	ID:20	ticks value 256
+294942943	ID:21	Replaying DIO with fixed interval 
+294945584	ID:21	ticks value 256
+295112487	ID:18	Replaying DIO with fixed interval 
+295115127	ID:18	ticks value 256
+295118085	ID:19	Replaying DIO with fixed interval 
+295120604	ID:19	ticks value 256
+296167407	ID:20	Replaying DIO with fixed interval 
+296170047	ID:20	ticks value 256
+296950607	ID:21	Replaying DIO with fixed interval 
+296953247	ID:21	ticks value 256
+297125898	ID:19	Replaying DIO with fixed interval 
+297128538	ID:19	ticks value 256
+297256633	ID:18	Replaying DIO with fixed interval 
+297259441	ID:18	ticks value 256
+298175225	ID:20	Replaying DIO with fixed interval 
+298177894	ID:20	ticks value 256
+298958419	ID:21	Replaying DIO with fixed interval 
+298961060	ID:21	ticks value 256
+299133710	ID:19	Replaying DIO with fixed interval 
+299136350	ID:19	ticks value 256
+299268595	ID:18	Replaying DIO with fixed interval 
+299271236	ID:18	ticks value 256
+300183032	ID:20	Replaying DIO with fixed interval 
+300185672	ID:20	ticks value 256
+300963467	ID:6	antiCopycat called !!
+300964389	ID:6	Activating!!
+300966232	ID:21	Replaying DIO with fixed interval 
+300968872	ID:21	ticks value 256
+300969735	ID:15	antiCopycat called !!
+300970657	ID:15	Activating!!
+300990397	ID:10	antiCopycat called !!
+300991319	ID:10	Activating!!
+301013459	ID:1	antiCopycat called !!
+301014381	ID:1	Activating!!
+301141528	ID:19	Replaying DIO with fixed interval 
+301144197	ID:19	ticks value 256
+301155603	ID:7	antiCopycat called !!
+301156525	ID:7	Activating!!
+301203792	ID:15	calling checkMalicious
+301207369	ID:15	Deactiavitng!!
+301221835	ID:13	antiCopycat called !!
+301222757	ID:13	Activating!!
+301229958	ID:12	antiCopycat called !!
+301230880	ID:12	Activating!!
+301265089	ID:7	calling checkMalicious
+301271910	ID:7	Node fe80::c30c:0:0:13 is suspected to be MALICIOUS!!
+301273138	ID:7	Deactiavitng!!
+301276408	ID:18	Replaying DIO with fixed interval 
+301279048	ID:18	ticks value 256
+301338435	ID:12	calling checkMalicious
+301338572	ID:10	calling checkMalicious
+301341357	ID:10	Deactiavitng!!
+301342074	ID:12	Deactiavitng!!
+301445312	ID:1	calling checkMalicious
+301449839	ID:6	calling checkMalicious
+301451964	ID:1	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+301453158	ID:1	Deactiavitng!!
+301455512	ID:6	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+301456575	ID:6	Deactiavitng!!
+301563892	ID:14	antiCopycat called !!
+301564814	ID:14	Activating!!
+301582952	ID:2	antiCopycat called !!
+301583874	ID:2	Activating!!
+301616211	ID:8	antiCopycat called !!
+301617133	ID:8	Activating!!
+301645195	ID:16	antiCopycat called !!
+301646117	ID:16	Activating!!
+301653405	ID:11	antiCopycat called !!
+301654327	ID:11	Activating!!
+301672928	ID:14	calling checkMalicious
+301675849	ID:14	Deactiavitng!!
+301713342	ID:3	antiCopycat called !!
+301714264	ID:3	Activating!!
+301774308	ID:4	antiCopycat called !!
+301775230	ID:4	Activating!!
+301944015	ID:2	calling checkMalicious
+301950808	ID:2	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+301954875	ID:2	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+301955937	ID:2	Deactiavitng!!
+302101246	ID:8	calling checkMalicious
+302104823	ID:8	Deactiavitng!!
+302190845	ID:20	Replaying DIO with fixed interval 
+302193485	ID:20	ticks value 256
+302197260	ID:3	calling checkMalicious
+302204093	ID:3	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+302205156	ID:3	Deactiavitng!!
+302621163	ID:16	calling checkMalicious
+302624776	ID:16	Deactiavitng!!
+302974044	ID:21	Replaying DIO with fixed interval 
+302976684	ID:21	ticks value 256
+303149335	ID:19	Replaying DIO with fixed interval 
+303151975	ID:19	ticks value 256
+303284220	ID:18	Replaying DIO with fixed interval 
+303286860	ID:18	ticks value 256
+303563357	ID:11	calling checkMalicious
+303566946	ID:11	Deactiavitng!!
+304198657	ID:20	Replaying DIO with fixed interval 
+304201297	ID:20	ticks value 256
+304981856	ID:21	Replaying DIO with fixed interval 
+304984497	ID:21	ticks value 256
+305157148	ID:19	Replaying DIO with fixed interval 
+305159788	ID:19	ticks value 256
+305292888	ID:18	Replaying DIO with fixed interval 
+305295568	ID:18	ticks value 256
+306207156	ID:20	Replaying DIO with fixed interval 
+306210157	ID:20	ticks value 256
+306989669	ID:21	Replaying DIO with fixed interval 
+306992309	ID:21	ticks value 256
+307164960	ID:19	Replaying DIO with fixed interval 
+307167479	ID:19	ticks value 256
+307302085	ID:18	Replaying DIO with fixed interval 
+307305605	ID:18	ticks value 256
+308214424	ID:20	Replaying DIO with fixed interval 
+308217064	ID:20	ticks value 256
+308331426	ID:13	calling checkMalicious
+308334375	ID:13	Deactiavitng!!
+308998337	ID:21	Replaying DIO with fixed interval 
+309001007	ID:21	ticks value 256
+309173459	ID:19	Replaying DIO with fixed interval 
+309178239	ID:19	ticks value 256
+309307657	ID:18	Replaying DIO with fixed interval 
+309310298	ID:18	ticks value 256
+310222094	ID:20	Replaying DIO with fixed interval 
+310224735	ID:20	ticks value 256
+311005294	ID:21	Replaying DIO with fixed interval 
+311007934	ID:21	ticks value 256
+311180727	ID:19	Replaying DIO with fixed interval 
+311183367	ID:19	ticks value 256
+311315470	ID:18	Replaying DIO with fixed interval 
+311318110	ID:18	ticks value 256
+312229907	ID:20	Replaying DIO with fixed interval 
+312232547	ID:20	ticks value 256
+313013107	ID:21	Replaying DIO with fixed interval 
+313015747	ID:21	ticks value 256
+313188397	ID:19	Replaying DIO with fixed interval 
+313191038	ID:19	ticks value 256
+313323283	ID:18	Replaying DIO with fixed interval 
+313325923	ID:18	ticks value 256
+313896025	ID:5	Sending DATA to 1 'Hello 5' with NodeID= 5
+314237720	ID:20	Replaying DIO with fixed interval 
+314240360	ID:20	ticks value 256
+314711551	ID:1	Received DATA recv 'Hello 5 from the client abhive' from 5 at NodeID= 1
+315020919	ID:21	Replaying DIO with fixed interval 
+315023559	ID:21	ticks value 256
+315196210	ID:19	Replaying DIO with fixed interval 
+315198850	ID:19	ticks value 256
+315331095	ID:18	Replaying DIO with fixed interval 
+315333736	ID:18	ticks value 256
+315782678	ID:17	calling checkMalicious
+315784695	ID:17	Deactiavitng!!
+316245532	ID:20	Replaying DIO with fixed interval 
+316248172	ID:20	ticks value 256
+316510882	ID:4	calling checkMalicious
+316514328	ID:4	Deactiavitng!!
+316529175	ID:9	calling checkMalicious
+316531868	ID:9	Deactiavitng!!
+316543556	ID:5	calling checkMalicious
+316546340	ID:5	Deactiavitng!!
+317028731	ID:21	Replaying DIO with fixed interval 
+317031372	ID:21	ticks value 256
+317204023	ID:19	Replaying DIO with fixed interval 
+317206663	ID:19	ticks value 256
+317338907	ID:18	Replaying DIO with fixed interval 
+317341548	ID:18	ticks value 256
+318253344	ID:20	Replaying DIO with fixed interval 
+318255985	ID:20	ticks value 256
+318394750	ID:16	Sending DATA to 1 'Hello 5' with NodeID= 16
+319036686	ID:21	Replaying DIO with fixed interval 
+319039326	ID:21	ticks value 256
+319211835	ID:19	Replaying DIO with fixed interval 
+319214475	ID:19	ticks value 256
+319346720	ID:18	Replaying DIO with fixed interval 
+319349360	ID:18	ticks value 256
+319516018	ID:11	Sending DATA to 1 'Hello 5' with NodeID= 11
+320261157	ID:20	Replaying DIO with fixed interval 
+320263797	ID:20	ticks value 256
+321044356	ID:21	Replaying DIO with fixed interval 
+321046997	ID:21	ticks value 256
+321219648	ID:19	Replaying DIO with fixed interval 
+321222288	ID:19	ticks value 256
+321354537	ID:18	Replaying DIO with fixed interval 
+321357217	ID:18	ticks value 256
+322268975	ID:20	Replaying DIO with fixed interval 
+322271644	ID:20	ticks value 256
+323052169	ID:21	Replaying DIO with fixed interval 
+323054809	ID:21	ticks value 256
+323227460	ID:19	Replaying DIO with fixed interval 
+323230100	ID:19	ticks value 256
+323362345	ID:18	Replaying DIO with fixed interval 
+323364985	ID:18	ticks value 256
+324276782	ID:20	Replaying DIO with fixed interval 
+324279422	ID:20	ticks value 256
+325059981	ID:21	Replaying DIO with fixed interval 
+325062622	ID:21	ticks value 256
+325235278	ID:19	Replaying DIO with fixed interval 
+325237947	ID:19	ticks value 256
+325370158	ID:18	Replaying DIO with fixed interval 
+325372798	ID:18	ticks value 256
+326284595	ID:20	Replaying DIO with fixed interval 
+326287235	ID:20	ticks value 256
+327067794	ID:21	Replaying DIO with fixed interval 
+327070434	ID:21	ticks value 256
+327243085	ID:19	Replaying DIO with fixed interval 
+327245725	ID:19	ticks value 256
+327377970	ID:18	Replaying DIO with fixed interval 
+327380610	ID:18	ticks value 256
+328292407	ID:20	Replaying DIO with fixed interval 
+328295047	ID:20	ticks value 256
+329075641	ID:21	Replaying DIO with fixed interval 
+329078281	ID:21	ticks value 256
+329250898	ID:19	Replaying DIO with fixed interval 
+329253538	ID:19	ticks value 256
+329385782	ID:18	Replaying DIO with fixed interval 
+329388423	ID:18	ticks value 256
+330300219	ID:20	Replaying DIO with fixed interval 
+330302860	ID:20	ticks value 256
+330455316	ID:17	Sending DATA to 1 'Hello 5' with NodeID= 17
+330963169	ID:6	antiCopycat called !!
+330964091	ID:6	Activating!!
+330969427	ID:15	antiCopycat called !!
+330970349	ID:15	Activating!!
+330978684	ID:10	antiCopycat called !!
+330979606	ID:10	Activating!!
+331013459	ID:1	antiCopycat called !!
+331014381	ID:1	Activating!!
+331058810	ID:5	antiCopycat called !!
+331059732	ID:5	Activating!!
+331083420	ID:21	Replaying DIO with fixed interval 
+331086060	ID:21	ticks value 256
+331156234	ID:7	antiCopycat called !!
+331157156	ID:7	Activating!!
+331167839	ID:9	antiCopycat called !!
+331168761	ID:9	Activating!!
+331172675	ID:17	antiCopycat called !!
+331173597	ID:17	Activating!!
+331204096	ID:15	calling checkMalicious
+331210372	ID:15	Node fe80::c30c:0:0:14 is PERMANENTLY BLOCKED!!
+331211577	ID:15	Deactiavitng!!
+331229441	ID:13	antiCopycat called !!
+331230363	ID:13	Activating!!
+331258710	ID:19	Replaying DIO with fixed interval 
+331261350	ID:19	ticks value 256
+331261446	ID:12	antiCopycat called !!
+331262368	ID:12	Activating!!
+331392444	ID:7	calling checkMalicious
+331393746	ID:18	Replaying DIO with fixed interval 
+331396200	ID:7	Deactiavitng!!
+331396386	ID:18	ticks value 256
+331414378	ID:1	calling checkMalicious
+331420825	ID:1	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+331421887	ID:1	Deactiavitng!!
+331563594	ID:14	antiCopycat called !!
+331564516	ID:14	Activating!!
+331577119	ID:11	antiCopycat called !!
+331578041	ID:11	Activating!!
+331579956	ID:4	Sending DATA to 1 'Hello 5' with NodeID= 4
+331582645	ID:2	antiCopycat called !!
+331583567	ID:2	Activating!!
+331605043	ID:6	Sending DATA to 1 'Hello 5' with NodeID= 6
+331617882	ID:8	antiCopycat called !!
+331618804	ID:8	Activating!!
+331635303	ID:16	antiCopycat called !!
+331636225	ID:16	Activating!!
+331713044	ID:3	antiCopycat called !!
+331713966	ID:3	Activating!!
+331729043	ID:1	Received DATA recv 'Hello 5 from the client abhive' from 6 at NodeID= 1
+331962263	ID:1	Received DATA recv 'Hello 5 from the client abhive' from 4 at NodeID= 1
+331979941	ID:4	antiCopycat called !!
+331980863	ID:4	Activating!!
+332308174	ID:20	Replaying DIO with fixed interval 
+332310814	ID:20	ticks value 256
+332337614	ID:10	calling checkMalicious
+332340471	ID:10	Deactiavitng!!
+332551249	ID:14	calling checkMalicious
+332554133	ID:14	Deactiavitng!!
+333091237	ID:21	Replaying DIO with fixed interval 
+333093906	ID:21	ticks value 256
+333120649	ID:16	calling checkMalicious
+333124149	ID:16	Deactiavitng!!
+333130021	ID:9	Sending DATA to 1 'Hello 5' with NodeID= 9
+333266522	ID:19	Replaying DIO with fixed interval 
+333269163	ID:19	ticks value 256
+333401407	ID:18	Replaying DIO with fixed interval 
+333404048	ID:18	ticks value 256
+333442150	ID:2	calling checkMalicious
+333448948	ID:2	Node fe80::c30c:0:0:13 is suspected to be MALICIOUS!!
+333450205	ID:2	Deactiavitng!!
+333450593	ID:6	calling checkMalicious
+333450797	ID:3	calling checkMalicious
+333456868	ID:6	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+333457529	ID:3	Node fe80::c30c:0:0:12 is suspected to be MALICIOUS!!
+333457930	ID:6	Deactiavitng!!
+333458657	ID:3	Deactiavitng!!
+334315845	ID:20	Replaying DIO with fixed interval 
+334318485	ID:20	ticks value 256
+334341363	ID:12	calling checkMalicious
+334347897	ID:12	Node fe80::c30c:0:0:15 is PERMANENTLY BLOCKED!!
+334348959	ID:12	Deactiavitng!!
+334436595	ID:11	calling checkMalicious
+334443389	ID:11	Node fe80::c30c:0:0:13 is suspected to be MALICIOUS!!
+334444516	ID:11	Deactiavitng!!
+335099044	ID:21	Replaying DIO with fixed interval 
+335101684	ID:21	ticks value 256
+335274477	ID:19	Replaying DIO with fixed interval 
+335277117	ID:19	ticks value 256
+335409220	ID:18	Replaying DIO with fixed interval 
+335411860	ID:18	ticks value 256
+335896394	ID:2	Sending DATA to 1 'Hello 5' with NodeID= 2
+336011293	ID:10	Sending DATA to 1 'Hello 5' with NodeID= 10
+336323657	ID:20	Replaying DIO with fixed interval 
+336326297	ID:20	ticks value 256
+336332382	ID:13	calling checkMalicious
+336335214	ID:13	Deactiavitng!!
+336340772	ID:1	Received DATA recv 'Hello 5 from the client abhive' from 10 at NodeID= 1
+336418402	ID:5	calling checkMalicious
+336421147	ID:5	Deactiavitng!!
+337106857	ID:21	Replaying DIO with fixed interval 
+337109497	ID:21	ticks value 256
+337282148	ID:19	Replaying DIO with fixed interval 
+337284788	ID:19	ticks value 256
+337418095	ID:18	Replaying DIO with fixed interval 
+337421099	ID:18	ticks value 256
+338026773	ID:12	Sending DATA to 1 'Hello 5' with NodeID= 12
+338332320	ID:20	Replaying DIO with fixed interval 
+338334960	ID:20	ticks value 256
+339114669	ID:21	Replaying DIO with fixed interval 
+339117309	ID:21	ticks value 256
+339289960	ID:19	Replaying DIO with fixed interval 
+339292600	ID:19	ticks value 256
+339424845	ID:18	Replaying DIO with fixed interval 
+339427485	ID:18	ticks value 256
+340339282	ID:20	Replaying DIO with fixed interval 
+340341922	ID:20	ticks value 256
+340529030	ID:9	calling checkMalicious
+340531718	ID:9	Deactiavitng!!
+341123332	ID:21	Replaying DIO with fixed interval 
+341125972	ID:21	ticks value 256
+341298623	ID:19	Replaying DIO with fixed interval 
+341301263	ID:19	ticks value 256
+341432658	ID:18	Replaying DIO with fixed interval 
+341435298	ID:18	ticks value 256
+342347095	ID:20	Replaying DIO with fixed interval 
+342349735	ID:20	ticks value 256
+342852426	ID:8	calling checkMalicious
+342859460	ID:8	Node fe80::c30c:0:0:13 is suspected to be MALICIOUS!!
+342860522	ID:8	Deactiavitng!!
+343035405	ID:13	Sending DATA to 1 'Hello 5' with NodeID= 13
+343130436	ID:21	Replaying DIO with fixed interval 
+343133076	ID:21	ticks value 256
+343305585	ID:19	Replaying DIO with fixed interval 
+343308225	ID:19	ticks value 256
+343440470	ID:18	Replaying DIO with fixed interval 
+343443110	ID:18	ticks value 256
+344010504	ID:14	Sending DATA to 1 'Hello 5' with NodeID= 14
+344354907	ID:20	Replaying DIO with fixed interval 
+344357547	ID:20	ticks value 256
+344469086	ID:7	Sending DATA to 1 'Hello 5' with NodeID= 7
+344836204	ID:1	Received DATA recv 'Hello 5 from the client abhive' from 7 at NodeID= 1
+345138107	ID:21	Replaying DIO with fixed interval 
+345140747	ID:21	ticks value 256
+345313398	ID:19	Replaying DIO with fixed interval 
+345316038	ID:19	ticks value 256
+345386251	ID:4	calling checkMalicious
+345389691	ID:4	Deactiavitng!!
+345448288	ID:18	Replaying DIO with fixed interval 
+345450957	ID:18	ticks value 256
+346362725	ID:20	Replaying DIO with fixed interval 
+346365394	ID:20	ticks value 256
+347145919	ID:21	Replaying DIO with fixed interval 
+347148559	ID:21	ticks value 256
+347321210	ID:19	Replaying DIO with fixed interval 
+347323850	ID:19	ticks value 256
+347456095	ID:18	Replaying DIO with fixed interval 
+347458735	ID:18	ticks value 256
+348370532	ID:20	Replaying DIO with fixed interval 
+348373172	ID:20	ticks value 256
+349153732	ID:21	Replaying DIO with fixed interval 
+349156372	ID:21	ticks value 256
+349329028	ID:19	Replaying DIO with fixed interval 
+349331697	ID:19	ticks value 256
+349463907	ID:18	Replaying DIO with fixed interval 
+349466548	ID:18	ticks value 256
+349580161	ID:15	Sending DATA to 1 'Hello 5' with NodeID= 15

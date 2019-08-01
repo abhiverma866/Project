@@ -1042,3 +1042,2409 @@
 156452964	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
 156461632	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
 156513798	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+156548380	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+156567623	ID:18	RPL: Sending prefix info in DIO for fd00::
+156570793	ID:18	RPL: Sending a multicast-DIO with rank 639
+156573341	ID:19	RPL: Sending prefix info in DIO for fd00::
+156576510	ID:19	RPL: Sending a multicast-DIO with rank 639
+156632712	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+156650106	ID:9	RPL: Received a DIO from fe80::c30c:0:0:13
+156697768	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+156723830	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+156960357	ID:15	RPL: Received a DIO from fe80::c30c:0:0:e
+157442975	ID:20	RPL: Sending prefix info in DIO for fd00::
+157446143	ID:20	RPL: Sending a multicast-DIO with rank 384
+157476481	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+157506777	ID:4	RPL: Received a DIO from fe80::c30c:0:0:14
+157511230	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+157563216	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+157589115	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+157850998	ID:8	RPL: Received a DIO from fe80::c30c:0:0:12
+157890118	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+157937901	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+157942084	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+157963456	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+158013584	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+158061312	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+158065553	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+158069952	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+158088111	ID:12	RPL: Received a DIO from fe80::c30c:0:0:12
+158100200	ID:8	RPL: Received a DIO from fe80::c30c:0:0:12
+158405862	ID:21	RPL: Sending prefix info in DIO for fd00::
+158409030	ID:21	RPL: Sending a multicast-DIO with rank 278
+158435045	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+158452297	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+158460907	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+158547537	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+158575413	ID:18	RPL: Sending prefix info in DIO for fd00::
+158578583	ID:18	RPL: Sending a multicast-DIO with rank 639
+158581153	ID:19	RPL: Sending prefix info in DIO for fd00::
+158584323	ID:19	RPL: Sending a multicast-DIO with rank 639
+159450788	ID:20	RPL: Sending prefix info in DIO for fd00::
+159454501	ID:20	RPL: Sending a multicast-DIO with rank 384
+159583981	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+159586469	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+159599378	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+159638354	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+160213174	ID:10	RPL: Received a DIO from fe80::c30c:0:0:b
+160230913	ID:12	RPL: Received a DIO from fe80::c30c:0:0:b
+160413675	ID:21	RPL: Sending prefix info in DIO for fd00::
+160416843	ID:21	RPL: Sending a multicast-DIO with rank 278
+160464343	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+160546608	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+160583226	ID:18	RPL: Sending prefix info in DIO for fd00::
+160586395	ID:18	RPL: Sending a multicast-DIO with rank 639
+160588966	ID:19	RPL: Sending prefix info in DIO for fd00::
+160592135	ID:19	RPL: Sending a multicast-DIO with rank 639
+160608907	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+161458600	ID:20	RPL: Sending prefix info in DIO for fd00::
+161461768	ID:20	RPL: Sending a multicast-DIO with rank 384
+161513704	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+161583977	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+161587469	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+161600370	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+162421487	ID:21	RPL: Sending prefix info in DIO for fd00::
+162424655	ID:21	RPL: Sending a multicast-DIO with rank 278
+162454724	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+162463423	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+162545774	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+162584235	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+162591038	ID:18	RPL: Sending prefix info in DIO for fd00::
+162594208	ID:18	RPL: Sending a multicast-DIO with rank 639
+162596778	ID:19	RPL: Sending prefix info in DIO for fd00::
+162599948	ID:19	RPL: Sending a multicast-DIO with rank 639
+162747865	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+163466413	ID:20	RPL: Sending prefix info in DIO for fd00::
+163469581	ID:20	RPL: Sending a multicast-DIO with rank 384
+163512832	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+163584073	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+163586473	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+163599449	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+164429300	ID:21	RPL: Sending prefix info in DIO for fd00::
+164432468	ID:21	RPL: Sending a multicast-DIO with rank 278
+164462576	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+164549306	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+164575395	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+164584076	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+164598851	ID:18	RPL: Sending prefix info in DIO for fd00::
+164602020	ID:18	RPL: Sending a multicast-DIO with rank 639
+164604591	ID:19	RPL: Sending prefix info in DIO for fd00::
+164607760	ID:19	RPL: Sending a multicast-DIO with rank 639
+164798000	ID:14	RPL: Received a DIO from fe80::c30c:0:0:f
+164811160	ID:11	RPL: Received a DIO from fe80::c30c:0:0:f
+165155164	ID:17	RPL: Received a DIO from fe80::c30c:0:0:10
+165202901	ID:15	RPL: Received a DIO from fe80::c30c:0:0:10
+165211816	ID:12	RPL: Received a DIO from fe80::c30c:0:0:10
+165474225	ID:20	RPL: Sending prefix info in DIO for fd00::
+165477393	ID:20	RPL: Sending a multicast-DIO with rank 384
+165516283	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+165585684	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+165598647	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+165608329	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+165686840	ID:11	RPL: Received a DIO from fe80::c30c:0:0:7
+166437112	ID:21	RPL: Sending prefix info in DIO for fd00::
+166440280	ID:21	RPL: Sending a multicast-DIO with rank 278
+166548451	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+166578802	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+166587384	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+166606663	ID:18	RPL: Sending prefix info in DIO for fd00::
+166608827	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+166609833	ID:18	RPL: Sending a multicast-DIO with rank 639
+166612576	ID:19	RPL: Sending prefix info in DIO for fd00::
+166615745	ID:19	RPL: Sending a multicast-DIO with rank 639
+166640047	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+166687997	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+166692013	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+166696540	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+167482038	ID:20	RPL: Sending prefix info in DIO for fd00::
+167485206	ID:20	RPL: Sending a multicast-DIO with rank 384
+168008022	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+168444925	ID:21	RPL: Sending prefix info in DIO for fd00::
+168448093	ID:21	RPL: Sending a multicast-DIO with rank 278
+168614476	ID:18	RPL: Sending prefix info in DIO for fd00::
+168617645	ID:18	RPL: Sending a multicast-DIO with rank 639
+168620216	ID:19	RPL: Sending prefix info in DIO for fd00::
+168623385	ID:19	RPL: Sending a multicast-DIO with rank 639
+168670884	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+168962751	ID:10	RPL: Received a DIO from fe80::c30c:0:0:e
+169087076	ID:12	RPL: Received a DIO from fe80::c30c:0:0:12
+169087434	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+169099852	ID:8	RPL: Received a DIO from fe80::c30c:0:0:12
+169138798	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+169489850	ID:20	RPL: Sending prefix info in DIO for fd00::
+169493018	ID:20	RPL: Sending a multicast-DIO with rank 384
+169562379	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+169588396	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+169622350	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+170452737	ID:21	RPL: Sending prefix info in DIO for fd00::
+170455905	ID:21	RPL: Sending a multicast-DIO with rank 278
+170546736	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+170577176	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+170583852	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+170586031	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+170622288	ID:18	RPL: Sending prefix info in DIO for fd00::
+170625458	ID:18	RPL: Sending a multicast-DIO with rank 639
+170628063	ID:19	RPL: Sending prefix info in DIO for fd00::
+170631232	ID:19	RPL: Sending a multicast-DIO with rank 639
+171497663	ID:20	RPL: Sending prefix info in DIO for fd00::
+171500831	ID:20	RPL: Sending a multicast-DIO with rank 384
+171583971	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+171587482	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+171600484	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+171639549	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+172460550	ID:21	RPL: Sending prefix info in DIO for fd00::
+172463718	ID:21	RPL: Sending a multicast-DIO with rank 278
+172630101	ID:18	RPL: Sending prefix info in DIO for fd00::
+172633270	ID:18	RPL: Sending a multicast-DIO with rank 639
+172635841	ID:19	RPL: Sending prefix info in DIO for fd00::
+172639010	ID:19	RPL: Sending a multicast-DIO with rank 639
+172669052	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+173322893	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+173336031	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+173348996	ID:8	RPL: Received a DIO from fe80::c30c:0:0:12
+173388067	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+173435845	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+173440001	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+173505475	ID:20	RPL: Sending prefix info in DIO for fd00::
+173508643	ID:20	RPL: Sending a multicast-DIO with rank 384
+173583897	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+173586611	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+173622008	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+173638698	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+174321888	ID:6	RPL: Received a DIO from fe80::c30c:0:0:2
+174468535	ID:21	RPL: Sending prefix info in DIO for fd00::
+174471703	ID:21	RPL: Sending a multicast-DIO with rank 278
+174549443	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+174588480	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+174638086	ID:18	RPL: Sending prefix info in DIO for fd00::
+174641255	ID:18	RPL: Sending a multicast-DIO with rank 639
+174643653	ID:19	RPL: Sending prefix info in DIO for fd00::
+174646823	ID:19	RPL: Sending a multicast-DIO with rank 639
+175192449	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+175196960	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+175197476	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+175213975	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+175222882	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+175257505	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+175266329	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+175513288	ID:20	RPL: Sending prefix info in DIO for fd00::
+175516456	ID:20	RPL: Sending a multicast-DIO with rank 384
+175559735	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+175585696	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+175621000	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+175622105	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+175637858	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+176476175	ID:21	RPL: Sending prefix info in DIO for fd00::
+176479343	ID:21	RPL: Sending a multicast-DIO with rank 278
+176552483	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+176578869	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+176584075	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+176587463	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+176645726	ID:18	RPL: Sending prefix info in DIO for fd00::
+176648895	ID:18	RPL: Sending a multicast-DIO with rank 639
+176651466	ID:19	RPL: Sending prefix info in DIO for fd00::
+176654635	ID:19	RPL: Sending a multicast-DIO with rank 639
+177521273	ID:20	RPL: Sending prefix info in DIO for fd00::
+177524441	ID:20	RPL: Sending a multicast-DIO with rank 384
+177584283	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+177589281	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+177597972	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+177619516	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+178483987	ID:21	RPL: Sending prefix info in DIO for fd00::
+178487155	ID:21	RPL: Sending a multicast-DIO with rank 278
+178547668	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+178573977	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+178578036	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+178584070	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+178586685	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+178653538	ID:18	RPL: Sending prefix info in DIO for fd00::
+178656708	ID:18	RPL: Sending a multicast-DIO with rank 639
+178659278	ID:19	RPL: Sending prefix info in DIO for fd00::
+178662448	ID:19	RPL: Sending a multicast-DIO with rank 639
+179528913	ID:20	RPL: Sending prefix info in DIO for fd00::
+179532081	ID:20	RPL: Sending a multicast-DIO with rank 384
+179584096	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+179588331	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+179601287	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+179618603	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+180276132	ID:9	RPL: Received a DIO from fe80::c30c:0:0:d
+180280310	ID:17	RPL: Received a DIO from fe80::c30c:0:0:d
+180336777	ID:12	RPL: Received a DIO from fe80::c30c:0:0:d
+180491800	ID:21	RPL: Sending prefix info in DIO for fd00::
+180495822	ID:21	RPL: Sending a multicast-DIO with rank 278
+180547593	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+180573604	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+180577964	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+180583878	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+180586613	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+180587000	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+180638869	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+180661351	ID:18	RPL: Sending prefix info in DIO for fd00::
+180665374	ID:18	RPL: Sending a multicast-DIO with rank 639
+180667091	ID:19	RPL: Sending prefix info in DIO for fd00::
+180671114	ID:19	RPL: Sending a multicast-DIO with rank 639
+180818365	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+181536725	ID:20	RPL: Sending prefix info in DIO for fd00::
+181539893	ID:20	RPL: Sending a multicast-DIO with rank 384
+181579426	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+181617818	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+181687250	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+182499612	ID:21	RPL: Sending prefix info in DIO for fd00::
+182502780	ID:21	RPL: Sending a multicast-DIO with rank 278
+182571929	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+182584359	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+182589284	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+182669163	ID:18	RPL: Sending prefix info in DIO for fd00::
+182672333	ID:18	RPL: Sending a multicast-DIO with rank 639
+182674903	ID:19	RPL: Sending prefix info in DIO for fd00::
+182678073	ID:19	RPL: Sending a multicast-DIO with rank 639
+183544538	ID:20	RPL: Sending prefix info in DIO for fd00::
+183547706	ID:20	RPL: Sending a multicast-DIO with rank 384
+183577868	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+183586697	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+183599553	ID:8	RPL: Received a DIO from fe80::c30c:0:0:14
+183621232	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+183686454	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+183830184	ID:13	RPL: Received a DIO from fe80::c30c:0:0:9
+183916664	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+184507425	ID:21	RPL: Sending prefix info in DIO for fd00::
+184510593	ID:21	RPL: Sending a multicast-DIO with rank 278
+184571086	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+184584370	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+184588470	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+184588539	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+184640428	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+184676976	ID:18	RPL: Sending prefix info in DIO for fd00::
+184680145	ID:18	RPL: Sending a multicast-DIO with rank 639
+184682716	ID:19	RPL: Sending prefix info in DIO for fd00::
+184685885	ID:19	RPL: Sending a multicast-DIO with rank 639
+184833049	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+185552350	ID:20	RPL: Sending prefix info in DIO for fd00::
+185555518	ID:20	RPL: Sending a multicast-DIO with rank 384
+185585819	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+185620340	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+185685592	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+185702765	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+186515237	ID:21	RPL: Sending prefix info in DIO for fd00::
+186518405	ID:21	RPL: Sending a multicast-DIO with rank 278
+186566262	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+186570226	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+186584069	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+186587548	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+186639620	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+186684788	ID:18	RPL: Sending prefix info in DIO for fd00::
+186687958	ID:18	RPL: Sending a multicast-DIO with rank 639
+186690528	ID:19	RPL: Sending prefix info in DIO for fd00::
+186693698	ID:19	RPL: Sending a multicast-DIO with rank 639
+187081403	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+187086891	ID:12	RPL: Received a DIO from fe80::c30c:0:0:11
+187560163	ID:20	RPL: Sending prefix info in DIO for fd00::
+187563331	ID:20	RPL: Sending a multicast-DIO with rank 384
+187589326	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+187619486	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+187684701	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+187701907	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+188523050	ID:21	RPL: Sending prefix info in DIO for fd00::
+188526218	ID:21	RPL: Sending a multicast-DIO with rank 278
+188565153	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+188573702	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+188578317	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+188583930	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+188586689	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+188638798	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+188692601	ID:18	RPL: Sending prefix info in DIO for fd00::
+188695770	ID:18	RPL: Sending a multicast-DIO with rank 639
+188698341	ID:19	RPL: Sending prefix info in DIO for fd00::
+188701510	ID:19	RPL: Sending a multicast-DIO with rank 639
+188848703	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+188848846	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+189567975	ID:20	RPL: Sending prefix info in DIO for fd00::
+189571143	ID:20	RPL: Sending a multicast-DIO with rank 384
+189618688	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+189688273	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+189705451	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+189714178	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+190530862	ID:21	RPL: Sending prefix info in DIO for fd00::
+190534030	ID:21	RPL: Sending a multicast-DIO with rank 278
+190572839	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+190584069	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+190585908	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+190599144	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+190637972	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+190646442	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+190700413	ID:18	RPL: Sending prefix info in DIO for fd00::
+190703583	ID:18	RPL: Sending a multicast-DIO with rank 639
+190706326	ID:19	RPL: Sending prefix info in DIO for fd00::
+190709495	ID:19	RPL: Sending a multicast-DIO with rank 639
+190811958	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+190829924	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+190837833	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+191575788	ID:20	RPL: Sending prefix info in DIO for fd00::
+191579810	ID:20	RPL: Sending a multicast-DIO with rank 384
+191618635	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+191663720	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+192538675	ID:21	RPL: Sending prefix info in DIO for fd00::
+192541843	ID:21	RPL: Sending a multicast-DIO with rank 278
+192567670	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+192572068	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+192589466	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+192695437	ID:1	RPL: Received a DIO from fe80::c30c:0:0:3
+192708226	ID:18	RPL: Sending prefix info in DIO for fd00::
+192711395	ID:18	RPL: Sending a multicast-DIO with rank 639
+192713966	ID:19	RPL: Sending prefix info in DIO for fd00::
+192717135	ID:19	RPL: Sending a multicast-DIO with rank 639
+192864397	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+193583600	ID:20	RPL: Sending prefix info in DIO for fd00::
+193586768	ID:20	RPL: Sending a multicast-DIO with rank 384
+193621261	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+193686473	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+193703666	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+193712365	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+194546487	ID:21	RPL: Sending prefix info in DIO for fd00::
+194549655	ID:21	RPL: Sending a multicast-DIO with rank 278
+194588470	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+194640545	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+194670871	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+194688403	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+194692583	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+194696860	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+194716038	ID:18	RPL: Sending prefix info in DIO for fd00::
+194719208	ID:18	RPL: Sending a multicast-DIO with rank 639
+194721778	ID:19	RPL: Sending prefix info in DIO for fd00::
+194724948	ID:19	RPL: Sending a multicast-DIO with rank 639
+195173056	ID:14	RPL: Received a DIO from fe80::c30c:0:0:f
+195186360	ID:11	RPL: Received a DIO from fe80::c30c:0:0:f
+195242391	ID:16	RPL: Received a DIO from fe80::c30c:0:0:f
+195591413	ID:20	RPL: Sending prefix info in DIO for fd00::
+195594581	ID:20	RPL: Sending a multicast-DIO with rank 384
+195636131	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+195685632	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+195702794	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+195711562	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+196554300	ID:21	RPL: Sending prefix info in DIO for fd00::
+196557468	ID:21	RPL: Sending a multicast-DIO with rank 278
+196583114	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+196587627	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+196600721	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+196639691	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+196687522	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+196691729	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+196696054	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+196723851	ID:18	RPL: Sending prefix info in DIO for fd00::
+196727020	ID:18	RPL: Sending a multicast-DIO with rank 639
+196729591	ID:19	RPL: Sending prefix info in DIO for fd00::
+196732760	ID:19	RPL: Sending a multicast-DIO with rank 639
+197201561	ID:15	RPL: Received a DIO from fe80::c30c:0:0:e
+197214490	ID:10	RPL: Received a DIO from fe80::c30c:0:0:e
+197599225	ID:20	RPL: Sending prefix info in DIO for fd00::
+197602393	ID:20	RPL: Sending a multicast-DIO with rank 384
+197684735	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+197701996	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+197710659	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+197745268	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+198562285	ID:21	RPL: Sending prefix info in DIO for fd00::
+198565453	ID:21	RPL: Sending a multicast-DIO with rank 278
+198586739	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+198599987	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+198638940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+198686668	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+198691009	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+198695260	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+198695641	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+198731836	ID:18	RPL: Sending prefix info in DIO for fd00::
+198735005	ID:18	RPL: Sending a multicast-DIO with rank 639
+198737403	ID:19	RPL: Sending prefix info in DIO for fd00::
+198740573	ID:19	RPL: Sending a multicast-DIO with rank 639
+198800472	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+198813139	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+198830295	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+198838902	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+198888154	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+198918192	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+198936141	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+198940079	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+198948764	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+198959646	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+198972511	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+199607038	ID:20	RPL: Sending prefix info in DIO for fd00::
+199610206	ID:20	RPL: Sending a multicast-DIO with rank 384
+199705479	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+200569925	ID:21	RPL: Sending prefix info in DIO for fd00::
+200573093	ID:21	RPL: Sending a multicast-DIO with rank 278
+200598834	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+200598991	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+200638065	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+200685850	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+200690152	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+200698712	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+200698747	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+200739476	ID:18	RPL: Sending prefix info in DIO for fd00::
+200742645	ID:18	RPL: Sending a multicast-DIO with rank 639
+200745216	ID:19	RPL: Sending prefix info in DIO for fd00::
+200748385	ID:19	RPL: Sending a multicast-DIO with rank 639
+200822064	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+201496959	ID:16	RPL: Received a DIO from fe80::c30c:0:0:11
+201581078	ID:13	RPL: Received a DIO from fe80::c30c:0:0:c
+201615023	ID:20	RPL: Sending prefix info in DIO for fd00::
+201618191	ID:20	RPL: Sending a multicast-DIO with rank 384
+202577737	ID:21	RPL: Sending prefix info in DIO for fd00::
+202580905	ID:21	RPL: Sending a multicast-DIO with rank 278
+202602239	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+202745361	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+202747288	ID:18	RPL: Sending prefix info in DIO for fd00::
+202750458	ID:18	RPL: Sending a multicast-DIO with rank 639
+202753028	ID:19	RPL: Sending prefix info in DIO for fd00::
+202756198	ID:19	RPL: Sending a multicast-DIO with rank 639
+202842693	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+203622663	ID:20	RPL: Sending prefix info in DIO for fd00::
+203625831	ID:20	RPL: Sending a multicast-DIO with rank 384
+203686597	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+203712579	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+203742830	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+203764620	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+203849223	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+203918165	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+204585550	ID:21	RPL: Sending prefix info in DIO for fd00::
+204588718	ID:21	RPL: Sending a multicast-DIO with rank 278
+204610265	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+204640616	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+204692608	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+204696928	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+204697035	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+204723139	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+204755101	ID:18	RPL: Sending prefix info in DIO for fd00::
+204758270	ID:18	RPL: Sending a multicast-DIO with rank 639
+204760841	ID:19	RPL: Sending prefix info in DIO for fd00::
+204764010	ID:19	RPL: Sending a multicast-DIO with rank 639
+204841891	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+205630475	ID:20	RPL: Sending prefix info in DIO for fd00::
+205633643	ID:20	RPL: Sending a multicast-DIO with rank 384
+205702825	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+205973321	ID:8	RPL: Received a DIO from fe80::c30c:0:0:c
+206593362	ID:21	RPL: Sending prefix info in DIO for fd00::
+206596530	ID:21	RPL: Sending a multicast-DIO with rank 278
+206685761	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+206690323	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+206698905	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+206698985	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+206725015	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+206760422	ID:4	RPL: Received a DIO from fe80::c30c:0:0:15
+206762913	ID:18	RPL: Sending prefix info in DIO for fd00::
+206763940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+206766083	ID:18	RPL: Sending a multicast-DIO with rank 639
+206768653	ID:19	RPL: Sending prefix info in DIO for fd00::
+206771823	ID:19	RPL: Sending a multicast-DIO with rank 639
+206796238	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+206826774	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+206839693	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+206934818	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+206943294	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+206959286	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+206969163	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+206973857	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+207638288	ID:20	RPL: Sending prefix info in DIO for fd00::
+207641456	ID:20	RPL: Sending a multicast-DIO with rank 384
+208601175	ID:21	RPL: Sending prefix info in DIO for fd00::
+208604343	ID:21	RPL: Sending a multicast-DIO with rank 278
+208625741	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+208634526	ID:4	RPL: Received a DIO from fe80::c30c:0:0:15
+208638869	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+208686838	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+208691004	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+208695236	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+208695256	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+208725627	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+208770726	ID:18	RPL: Sending prefix info in DIO for fd00::
+208773895	ID:18	RPL: Sending a multicast-DIO with rank 639
+208776466	ID:19	RPL: Sending prefix info in DIO for fd00::
+208779635	ID:19	RPL: Sending a multicast-DIO with rank 639
+208861765	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+209646123	ID:20	RPL: Sending prefix info in DIO for fd00::
+209649290	ID:20	RPL: Sending a multicast-DIO with rank 384
+210117427	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+210187023	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+210204213	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+210292272	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+210327713	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+210336463	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+210337292	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+210608987	ID:21	RPL: Sending prefix info in DIO for fd00::
+210612155	ID:21	RPL: Sending a multicast-DIO with rank 278
+210633651	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+210638081	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+210690191	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+210698746	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+210698764	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+210724950	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+210778538	ID:18	RPL: Sending prefix info in DIO for fd00::
+210781708	ID:18	RPL: Sending a multicast-DIO with rank 639
+210784278	ID:19	RPL: Sending prefix info in DIO for fd00::
+210787448	ID:19	RPL: Sending a multicast-DIO with rank 639
+210935003	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+211569872	ID:3	RPL: Received a DIO from fe80::c30c:0:0:4
+211622314	ID:8	RPL: Received a DIO from fe80::c30c:0:0:4
+211653913	ID:20	RPL: Sending prefix info in DIO for fd00::
+211657081	ID:20	RPL: Sending a multicast-DIO with rank 384
+211704569	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+211713328	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+211743608	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+212616800	ID:21	RPL: Sending prefix info in DIO for fd00::
+212620822	ID:21	RPL: Sending a multicast-DIO with rank 278
+212646650	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+212685917	ID:11	RPL: Received a DIO from fe80::c30c:0:0:15
+212690132	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+212698682	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+212714617	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+212724939	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+212763763	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+212786351	ID:18	RPL: Sending prefix info in DIO for fd00::
+212790374	ID:18	RPL: Sending a multicast-DIO with rank 639
+212792091	ID:19	RPL: Sending prefix info in DIO for fd00::
+212796114	ID:19	RPL: Sending a multicast-DIO with rank 639
+212943366	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+213661725	ID:20	RPL: Sending prefix info in DIO for fd00::
+213664893	ID:20	RPL: Sending a multicast-DIO with rank 384
+214624612	ID:21	RPL: Sending prefix info in DIO for fd00::
+214627780	ID:21	RPL: Sending a multicast-DIO with rank 278
+214649152	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+214692724	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+214696928	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+214696975	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+214723111	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+214762066	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+214794163	ID:18	RPL: Sending prefix info in DIO for fd00::
+214797333	ID:18	RPL: Sending a multicast-DIO with rank 639
+214800076	ID:19	RPL: Sending prefix info in DIO for fd00::
+214803245	ID:19	RPL: Sending a multicast-DIO with rank 639
+214827527	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+214836342	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+215191810	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+215196124	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+215213612	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+215265616	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+215313391	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+215669538	ID:20	RPL: Sending prefix info in DIO for fd00::
+215672706	ID:20	RPL: Sending a multicast-DIO with rank 384
+215702893	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+215711682	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+215711705	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+215746261	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+215811545	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+216632425	ID:21	RPL: Sending prefix info in DIO for fd00::
+216635593	ID:21	RPL: Sending a multicast-DIO with rank 278
+216656982	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+216691878	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+216696125	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+216696135	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+216726623	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+216765556	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+216801976	ID:18	RPL: Sending prefix info in DIO for fd00::
+216805145	ID:18	RPL: Sending a multicast-DIO with rank 639
+216807716	ID:19	RPL: Sending prefix info in DIO for fd00::
+216810885	ID:19	RPL: Sending a multicast-DIO with rank 639
+216839809	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+216922043	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+216935469	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+216952457	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+217109982	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+217157687	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+217188207	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+217196715	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+217209869	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+217677350	ID:20	RPL: Sending prefix info in DIO for fd00::
+217680518	ID:20	RPL: Sending a multicast-DIO with rank 384
+217710760	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+217745339	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+217762973	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+217798120	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+217810629	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+217827822	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+218640237	ID:21	RPL: Sending prefix info in DIO for fd00::
+218643405	ID:21	RPL: Sending a multicast-DIO with rank 278
+218673569	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+218809788	ID:18	RPL: Sending prefix info in DIO for fd00::
+218812958	ID:18	RPL: Sending a multicast-DIO with rank 639
+218815528	ID:19	RPL: Sending prefix info in DIO for fd00::
+218818698	ID:19	RPL: Sending a multicast-DIO with rank 639
+219685163	ID:20	RPL: Sending prefix info in DIO for fd00::
+219688331	ID:20	RPL: Sending a multicast-DIO with rank 384
+219714250	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+219714324	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+219744557	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+219796540	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+219809714	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+219826953	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+220439614	ID:2	RPL: Received a DIO from fe80::c30c:0:0:6
+220648050	ID:21	RPL: Sending prefix info in DIO for fd00::
+220651218	ID:21	RPL: Sending a multicast-DIO with rank 278
+220672562	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+220690223	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+220698765	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+220698839	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+220724942	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+220763940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+220817601	ID:18	RPL: Sending prefix info in DIO for fd00::
+220820770	ID:18	RPL: Sending a multicast-DIO with rank 639
+220823341	ID:19	RPL: Sending prefix info in DIO for fd00::
+220826510	ID:19	RPL: Sending a multicast-DIO with rank 639
+220827321	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+220836433	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+220836540	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+220891455	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+220923309	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+221063208	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+221067462	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+221071715	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+221084868	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+221297882	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+221311062	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+221323985	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+221328201	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+221336971	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+221692975	ID:20	RPL: Sending prefix info in DIO for fd00::
+221696143	ID:20	RPL: Sending a multicast-DIO with rank 384
+221743729	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+221795871	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+221813337	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+221830536	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+221839191	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+222540701	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+222579877	ID:13	RPL: Received a DIO from fe80::c30c:0:0:9
+222601666	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+222656035	ID:21	RPL: Sending prefix info in DIO for fd00::
+222659203	ID:21	RPL: Sending a multicast-DIO with rank 278
+222680517	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+222689496	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+222698035	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+222711253	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+222724154	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+222763065	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+222825586	ID:18	RPL: Sending prefix info in DIO for fd00::
+222828755	ID:18	RPL: Sending a multicast-DIO with rank 639
+222831153	ID:19	RPL: Sending prefix info in DIO for fd00::
+222834323	ID:19	RPL: Sending a multicast-DIO with rank 639
+222890290	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+222954440	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+222963538	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+222976980	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+223072964	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+223077438	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+223086147	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+223172669	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+223185875	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+223700788	ID:20	RPL: Sending prefix info in DIO for fd00::
+223704810	ID:20	RPL: Sending a multicast-DIO with rank 384
+223795727	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+223813195	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+223830454	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+224663675	ID:21	RPL: Sending prefix info in DIO for fd00::
+224666843	ID:21	RPL: Sending a multicast-DIO with rank 278
+224688233	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+224692724	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+224697032	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+224697098	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+224714503	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+224723188	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+224828502	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+224833226	ID:18	RPL: Sending prefix info in DIO for fd00::
+224836395	ID:18	RPL: Sending a multicast-DIO with rank 639
+224837583	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+224837670	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+224838988	ID:19	RPL: Sending prefix info in DIO for fd00::
+224842157	ID:19	RPL: Sending a multicast-DIO with rank 639
+224888004	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+225157407	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+225173594	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+225186809	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+225191131	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+225195291	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+225212710	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+225708983	ID:20	RPL: Sending prefix info in DIO for fd00::
+225712150	ID:20	RPL: Sending a multicast-DIO with rank 384
+225713256	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+225765403	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+225813089	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+225817298	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+225821615	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+225836685	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+225888754	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+225924163	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+225936454	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+225954507	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+225973255	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+226062766	ID:11	RPL: Received a DIO from fe80::c30c:0:0:c
+226079859	ID:13	RPL: Received a DIO from fe80::c30c:0:0:c
+226101750	ID:8	RPL: Received a DIO from fe80::c30c:0:0:c
+226118979	ID:16	RPL: Received a DIO from fe80::c30c:0:0:c
+226420641	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+226438136	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+226455269	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+226464039	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+226531031	ID:17	RPL: Received a DIO from fe80::c30c:0:0:10
+226579000	ID:15	RPL: Received a DIO from fe80::c30c:0:0:10
+226587509	ID:12	RPL: Received a DIO from fe80::c30c:0:0:10
+226671487	ID:21	RPL: Sending prefix info in DIO for fd00::
+226674655	ID:21	RPL: Sending a multicast-DIO with rank 278
+226700322	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+226713690	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+226726714	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+226765758	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+226817729	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+226821966	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+226822040	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+226837998	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+226838123	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+226841038	ID:18	RPL: Sending prefix info in DIO for fd00::
+226844208	ID:18	RPL: Sending a multicast-DIO with rank 639
+226846778	ID:19	RPL: Sending prefix info in DIO for fd00::
+226849948	ID:19	RPL: Sending a multicast-DIO with rank 639
+226925111	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+227716413	ID:20	RPL: Sending prefix info in DIO for fd00::
+227719581	ID:20	RPL: Sending a multicast-DIO with rank 384
+227797530	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+227810632	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+227827852	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+227836684	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+228679300	ID:21	RPL: Sending prefix info in DIO for fd00::
+228682468	ID:21	RPL: Sending a multicast-DIO with rank 278
+228703834	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+228712724	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+228725769	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+228764692	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+228816757	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+228821012	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+228821042	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+228848851	ID:18	RPL: Sending prefix info in DIO for fd00::
+228852020	ID:18	RPL: Sending a multicast-DIO with rank 639
+228854591	ID:19	RPL: Sending prefix info in DIO for fd00::
+228857760	ID:19	RPL: Sending a multicast-DIO with rank 639
+228955009	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+228977004	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+229296676	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+229309813	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+229322608	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+229335808	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+229724225	ID:20	RPL: Sending prefix info in DIO for fd00::
+229727393	ID:20	RPL: Sending a multicast-DIO with rank 384
+229762336	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+229810238	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+229822909	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+229836197	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+229937307	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+229969086	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+230008630	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+230049792	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+230687112	ID:21	RPL: Sending prefix info in DIO for fd00::
+230690280	ID:21	RPL: Sending a multicast-DIO with rank 278
+230715949	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+230763883	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+230815976	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+230820181	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+230820313	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+230856663	ID:18	RPL: Sending prefix info in DIO for fd00::
+230859833	ID:18	RPL: Sending a multicast-DIO with rank 639
+230862403	ID:19	RPL: Sending prefix info in DIO for fd00::
+230865573	ID:19	RPL: Sending a multicast-DIO with rank 639
+230889641	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+230945941	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+230959001	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+231059915	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+231072750	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+231085762	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+231157241	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+231172344	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+231585949	ID:12	RPL: Received a DIO from fe80::c30c:0:0:d
+231650861	ID:9	RPL: Received a DIO from fe80::c30c:0:0:d
+231655195	ID:17	RPL: Received a DIO from fe80::c30c:0:0:d
+231732038	ID:20	RPL: Sending prefix info in DIO for fd00::
+231735206	ID:20	RPL: Sending a multicast-DIO with rank 384
+231795803	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+231813283	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+231830440	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+231839181	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+231839347	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+232694925	ID:21	RPL: Sending prefix info in DIO for fd00::
+232698093	ID:21	RPL: Sending a multicast-DIO with rank 278
+232719496	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+232763102	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+232815074	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+232823622	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+232823747	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+232836834	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+232864476	ID:18	RPL: Sending prefix info in DIO for fd00::
+232867645	ID:18	RPL: Sending a multicast-DIO with rank 639
+232870216	ID:19	RPL: Sending prefix info in DIO for fd00::
+232873385	ID:19	RPL: Sending a multicast-DIO with rank 639
+232910704	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+233015056	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+233172423	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+233180401	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+233211517	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+233739850	ID:20	RPL: Sending prefix info in DIO for fd00::
+233743018	ID:20	RPL: Sending a multicast-DIO with rank 384
+233799257	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+233812450	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+233829569	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+233838398	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+234452155	ID:15	RPL: Received a DIO from fe80::c30c:0:0:10
+234456545	ID:13	RPL: Received a DIO from fe80::c30c:0:0:10
+234460992	ID:12	RPL: Received a DIO from fe80::c30c:0:0:10
+234530009	ID:17	RPL: Received a DIO from fe80::c30c:0:0:10
+234702737	ID:21	RPL: Sending prefix info in DIO for fd00::
+234705905	ID:21	RPL: Sending a multicast-DIO with rank 278
+234796743	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+234818593	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+234822821	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+234822839	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+234836031	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+234848984	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+234872288	ID:18	RPL: Sending prefix info in DIO for fd00::
+234875458	ID:18	RPL: Sending a multicast-DIO with rank 639
+234878028	ID:19	RPL: Sending prefix info in DIO for fd00::
+234881198	ID:19	RPL: Sending a multicast-DIO with rank 639
+234896869	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+234959687	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+234976851	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+235172484	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+235185714	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+235198533	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+235211614	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+235329798	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+235368805	ID:16	RPL: Received a DIO from fe80::c30c:0:0:11
+235747663	ID:20	RPL: Sending prefix info in DIO for fd00::
+235750831	ID:20	RPL: Sending a multicast-DIO with rank 384
+235798384	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+235811525	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+235828715	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+235837588	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+236710550	ID:21	RPL: Sending prefix info in DIO for fd00::
+236713718	ID:21	RPL: Sending a multicast-DIO with rank 278
+236765617	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+236791486	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+236817654	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+236822059	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+236839502	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+236880101	ID:18	RPL: Sending prefix info in DIO for fd00::
+236883270	ID:18	RPL: Sending a multicast-DIO with rank 639
+236885841	ID:19	RPL: Sending prefix info in DIO for fd00::
+236889010	ID:19	RPL: Sending a multicast-DIO with rank 639
+236904617	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+236959387	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+236976508	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+237013252	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+237321857	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+237339253	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+237421523	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+237512750	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+237755475	ID:20	RPL: Sending prefix info in DIO for fd00::
+237758643	ID:20	RPL: Sending a multicast-DIO with rank 384
+237797552	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+237836761	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+238718362	ID:21	RPL: Sending prefix info in DIO for fd00::
+238721530	ID:21	RPL: Sending a multicast-DIO with rank 278
+238747320	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+238764833	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+238816800	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+238821187	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+238838612	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+238887913	ID:18	RPL: Sending prefix info in DIO for fd00::
+238891083	ID:18	RPL: Sending a multicast-DIO with rank 639
+238893826	ID:19	RPL: Sending prefix info in DIO for fd00::
+238896995	ID:19	RPL: Sending a multicast-DIO with rank 639
+238986386	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+238996170	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+239064652	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+239196124	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+239213613	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+239295941	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+239313410	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+239763288	ID:20	RPL: Sending prefix info in DIO for fd00::
+239766456	ID:20	RPL: Sending a multicast-DIO with rank 384
+240726175	ID:21	RPL: Sending prefix info in DIO for fd00::
+240729343	ID:21	RPL: Sending a multicast-DIO with rank 278
+240763869	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+240816065	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+240820309	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+240837545	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+240837593	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+240895726	ID:18	RPL: Sending prefix info in DIO for fd00::
+240898895	ID:18	RPL: Sending a multicast-DIO with rank 639
+240901466	ID:19	RPL: Sending prefix info in DIO for fd00::
+240904635	ID:19	RPL: Sending a multicast-DIO with rank 639
+240920261	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+240938053	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+240942156	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+240946590	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+240959366	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+240977063	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+241015909	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+241313230	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+241321786	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+241334939	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+241424037	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+241437237	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+241463200	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+241525735	ID:9	RPL: Received a DIO from fe80::c30c:0:0:d
+241771100	ID:20	RPL: Sending prefix info in DIO for fd00::
+241774268	ID:20	RPL: Sending a multicast-DIO with rank 384
+241830699	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+241839865	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+241839871	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+241890118	ID:7	RPL: Received a DIO from fe80::c30c:0:0:15
+242733987	ID:21	RPL: Sending prefix info in DIO for fd00::
+242737155	ID:21	RPL: Sending a multicast-DIO with rank 278
+242798898	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+242812095	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+242829427	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+242838115	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+242903538	ID:18	RPL: Sending prefix info in DIO for fd00::
+242906708	ID:18	RPL: Sending a multicast-DIO with rank 639
+242909278	ID:19	RPL: Sending prefix info in DIO for fd00::
+242912448	ID:19	RPL: Sending a multicast-DIO with rank 639
+242962769	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+242976817	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+242992989	ID:16	RPL: Received a DIO from fe80::c30c:0:0:11
+243079475	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+243170776	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+243188181	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+243196715	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+243201065	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+243209912	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+243266270	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+243778913	ID:20	RPL: Sending prefix info in DIO for fd00::
+243782081	ID:20	RPL: Sending a multicast-DIO with rank 384
+244741822	ID:21	RPL: Sending prefix info in DIO for fd00::
+244745889	ID:21	RPL: Sending a multicast-DIO with rank 278
+244911351	ID:18	RPL: Sending prefix info in DIO for fd00::
+244915374	ID:18	RPL: Sending a multicast-DIO with rank 639
+244917091	ID:19	RPL: Sending prefix info in DIO for fd00::
+244921115	ID:19	RPL: Sending a multicast-DIO with rank 639
+244936780	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+244941198	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+244945611	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+244962917	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+245014997	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+245188178	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+245192583	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+245196798	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+245214182	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+245222700	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+245696885	ID:3	RPL: Received a DIO from fe80::c30c:0:0:2
+245786748	ID:20	RPL: Sending prefix info in DIO for fd00::
+245789916	ID:20	RPL: Sending a multicast-DIO with rank 384
+245818365	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+245822634	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+245827299	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+245835831	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+245902819	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+245941871	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+245987311	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+246008315	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+246037516	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+246065174	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+246074032	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+246074264	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+246176722	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+246190655	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+246195200	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+246446675	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+246572128	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+246705437	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+246705575	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+246714593	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+246750074	ID:21	RPL: Sending prefix info in DIO for fd00::
+246753300	ID:21	RPL: Sending a multicast-DIO with rank 278
+246836103	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+246836253	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+246919336	ID:18	RPL: Sending prefix info in DIO for fd00::
+246922505	ID:18	RPL: Sending a multicast-DIO with rank 639
+246925223	ID:19	RPL: Sending prefix info in DIO for fd00::
+246928532	ID:19	RPL: Sending a multicast-DIO with rank 639
+247038809	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+247060660	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+247064930	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+247073675	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+247086625	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+247138708	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+247211685	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+247315750	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+247328665	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+247636253	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+247640759	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+247692796	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+247697120	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+247697154	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+247795767	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+247813331	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+247830551	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+247839324	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+247923623	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+247936697	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+247975727	ID:20	RPL: Sending prefix info in DIO for fd00::
+247978933	ID:20	RPL: Sending a multicast-DIO with rank 384
+248002260	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+248008308	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+248048168	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+248061240	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+248078573	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+248087243	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+248544232	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+248579157	ID:13	RPL: Received a DIO from fe80::c30c:0:0:9
+248757425	ID:21	RPL: Sending prefix info in DIO for fd00::
+248760593	ID:21	RPL: Sending a multicast-DIO with rank 278
+248769511	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+248815503	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+248824355	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+248824559	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+248852286	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+248893550	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+248893561	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+248893636	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+248898118	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+248898167	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+248926976	ID:18	RPL: Sending prefix info in DIO for fd00::
+248930145	ID:18	RPL: Sending a multicast-DIO with rank 639
+248932716	ID:19	RPL: Sending prefix info in DIO for fd00::
+248935885	ID:19	RPL: Sending a multicast-DIO with rank 639
+248970346	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+249061905	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+249066045	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+249070294	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+249156621	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+249193388	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+249197839	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+249197970	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+249225505	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+249267218	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+249267241	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+249267241	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+249267291	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+249276293	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+249445059	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+249462518	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+249514620	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+249570918	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+249584075	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+249601625	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+249810296	ID:11	RPL: Received a DIO from fe80::c30c:0:0:c
+249849137	ID:8	RPL: Received a DIO from fe80::c30c:0:0:c
+249888921	ID:7	RPL: Received a DIO from fe80::c30c:0:0:c
+249982038	ID:20	RPL: Sending prefix info in DIO for fd00::
+249985206	ID:20	RPL: Sending a multicast-DIO with rank 384
+250045742	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+250063407	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+250080457	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+250089182	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+250765260	ID:21	RPL: Sending prefix info in DIO for fd00::
+250768428	ID:21	RPL: Sending a multicast-DIO with rank 278
+250934811	ID:18	RPL: Sending prefix info in DIO for fd00::
+250937980	ID:18	RPL: Sending a multicast-DIO with rank 639
+250940528	ID:19	RPL: Sending prefix info in DIO for fd00::
+250943698	ID:19	RPL: Sending a multicast-DIO with rank 639
+251080690	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+251089719	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+251089847	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+251190797	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+251195257	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+251195311	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+251447753	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+251460796	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+251549703	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+251571107	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+251588470	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+251827356	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+251836468	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+251836508	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+251914458	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+251942017	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+251946519	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+251959355	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+251974137	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+251989850	ID:20	RPL: Sending prefix info in DIO for fd00::
+251993018	ID:20	RPL: Sending a multicast-DIO with rank 384
+252049233	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+252062335	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+252079597	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+252088334	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+252463186	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+252558295	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+252584089	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+252587730	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+252639976	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+252691871	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+252696250	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+252713683	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+252773050	ID:21	RPL: Sending prefix info in DIO for fd00::
+252776218	ID:21	RPL: Sending a multicast-DIO with rank 278
+252823817	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+252828123	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+252836941	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+252933155	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+252942440	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+252942601	ID:18	RPL: Sending prefix info in DIO for fd00::
+252945770	ID:18	RPL: Sending a multicast-DIO with rank 639
+252946937	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+252948341	ID:19	RPL: Sending prefix info in DIO for fd00::
+252951510	ID:19	RPL: Sending a multicast-DIO with rank 639
+252973989	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+253022388	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+253061542	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+253065906	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+253070275	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+253087574	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+253369779	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+253387255	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+253435309	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+253443685	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+253448036	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+253461128	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+253828035	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+253836940	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+253837124	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+253997663	ID:20	RPL: Sending prefix info in DIO for fd00::
+254000831	ID:20	RPL: Sending a multicast-DIO with rank 384
+254048381	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+254061597	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+254078858	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+254087724	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+254780862	ID:21	RPL: Sending prefix info in DIO for fd00::
+254784030	ID:21	RPL: Sending a multicast-DIO with rank 278
+254823035	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+254836215	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+254940969	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+254945400	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+254950413	ID:18	RPL: Sending prefix info in DIO for fd00::
+254953583	ID:18	RPL: Sending a multicast-DIO with rank 639
+254956153	ID:19	RPL: Sending prefix info in DIO for fd00::
+254959097	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+254959323	ID:19	RPL: Sending a multicast-DIO with rank 639
+254959393	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+254964887	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+255016769	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+255064622	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+255073249	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+255080585	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+255086433	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+255119516	ID:16	RPL: Received a DIO from fe80::c30c:0:0:11
+255414871	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+255436823	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+255441042	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+255445394	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+255462784	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+255514857	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+255865064	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+255953262	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+255962289	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+255992786	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+256005475	ID:20	RPL: Sending prefix info in DIO for fd00::
+256008643	ID:20	RPL: Sending a multicast-DIO with rank 384
+256224491	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+256224663	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+256788675	ID:21	RPL: Sending prefix info in DIO for fd00::
+256791843	ID:21	RPL: Sending a multicast-DIO with rank 278
+256822217	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+256839587	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+256921810	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+256958226	ID:18	RPL: Sending prefix info in DIO for fd00::
+256961395	ID:18	RPL: Sending a multicast-DIO with rank 639
+256962510	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+256963966	ID:19	RPL: Sending prefix info in DIO for fd00::
+256967135	ID:19	RPL: Sending a multicast-DIO with rank 639
+256976545	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+256976812	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+257082840	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+257337518	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+257445856	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+258013288	ID:20	RPL: Sending prefix info in DIO for fd00::
+258016456	ID:20	RPL: Sending a multicast-DIO with rank 384
+258025152	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+258072909	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+258086140	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+258420582	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+258438074	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+258455242	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+258464039	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+258796487	ID:21	RPL: Sending prefix info in DIO for fd00::
+258799655	ID:21	RPL: Sending a multicast-DIO with rank 278
+258838693	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+258920941	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+258959676	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+258966038	ID:18	RPL: Sending prefix info in DIO for fd00::
+258969208	ID:18	RPL: Sending a multicast-DIO with rank 639
+258971778	ID:19	RPL: Sending prefix info in DIO for fd00::
+258974948	ID:19	RPL: Sending a multicast-DIO with rank 639
+258995038	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+259046674	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+259068448	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+259389549	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+259424148	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+259437311	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+259441647	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+259445941	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+259463327	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+260021273	ID:20	RPL: Sending prefix info in DIO for fd00::
+260024441	ID:20	RPL: Sending a multicast-DIO with rank 384
+260063408	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+260080572	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+260089395	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+260171737	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+260804300	ID:21	RPL: Sending prefix info in DIO for fd00::
+260807468	ID:21	RPL: Sending a multicast-DIO with rank 278
+260837730	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+260973851	ID:18	RPL: Sending prefix info in DIO for fd00::
+260975485	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+260977020	ID:18	RPL: Sending a multicast-DIO with rank 639
+260979591	ID:19	RPL: Sending prefix info in DIO for fd00::
+260982760	ID:19	RPL: Sending a multicast-DIO with rank 639
+261059623	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+261072324	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+261089784	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+261187335	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+261191585	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+261195927	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+261213335	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+261243399	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+261265269	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+262028913	ID:20	RPL: Sending prefix info in DIO for fd00::
+262032081	ID:20	RPL: Sending a multicast-DIO with rank 384
+262062450	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+262079640	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+262088475	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+262170707	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+262812112	ID:21	RPL: Sending prefix info in DIO for fd00::
+262815280	ID:21	RPL: Sending a multicast-DIO with rank 278
+262974378	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+262981663	ID:18	RPL: Sending prefix info in DIO for fd00::
+262984833	ID:18	RPL: Sending a multicast-DIO with rank 639
+262987576	ID:19	RPL: Sending prefix info in DIO for fd00::
+262990745	ID:19	RPL: Sending a multicast-DIO with rank 639
+262992730	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+263066659	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+263070927	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+263088270	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+263118531	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+263140332	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+263188146	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+263672983	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+263686000	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+263698766	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+263711839	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+263763940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+264036760	ID:20	RPL: Sending prefix info in DIO for fd00::
+264039927	ID:20	RPL: Sending a multicast-DIO with rank 384
+264078731	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+264087605	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+264174191	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+264187317	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+264819925	ID:21	RPL: Sending prefix info in DIO for fd00::
+264823093	ID:21	RPL: Sending a multicast-DIO with rank 278
+264922768	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+264989476	ID:18	RPL: Sending prefix info in DIO for fd00::
+264992645	ID:18	RPL: Sending a multicast-DIO with rank 639
+264995216	ID:19	RPL: Sending prefix info in DIO for fd00::
+264998385	ID:19	RPL: Sending a multicast-DIO with rank 639
+265306711	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+265574080	ID:14	RPL: Received a DIO from fe80::c30c:0:0:f
+266044538	ID:20	RPL: Sending prefix info in DIO for fd00::
+266047706	ID:20	RPL: Sending a multicast-DIO with rank 384
+266077919	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+266086614	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+266173450	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+266186383	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+266827738	ID:21	RPL: Sending prefix info in DIO for fd00::
+266830906	ID:21	RPL: Sending a multicast-DIO with rank 278
+266921908	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+266947964	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+266976434	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+266997288	ID:18	RPL: Sending prefix info in DIO for fd00::
+267000458	ID:18	RPL: Sending a multicast-DIO with rank 639
+267003028	ID:19	RPL: Sending prefix info in DIO for fd00::
+267006198	ID:19	RPL: Sending a multicast-DIO with rank 639
+267048167	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+267061179	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+267074079	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+267087150	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+267139040	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+267705027	ID:15	RPL: Received a DIO from fe80::c30c:0:0:e
+267713810	ID:10	RPL: Received a DIO from fe80::c30c:0:0:e
+267838470	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+267890332	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+267938206	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+268052350	ID:20	RPL: Sending prefix info in DIO for fd00::
+268055518	ID:20	RPL: Sending a multicast-DIO with rank 384
+268085977	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+268172560	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+268185631	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+268202864	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+268835550	ID:21	RPL: Sending prefix info in DIO for fd00::
+268838718	ID:21	RPL: Sending a multicast-DIO with rank 278
+268921055	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+268964503	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+269005101	ID:18	RPL: Sending prefix info in DIO for fd00::
+269008270	ID:18	RPL: Sending a multicast-DIO with rank 639
+269010841	ID:19	RPL: Sending prefix info in DIO for fd00::
+269014010	ID:19	RPL: Sending a multicast-DIO with rank 639
+269047213	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+269060446	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+269086377	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+269138252	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+269337998	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+269338185	ID:10	RPL: Received a DIO from fe80::c30c:0:0:15
+269466374	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+269475563	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+270060163	ID:20	RPL: Sending prefix info in DIO for fd00::
+270063331	ID:20	RPL: Sending a multicast-DIO with rank 384
+270086756	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+270203940	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+270843535	ID:21	RPL: Sending prefix info in DIO for fd00::
+270846703	ID:21	RPL: Sending a multicast-DIO with rank 278
+271013086	ID:18	RPL: Sending prefix info in DIO for fd00::
+271016255	ID:18	RPL: Sending a multicast-DIO with rank 639
+271018653	ID:19	RPL: Sending prefix info in DIO for fd00::
+271021823	ID:19	RPL: Sending a multicast-DIO with rank 639
+272047897	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+272065080	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+272067975	ID:20	RPL: Sending prefix info in DIO for fd00::
+272071143	ID:20	RPL: Sending a multicast-DIO with rank 384
+272073774	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+272297273	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+272336459	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+272851175	ID:21	RPL: Sending prefix info in DIO for fd00::
+272854343	ID:21	RPL: Sending a multicast-DIO with rank 278
+272923665	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+272954142	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+273020726	ID:18	RPL: Sending prefix info in DIO for fd00::
+273023895	ID:18	RPL: Sending a multicast-DIO with rank 639
+273026466	ID:19	RPL: Sending prefix info in DIO for fd00::
+273029635	ID:19	RPL: Sending a multicast-DIO with rank 639
+273048458	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+273071344	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+273322909	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+273565583	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+273963182	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+273977368	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+274073391	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+274075788	ID:20	RPL: Sending prefix info in DIO for fd00::
+274079877	ID:20	RPL: Sending a multicast-DIO with rank 384
+274188160	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+274205450	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+274214039	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+274244486	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+274674820	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+274697751	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+274858987	ID:21	RPL: Sending prefix info in DIO for fd00::
+274862155	ID:21	RPL: Sending a multicast-DIO with rank 278
+275028538	ID:18	RPL: Sending prefix info in DIO for fd00::
+275031708	ID:18	RPL: Sending a multicast-DIO with rank 639
+275034278	ID:19	RPL: Sending prefix info in DIO for fd00::
+275037448	ID:19	RPL: Sending a multicast-DIO with rank 639
+275047423	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+275077864	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+275140473	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+275188327	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+275196787	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+275205584	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+275209918	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+275630883	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+275765044	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+276084011	ID:20	RPL: Sending prefix info in DIO for fd00::
+276087179	ID:20	RPL: Sending a multicast-DIO with rank 384
+276866800	ID:21	RPL: Sending prefix info in DIO for fd00::
+276870514	ID:21	RPL: Sending a multicast-DIO with rank 278
+277036373	ID:18	RPL: Sending prefix info in DIO for fd00::
+277040442	ID:18	RPL: Sending a multicast-DIO with rank 639
+277042091	ID:19	RPL: Sending prefix info in DIO for fd00::
+277046114	ID:19	RPL: Sending a multicast-DIO with rank 639
+277089324	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+277184915	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+277328220	ID:15	RPL: Received a DIO from fe80::c30c:0:0:e
+277336895	ID:10	RPL: Received a DIO from fe80::c30c:0:0:e
+277673186	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+277686454	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+277703739	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+277712305	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+277796527	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+277809735	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+277822704	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+277827004	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+277835582	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+277938358	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+277987551	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+278091413	ID:20	RPL: Sending prefix info in DIO for fd00::
+278094581	ID:20	RPL: Sending a multicast-DIO with rank 384
+278138201	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+278172646	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+278185542	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+278202849	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+278211853	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+278455738	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+278574792	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+278770405	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+278876975	ID:21	RPL: Sending prefix info in DIO for fd00::
+278880143	ID:21	RPL: Sending a multicast-DIO with rank 278
+279044574	ID:18	RPL: Sending prefix info in DIO for fd00::
+279047743	ID:18	RPL: Sending a multicast-DIO with rank 639
+279049903	ID:19	RPL: Sending prefix info in DIO for fd00::
+279053073	ID:19	RPL: Sending a multicast-DIO with rank 639
+279686056	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+279698829	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+279711946	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+279764113	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+279798665	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+280099225	ID:20	RPL: Sending prefix info in DIO for fd00::
+280102393	ID:20	RPL: Sending a multicast-DIO with rank 384
+280578573	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+280587363	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+280587382	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+280608187	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+280617514	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+280882425	ID:21	RPL: Sending prefix info in DIO for fd00::
+280885593	ID:21	RPL: Sending a multicast-DIO with rank 278
+280924460	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+280969482	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+281051976	ID:18	RPL: Sending prefix info in DIO for fd00::
+281055145	ID:18	RPL: Sending a multicast-DIO with rank 639
+281057738	ID:19	RPL: Sending prefix info in DIO for fd00::
+281060908	ID:19	RPL: Sending a multicast-DIO with rank 639
+281089811	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+281629616	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+282107038	ID:20	RPL: Sending prefix info in DIO for fd00::
+282110206	ID:20	RPL: Sending a multicast-DIO with rank 384
+282170870	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+282890237	ID:21	RPL: Sending prefix info in DIO for fd00::
+282893405	ID:21	RPL: Sending a multicast-DIO with rank 278
+282923545	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+282969483	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+283059788	ID:18	RPL: Sending prefix info in DIO for fd00::
+283062958	ID:18	RPL: Sending a multicast-DIO with rank 639
+283065551	ID:19	RPL: Sending prefix info in DIO for fd00::
+283068720	ID:19	RPL: Sending a multicast-DIO with rank 639
+283088058	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+283198257	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+283202826	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+283299955	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+283322822	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+283454906	ID:13	RPL: Received a DIO from fe80::c30c:0:0:c
+283638012	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+283672630	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+283685775	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+283703059	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+283711687	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+283711934	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+283765830	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+283796129	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+283809217	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+283839427	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+283839490	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+283889498	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+283937196	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+283976596	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+283987170	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+284115023	ID:20	RPL: Sending prefix info in DIO for fd00::
+284118191	ID:20	RPL: Sending a multicast-DIO with rank 384
+284187478	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+284204782	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+284213542	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+284233794	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+284772438	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+284818365	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+284822839	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+284823106	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+284850441	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+284882786	ID:4	RPL: Received a DIO from fe80::c30c:0:0:15
+284898050	ID:21	RPL: Sending prefix info in DIO for fd00::
+284901218	ID:21	RPL: Sending a multicast-DIO with rank 278
+284907187	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+285048545	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+285067623	ID:18	RPL: Sending prefix info in DIO for fd00::
+285070793	ID:18	RPL: Sending a multicast-DIO with rank 639
+285073341	ID:19	RPL: Sending prefix info in DIO for fd00::
+285076510	ID:19	RPL: Sending a multicast-DIO with rank 639
+285184924	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+285202274	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+285210852	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+285311461	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+285324252	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+285337363	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+285389310	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+285421974	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+285434886	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+285447701	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+285460739	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+285574972	ID:14	RPL: Received a DIO from fe80::c30c:0:0:f
+285607930	ID:11	RPL: Received a DIO from fe80::c30c:0:0:f
+286122663	ID:20	RPL: Sending prefix info in DIO for fd00::
+286125831	ID:20	RPL: Sending a multicast-DIO with rank 384
+286173673	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+286186596	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+286203786	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+286233784	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+286242909	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+286905862	ID:21	RPL: Sending prefix info in DIO for fd00::
+286909030	ID:21	RPL: Sending a multicast-DIO with rank 278
+286969155	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+287047740	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+287075413	ID:18	RPL: Sending prefix info in DIO for fd00::
+287078583	ID:18	RPL: Sending a multicast-DIO with rank 639
+287081326	ID:19	RPL: Sending prefix info in DIO for fd00::
+287084495	ID:19	RPL: Sending a multicast-DIO with rank 639
+287259366	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+287320399	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+287579934	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+287588538	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+287588613	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+287671151	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+287688529	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+287936235	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+287940403	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+287959649	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+287976532	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+288013940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+288048760	ID:14	RPL: Received a DIO from fe80::c30c:0:0:12
+288130475	ID:20	RPL: Sending prefix info in DIO for fd00::
+288133643	ID:20	RPL: Sending a multicast-DIO with rank 384
+288185795	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+288202964	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+288211768	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+288233457	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+288246231	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+288913675	ID:21	RPL: Sending prefix info in DIO for fd00::
+288916843	ID:21	RPL: Sending a multicast-DIO with rank 278
+289046906	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+289078787	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+289083226	ID:18	RPL: Sending prefix info in DIO for fd00::
+289086395	ID:18	RPL: Sending a multicast-DIO with rank 639
+289087787	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+289088966	ID:19	RPL: Sending prefix info in DIO for fd00::
+289092135	ID:19	RPL: Sending a multicast-DIO with rank 639
+289212272	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+289226196	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+289436893	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+289441045	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+289445371	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+289454284	ID:15	RPL: Received a DIO from fe80::c30c:0:0:12
+289462847	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+289514762	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+289798949	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+289821644	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+289974043	ID:8	RPL: Received a DIO from fe80::c30c:0:0:c
+290060997	ID:11	RPL: Received a DIO from fe80::c30c:0:0:c
+290082149	ID:13	RPL: Received a DIO from fe80::c30c:0:0:c
+290135577	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+290138288	ID:20	RPL: Sending prefix info in DIO for fd00::
+290141456	ID:20	RPL: Sending a multicast-DIO with rank 384
+290243758	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+290820280	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+290921037	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+290921487	ID:21	RPL: Sending prefix info in DIO for fd00::
+290924655	ID:21	RPL: Sending a multicast-DIO with rank 278
+290955067	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+291045942	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+291091038	ID:18	RPL: Sending prefix info in DIO for fd00::
+291094208	ID:18	RPL: Sending a multicast-DIO with rank 639
+291096801	ID:19	RPL: Sending prefix info in DIO for fd00::
+291099970	ID:19	RPL: Sending a multicast-DIO with rank 639
+291137479	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+291163502	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+291185387	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+291198065	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+291211124	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+291455729	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+291464841	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+291687766	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+291705074	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+291713560	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+291713710	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+291798166	ID:14	RPL: Received a DIO from fe80::c30c:0:0:13
+291811106	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+291828441	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+291837029	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+291837076	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+291889291	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+292046911	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+292146100	ID:20	RPL: Sending prefix info in DIO for fd00::
+292149268	ID:20	RPL: Sending a multicast-DIO with rank 384
+292243412	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+292313197	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+292330430	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+292338965	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+292494650	ID:16	RPL: Received a DIO from fe80::c30c:0:0:11
+292565381	ID:2	RPL: Received a DIO from fe80::c30c:0:0:3
+292581261	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+292929300	ID:21	RPL: Sending prefix info in DIO for fd00::
+292932468	ID:21	RPL: Sending a multicast-DIO with rank 278
+293098851	ID:18	RPL: Sending prefix info in DIO for fd00::
+293102020	ID:18	RPL: Sending a multicast-DIO with rank 639
+293104591	ID:19	RPL: Sending prefix info in DIO for fd00::
+293107760	ID:19	RPL: Sending a multicast-DIO with rank 639
+293140987	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+293184619	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+293192959	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+293197218	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+293214654	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+293244738	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+293422535	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+293452964	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+294153913	ID:20	RPL: Sending prefix info in DIO for fd00::
+294157081	ID:20	RPL: Sending a multicast-DIO with rank 384
+294187450	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+294204648	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+294213325	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+294213475	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+294243667	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+294937295	ID:21	RPL: Sending prefix info in DIO for fd00::
+294940462	ID:21	RPL: Sending a multicast-DIO with rank 278
+295048456	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+295078933	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+295106836	ID:18	RPL: Sending prefix info in DIO for fd00::
+295110005	ID:18	RPL: Sending a multicast-DIO with rank 639
+295112426	ID:19	RPL: Sending prefix info in DIO for fd00::
+295115595	ID:19	RPL: Sending a multicast-DIO with rank 639
+295174745	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+295197761	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+295309735	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+295326995	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+295339927	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+295387609	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+295437381	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+295454711	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+295463328	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+295463416	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+296101080	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+296161725	ID:20	RPL: Sending prefix info in DIO for fd00::
+296164893	ID:20	RPL: Sending a multicast-DIO with rank 384
+296197047	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+296386763	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+296516342	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+296559727	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+296576887	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+296589836	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+296619993	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+296944925	ID:21	RPL: Sending prefix info in DIO for fd00::
+296948093	ID:21	RPL: Sending a multicast-DIO with rank 278
+297047627	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+297078106	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+297120216	ID:19	RPL: Sending prefix info in DIO for fd00::
+297123385	ID:19	RPL: Sending a multicast-DIO with rank 639
+297135392	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+297160303	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+297187877	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+297191871	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+297196263	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+297213760	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+297250975	ID:18	RPL: Sending prefix info in DIO for fd00::
+297254152	ID:18	RPL: Sending a multicast-DIO with rank 639
+297288632	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+297310572	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+297314782	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+297323401	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+297336522	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+297388475	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+297453502	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+297462543	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+297567862	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+297572439	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+297572614	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+297583429	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+297586639	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+297631957	ID:4	RPL: Received a DIO from fe80::c30c:0:0:15
+297796163	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+297837756	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+298017604	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+298068152	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+298072625	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+298072694	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+298169538	ID:20	RPL: Sending prefix info in DIO for fd00::
+298172706	ID:20	RPL: Sending a multicast-DIO with rank 384
+298338399	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+298338467	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+298438384	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+298579503	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+298584527	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+298588259	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+298797978	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+298821115	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+298952737	ID:21	RPL: Sending prefix info in DIO for fd00::
+298955905	ID:21	RPL: Sending a multicast-DIO with rank 278
+299046895	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+299077428	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+299128028	ID:19	RPL: Sending prefix info in DIO for fd00::
+299131198	ID:19	RPL: Sending a multicast-DIO with rank 639
+299187664	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+299196321	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+299213541	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+299256394	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+299262913	ID:18	RPL: Sending prefix info in DIO for fd00::
+299266083	ID:18	RPL: Sending a multicast-DIO with rank 639
+299309718	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+299318009	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+299322395	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+299339815	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+299343880	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+299387409	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+299463112	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+299577648	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+299622425	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+299691262	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+299695712	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+299695928	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+300047131	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+300177350	ID:20	RPL: Sending prefix info in DIO for fd00::
+300180518	ID:20	RPL: Sending a multicast-DIO with rank 384
+300198777	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+300298878	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+300447750	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+300580759	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+300589895	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+300672274	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+300695262	ID:6	RPL: Received a DIO from fe80::c30c:0:0:15
+300829371	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+300838539	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+300960550	ID:21	RPL: Sending prefix info in DIO for fd00::
+300963718	ID:21	RPL: Sending a multicast-DIO with rank 278
+301120340	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+301135841	ID:19	RPL: Sending prefix info in DIO for fd00::
+301139010	ID:19	RPL: Sending a multicast-DIO with rank 639
+301171595	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+301201996	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+301263261	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+301270726	ID:18	RPL: Sending prefix info in DIO for fd00::
+301273895	ID:18	RPL: Sending a multicast-DIO with rank 639
+301311013	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+301328263	ID:15	RPL: Received a DIO from fe80::c30c:0:0:13
+301336702	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+301336776	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+301372190	ID:16	RPL: Received a DIO from fe80::c30c:0:0:13
+301439462	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+301443547	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+301448106	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+301461128	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+301579498	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+301588539	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+301671163	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+301836644	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+301942155	ID:2	RPL: Received a DIO from fe80::c30c:0:0:15
+302099379	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+302103804	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+302185163	ID:20	RPL: Sending prefix info in DIO for fd00::
+302188331	ID:20	RPL: Sending a multicast-DIO with rank 384
+302195400	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+302328470	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+302440603	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+302445240	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+302580458	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+302589064	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+302619366	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+302641322	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+302968362	ID:21	RPL: Sending prefix info in DIO for fd00::
+302971530	ID:21	RPL: Sending a multicast-DIO with rank 278
+303021721	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+303143653	ID:19	RPL: Sending prefix info in DIO for fd00::
+303146823	ID:19	RPL: Sending a multicast-DIO with rank 639
+303179475	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+303197910	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+303225413	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+303278539	ID:18	RPL: Sending prefix info in DIO for fd00::
+303281708	ID:18	RPL: Sending a multicast-DIO with rank 639
+303285348	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+303369062	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+303391123	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+303438638	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+303447197	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+303464509	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+303561529	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+303570247	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+303587437	ID:10	RPL: Received a DIO from fe80::c30c:0:0:13
+303587463	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+303662938	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+303747365	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+303820820	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+303912155	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+304042397	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+304192975	ID:20	RPL: Sending prefix info in DIO for fd00::
+304196143	ID:20	RPL: Sending a multicast-DIO with rank 384
+304224807	ID:8	RPL: Received a DIO from fe80::c30c:0:0:7
+304313259	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+304387814	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+304546021	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+304578494	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+304592105	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+304976175	ID:21	RPL: Sending prefix info in DIO for fd00::
+304979343	ID:21	RPL: Sending a multicast-DIO with rank 278
+305048594	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+305079158	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+305087999	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+305118089	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+305151466	ID:19	RPL: Sending prefix info in DIO for fd00::
+305154635	ID:19	RPL: Sending a multicast-DIO with rank 639
+305286351	ID:18	RPL: Sending prefix info in DIO for fd00::
+305290375	ID:18	RPL: Sending a multicast-DIO with rank 639
+305311851	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+305316333	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+305320747	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+305320781	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+305338115	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+305390123	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+305438036	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+305671075	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+305712605	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+305946129	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+306079000	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+306200788	ID:20	RPL: Sending prefix info in DIO for fd00::
+306204501	ID:20	RPL: Sending a multicast-DIO with rank 384
+306280420	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306299267	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306322270	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+306349878	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+306448053	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+306457146	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306462218	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+306475556	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+306666101	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306828616	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306929970	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+306983987	ID:21	RPL: Sending prefix info in DIO for fd00::
+306987155	ID:21	RPL: Sending a multicast-DIO with rank 278
+307078177	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+307086946	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+307159301	ID:19	RPL: Sending prefix info in DIO for fd00::
+307162470	ID:19	RPL: Sending a multicast-DIO with rank 639
+307178759	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+307296302	ID:18	RPL: Sending prefix info in DIO for fd00::
+307299605	ID:18	RPL: Sending a multicast-DIO with rank 639
+307321401	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+307348857	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+307371641	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+307435965	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+307436255	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+307440531	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+307462137	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+307514217	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+307597304	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+307773568	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+307849521	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+307888549	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+307936160	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+307967633	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+307976882	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+308072864	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308113223	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308195802	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308208773	ID:20	RPL: Sending prefix info in DIO for fd00::
+308211941	ID:20	RPL: Sending a multicast-DIO with rank 384
+308241979	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308329569	ID:13	RPL: Received a DIO from fe80::c30c:0:0:14
+308376957	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308445896	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308534555	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308571312	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308645265	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+308658808	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308889051	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308948722	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308976805	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+308985962	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+308991800	ID:21	RPL: Sending prefix info in DIO for fd00::
+308995822	ID:21	RPL: Sending a multicast-DIO with rank 278
+309143322	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+309167091	ID:19	RPL: Sending prefix info in DIO for fd00::
+309170805	ID:19	RPL: Sending a multicast-DIO with rank 639
+309198361	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+309301976	ID:18	RPL: Sending prefix info in DIO for fd00::
+309305146	ID:18	RPL: Sending a multicast-DIO with rank 639
+309423611	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+309579213	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+309588262	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+309683527	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+309696663	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+309766052	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+309884067	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310160654	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+310187308	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+310216413	ID:20	RPL: Sending prefix info in DIO for fd00::
+310219581	ID:20	RPL: Sending a multicast-DIO with rank 384
+310226292	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+310234045	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+310258757	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310370055	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+310387651	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310635600	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310847478	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310948195	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+310982171	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+310999612	ID:21	RPL: Sending prefix info in DIO for fd00::
+311002780	ID:21	RPL: Sending a multicast-DIO with rank 278
+311175076	ID:19	RPL: Sending prefix info in DIO for fd00::
+311178245	ID:19	RPL: Sending a multicast-DIO with rank 639
+311309789	ID:18	RPL: Sending prefix info in DIO for fd00::
+311312958	ID:18	RPL: Sending a multicast-DIO with rank 639
+311330259	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+311697105	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+311714594	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+311810095	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+311818641	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+311822830	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+311822910	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+312224225	ID:20	RPL: Sending prefix info in DIO for fd00::
+312227393	ID:20	RPL: Sending a multicast-DIO with rank 384
+312370279	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+312674823	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+312830761	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+313007425	ID:21	RPL: Sending prefix info in DIO for fd00::
+313010593	ID:21	RPL: Sending a multicast-DIO with rank 278
+313079853	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+313088752	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+313182716	ID:19	RPL: Sending prefix info in DIO for fd00::
+313185885	ID:19	RPL: Sending a multicast-DIO with rank 639
+313263262	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+313311092	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+313315576	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+313317601	ID:18	RPL: Sending prefix info in DIO for fd00::
+313320770	ID:18	RPL: Sending a multicast-DIO with rank 639
+313324093	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+313342176	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+313445927	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+313641209	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+313778843	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+313921418	ID:14	RPL: Received a DIO from fe80::c30c:0:0:15
+313953854	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+314083911	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+314232038	ID:20	RPL: Sending prefix info in DIO for fd00::
+314235206	ID:20	RPL: Sending a multicast-DIO with rank 384
+314369401	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+314389144	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+315015237	ID:21	RPL: Sending prefix info in DIO for fd00::
+315018405	ID:21	RPL: Sending a multicast-DIO with rank 278
+315078875	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+315087611	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+315118049	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+315190528	ID:19	RPL: Sending prefix info in DIO for fd00::
+315193698	ID:19	RPL: Sending a multicast-DIO with rank 639
+315223913	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+315263081	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+315310940	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+315315223	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+315323777	ID:6	RPL: Received a DIO from fe80::c30c:0:0:13
+315325413	ID:18	RPL: Sending prefix info in DIO for fd00::
+315328583	ID:18	RPL: Sending a multicast-DIO with rank 639
+315336701	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+315350138	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+315389290	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+315441405	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+315445622	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+315445652	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+315462901	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+315781009	ID:17	RPL: Received a DIO from fe80::c30c:0:0:10
+316008996	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+316239850	ID:20	RPL: Sending prefix info in DIO for fd00::
+316243018	ID:20	RPL: Sending a multicast-DIO with rank 384
+316312531	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+316338541	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+316368666	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+316509054	ID:4	RPL: Received a DIO from fe80::c30c:0:0:14
+316514266	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+316527544	ID:9	RPL: Received a DIO from fe80::c30c:0:0:14
+316541777	ID:5	RPL: Received a DIO from fe80::c30c:0:0:14
+316574186	ID:3	RPL: Received a DIO from fe80::c30c:0:0:14
+316587444	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+317023050	ID:21	RPL: Sending prefix info in DIO for fd00::
+317026218	ID:21	RPL: Sending a multicast-DIO with rank 278
+317078107	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+317086964	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+317121511	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+317198341	ID:19	RPL: Sending prefix info in DIO for fd00::
+317201510	ID:19	RPL: Sending a multicast-DIO with rank 639
+317202116	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+317256256	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+317333226	ID:18	RPL: Sending prefix info in DIO for fd00::
+317336395	ID:18	RPL: Sending a multicast-DIO with rank 639
+317353637	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+317463708	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+317626792	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+317640048	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+317691871	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+317696179	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+317696272	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+318247663	ID:20	RPL: Sending prefix info in DIO for fd00::
+318250831	ID:20	RPL: Sending a multicast-DIO with rank 384
+318516499	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+318559634	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+318576971	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+318590017	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+318639295	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+318652693	ID:9	RPL: Received a DIO from fe80::c30c:0:0:14
+318828652	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+319031035	ID:21	RPL: Sending prefix info in DIO for fd00::
+319034203	ID:21	RPL: Sending a multicast-DIO with rank 278
+319077428	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+319086268	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+319120624	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+319206153	ID:19	RPL: Sending prefix info in DIO for fd00::
+319209323	ID:19	RPL: Sending a multicast-DIO with rank 639
+319256666	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+319337614	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+319341039	ID:18	RPL: Sending prefix info in DIO for fd00::
+319344208	ID:18	RPL: Sending a multicast-DIO with rank 639
+319346240	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+319665870	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+319838823	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+319851580	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+320196067	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+320255475	ID:20	RPL: Sending prefix info in DIO for fd00::
+320258643	ID:20	RPL: Sending a multicast-DIO with rank 384
+320324646	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+320352239	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+320688060	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+320705361	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+320714199	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+320744304	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+320766201	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+321038675	ID:21	RPL: Sending prefix info in DIO for fd00::
+321041843	ID:21	RPL: Sending a multicast-DIO with rank 278
+321089661	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+321119770	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+321203501	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+321213966	ID:19	RPL: Sending prefix info in DIO for fd00::
+321217135	ID:19	RPL: Sending a multicast-DIO with rank 639
+321226558	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+321256405	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+321348851	ID:18	RPL: Sending prefix info in DIO for fd00::
+321350200	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+321352021	ID:18	RPL: Sending a multicast-DIO with rank 639
+321368371	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+321536327	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+321688269	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+321692512	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+321697128	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+321714250	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+321722959	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+321727285	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+321757581	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+321766483	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+322263288	ID:20	RPL: Sending prefix info in DIO for fd00::
+322266456	ID:20	RPL: Sending a multicast-DIO with rank 384
+322309874	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+322327123	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+322335898	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+322370358	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+322387982	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+322463112	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+322513404	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+322526768	ID:9	RPL: Received a DIO from fe80::c30c:0:0:14
+323046487	ID:21	RPL: Sending prefix info in DIO for fd00::
+323049655	ID:21	RPL: Sending a multicast-DIO with rank 278
+323079925	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+323088823	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+323118954	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+323221778	ID:19	RPL: Sending prefix info in DIO for fd00::
+323224948	ID:19	RPL: Sending a multicast-DIO with rank 639
+323264012	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+323302763	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+323311673	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+323315920	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+323320233	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+323337707	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+323350698	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+323356663	ID:18	RPL: Sending prefix info in DIO for fd00::
+323359833	ID:18	RPL: Sending a multicast-DIO with rank 639
+323381238	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+323390331	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+323442101	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+323446395	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+323446478	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+323579782	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+323633241	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+323680933	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+323729626	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+323821295	ID:3	RPL: Received a DIO from fe80::c30c:0:0:15
+323922478	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+324271100	ID:20	RPL: Sending prefix info in DIO for fd00::
+324274268	ID:20	RPL: Sending a multicast-DIO with rank 384
+324313305	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+324339367	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+324391523	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+324759028	ID:4	RPL: Received a DIO from fe80::c30c:0:0:14
+324763940	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+324777330	ID:9	RPL: Received a DIO from fe80::c30c:0:0:14
+324837076	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+325054300	ID:21	RPL: Sending prefix info in DIO for fd00::
+325057468	ID:21	RPL: Sending a multicast-DIO with rank 278
+325087846	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+325118089	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+325157529	ID:17	RPL: Received a DIO from fe80::c30c:0:0:15
+325204711	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+325229591	ID:19	RPL: Sending prefix info in DIO for fd00::
+325232760	ID:19	RPL: Sending a multicast-DIO with rank 639
+325258621	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+325263333	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+325310916	ID:11	RPL: Received a DIO from fe80::c30c:0:0:13
+325315218	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+325323851	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+325349844	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+325358442	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+325364476	ID:18	RPL: Sending prefix info in DIO for fd00::
+325367645	ID:18	RPL: Sending a multicast-DIO with rank 639
+325389194	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+325437236	ID:11	RPL: Received a DIO from fe80::c30c:0:0:12
+325441334	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+325445682	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+325445701	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+325633767	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+325725849	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+325762498	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+325789566	ID:4	RPL: Received a DIO from fe80::c30c:0:0:15
+326278913	ID:20	RPL: Sending prefix info in DIO for fd00::
+326282081	ID:20	RPL: Sending a multicast-DIO with rank 384
+326312465	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+326338565	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+327062112	ID:21	RPL: Sending prefix info in DIO for fd00::
+327065280	ID:21	RPL: Sending a multicast-DIO with rank 278
+327121501	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+327203857	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+327212579	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+327237403	ID:19	RPL: Sending prefix info in DIO for fd00::
+327240573	ID:19	RPL: Sending a multicast-DIO with rank 639
+327372288	ID:18	RPL: Sending prefix info in DIO for fd00::
+327375458	ID:18	RPL: Sending a multicast-DIO with rank 639
+327388435	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+327423631	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+327441080	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+327445363	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+327445410	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+327506375	ID:4	RPL: Received a DIO from fe80::c30c:0:0:12
+327515059	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+327639711	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+327691624	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+327713325	ID:12	RPL: Received a DIO from fe80::c30c:0:0:13
+327714495	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+327726339	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+328286725	ID:20	RPL: Sending prefix info in DIO for fd00::
+328289893	ID:20	RPL: Sending a multicast-DIO with rank 384
+328328857	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+328337446	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+328337685	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+328389844	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+328437258	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+329069925	ID:21	RPL: Sending prefix info in DIO for fd00::
+329073093	ID:21	RPL: Sending a multicast-DIO with rank 278
+329120643	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+329203112	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+329233604	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+329245216	ID:19	RPL: Sending prefix info in DIO for fd00::
+329248385	ID:19	RPL: Sending a multicast-DIO with rank 639
+329380101	ID:18	RPL: Sending prefix info in DIO for fd00::
+329383270	ID:18	RPL: Sending a multicast-DIO with rank 639
+329387679	ID:1	RPL: Received a DIO from fe80::c30c:0:0:15
+329501718	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+329515048	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+329566898	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+329571108	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+329571195	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+329714579	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+329726267	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+329756630	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+329765474	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+330294538	ID:20	RPL: Sending prefix info in DIO for fd00::
+330297706	ID:20	RPL: Sending a multicast-DIO with rank 384
+330324492	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+330327922	ID:15	RPL: Received a DIO from fe80::c30c:0:0:14
+330336614	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+330336692	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+330388879	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+330463823	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+330954006	ID:13	RPL: Received a DIO from fe80::c30c:0:0:9
+331077772	ID:21	RPL: Sending prefix info in DIO for fd00::
+331080939	ID:21	RPL: Sending a multicast-DIO with rank 278
+331119770	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+331202268	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+331233745	ID:12	RPL: Received a DIO from fe80::c30c:0:0:15
+331253028	ID:19	RPL: Sending prefix info in DIO for fd00::
+331256198	ID:19	RPL: Sending a multicast-DIO with rank 639
+331316871	ID:2	RPL: Received a DIO from fe80::c30c:0:0:13
+331321124	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+331351580	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+331381903	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+331388096	ID:18	RPL: Sending prefix info in DIO for fd00::
+331390616	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+331391265	ID:18	RPL: Sending a multicast-DIO with rank 639
+331412582	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+332302523	ID:20	RPL: Sending prefix info in DIO for fd00::
+332305691	ID:20	RPL: Sending a multicast-DIO with rank 384
+332335844	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+332388044	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+332549484	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+333085550	ID:21	RPL: Sending prefix info in DIO for fd00::
+333088718	ID:21	RPL: Sending a multicast-DIO with rank 278
+333118948	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+333201445	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+333260841	ID:19	RPL: Sending prefix info in DIO for fd00::
+333264010	ID:19	RPL: Sending a multicast-DIO with rank 639
+333395726	ID:18	RPL: Sending prefix info in DIO for fd00::
+333398895	ID:18	RPL: Sending a multicast-DIO with rank 639
+333431503	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+333440322	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+333448828	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+333448969	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+334310163	ID:20	RPL: Sending prefix info in DIO for fd00::
+334313331	ID:20	RPL: Sending a multicast-DIO with rank 384
+334339200	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+334339535	ID:12	RPL: Received a DIO from fe80::c30c:0:0:14
+334391285	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+334434735	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+334447635	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+334493604	ID:16	RPL: Received a DIO from fe80::c30c:0:0:14
+334548166	ID:14	RPL: Received a DIO from fe80::c30c:0:0:14
+334584542	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+335093362	ID:21	RPL: Sending prefix info in DIO for fd00::
+335096530	ID:21	RPL: Sending a multicast-DIO with rank 278
+335204788	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+335243817	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+335268826	ID:19	RPL: Sending prefix info in DIO for fd00::
+335271995	ID:19	RPL: Sending a multicast-DIO with rank 639
+335293587	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+335403538	ID:18	RPL: Sending prefix info in DIO for fd00::
+335406708	ID:18	RPL: Sending a multicast-DIO with rank 639
+335428206	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+335441340	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+335445718	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+335445742	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+335515137	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+336317975	ID:20	RPL: Sending prefix info in DIO for fd00::
+336321143	ID:20	RPL: Sending a multicast-DIO with rank 384
+336330586	ID:13	RPL: Received a DIO from fe80::c30c:0:0:11
+336416670	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+336462123	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+337101175	ID:21	RPL: Sending prefix info in DIO for fd00::
+337104343	ID:21	RPL: Sending a multicast-DIO with rank 278
+337203875	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+337242987	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+337276466	ID:19	RPL: Sending prefix info in DIO for fd00::
+337279635	ID:19	RPL: Sending a multicast-DIO with rank 639
+337411351	ID:18	RPL: Sending prefix info in DIO for fd00::
+337415441	ID:18	RPL: Sending a multicast-DIO with rank 639
+337437423	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+337515503	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+338201884	ID:15	RPL: Received a DIO from fe80::c30c:0:0:b
+338325788	ID:20	RPL: Sending prefix info in DIO for fd00::
+338329810	ID:20	RPL: Sending a multicast-DIO with rank 384
+338390545	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+338438224	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+338442810	ID:2	RPL: Received a DIO from fe80::c30c:0:0:14
+338446857	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+338464040	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+339108987	ID:21	RPL: Sending prefix info in DIO for fd00::
+339112155	ID:21	RPL: Sending a multicast-DIO with rank 278
+339203177	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+339246479	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+339284278	ID:19	RPL: Sending prefix info in DIO for fd00::
+339287448	ID:19	RPL: Sending a multicast-DIO with rank 639
+339389648	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+339419163	ID:18	RPL: Sending prefix info in DIO for fd00::
+339422333	ID:18	RPL: Sending a multicast-DIO with rank 639
+339445960	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+339462627	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+339514976	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+340333600	ID:20	RPL: Sending prefix info in DIO for fd00::
+340336768	ID:20	RPL: Sending a multicast-DIO with rank 384
+340527361	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+341116800	ID:21	RPL: Sending prefix info in DIO for fd00::
+341120822	ID:21	RPL: Sending a multicast-DIO with rank 278
+341203036	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+341246368	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+341292091	ID:19	RPL: Sending prefix info in DIO for fd00::
+341296114	ID:19	RPL: Sending a multicast-DIO with rank 639
+341327820	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+341426976	ID:18	RPL: Sending prefix info in DIO for fd00::
+341430145	ID:18	RPL: Sending a multicast-DIO with rank 639
+341451551	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+341573177	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+342341413	ID:20	RPL: Sending prefix info in DIO for fd00::
+342344581	ID:20	RPL: Sending a multicast-DIO with rank 384
+342366396	ID:1	RPL: Received a DIO from fe80::c30c:0:0:14
+342388012	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+342435655	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+342439931	ID:2	RPL: Received a DIO from fe80::c30c:0:0:14
+342448548	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+342461568	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+342850559	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+342868806	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+343124785	ID:21	RPL: Sending prefix info in DIO for fd00::
+343127953	ID:21	RPL: Sending a multicast-DIO with rank 278
+343299903	ID:19	RPL: Sending prefix info in DIO for fd00::
+343303073	ID:19	RPL: Sending a multicast-DIO with rank 639
+343434788	ID:18	RPL: Sending prefix info in DIO for fd00::
+343437958	ID:18	RPL: Sending a multicast-DIO with rank 639
+343446125	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+343459440	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+343567938	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+343572220	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+343572270	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+344349225	ID:20	RPL: Sending prefix info in DIO for fd00::
+344352393	ID:20	RPL: Sending a multicast-DIO with rank 384
+345132425	ID:21	RPL: Sending prefix info in DIO for fd00::
+345135593	ID:21	RPL: Sending a multicast-DIO with rank 278
+345226987	ID:8	RPL: Received a DIO from fe80::c30c:0:0:15
+345243817	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+345307716	ID:19	RPL: Sending prefix info in DIO for fd00::
+345310885	ID:19	RPL: Sending a multicast-DIO with rank 639
+345350058	ID:8	RPL: Received a DIO from fe80::c30c:0:0:13
+345384454	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+345389011	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+345436637	ID:1	RPL: Received a DIO from fe80::c30c:0:0:13
+345442601	ID:18	RPL: Sending prefix info in DIO for fd00::
+345445330	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+345445770	ID:18	RPL: Sending a multicast-DIO with rank 639
+345467247	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+345515189	ID:7	RPL: Received a DIO from fe80::c30c:0:0:12
+345567084	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+345571331	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+345571519	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+345588757	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+346006622	ID:4	RPL: Received a DIO from fe80::c30c:0:0:5
+346028072	ID:9	RPL: Received a DIO from fe80::c30c:0:0:5
+346292485	ID:5	RPL: Received a DIO from fe80::c30c:0:0:9
+346349337	ID:8	RPL: Received a DIO from fe80::c30c:0:0:9
+346357038	ID:20	RPL: Sending prefix info in DIO for fd00::
+346360206	ID:20	RPL: Sending a multicast-DIO with rank 384
+346438248	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+346442590	ID:2	RPL: Received a DIO from fe80::c30c:0:0:14
+346446875	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+346464253	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+347140237	ID:21	RPL: Sending prefix info in DIO for fd00::
+347143405	ID:21	RPL: Sending a multicast-DIO with rank 278
+347203999	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+347315528	ID:19	RPL: Sending prefix info in DIO for fd00::
+347318698	ID:19	RPL: Sending a multicast-DIO with rank 639
+347336793	ID:12	RPL: Received a DIO from fe80::c30c:0:0:d
+347383601	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+347388088	ID:7	RPL: Received a DIO from fe80::c30c:0:0:13
+347450413	ID:18	RPL: Sending prefix info in DIO for fd00::
+347453583	ID:18	RPL: Sending a multicast-DIO with rank 639
+347474940	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+347566222	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+347570524	ID:3	RPL: Received a DIO from fe80::c30c:0:0:12
+347570525	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+347587921	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
+347702310	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+347832257	ID:13	RPL: Received a DIO from fe80::c30c:0:0:15
+348364850	ID:20	RPL: Sending prefix info in DIO for fd00::
+348368018	ID:20	RPL: Sending a multicast-DIO with rank 384
+348437333	ID:11	RPL: Received a DIO from fe80::c30c:0:0:14
+348441752	ID:2	RPL: Received a DIO from fe80::c30c:0:0:14
+348446051	ID:6	RPL: Received a DIO from fe80::c30c:0:0:14
+348463354	ID:10	RPL: Received a DIO from fe80::c30c:0:0:14
+348515474	ID:7	RPL: Received a DIO from fe80::c30c:0:0:14
+349148050	ID:21	RPL: Sending prefix info in DIO for fd00::
+349151218	ID:21	RPL: Sending a multicast-DIO with rank 278
+349203066	ID:15	RPL: Received a DIO from fe80::c30c:0:0:15
+349246428	ID:16	RPL: Received a DIO from fe80::c30c:0:0:15
+349323341	ID:19	RPL: Sending prefix info in DIO for fd00::
+349326510	ID:19	RPL: Sending a multicast-DIO with rank 639
+349382650	ID:4	RPL: Received a DIO from fe80::c30c:0:0:13
+349447911	ID:3	RPL: Received a DIO from fe80::c30c:0:0:13
+349458226	ID:18	RPL: Sending prefix info in DIO for fd00::
+349461395	ID:18	RPL: Sending a multicast-DIO with rank 639
+349482752	ID:1	RPL: Received a DIO from fe80::c30c:0:0:12
+349565531	ID:2	RPL: Received a DIO from fe80::c30c:0:0:12
+349574112	ID:6	RPL: Received a DIO from fe80::c30c:0:0:12
+349587150	ID:10	RPL: Received a DIO from fe80::c30c:0:0:12
