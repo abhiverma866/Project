@@ -1,34 +1,38 @@
 Generated Packets 1 | ReceivedPackets 1
-TL = 611783 |  AE2ED = 0.611783 |  PDR = 1
-Generated Packets 2 | ReceivedPackets 2
-TL = 631143 |  AE2ED = 0.3155715 |  PDR = 1
+TL = 961366 |  AE2ED = 0.961366 |  PDR = 1
+Generated Packets 3 | ReceivedPackets 2
+TL = 1059584 |  AE2ED = 0.529792 |  PDR = 0.6666666666666666
 Generated Packets 4 | ReceivedPackets 3
-TL = 1333187 |  AE2ED = 0.4443956666666667 |  PDR = 0.75
-Generated Packets 5 | ReceivedPackets 4
-TL = 1880726 |  AE2ED = 0.4701815 |  PDR = 0.8
-Generated Packets 6 | ReceivedPackets 5
-TL = 1900062 |  AE2ED = 0.38001240000000003 |  PDR = 0.8333333333333334
-Generated Packets 7 | ReceivedPackets 6
-TL = 2251783 |  AE2ED = 0.3752971666666667 |  PDR = 0.8571428571428571
-Generated Packets 8 | ReceivedPackets 7
-TL = 2407299 |  AE2ED = 0.34389985714285715 |  PDR = 0.875
-Generated Packets 9 | ReceivedPackets 8
-TL = 2648642 |  AE2ED = 0.33108025 |  PDR = 0.8888888888888888
-Generated Packets 10 | ReceivedPackets 9
-TL = 2752209 |  AE2ED = 0.305801 |  PDR = 0.9
-Generated Packets 11 | ReceivedPackets 10
-TL = 2893180 |  AE2ED = 0.289318 |  PDR = 0.9090909090909091
-Generated Packets 12 | ReceivedPackets 11
-TL = 2912392 |  AE2ED = 0.2647629090909091 |  PDR = 0.9166666666666666
-Generated Packets 13 | ReceivedPackets 12
-TL = 3111800 |  AE2ED = 0.25931666666666664 |  PDR = 0.9230769230769231
-Generated Packets 14 | ReceivedPackets 13
-TL = 3637640 |  AE2ED = 0.27981846153846157 |  PDR = 0.9285714285714286
+TL = 1078323 |  AE2ED = 0.359441 |  PDR = 0.75
+Generated Packets 6 | ReceivedPackets 4
+TL = 1868412 |  AE2ED = 0.467103 |  PDR = 0.6666666666666666
+Generated Packets 7 | ReceivedPackets 5
+TL = 1991715 |  AE2ED = 0.398343 |  PDR = 0.7142857142857143
+Generated Packets 8 | ReceivedPackets 6
+TL = 2010721 |  AE2ED = 0.33512016666666666 |  PDR = 0.75
+Generated Packets 9 | ReceivedPackets 7
+TL = 2671538 |  AE2ED = 0.3816482857142857 |  PDR = 0.7777777777777778
+Generated Packets 10 | ReceivedPackets 8
+TL = 2747751 |  AE2ED = 0.343468875 |  PDR = 0.8
+Generated Packets 11 | ReceivedPackets 9
+TL = 2968818 |  AE2ED = 0.3298686666666667 |  PDR = 0.8181818181818182
+Generated Packets 12 | ReceivedPackets 10
+TL = 4941971 |  AE2ED = 0.4941971 |  PDR = 0.8333333333333334
+Generated Packets 13 | ReceivedPackets 11
+TL = 5370497 |  AE2ED = 0.488227 |  PDR = 0.8461538461538461
+Generated Packets 15 | ReceivedPackets 12
+TL = 6377580 |  AE2ED = 0.531465 |  PDR = 0.8
+Generated Packets 15 | ReceivedPackets 13
+TL = 7879547 |  AE2ED = 0.606119 |  PDR = 0.8666666666666667
 Generated Packets 16 | ReceivedPackets 14
-TL = 5043591 |  AE2ED = 0.3602565 |  PDR = 0.875
-Generated Packets 18 | ReceivedPackets 15
-TL = 10554085 |  AE2ED = 0.7036056666666666 |  PDR = 0.8333333333333334
+TL = 7898538 |  AE2ED = 0.5641812857142857 |  PDR = 0.875
+Generated Packets 17 | ReceivedPackets 15
+TL = 8021081 |  AE2ED = 0.5347387333333333 |  PDR = 0.8823529411764706
 Generated Packets 19 | ReceivedPackets 16
-TL = 11488080 |  AE2ED = 0.718005 |  PDR = 0.8421052631578947
-Generated Packets 20 | ReceivedPackets 17
-TL = 12454273 |  AE2ED = 0.7326042941176472 |  PDR = 0.85
+TL = 8251041 |  AE2ED = 0.5156900625 |  PDR = 0.8421052631578947
+Generated Packets 19 | ReceivedPackets 17
+TL = 9938307 |  AE2ED = 0.5846062941176471 |  PDR = 0.8947368421052632
+Generated Packets 21 | ReceivedPackets 18
+TL = 10049299 |  AE2ED = 0.5582943888888888 |  PDR = 0.8571428571428571
+Generated Packets 23 | ReceivedPackets 19
+TL = 10068162 |  AE2ED = 0.5299032631578947 |  PDR = 0.8260869565217391

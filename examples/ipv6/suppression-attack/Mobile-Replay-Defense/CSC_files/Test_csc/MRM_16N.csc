@@ -418,7 +418,7 @@
     org.contikios.cooja.plugins.ScriptRunner
     <plugin_config>
       <scriptfile>[CONTIKI_DIR]/script_replay.js</scriptfile>
-      <active>false</active>
+      <active>true</active>
     </plugin_config>
     <width>423</width>
     <z>3</z>

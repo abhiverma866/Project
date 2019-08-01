@@ -54,7 +54,7 @@
 
 // IDS specific macros
 #include "net/common.h"
-#define MAX_NUM_NODE 25
+#define MAX_NUM_NODE 20
 #define IDS_INTERVAL (30 * CLOCK_SECOND)
 #define INIT_DELAY (120 * CLOCK_SECOND)
 

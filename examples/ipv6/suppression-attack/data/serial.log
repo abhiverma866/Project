@@ -1,1035 +1,656 @@
-901244	ID:24	Rime started with address 193.12.0.0.0.0.0.24
-909820	ID:24	MAC c1:0c:00:00:00:00:00:18 Contiki-3.x-3378-g591de4579 started. Node id is set to 24.
-915405	ID:24	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-923423	ID:24	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0018
-926493	ID:24	Starting 'Malicious sensor client process'
-939655	ID:8	Rime started with address 193.12.0.0.0.0.0.8
-948061	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3406-g9d24d590b started. Node id is set to 8.
-953682	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-961656	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
-963799	ID:8	Starting 'UDP client process'
-967227	ID:8	UDP client process started nbr:20 routes:0
-970554	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
-972238	ID:8	fe80::c30c:0:0:8
-977380	ID:8	Created a connection with the server :: local/remote port 8765/5678
-1057458	ID:11	Rime started with address 193.12.0.0.0.0.0.11
-1065994	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3406-g9d24d590b started. Node id is set to 11.
-1071587	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1079562	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
-1081705	ID:11	Starting 'UDP client process'
-1085132	ID:11	UDP client process started nbr:20 routes:0
-1088460	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
-1090145	ID:11	fe80::c30c:0:0:b
-1095287	ID:11	Created a connection with the server :: local/remote port 8765/5678
-1103006	ID:2	Rime started with address 193.12.0.0.0.0.0.2
-1111412	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3406-g9d24d590b started. Node id is set to 2.
-1117033	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1117542	ID:6	Rime started with address 193.12.0.0.0.0.0.6
-1125007	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
-1125948	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3406-g9d24d590b started. Node id is set to 6.
-1127150	ID:2	Starting 'UDP client process'
-1130578	ID:2	UDP client process started nbr:20 routes:0
-1131569	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1133905	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
-1135589	ID:2	fe80::c30c:0:0:2
-1139543	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
-1140731	ID:2	Created a connection with the server :: local/remote port 8765/5678
-1141686	ID:6	Starting 'UDP client process'
-1145114	ID:6	UDP client process started nbr:20 routes:0
-1148441	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
-1150125	ID:6	fe80::c30c:0:0:6
-1155267	ID:6	Created a connection with the server :: local/remote port 8765/5678
-1193503	ID:18	Rime started with address 193.12.0.0.0.0.0.18
-1202082	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3406-g9d24d590b started. Node id is set to 18.
-1207703	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1215244	ID:4	Rime started with address 193.12.0.0.0.0.0.4
-1215721	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
-1217864	ID:18	Starting 'UDP client process'
-1221310	ID:18	UDP client process started nbr:20 routes:0
-1223650	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3406-g9d24d590b started. Node id is set to 4.
-1224749	ID:18	Client IPv6 addresses: fd00::c30c:0:0:12
-1226545	ID:18	fe80::c30c:0:0:12
-1229271	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1231687	ID:18	Created a connection with the server :: local/remote port 8765/5678
-1237245	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
-1239388	ID:4	Starting 'UDP client process'
-1242816	ID:4	UDP client process started nbr:20 routes:0
-1246143	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
-1247827	ID:4	fe80::c30c:0:0:4
-1248940	ID:1	Rime started with address 193.12.0.0.0.0.0.1
-1252969	ID:4	Created a connection with the server :: local/remote port 8765/5678
-1257347	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3406-g9d24d590b started. Node id is set to 1.
-1262968	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1268656	ID:7	Rime started with address 193.12.0.0.0.0.0.7
-1270942	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
-1273085	ID:1	Starting 'UDP server process'
-1275833	ID:1	UDP server started. nbr:20 routes:0
-1277062	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3406-g9d24d590b started. Node id is set to 7.
-1278580	ID:1	created a new RPL dag
-1281905	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
-1282683	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1283531	ID:1	fd00::ff:fe00:1
-1285226	ID:1	fe80::c30c:0:0:1
-1290657	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
-1291174	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
-1292800	ID:7	Starting 'UDP client process'
-1296228	ID:7	UDP client process started nbr:20 routes:0
-1299555	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
-1301239	ID:7	fe80::c30c:0:0:7
-1306381	ID:7	Created a connection with the server :: local/remote port 8765/5678
-1317095	ID:14	Rime started with address 193.12.0.0.0.0.0.14
-1325631	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3406-g9d24d590b started. Node id is set to 14.
-1329547	ID:15	Rime started with address 193.12.0.0.0.0.0.15
-1331224	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1333710	ID:25	Rime started with address 193.12.0.0.0.0.0.25
-1338083	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3406-g9d24d590b started. Node id is set to 15.
-1339199	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
-1339478	ID:20	Rime started with address 193.12.0.0.0.0.0.20
-1339940	ID:16	Rime started with address 193.12.0.0.0.0.0.16
-1341342	ID:14	Starting 'UDP client process'
-1342286	ID:25	MAC c1:0c:00:00:00:00:00:19 Contiki-3.x-3378-g591de4579 started. Node id is set to 25.
-1343676	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1344769	ID:14	UDP client process started nbr:20 routes:0
-1347871	ID:25	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1348057	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3406-g9d24d590b started. Node id is set to 20.
-1348097	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
-1348519	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3406-g9d24d590b started. Node id is set to 16.
-1349782	ID:14	fe80::c30c:0:0:e
-1351651	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
-1353678	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1353794	ID:15	Starting 'UDP client process'
-1354140	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1354924	ID:14	Created a connection with the server :: local/remote port 8765/5678
-1355889	ID:25	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0019
-1357221	ID:15	UDP client process started nbr:20 routes:0
-1358959	ID:25	Starting 'Malicious sensor client process'
-1360549	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
-1361696	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
-1362158	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
-1362234	ID:15	fe80::c30c:0:0:f
-1363839	ID:20	Starting 'UDP client process'
-1364301	ID:16	Starting 'UDP client process'
-1367285	ID:20	UDP client process started nbr:20 routes:0
-1367376	ID:15	Created a connection with the server :: local/remote port 8765/5678
-1367747	ID:16	UDP client process started nbr:20 routes:0
-1370724	ID:20	Client IPv6 addresses: fd00::c30c:0:0:14
-1371186	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
-1372520	ID:20	fe80::c30c:0:0:14
-1372982	ID:16	fe80::c30c:0:0:10
-1377662	ID:20	Created a connection with the server :: local/remote port 8765/5678
-1378124	ID:16	Created a connection with the server :: local/remote port 8765/5678
-1423478	ID:10	Rime started with address 193.12.0.0.0.0.0.10
-1432014	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3406-g9d24d590b started. Node id is set to 10.
-1437607	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1445582	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
-1447725	ID:10	Starting 'UDP client process'
-1451152	ID:10	UDP client process started nbr:20 routes:0
-1454480	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
-1456165	ID:10	fe80::c30c:0:0:a
-1461307	ID:10	Created a connection with the server :: local/remote port 8765/5678
-1461333	ID:12	Rime started with address 193.12.0.0.0.0.0.12
-1469869	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3406-g9d24d590b started. Node id is set to 12.
-1475462	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1483437	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
-1485580	ID:12	Starting 'UDP client process'
-1489007	ID:12	UDP client process started nbr:20 routes:0
-1492335	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
-1494020	ID:12	fe80::c30c:0:0:c
-1499162	ID:12	Created a connection with the server :: local/remote port 8765/5678
-1529274	ID:22	Rime started with address 193.12.0.0.0.0.0.22
-1537850	ID:22	MAC c1:0c:00:00:00:00:00:16 Contiki-3.x-3378-g591de4579 started. Node id is set to 22.
-1543435	ID:22	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1551453	ID:22	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0016
-1554523	ID:22	Starting 'Malicious sensor client process'
-1556679	ID:26	Rime started with address 193.12.0.0.0.0.0.26
-1565255	ID:26	MAC c1:0c:00:00:00:00:00:1a Contiki-3.x-3378-g591de4579 started. Node id is set to 26.
-1570843	ID:26	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1575363	ID:9	Rime started with address 193.12.0.0.0.0.0.9
-1578862	ID:26	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:001a
-1581932	ID:26	Starting 'Malicious sensor client process'
-1581997	ID:5	Rime started with address 193.12.0.0.0.0.0.5
-1583769	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3406-g9d24d590b started. Node id is set to 9.
-1586056	ID:19	Rime started with address 193.12.0.0.0.0.0.19
-1589390	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1590403	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3406-g9d24d590b started. Node id is set to 5.
-1594635	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3406-g9d24d590b started. Node id is set to 19.
-1596024	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1597364	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
-1599507	ID:9	Starting 'UDP client process'
-1600256	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1602935	ID:9	UDP client process started nbr:20 routes:0
-1603998	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
-1606141	ID:5	Starting 'UDP client process'
-1606262	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
-1607946	ID:9	fe80::c30c:0:0:9
-1608274	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
-1609569	ID:5	UDP client process started nbr:20 routes:0
-1610417	ID:19	Starting 'UDP client process'
-1612896	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
-1613088	ID:9	Created a connection with the server :: local/remote port 8765/5678
-1613863	ID:19	UDP client process started nbr:20 routes:0
-1614580	ID:5	fe80::c30c:0:0:5
-1617302	ID:19	Client IPv6 addresses: fd00::c30c:0:0:13
-1619098	ID:19	fe80::c30c:0:0:13
-1619722	ID:5	Created a connection with the server :: local/remote port 8765/5678
-1624240	ID:19	Created a connection with the server :: local/remote port 8765/5678
-1676047	ID:17	Rime started with address 193.12.0.0.0.0.0.17
-1684626	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3406-g9d24d590b started. Node id is set to 17.
-1690247	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1698265	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
-1700408	ID:17	Starting 'UDP client process'
-1703854	ID:17	UDP client process started nbr:20 routes:0
-1707293	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
-1709089	ID:17	fe80::c30c:0:0:11
-1714231	ID:17	Created a connection with the server :: local/remote port 8765/5678
-1750870	ID:13	Rime started with address 193.12.0.0.0.0.0.13
-1759406	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3406-g9d24d590b started. Node id is set to 13.
-1764999	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1766226	ID:3	Rime started with address 193.12.0.0.0.0.0.3
-1772974	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
-1773668	ID:21	Rime started with address 193.12.0.0.0.0.0.21
-1774632	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3406-g9d24d590b started. Node id is set to 3.
-1775117	ID:13	Starting 'UDP client process'
-1778544	ID:13	UDP client process started nbr:20 routes:0
-1780253	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1781872	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
-1782247	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3406-g9d24d590b started. Node id is set to 21.
-1783557	ID:13	fe80::c30c:0:0:d
-1787868	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1788227	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
-1788699	ID:13	Created a connection with the server :: local/remote port 8765/5678
-1790370	ID:3	Starting 'UDP client process'
-1793798	ID:3	UDP client process started nbr:20 routes:0
-1795886	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
-1797125	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
-1798029	ID:21	Starting 'UDP client process'
-1798809	ID:3	fe80::c30c:0:0:3
-1801475	ID:21	UDP client process started nbr:20 routes:0
-1803951	ID:3	Created a connection with the server :: local/remote port 8765/5678
-1804914	ID:21	Client IPv6 addresses: fd00::c30c:0:0:15
-1806710	ID:21	fe80::c30c:0:0:15
-1811443	ID:23	Rime started with address 193.12.0.0.0.0.0.23
-1811852	ID:21	Created a connection with the server :: local/remote port 8765/5678
-1820019	ID:23	MAC c1:0c:00:00:00:00:00:17 Contiki-3.x-3378-g591de4579 started. Node id is set to 23.
-1825604	ID:23	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1833622	ID:23	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0017
-1836692	ID:23	Starting 'Malicious sensor client process'
-5122659	ID:2	Allocate table called
-5124841	ID:2	Blackilist table initialized
-5138572	ID:6	Allocate table called
-5140754	ID:6	Blackilist table initialized
-5158340	ID:3	Allocate table called
-5160522	ID:3	Blackilist table initialized
-5162367	ID:7	Allocate table called
-5164585	ID:7	Blackilist table initialized
-5194153	ID:10	Allocate table called
-5196336	ID:10	Blackilist table initialized
-7261934	ID:1	Allocate table called
-7264116	ID:1	Blackilist table initialized
-8104003	ID:12	Allocate table called
-8106185	ID:12	Blackilist table initialized
-8235677	ID:4	Allocate table called
-8237859	ID:4	Blackilist table initialized
-11834946	ID:8	Allocate table called
-11837128	ID:8	Blackilist table initialized
-11843714	ID:9	Allocate table called
-11845896	ID:9	Blackilist table initialized
-11852147	ID:5	Allocate table called
-11854329	ID:5	Blackilist table initialized
-12195609	ID:17	Allocate table called
-12197791	ID:17	Blackilist table initialized
-12199928	ID:11	Allocate table called
-12202141	ID:11	Blackilist table initialized
-12225929	ID:15	Allocate table called
-12228111	ID:15	Blackilist table initialized
-12234586	ID:20	Allocate table called
-12234623	ID:16	Allocate table called
-12236768	ID:20	Blackilist table initialized
-12236805	ID:16	Blackilist table initialized
-13963397	ID:14	Allocate table called
-13965579	ID:14	Blackilist table initialized
-15770766	ID:13	Allocate table called
-15772948	ID:13	Blackilist table initialized
-16166030	ID:21	Allocate table called
-16168212	ID:21	Blackilist table initialized
-16731265	ID:19	Allocate table called
-16733447	ID:19	Blackilist table initialized
-17961934	ID:18	Allocate table called
-17964116	ID:18	Blackilist table initialized
-61674042	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
-62285825	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
-64126006	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
-64145366	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
-64917251	ID:20	Sending DATA to 1 'Hello 1' with NodeID= 20
-65758076	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
-66460120	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 14 at NodeID= 1
-67132618	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
-67680157	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
-71127679	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
-71147015	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
-72813353	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
-73165074	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
-76020085	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
-76175601	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
-77341357	ID:18	Sending DATA to 1 'Hello 1' with NodeID= 18
-77582700	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 18 at NodeID= 1
-78321884	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
-78425451	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
-81414343	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
-81555314	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
-83734139	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
-83753351	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
-85203961	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
-85403369	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
-89339224	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
-89865064	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
-90122804	ID:24	Malicious UDP client process started nbr:30 routes:0
-90127491	ID:24	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:18
-90129287	ID:24	fe80::c30c:0:0:18
-90134445	ID:24	Created a connection with the server :: local/remote port 8765/5678
-90555267	ID:25	Malicious UDP client process started nbr:30 routes:0
-90559915	ID:25	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:19
-90561712	ID:25	fe80::c30c:0:0:19
-90566854	ID:25	Created a connection with the server :: local/remote port 8765/5678
-90750751	ID:22	Malicious UDP client process started nbr:30 routes:0
-90755400	ID:22	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:16
-90757197	ID:22	fe80::c30c:0:0:16
-90762339	ID:22	Created a connection with the server :: local/remote port 8765/5678
-90778155	ID:26	Malicious UDP client process started nbr:30 routes:0
-90782805	ID:26	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:1a
-90784602	ID:26	fe80::c30c:0:0:1a
-90789744	ID:26	Created a connection with the server :: local/remote port 8765/5678
-91033005	ID:23	Malicious UDP client process started nbr:30 routes:0
-91037690	ID:23	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:17
-91039487	ID:23	fe80::c30c:0:0:17
-91044645	ID:23	Created a connection with the server :: local/remote port 8765/5678
-92853109	ID:25	First DIO recieved 
-92887956	ID:25	ticks value 256
-93953187	ID:26	First DIO recieved 
-93957483	ID:23	First DIO recieved 
-93988231	ID:26	ticks value 256
-93992281	ID:23	ticks value 256
-94795926	ID:24	First DIO recieved 
-94830279	ID:24	ticks value 256
-94893676	ID:25	Replaying DIO with fixed interval 
-94896095	ID:25	ticks value 256
-95991558	ID:26	Replaying DIO with fixed interval 
-95993977	ID:26	ticks value 256
-95996322	ID:23	Replaying DIO with fixed interval 
-95998741	ID:23	ticks value 256
-96836123	ID:24	Replaying DIO with fixed interval 
-96839408	ID:24	ticks value 256
-96902534	ID:25	Replaying DIO with fixed interval 
-96904933	ID:25	ticks value 256
-97422939	ID:22	First DIO recieved 
-97458655	ID:22	ticks value 256
-98001135	ID:26	Replaying DIO with fixed interval 
-98004063	ID:23	Replaying DIO with fixed interval 
-98005386	ID:26	ticks value 256
-98006757	ID:23	ticks value 256
-98909284	ID:25	Replaying DIO with fixed interval 
-98911683	ID:25	ticks value 256
-99217883	ID:24	Replaying DIO with fixed interval 
-99220721	ID:24	ticks value 256
-99464152	ID:22	Replaying DIO with fixed interval 
-99466572	ID:22	ticks value 256
-100011879	ID:23	Replaying DIO with fixed interval 
-100014434	ID:23	ticks value 256
-100082043	ID:26	Replaying DIO with fixed interval 
-100084881	ID:26	ticks value 256
-100917310	ID:25	Replaying DIO with fixed interval 
-100919708	ID:25	ticks value 256
-101226682	ID:24	Replaying DIO with fixed interval 
-101229273	ID:24	ticks value 256
-101833792	ID:22	Replaying DIO with fixed interval 
-101836677	ID:22	ticks value 256
-102019691	ID:23	Replaying DIO with fixed interval 
-102022227	ID:23	ticks value 256
-102093052	ID:26	Replaying DIO with fixed interval 
-102095581	ID:26	ticks value 256
-102386774	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
-102924909	ID:25	Replaying DIO with fixed interval 
-102927308	ID:25	ticks value 256
-103234491	ID:24	Replaying DIO with fixed interval 
-103236889	ID:24	ticks value 256
-103577792	ID:21	Sending DATA to 1 'Hello 1' with NodeID= 21
-103792725	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
-103839081	ID:22	Replaying DIO with fixed interval 
-103841745	ID:22	ticks value 256
-104027535	ID:23	Replaying DIO with fixed interval 
-104030081	ID:23	ticks value 256
-104100861	ID:26	Replaying DIO with fixed interval 
-104103525	ID:26	ticks value 256
-104932722	ID:25	Replaying DIO with fixed interval 
-104935120	ID:25	ticks value 256
-105242303	ID:24	Replaying DIO with fixed interval 
-105244835	ID:24	ticks value 256
-105846896	ID:22	Replaying DIO with fixed interval 
-105849432	ID:22	ticks value 256
-106036234	ID:23	Replaying DIO with fixed interval 
-106039494	ID:23	ticks value 256
-106108892	ID:26	Replaying DIO with fixed interval 
-106111428	ID:26	ticks value 256
-106940485	ID:25	Replaying DIO with fixed interval 
-106943149	ID:25	ticks value 256
-107250114	ID:24	Replaying DIO with fixed interval 
-107252777	ID:24	ticks value 256
-108043202	ID:23	Replaying DIO with fixed interval 
-108046500	ID:23	ticks value 256
-108116490	ID:26	Replaying DIO with fixed interval 
-108119035	ID:26	ticks value 256
-108173611	ID:22	Replaying DIO with fixed interval 
-108176487	ID:22	ticks value 256
-108394042	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
-108948298	ID:25	Replaying DIO with fixed interval 
-108950961	ID:25	ticks value 256
-109257928	ID:24	Replaying DIO with fixed interval 
-109260483	ID:24	ticks value 256
-110050938	ID:23	Replaying DIO with fixed interval 
-110053601	ID:23	ticks value 256
-110124302	ID:26	Replaying DIO with fixed interval 
-110126838	ID:26	ticks value 256
-110182833	ID:22	Replaying DIO with fixed interval 
-110185369	ID:22	ticks value 256
-110956110	ID:25	Replaying DIO with fixed interval 
-110958774	ID:25	ticks value 256
-111089520	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
-111265952	ID:24	Replaying DIO with fixed interval 
-111268350	ID:24	ticks value 256
-112058750	ID:23	Replaying DIO with fixed interval 
-112061414	ID:23	ticks value 256
-112145548	ID:26	Replaying DIO with fixed interval 
-112148423	ID:26	ticks value 256
-112190644	ID:22	Replaying DIO with fixed interval 
-112193307	ID:22	ticks value 256
-112963923	ID:25	Replaying DIO with fixed interval 
-112966586	ID:25	ticks value 256
-113273553	ID:24	Replaying DIO with fixed interval 
-113275952	ID:24	ticks value 256
-113904536	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 16 at NodeID= 1
-114066563	ID:23	Replaying DIO with fixed interval 
-114069226	ID:23	ticks value 256
-114155549	ID:26	Replaying DIO with fixed interval 
-114158212	ID:26	ticks value 256
-114198456	ID:22	Replaying DIO with fixed interval 
-114201120	ID:22	ticks value 256
-114562749	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
-114972401	ID:25	Replaying DIO with fixed interval 
-114975371	ID:25	ticks value 256
-115281364	ID:24	Replaying DIO with fixed interval 
-115284027	ID:24	ticks value 256
-115496744	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
-116075226	ID:23	Replaying DIO with fixed interval 
-116077890	ID:23	ticks value 256
-116163361	ID:26	Replaying DIO with fixed interval 
-116166025	ID:26	ticks value 256
-116206437	ID:22	Replaying DIO with fixed interval 
-116209101	ID:22	ticks value 256
-116979548	ID:25	Replaying DIO with fixed interval 
-116982211	ID:25	ticks value 256
-117290239	ID:24	Replaying DIO with fixed interval 
-117293243	ID:24	ticks value 256
-118082358	ID:23	Replaying DIO with fixed interval 
-118085021	ID:23	ticks value 256
-118171174	ID:26	Replaying DIO with fixed interval 
-118173837	ID:26	ticks value 256
-118214083	ID:22	Replaying DIO with fixed interval 
-118216619	ID:22	ticks value 256
-118987360	ID:25	Replaying DIO with fixed interval 
-118990024	ID:25	ticks value 256
-119296989	ID:24	Replaying DIO with fixed interval 
-119299652	ID:24	ticks value 256
-120090000	ID:23	Replaying DIO with fixed interval 
-120092664	ID:23	ticks value 256
-120178986	ID:26	Replaying DIO with fixed interval 
-120181650	ID:26	ticks value 256
-120221896	ID:22	Replaying DIO with fixed interval 
-120224425	ID:22	ticks value 256
-120978222	ID:8	init_flag is 1, checking ids_timer expiry
-120979498	ID:8	ids_timer expired
-120981483	ID:8	ids_timer will be now reset
-120983610	ID:8	ids_timer successfullly reset
-120986375	ID:8	c_timer antiCopycat will be called now
-120989242	ID:8	c_timer antiCopycat called successfully
-120992410	ID:8	init_flag is 1, checking ids_timer expiry
-120993686	ID:8	ids_timer expired
-120995173	ID:25	Replaying DIO with fixed interval 
-120995671	ID:8	ids_timer will be now reset
-120997798	ID:8	ids_timer successfullly reset
-120997836	ID:25	ticks value 256
-121000568	ID:8	c_timer antiCopycat will be called now
-121003438	ID:8	c_timer antiCopycat called successfully
-121005209	ID:8	antiCopycat called !!
-121006130	ID:8	Activating!!
-121009108	ID:8	init_flag is 1, checking ids_timer expiry
-121010384	ID:8	ids_timer expired
-121012369	ID:8	ids_timer will be now reset
-121014497	ID:8	ids_timer successfullly reset
-121017262	ID:8	c_timer antiCopycat will be called now
-121020406	ID:8	init_flag is 1, checking ids_timer expiry
-121021682	ID:8	ids_timer expired
-121023667	ID:8	ids_timer will be now reset
-121025794	ID:8	ids_timer successfullly reset
-121028559	ID:8	c_timer antiCopycat will be called now
-121031620	ID:8	init_flag is 1, checking ids_timer expiry
-121128831	ID:11	init_flag is 1, checking ids_timer expiry
-121130107	ID:11	ids_timer expired
-121132111	ID:11	ids_timer will be now reset
-121134239	ID:11	ids_timer successfullly reset
-121137003	ID:11	c_timer antiCopycat will be called now
-121139871	ID:11	c_timer antiCopycat called successfully
-121143038	ID:11	init_flag is 1, checking ids_timer expiry
-121144314	ID:11	ids_timer expired
-121146299	ID:11	ids_timer will be now reset
-121148446	ID:11	ids_timer successfullly reset
-121151211	ID:11	c_timer antiCopycat will be called now
-121154080	ID:11	c_timer antiCopycat called successfully
-121155850	ID:11	antiCopycat called !!
-121156099	ID:6	init_flag is 1, checking ids_timer expiry
-121156772	ID:11	Activating!!
-121157376	ID:6	ids_timer expired
-121159361	ID:6	ids_timer will be now reset
-121159750	ID:11	init_flag is 1, checking ids_timer expiry
-121161026	ID:11	ids_timer expired
-121161488	ID:6	ids_timer successfullly reset
-121163013	ID:11	ids_timer will be now reset
-121164253	ID:6	c_timer antiCopycat will be called now
-121165140	ID:11	ids_timer successfullly reset
-121167120	ID:6	c_timer antiCopycat called successfully
-121167905	ID:11	c_timer antiCopycat will be called now
-121170288	ID:6	init_flag is 1, checking ids_timer expiry
-121171121	ID:11	init_flag is 1, checking ids_timer expiry
-121171564	ID:6	ids_timer expired
-121172397	ID:11	ids_timer expired
-121173549	ID:6	ids_timer will be now reset
-121174382	ID:11	ids_timer will be now reset
-121175676	ID:6	ids_timer successfullly reset
-121176509	ID:11	ids_timer successfullly reset
-121178455	ID:6	c_timer antiCopycat will be called now
-121179274	ID:11	c_timer antiCopycat will be called now
-121181325	ID:6	c_timer antiCopycat called successfully
-121182325	ID:11	init_flag is 1, checking ids_timer expiry
-121183095	ID:6	antiCopycat called !!
-121184017	ID:6	Activating!!
-121186995	ID:6	init_flag is 1, checking ids_timer expiry
-121187033	ID:19	Sending DATA to 1 'Hello 1' with NodeID= 19
-121188271	ID:6	ids_timer expired
-121190256	ID:6	ids_timer will be now reset
-121192383	ID:6	ids_timer successfullly reset
-121195148	ID:6	c_timer antiCopycat will be called now
-121198292	ID:6	init_flag is 1, checking ids_timer expiry
-121199569	ID:6	ids_timer expired
-121201554	ID:6	ids_timer will be now reset
-121203681	ID:6	ids_timer successfullly reset
-121206446	ID:6	c_timer antiCopycat will be called now
-121209506	ID:6	init_flag is 1, checking ids_timer expiry
-121231958	ID:18	init_flag is 1, checking ids_timer expiry
-121233234	ID:18	ids_timer expired
-121235219	ID:18	ids_timer will be now reset
-121237346	ID:18	ids_timer successfullly reset
-121240111	ID:18	c_timer antiCopycat will be called now
-121242978	ID:18	c_timer antiCopycat called successfully
-121246146	ID:18	init_flag is 1, checking ids_timer expiry
-121247422	ID:18	ids_timer expired
-121249407	ID:18	ids_timer will be now reset
-121251534	ID:18	ids_timer successfullly reset
-121253811	ID:4	init_flag is 1, checking ids_timer expiry
-121254304	ID:18	c_timer antiCopycat will be called now
-121255087	ID:4	ids_timer expired
-121257072	ID:4	ids_timer will be now reset
-121257174	ID:18	c_timer antiCopycat called successfully
-121258944	ID:18	antiCopycat called !!
-121259199	ID:4	ids_timer successfullly reset
-121259866	ID:18	Activating!!
-121261964	ID:4	c_timer antiCopycat will be called now
-121262844	ID:18	init_flag is 1, checking ids_timer expiry
-121264120	ID:18	ids_timer expired
-121264831	ID:4	c_timer antiCopycat called successfully
-121266105	ID:18	ids_timer will be now reset
-121267999	ID:4	init_flag is 1, checking ids_timer expiry
-121268232	ID:18	ids_timer successfullly reset
-121269275	ID:4	ids_timer expired
-121270997	ID:18	c_timer antiCopycat will be called now
-121271260	ID:4	ids_timer will be now reset
-121273387	ID:4	ids_timer successfullly reset
-121274141	ID:18	init_flag is 1, checking ids_timer expiry
-121275417	ID:18	ids_timer expired
-121276157	ID:4	c_timer antiCopycat will be called now
-121277402	ID:18	ids_timer will be now reset
-121279027	ID:4	c_timer antiCopycat called successfully
-121279529	ID:18	ids_timer successfullly reset
-121280798	ID:4	antiCopycat called !!
-121281719	ID:4	Activating!!
-121282294	ID:18	c_timer antiCopycat will be called now
-121284697	ID:4	init_flag is 1, checking ids_timer expiry
-121285355	ID:18	init_flag is 1, checking ids_timer expiry
-121285973	ID:4	ids_timer expired
-121287184	ID:1	init_flag is 1, checking ids_timer expiry
-121287958	ID:4	ids_timer will be now reset
-121288460	ID:1	ids_timer expired
-121290086	ID:4	ids_timer successfullly reset
-121290445	ID:1	ids_timer will be now reset
-121292599	ID:1	ids_timer successfullly reset
-121292851	ID:4	c_timer antiCopycat will be called now
-121295364	ID:1	c_timer antiCopycat will be called now
-121295995	ID:4	init_flag is 1, checking ids_timer expiry
-121297271	ID:4	ids_timer expired
-121298216	ID:1	c_timer antiCopycat called successfully
-121299256	ID:4	ids_timer will be now reset
-121299932	ID:1	antiCopycat called !!
-121300853	ID:1	Activating!!
-121301383	ID:4	ids_timer successfullly reset
-121303831	ID:1	init_flag is 1, checking ids_timer expiry
-121304148	ID:4	c_timer antiCopycat will be called now
-121304801	ID:24	Replaying DIO with fixed interval 
-121305107	ID:1	ids_timer expired
-121307093	ID:1	ids_timer will be now reset
-121307209	ID:4	init_flag is 1, checking ids_timer expiry
-121307258	ID:7	init_flag is 1, checking ids_timer expiry
-121307465	ID:24	ticks value 256
-121308534	ID:7	ids_timer expired
-121309219	ID:1	ids_timer successfullly reset
-121310519	ID:7	ids_timer will be now reset
-121311984	ID:1	c_timer antiCopycat will be called now
-121312668	ID:7	ids_timer successfullly reset
-121315051	ID:1	init_flag is 1, checking ids_timer expiry
-121315433	ID:7	c_timer antiCopycat will be called now
-121316327	ID:1	ids_timer expired
-121318306	ID:7	c_timer antiCopycat called successfully
-121318313	ID:1	ids_timer will be now reset
-121320439	ID:1	ids_timer successfullly reset
-121321490	ID:7	init_flag is 1, checking ids_timer expiry
-121322766	ID:7	ids_timer expired
-121323210	ID:1	c_timer antiCopycat will be called now
-121324752	ID:7	ids_timer will be now reset
-121326277	ID:1	init_flag is 1, checking ids_timer expiry
-121326878	ID:7	ids_timer successfullly reset
-121327553	ID:1	ids_timer expired
-121329538	ID:1	ids_timer will be now reset
-121329644	ID:7	c_timer antiCopycat will be called now
-121331665	ID:1	ids_timer successfullly reset
-121332519	ID:7	c_timer antiCopycat called successfully
-121334308	ID:7	antiCopycat called !!
-121334430	ID:1	c_timer antiCopycat will be called now
-121335255	ID:7	Activating!!
-121338233	ID:7	init_flag is 1, checking ids_timer expiry
-121339509	ID:7	ids_timer expired
-121341494	ID:7	ids_timer will be now reset
-121343635	ID:7	ids_timer successfullly reset
-121346400	ID:7	c_timer antiCopycat will be called now
-121349558	ID:7	init_flag is 1, checking ids_timer expiry
-121350834	ID:7	ids_timer expired
-121352820	ID:7	ids_timer will be now reset
-121354946	ID:7	ids_timer successfullly reset
-121355550	ID:14	init_flag is 1, checking ids_timer expiry
-121356826	ID:14	ids_timer expired
-121357711	ID:7	c_timer antiCopycat will be called now
-121358811	ID:14	ids_timer will be now reset
-121360818	ID:7	init_flag is 1, checking ids_timer expiry
-121360938	ID:14	ids_timer successfullly reset
-121363703	ID:14	c_timer antiCopycat will be called now
-121366571	ID:14	c_timer antiCopycat called successfully
-121368002	ID:15	init_flag is 1, checking ids_timer expiry
-121369278	ID:15	ids_timer expired
-121369738	ID:14	init_flag is 1, checking ids_timer expiry
-121371014	ID:14	ids_timer expired
-121371263	ID:15	ids_timer will be now reset
-121372999	ID:14	ids_timer will be now reset
-121373390	ID:15	ids_timer successfullly reset
-121375126	ID:14	ids_timer successfullly reset
-121376155	ID:15	c_timer antiCopycat will be called now
-121377896	ID:14	c_timer antiCopycat will be called now
-121377924	ID:20	init_flag is 1, checking ids_timer expiry
-121378440	ID:16	init_flag is 1, checking ids_timer expiry
-121379023	ID:15	c_timer antiCopycat called successfully
-121379200	ID:20	ids_timer expired
-121379716	ID:16	ids_timer expired
-121380765	ID:14	c_timer antiCopycat called successfully
-121381185	ID:20	ids_timer will be now reset
-121381701	ID:16	ids_timer will be now reset
-121382190	ID:15	init_flag is 1, checking ids_timer expiry
-121382536	ID:14	antiCopycat called !!
-121383312	ID:20	ids_timer successfullly reset
-121383458	ID:14	Activating!!
-121383466	ID:15	ids_timer expired
-121383840	ID:16	ids_timer successfullly reset
-121385451	ID:15	ids_timer will be now reset
-121386077	ID:20	c_timer antiCopycat will be called now
-121386436	ID:14	init_flag is 1, checking ids_timer expiry
-121386605	ID:16	c_timer antiCopycat will be called now
-121387578	ID:15	ids_timer successfullly reset
-121387712	ID:14	ids_timer expired
-121388944	ID:20	c_timer antiCopycat called successfully
-121389478	ID:16	c_timer antiCopycat called successfully
-121389697	ID:14	ids_timer will be now reset
-121390348	ID:15	c_timer antiCopycat will be called now
-121391824	ID:14	ids_timer successfullly reset
-121392112	ID:20	init_flag is 1, checking ids_timer expiry
-121392662	ID:16	init_flag is 1, checking ids_timer expiry
-121393217	ID:15	c_timer antiCopycat called successfully
-121393388	ID:20	ids_timer expired
-121393938	ID:16	ids_timer expired
-121394589	ID:14	c_timer antiCopycat will be called now
-121394987	ID:15	antiCopycat called !!
-121395374	ID:20	ids_timer will be now reset
-121395909	ID:15	Activating!!
-121395923	ID:16	ids_timer will be now reset
-121397501	ID:20	ids_timer successfullly reset
-121397733	ID:14	init_flag is 1, checking ids_timer expiry
-121398050	ID:16	ids_timer successfullly reset
-121398887	ID:15	init_flag is 1, checking ids_timer expiry
-121399009	ID:14	ids_timer expired
-121400163	ID:15	ids_timer expired
-121400279	ID:20	c_timer antiCopycat will be called now
-121400817	ID:16	c_timer antiCopycat will be called now
-121400995	ID:14	ids_timer will be now reset
-121402148	ID:15	ids_timer will be now reset
-121403122	ID:14	ids_timer successfullly reset
-121403149	ID:20	c_timer antiCopycat called successfully
-121403692	ID:16	c_timer antiCopycat called successfully
-121404275	ID:15	ids_timer successfullly reset
-121404920	ID:20	antiCopycat called !!
-121405565	ID:16	antiCopycat called !!
-121405841	ID:20	Activating!!
-121405887	ID:14	c_timer antiCopycat will be called now
-121406498	ID:16	Activating!!
-121407040	ID:15	c_timer antiCopycat will be called now
-121408819	ID:20	init_flag is 1, checking ids_timer expiry
-121408948	ID:14	init_flag is 1, checking ids_timer expiry
-121409475	ID:16	init_flag is 1, checking ids_timer expiry
-121410095	ID:20	ids_timer expired
-121410185	ID:15	init_flag is 1, checking ids_timer expiry
-121410752	ID:16	ids_timer expired
-121411461	ID:15	ids_timer expired
-121412080	ID:20	ids_timer will be now reset
-121412737	ID:16	ids_timer will be now reset
-121413446	ID:15	ids_timer will be now reset
-121414207	ID:20	ids_timer successfullly reset
-121414877	ID:16	ids_timer successfullly reset
-121415573	ID:15	ids_timer successfullly reset
-121416973	ID:20	c_timer antiCopycat will be called now
-121417642	ID:16	c_timer antiCopycat will be called now
-121418338	ID:15	c_timer antiCopycat will be called now
-121418458	ID:2	init_flag is 1, checking ids_timer expiry
-121419746	ID:2	ids_timer expired
-121420117	ID:20	init_flag is 1, checking ids_timer expiry
-121420788	ID:16	init_flag is 1, checking ids_timer expiry
-121421393	ID:20	ids_timer expired
-121421399	ID:15	init_flag is 1, checking ids_timer expiry
-121421732	ID:2	ids_timer will be now reset
-121422064	ID:16	ids_timer expired
-121423378	ID:20	ids_timer will be now reset
-121423859	ID:2	ids_timer successfullly reset
-121424049	ID:16	ids_timer will be now reset
-121425505	ID:20	ids_timer successfullly reset
-121426176	ID:16	ids_timer successfullly reset
-121426624	ID:2	c_timer antiCopycat will be called now
-121428270	ID:20	c_timer antiCopycat will be called now
-121428941	ID:16	c_timer antiCopycat will be called now
-121429493	ID:2	c_timer antiCopycat called successfully
-121431331	ID:20	init_flag is 1, checking ids_timer expiry
-121432660	ID:2	init_flag is 1, checking ids_timer expiry
-121433610	ID:16	init_flag is 1, checking ids_timer expiry
-121433936	ID:2	ids_timer expired
-121435939	ID:2	ids_timer will be now reset
-121438066	ID:2	ids_timer successfullly reset
-121440831	ID:2	c_timer antiCopycat will be called now
-121443702	ID:2	c_timer antiCopycat called successfully
-121445739	ID:2	antiCopycat called !!
-121446661	ID:2	Activating!!
-121449638	ID:2	init_flag is 1, checking ids_timer expiry
-121450926	ID:2	ids_timer expired
-121452911	ID:2	ids_timer will be now reset
-121455038	ID:2	ids_timer successfullly reset
-121457803	ID:2	c_timer antiCopycat will be called now
-121460949	ID:2	init_flag is 1, checking ids_timer expiry
-121461923	ID:10	init_flag is 1, checking ids_timer expiry
-121462225	ID:2	ids_timer expired
-121463200	ID:10	ids_timer expired
-121464210	ID:2	ids_timer will be now reset
-121465185	ID:10	ids_timer will be now reset
-121466338	ID:2	ids_timer successfullly reset
-121467312	ID:10	ids_timer successfullly reset
-121469103	ID:2	c_timer antiCopycat will be called now
-121470077	ID:10	c_timer antiCopycat will be called now
-121472445	ID:2	init_flag is 1, checking ids_timer expiry
-121472944	ID:10	c_timer antiCopycat called successfully
-121476112	ID:10	init_flag is 1, checking ids_timer expiry
-121477388	ID:10	ids_timer expired
-121479373	ID:10	ids_timer will be now reset
-121481500	ID:10	ids_timer successfullly reset
-121484279	ID:10	c_timer antiCopycat will be called now
-121487149	ID:10	c_timer antiCopycat called successfully
-121488919	ID:10	antiCopycat called !!
-121489841	ID:10	Activating!!
-121492819	ID:10	init_flag is 1, checking ids_timer expiry
-121494095	ID:10	ids_timer expired
-121496080	ID:10	ids_timer will be now reset
-121498207	ID:10	ids_timer successfullly reset
-121499788	ID:12	init_flag is 1, checking ids_timer expiry
-121500972	ID:10	c_timer antiCopycat will be called now
-121501064	ID:12	ids_timer expired
-121503050	ID:12	ids_timer will be now reset
-121504116	ID:10	init_flag is 1, checking ids_timer expiry
-121505177	ID:12	ids_timer successfullly reset
-121505393	ID:10	ids_timer expired
-121507378	ID:10	ids_timer will be now reset
-121507942	ID:12	c_timer antiCopycat will be called now
-121509505	ID:10	ids_timer successfullly reset
-121510809	ID:12	c_timer antiCopycat called successfully
-121512270	ID:10	c_timer antiCopycat will be called now
-121513976	ID:12	init_flag is 1, checking ids_timer expiry
-121515252	ID:12	ids_timer expired
-121515331	ID:10	init_flag is 1, checking ids_timer expiry
-121517237	ID:12	ids_timer will be now reset
-121519365	ID:12	ids_timer successfullly reset
-121522134	ID:12	c_timer antiCopycat will be called now
-121525004	ID:12	c_timer antiCopycat called successfully
-121526774	ID:12	antiCopycat called !!
-121527696	ID:12	Activating!!
-121530674	ID:12	init_flag is 1, checking ids_timer expiry
-121531950	ID:12	ids_timer expired
-121533935	ID:12	ids_timer will be now reset
-121536062	ID:12	ids_timer successfullly reset
-121538827	ID:12	c_timer antiCopycat will be called now
-121541972	ID:12	init_flag is 1, checking ids_timer expiry
-121543248	ID:12	ids_timer expired
-121545233	ID:12	ids_timer will be now reset
-121547360	ID:12	ids_timer successfullly reset
-121550125	ID:12	c_timer antiCopycat will be called now
-121553186	ID:12	init_flag is 1, checking ids_timer expiry
-121620564	ID:5	init_flag is 1, checking ids_timer expiry
-121621840	ID:5	ids_timer expired
-121623825	ID:5	ids_timer will be now reset
-121625952	ID:5	ids_timer successfullly reset
-121628717	ID:5	c_timer antiCopycat will be called now
-121631584	ID:5	c_timer antiCopycat called successfully
-121634752	ID:5	init_flag is 1, checking ids_timer expiry
-121636028	ID:5	ids_timer expired
-121638013	ID:5	ids_timer will be now reset
-121640140	ID:5	ids_timer successfullly reset
-121642910	ID:5	c_timer antiCopycat will be called now
-121645780	ID:5	c_timer antiCopycat called successfully
-121647551	ID:5	antiCopycat called !!
-121648472	ID:5	Activating!!
-121651450	ID:5	init_flag is 1, checking ids_timer expiry
-121652726	ID:5	ids_timer expired
-121654711	ID:5	ids_timer will be now reset
-121656839	ID:5	ids_timer successfullly reset
-121659604	ID:5	c_timer antiCopycat will be called now
-121662748	ID:5	init_flag is 1, checking ids_timer expiry
-121664024	ID:5	ids_timer expired
-121666009	ID:5	ids_timer will be now reset
-121668136	ID:5	ids_timer successfullly reset
-121670901	ID:5	c_timer antiCopycat will be called now
-121673962	ID:5	init_flag is 1, checking ids_timer expiry
-121714502	ID:17	init_flag is 1, checking ids_timer expiry
-121715778	ID:17	ids_timer expired
-121717763	ID:17	ids_timer will be now reset
-121719890	ID:17	ids_timer successfullly reset
-121722655	ID:17	c_timer antiCopycat will be called now
-121725523	ID:17	c_timer antiCopycat called successfully
-121728690	ID:17	init_flag is 1, checking ids_timer expiry
-121729966	ID:17	ids_timer expired
-121731951	ID:17	ids_timer will be now reset
-121734078	ID:17	ids_timer successfullly reset
-121736848	ID:17	c_timer antiCopycat will be called now
-121739717	ID:17	c_timer antiCopycat called successfully
-121741488	ID:17	antiCopycat called !!
-121742410	ID:17	Activating!!
-121745388	ID:17	init_flag is 1, checking ids_timer expiry
-121746664	ID:17	ids_timer expired
-121748649	ID:17	ids_timer will be now reset
-121750776	ID:17	ids_timer successfullly reset
-121753541	ID:17	c_timer antiCopycat will be called now
-121756685	ID:17	init_flag is 1, checking ids_timer expiry
-121757961	ID:17	ids_timer expired
-121759947	ID:17	ids_timer will be now reset
-121762073	ID:17	ids_timer successfullly reset
-121764838	ID:17	c_timer antiCopycat will be called now
-121767899	ID:17	init_flag is 1, checking ids_timer expiry
-121789369	ID:13	init_flag is 1, checking ids_timer expiry
-121790645	ID:13	ids_timer expired
-121792630	ID:13	ids_timer will be now reset
-121794770	ID:13	ids_timer successfullly reset
-121797535	ID:13	c_timer antiCopycat will be called now
-121800408	ID:13	c_timer antiCopycat called successfully
-121803592	ID:13	init_flag is 1, checking ids_timer expiry
-121804784	ID:3	init_flag is 1, checking ids_timer expiry
-121804868	ID:13	ids_timer expired
-121806060	ID:3	ids_timer expired
-121806853	ID:13	ids_timer will be now reset
-121808045	ID:3	ids_timer will be now reset
-121808980	ID:13	ids_timer successfullly reset
-121810172	ID:3	ids_timer successfullly reset
-121811745	ID:13	c_timer antiCopycat will be called now
-121812123	ID:21	init_flag is 1, checking ids_timer expiry
-121812170	ID:9	init_flag is 1, checking ids_timer expiry
-121812937	ID:3	c_timer antiCopycat will be called now
-121813399	ID:21	ids_timer expired
-121813446	ID:9	ids_timer expired
-121814620	ID:13	c_timer antiCopycat called successfully
-121815384	ID:21	ids_timer will be now reset
-121815467	ID:9	ids_timer will be now reset
-121815804	ID:3	c_timer antiCopycat called successfully
-121816410	ID:13	antiCopycat called !!
-121817357	ID:13	Activating!!
-121817511	ID:21	ids_timer successfullly reset
-121817594	ID:9	ids_timer successfullly reset
-121818972	ID:3	init_flag is 1, checking ids_timer expiry
-121820248	ID:3	ids_timer expired
-121820276	ID:21	c_timer antiCopycat will be called now
-121820335	ID:13	init_flag is 1, checking ids_timer expiry
-121820359	ID:9	c_timer antiCopycat will be called now
-121821611	ID:13	ids_timer expired
-121822234	ID:3	ids_timer will be now reset
-121823143	ID:21	c_timer antiCopycat called successfully
-121823225	ID:9	c_timer antiCopycat called successfully
-121823596	ID:13	ids_timer will be now reset
-121824361	ID:3	ids_timer successfullly reset
-121825736	ID:13	ids_timer successfullly reset
-121826311	ID:21	init_flag is 1, checking ids_timer expiry
-121826376	ID:9	init_flag is 1, checking ids_timer expiry
-121827139	ID:3	c_timer antiCopycat will be called now
-121827587	ID:21	ids_timer expired
-121827652	ID:9	ids_timer expired
-121828501	ID:13	c_timer antiCopycat will be called now
-121829572	ID:21	ids_timer will be now reset
-121829674	ID:9	ids_timer will be now reset
-121830009	ID:3	c_timer antiCopycat called successfully
-121831660	ID:13	init_flag is 1, checking ids_timer expiry
-121831699	ID:21	ids_timer successfullly reset
-121831780	ID:3	antiCopycat called !!
-121831801	ID:9	ids_timer successfullly reset
-121832701	ID:3	Activating!!
-121832936	ID:13	ids_timer expired
-121834469	ID:21	c_timer antiCopycat will be called now
-121834921	ID:13	ids_timer will be now reset
-121835017	ID:9	c_timer antiCopycat will be called now
-121835679	ID:3	init_flag is 1, checking ids_timer expiry
-121836955	ID:3	ids_timer expired
-121837048	ID:13	ids_timer successfullly reset
-121837339	ID:21	c_timer antiCopycat called successfully
-121838069	ID:9	c_timer antiCopycat called successfully
-121838940	ID:3	ids_timer will be now reset
-121839110	ID:21	antiCopycat called !!
-121839813	ID:13	c_timer antiCopycat will be called now
-121840031	ID:21	Activating!!
-121841067	ID:3	ids_timer successfullly reset
-121842920	ID:13	init_flag is 1, checking ids_timer expiry
-121843009	ID:21	init_flag is 1, checking ids_timer expiry
-121843833	ID:3	c_timer antiCopycat will be called now
-121844285	ID:21	ids_timer expired
-121846270	ID:21	ids_timer will be now reset
-121846977	ID:3	init_flag is 1, checking ids_timer expiry
-121848253	ID:3	ids_timer expired
-121848398	ID:21	ids_timer successfullly reset
-121850238	ID:3	ids_timer will be now reset
-121851163	ID:21	c_timer antiCopycat will be called now
-121852365	ID:3	ids_timer successfullly reset
-121854307	ID:21	init_flag is 1, checking ids_timer expiry
-121855130	ID:3	c_timer antiCopycat will be called now
-121855583	ID:21	ids_timer expired
-121857568	ID:21	ids_timer will be now reset
-121858191	ID:3	init_flag is 1, checking ids_timer expiry
-121859695	ID:21	ids_timer successfullly reset
-121862460	ID:21	c_timer antiCopycat will be called now
-121865521	ID:21	init_flag is 1, checking ids_timer expiry
-121871437	ID:19	init_flag is 1, checking ids_timer expiry
-121872714	ID:19	ids_timer expired
-121874699	ID:19	ids_timer will be now reset
-121876826	ID:19	ids_timer successfullly reset
-121879601	ID:19	c_timer antiCopycat will be called now
-121882467	ID:19	c_timer antiCopycat called successfully
-121885618	ID:19	init_flag is 1, checking ids_timer expiry
-121886918	ID:19	ids_timer expired
-121888903	ID:19	ids_timer will be now reset
-121891030	ID:19	ids_timer successfullly reset
-121893795	ID:19	c_timer antiCopycat will be called now
-121896663	ID:19	c_timer antiCopycat called successfully
-121977758	ID:9	antiCopycat called !!
-121978679	ID:9	Activating!!
-121981657	ID:9	init_flag is 1, checking ids_timer expiry
-121982933	ID:9	ids_timer expired
-121984918	ID:9	ids_timer will be now reset
-121987059	ID:9	ids_timer successfullly reset
-121989824	ID:9	c_timer antiCopycat will be called now
-121992955	ID:9	init_flag is 1, checking ids_timer expiry
-121994234	ID:9	ids_timer expired
-121996219	ID:9	ids_timer will be now reset
-121998346	ID:9	ids_timer successfullly reset
-122001124	ID:9	c_timer antiCopycat will be called now
-122004440	ID:9	init_flag is 1, checking ids_timer expiry
-122033850	ID:19	antiCopycat called !!
-122034772	ID:19	Activating!!
-122037766	ID:19	init_flag is 1, checking ids_timer expiry
-122039042	ID:19	ids_timer expired
-122041027	ID:19	ids_timer will be now reset
-122043168	ID:19	ids_timer successfullly reset
-122045933	ID:19	c_timer antiCopycat will be called now
-122049065	ID:19	init_flag is 1, checking ids_timer expiry
-122050341	ID:19	ids_timer expired
-122052327	ID:19	ids_timer will be now reset
-122054454	ID:19	ids_timer successfullly reset
-122057219	ID:19	c_timer antiCopycat will be called now
-122076261	ID:19	init_flag is 1, checking ids_timer expiry
-122097813	ID:23	Replaying DIO with fixed interval 
-122100476	ID:23	ticks value 256
-122153226	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 19 at NodeID= 1
-122156203	ID:1	init_flag is 1, checking ids_timer expiry
-122181030	ID:1	calling checkMalicious
-122181455	ID:1	en cm
-122181929	ID:1	en ci
-122182355	ID:1	ex ci
-122182797	ID:1	en qs
-122183337	ID:1	en qs
-122183949	ID:1	en qs
-122184400	ID:1	en qs
-122184851	ID:1	en qs
-122185276	ID:1	ex qs
-122185701	ID:1	en qs
-122186127	ID:1	ex qs
-122186552	ID:1	ex qs
-122186799	ID:26	Replaying DIO with fixed interval 
-122186978	ID:1	en qs
-122187403	ID:1	ex qs
-122187829	ID:1	ex qs
-122188254	ID:1	en qs
-122188708	ID:1	en qs
-122189238	ID:1	en qs
-122189462	ID:26	ticks value 256
-122189688	ID:1	en qs
-122190113	ID:1	ex qs
-122190540	ID:1	en qs
-122190965	ID:1	ex qs
-122191391	ID:1	ex qs
-122191816	ID:1	en qs
-122192241	ID:1	ex qs
-122192667	ID:1	ex qs
-122193092	ID:1	en qs
-122193517	ID:1	ex qs
-122193943	ID:1	ex qs
-122194369	ID:1	ex qs
-122194794	ID:1	en qs
-122195219	ID:1	ex qs
-122195645	ID:1	ex qs
-122196070	ID:1	en co
-122196496	ID:1	en q1
-122196953	ID:1	en q2
-122197411	ID:1	en q3
-122198301	ID:10	calling checkMalicious
-122198726	ID:10	en cm
-122199187	ID:10	en ci
-122199453	ID:1	ex co
-122199612	ID:10	ex ci
-122199878	ID:1	ex cm
-122200038	ID:10	en qs
-122200573	ID:10	en qs
-122200940	ID:1	Deactiavitng!!
-122201061	ID:10	en qs
-122201496	ID:10	en qs
-122201921	ID:10	ex qs
-122202347	ID:10	en qs
-122202772	ID:10	ex qs
-122203198	ID:10	ex qs
-122203623	ID:10	en qs
+925943	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+932305	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+934349	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 6.
+939970	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+940838	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 15.
+941562	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+946433	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+947944	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+950087	ID:6	Starting 'UDP client process'
+950095	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 10.
+953515	ID:6	UDP client process started nbr:20 routes:0
+954408	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+955690	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+956551	ID:15	Starting 'UDP client process'
+956842	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+958526	ID:6	fe80::c30c:0:0:6
+959978	ID:15	UDP client process started nbr:20 routes:0
+963306	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+963665	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+963668	ID:6	Created a connection with the server :: local/remote port 8765/5678
+964991	ID:15	fe80::c30c:0:0:f
+965808	ID:10	Starting 'UDP client process'
+969235	ID:10	UDP client process started nbr:20 routes:0
+970133	ID:15	Created a connection with the server :: local/remote port 8765/5678
+972563	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+974248	ID:10	fe80::c30c:0:0:a
+976333	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+979390	ID:10	Created a connection with the server :: local/remote port 8765/5678
+984740	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 1.
+990361	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+998336	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1000479	ID:1	Starting 'UDP server process'
+1003227	ID:1	UDP server started. nbr:20 routes:0
+1005974	ID:1	created a new RPL dag
+1009299	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1010924	ID:1	fd00::ff:fe00:1
+1012619	ID:1	fe80::c30c:0:0:1
+1018566	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1021612	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1030018	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 5.
+1035639	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1043613	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1045756	ID:5	Starting 'UDP client process'
+1049184	ID:5	UDP client process started nbr:20 routes:0
+1052511	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1054195	ID:5	fe80::c30c:0:0:5
+1059337	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1118097	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1126503	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 7.
+1130594	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1132124	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1135590	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1139000	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 9.
+1140098	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1142241	ID:7	Starting 'UDP client process'
+1144166	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 17.
+1144621	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1145669	ID:7	UDP client process started nbr:20 routes:0
+1148996	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+1149754	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1150680	ID:7	fe80::c30c:0:0:7
+1152595	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1154738	ID:9	Starting 'UDP client process'
+1155822	ID:7	Created a connection with the server :: local/remote port 8765/5678
+1157772	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1158166	ID:9	UDP client process started nbr:20 routes:0
+1159915	ID:17	Starting 'UDP client process'
+1161493	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1163177	ID:9	fe80::c30c:0:0:9
+1163343	ID:17	UDP client process started nbr:20 routes:0
+1166782	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1168319	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1168579	ID:17	fe80::c30c:0:0:11
+1173721	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1184424	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1191417	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1192957	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 13.
+1198552	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1199950	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 12.
+1205545	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1206527	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1208670	ID:13	Starting 'UDP client process'
+1212097	ID:13	UDP client process started nbr:20 routes:0
+1213520	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1215425	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1215663	ID:12	Starting 'UDP client process'
+1217110	ID:13	fe80::c30c:0:0:d
+1219090	ID:12	UDP client process started nbr:20 routes:0
+1222252	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1222418	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1224103	ID:12	fe80::c30c:0:0:c
+1229245	ID:12	Created a connection with the server :: local/remote port 8765/5678
+1279100	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1287676	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3378-g591de4579 started. Node id is set to 18.
+1293261	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1301279	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1304349	ID:18	Starting 'Malicious sensor client process'
+1409840	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1418416	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3378-g591de4579 started. Node id is set to 19.
+1424001	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1432019	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1435089	ID:19	Starting 'Malicious sensor client process'
+1526472	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+1535005	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 14.
+1540044	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+1540600	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1545419	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1548575	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+1548577	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 11.
+1550718	ID:14	Starting 'UDP client process'
+1553825	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 2.
+1554145	ID:14	UDP client process started nbr:20 routes:0
+1554172	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1557473	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1559158	ID:14	fe80::c30c:0:0:e
+1559446	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1562147	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1564290	ID:11	Starting 'UDP client process'
+1564300	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1567420	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1567717	ID:11	UDP client process started nbr:20 routes:0
+1569563	ID:2	Starting 'UDP client process'
+1571045	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1572730	ID:11	fe80::c30c:0:0:b
+1572991	ID:2	UDP client process started nbr:20 routes:0
+1576318	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1577872	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1578002	ID:2	fe80::c30c:0:0:2
+1578677	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1583144	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1587083	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 8.
+1592704	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1598218	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1600678	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1602821	ID:8	Starting 'UDP client process'
+1606249	ID:8	UDP client process started nbr:20 routes:0
+1606794	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 16.
+1609576	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+1611260	ID:8	fe80::c30c:0:0:8
+1612382	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1616402	ID:8	Created a connection with the server :: local/remote port 8765/5678
+1620400	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1622543	ID:16	Starting 'UDP client process'
+1625971	ID:16	UDP client process started nbr:20 routes:0
+1629410	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1631207	ID:16	fe80::c30c:0:0:10
+1636349	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1675818	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1684224	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 3.
+1689845	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1697819	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1699962	ID:3	Starting 'UDP client process'
+1703390	ID:3	UDP client process started nbr:20 routes:0
+1706717	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+1708401	ID:3	fe80::c30c:0:0:3
+1713543	ID:3	Created a connection with the server :: local/remote port 8765/5678
+1736793	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1745199	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3407-g8a6b80a1c started. Node id is set to 4.
+1750820	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1758794	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1760937	ID:4	Starting 'UDP client process'
+1764365	ID:4	UDP client process started nbr:20 routes:0
+1767692	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+1769376	ID:4	fe80::c30c:0:0:4
+1774518	ID:4	Created a connection with the server :: local/remote port 8765/5678
+1818537	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1827113	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3378-g591de4579 started. Node id is set to 20.
+1832698	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1840716	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1843786	ID:20	Starting 'Malicious sensor client process'
+1859549	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1868125	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3378-g591de4579 started. Node id is set to 21.
+1873710	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1881728	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1884798	ID:21	Starting 'Malicious sensor client process'
+4941234	ID:2	Allocate table called
+4943380	ID:2	Blackilist table initialized
+4945268	ID:6	Allocate table called
+4945330	ID:3	Allocate table called
+4947452	ID:6	Blackilist table initialized
+4947476	ID:3	Blackilist table initialized
+7080365	ID:1	Allocate table called
+7082511	ID:1	Blackilist table initialized
+7137412	ID:7	Allocate table called
+7139597	ID:7	Blackilist table initialized
+7709299	ID:10	Allocate table called
+7711457	ID:10	Blackilist table initialized
+10434753	ID:11	Allocate table called
+10436899	ID:11	Blackilist table initialized
+10473848	ID:8	Allocate table called
+10475994	ID:8	Blackilist table initialized
+11076776	ID:15	Allocate table called
+11078922	ID:15	Blackilist table initialized
+14711600	ID:12	Allocate table called
+14713746	ID:12	Blackilist table initialized
+14866144	ID:16	Allocate table called
+14868325	ID:16	Blackilist table initialized
+14922529	ID:14	Allocate table called
+14924675	ID:14	Blackilist table initialized
+18154546	ID:17	Allocate table called
+18156692	ID:17	Blackilist table initialized
+19900885	ID:9	Allocate table called
+19903031	ID:9	Blackilist table initialized
+22079389	ID:13	Allocate table called
+22081535	ID:13	Blackilist table initialized
+30290534	ID:5	Allocate table called
+30292683	ID:5	Blackilist table initialized
+32382085	ID:4	Allocate table called
+32384231	ID:4	Blackilist table initialized
+63026757	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
+63988123	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 12 at NodeID= 1
+65987800	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
+67986196	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
+68084414	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 4 at NodeID= 1
+68341704	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
+68360443	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 2 at NodeID= 1
+69979244	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
+73669067	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
+74459156	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 9 at NodeID= 1
+78585904	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
+78709207	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 8 at NodeID= 1
+80855041	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
+80874047	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 6 at NodeID= 1
+84174066	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
+84834883	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 17 at NodeID= 1
+85633130	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
+85709343	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 7 at NodeID= 1
+90500575	ID:18	Malicious UDP client process started nbr:30 routes:0
+90505224	ID:18	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:12
+90507020	ID:18	fe80::c30c:0:0:12
+90512162	ID:18	Created a connection with the server :: local/remote port 8765/5678
+90629441	ID:19	Malicious UDP client process started nbr:30 routes:0
+90634128	ID:19	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:13
+90635925	ID:19	fe80::c30c:0:0:13
+90641105	ID:19	Created a connection with the server :: local/remote port 8765/5678
+91036866	ID:20	First DIO recieved 
+91071155	ID:20	ticks value 256
+91075918	ID:20	Malicious UDP client process started nbr:30 routes:0
+91081023	ID:21	Malicious UDP client process started nbr:30 routes:0
+91081455	ID:20	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:14
+91083251	ID:20	fe80::c30c:0:0:14
+91085672	ID:21	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:15
+91087468	ID:21	fe80::c30c:0:0:15
+91088432	ID:20	Created a connection with the server :: local/remote port 8765/5678
+91092611	ID:21	Created a connection with the server :: local/remote port 8765/5678
+91739772	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
+91960839	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 5 at NodeID= 1
+93073728	ID:20	Replaying DIO with fixed interval 
+93076147	ID:20	ticks value 256
+93361402	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
+94128413	ID:21	First DIO recieved 
+94163136	ID:21	ticks value 256
+94299238	ID:18	First DIO recieved 
+94303404	ID:19	First DIO recieved 
+94334328	ID:18	ticks value 256
+94337886	ID:19	ticks value 256
+95082391	ID:20	Replaying DIO with fixed interval 
+95085085	ID:20	ticks value 256
+95334555	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 15 at NodeID= 1
+95406641	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
+95835167	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 11 at NodeID= 1
+96169380	ID:21	Replaying DIO with fixed interval 
+96172073	ID:21	ticks value 256
+96338932	ID:18	Replaying DIO with fixed interval 
+96341626	ID:18	ticks value 256
+96344672	ID:19	Replaying DIO with fixed interval 
+96347366	ID:19	ticks value 256
+97089778	ID:20	Replaying DIO with fixed interval 
+97092442	ID:20	ticks value 256
+98177169	ID:21	Replaying DIO with fixed interval 
+98179833	ID:21	ticks value 256
+98346720	ID:18	Replaying DIO with fixed interval 
+98349413	ID:18	ticks value 256
+98352460	ID:19	Replaying DIO with fixed interval 
+98355124	ID:19	ticks value 256
+99097095	ID:20	Replaying DIO with fixed interval 
+99099758	ID:20	ticks value 256
+100184982	ID:21	Replaying DIO with fixed interval 
+100187645	ID:21	ticks value 256
+100354532	ID:18	Replaying DIO with fixed interval 
+100357196	ID:18	ticks value 256
+100360273	ID:19	Replaying DIO with fixed interval 
+100362936	ID:19	ticks value 256
+101104907	ID:20	Replaying DIO with fixed interval 
+101107571	ID:20	ticks value 256
+102192963	ID:21	Replaying DIO with fixed interval 
+102195626	ID:21	ticks value 256
+102362558	ID:18	Replaying DIO with fixed interval 
+102365222	ID:18	ticks value 256
+102368085	ID:19	Replaying DIO with fixed interval 
+102370749	ID:19	ticks value 256
+102441650	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
+102917531	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
+103112720	ID:20	Replaying DIO with fixed interval 
+103115383	ID:20	ticks value 256
+103924614	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 10 at NodeID= 1
+103943617	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 13 at NodeID= 1
+104200607	ID:21	Replaying DIO with fixed interval 
+104203270	ID:21	ticks value 256
+104206476	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
+104225467	ID:1	Received DATA recv 'Hello 1 from the client abhive' from 3 at NodeID= 1
+104370158	ID:18	Replaying DIO with fixed interval 
+104372821	ID:18	ticks value 256
+104375897	ID:19	Replaying DIO with fixed interval 
+104378561	ID:19	ticks value 256
+105120532	ID:20	Replaying DIO with fixed interval 
+105123196	ID:20	ticks value 256
+106208419	ID:21	Replaying DIO with fixed interval 
+106211083	ID:21	ticks value 256
+106377970	ID:18	Replaying DIO with fixed interval 
+106380634	ID:18	ticks value 256
+106383710	ID:19	Replaying DIO with fixed interval 
+106386374	ID:19	ticks value 256
+107128345	ID:20	Replaying DIO with fixed interval 
+107131008	ID:20	ticks value 256
+108216232	ID:21	Replaying DIO with fixed interval 
+108218895	ID:21	ticks value 256
+108385783	ID:18	Replaying DIO with fixed interval 
+108388446	ID:18	ticks value 256
+108391528	ID:19	Replaying DIO with fixed interval 
+108394224	ID:19	ticks value 256
+109136157	ID:20	Replaying DIO with fixed interval 
+109138821	ID:20	ticks value 256
+110224046	ID:21	Replaying DIO with fixed interval 
+110226582	ID:21	ticks value 256
+110393595	ID:18	Replaying DIO with fixed interval 
+110396259	ID:18	ticks value 256
+110399335	ID:19	Replaying DIO with fixed interval 
+110401999	ID:19	ticks value 256
+111143975	ID:20	Replaying DIO with fixed interval 
+111146671	ID:20	ticks value 256
+112231857	ID:21	Replaying DIO with fixed interval 
+112234520	ID:21	ticks value 256
+112401408	ID:18	Replaying DIO with fixed interval 
+112404071	ID:18	ticks value 256
+112407151	ID:19	Replaying DIO with fixed interval 
+112409687	ID:19	ticks value 256
+113151782	ID:20	Replaying DIO with fixed interval 
+113154446	ID:20	ticks value 256
+114239669	ID:21	Replaying DIO with fixed interval 
+114242333	ID:21	ticks value 256
+114409220	ID:18	Replaying DIO with fixed interval 
+114411884	ID:18	ticks value 256
+114414960	ID:19	Replaying DIO with fixed interval 
+114417624	ID:19	ticks value 256
+115159595	ID:20	Replaying DIO with fixed interval 
+115162258	ID:20	ticks value 256
+116248337	ID:21	Replaying DIO with fixed interval 
+116251034	ID:21	ticks value 256
+116417888	ID:18	Replaying DIO with fixed interval 
+116420585	ID:18	ticks value 256
+116423629	ID:19	Replaying DIO with fixed interval 
+116426335	ID:19	ticks value 256
+117167407	ID:20	Replaying DIO with fixed interval 
+117170071	ID:20	ticks value 256
+118255593	ID:21	Replaying DIO with fixed interval 
+118260441	ID:21	ticks value 256
+118425357	ID:18	Replaying DIO with fixed interval 
+118428021	ID:18	ticks value 256
+118431719	ID:19	Replaying DIO with fixed interval 
+118434383	ID:19	ticks value 256
+119175220	ID:20	Replaying DIO with fixed interval 
+119177883	ID:20	ticks value 256
+120263107	ID:21	Replaying DIO with fixed interval 
+120265770	ID:21	ticks value 256
+120432658	ID:18	Replaying DIO with fixed interval 
+120435321	ID:18	ticks value 256
+120438397	ID:19	Replaying DIO with fixed interval 
+120441061	ID:19	ticks value 256
+120963902	ID:6	antiCopycat called !!
+120964824	ID:6	Activating!!
+120970158	ID:15	antiCopycat called !!
+120971080	ID:15	Activating!!
+120979516	ID:10	antiCopycat called !!
+120980438	ID:10	Activating!!
+121013497	ID:1	antiCopycat called !!
+121014418	ID:1	Activating!!
+121059570	ID:5	antiCopycat called !!
+121060492	ID:5	Activating!!
+121168560	ID:9	antiCopycat called !!
+121169482	ID:9	Activating!!
+121173444	ID:17	antiCopycat called !!
+121174366	ID:17	Activating!!
+121183201	ID:20	Replaying DIO with fixed interval 
+121185864	ID:20	ticks value 256
+121193808	ID:7	antiCopycat called !!
+121194730	ID:7	Activating!!
+121222375	ID:13	antiCopycat called !!
+121223297	ID:13	Activating!!
+121235316	ID:12	antiCopycat called !!
+121236238	ID:12	Activating!!
+121264896	ID:7	calling checkMalicious
+121271909	ID:7	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+121272972	ID:7	Deactiavitng!!
+121564326	ID:14	antiCopycat called !!
+121565248	ID:14	Activating!!
+121577898	ID:11	antiCopycat called !!
+121578820	ID:11	Activating!!
+121593988	ID:2	antiCopycat called !!
+121594910	ID:2	Activating!!
+121636168	ID:16	antiCopycat called !!
+121637090	ID:16	Activating!!
+121642163	ID:8	antiCopycat called !!
+121643084	ID:8	Activating!!
+121713777	ID:3	antiCopycat called !!
+121714699	ID:3	Activating!!
+121780971	ID:4	antiCopycat called !!
+121781893	ID:4	Activating!!
+122087846	ID:12	calling checkMalicious
+122090776	ID:12	Deactiavitng!!
+122152852	ID:9	calling checkMalicious
+122157071	ID:17	calling checkMalicious
+122158839	ID:9	Node fe80::c30c:0:0:13 is suspected to be MALICIOUS!!
+122159044	ID:17	Deactiavitng!!
+122159902	ID:9	Deactiavitng!!
+122270919	ID:21	Replaying DIO with fixed interval 
+122273583	ID:21	ticks value 256
+122313392	ID:11	calling checkMalicious
+122320509	ID:11	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+122321572	ID:11	Deactiavitng!!
+122352645	ID:8	calling checkMalicious
+122356425	ID:8	Deactiavitng!!
+122440470	ID:18	Replaying DIO with fixed interval 
+122443134	ID:18	ticks value 256
+122446210	ID:19	Replaying DIO with fixed interval 
+122448874	ID:19	ticks value 256
+122509013	ID:4	calling checkMalicious
+122511847	ID:4	Deactiavitng!!
+122569765	ID:2	calling checkMalicious
+122573451	ID:2	Deactiavitng!!
+122574041	ID:1	calling checkMalicious
+122574066	ID:3	calling checkMalicious
+122577020	ID:1	Deactiavitng!!
+122577745	ID:3	Deactiavitng!!
+123190845	ID:20	Replaying DIO with fixed interval 
+123193508	ID:20	ticks value 256
+123370543	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
+123493086	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 3 at NodeID= 1
+124278732	ID:21	Replaying DIO with fixed interval 
+124281395	ID:21	ticks value 256
+124448283	ID:18	Replaying DIO with fixed interval 
+124450946	ID:18	ticks value 256
+124454022	ID:19	Replaying DIO with fixed interval 
+124456686	ID:19	ticks value 256
+124543275	ID:5	calling checkMalicious
+124545329	ID:5	Deactiavitng!!
+125198657	ID:20	Replaying DIO with fixed interval 
+125201321	ID:20	ticks value 256
+126286713	ID:21	Replaying DIO with fixed interval 
+126289376	ID:21	ticks value 256
+126331442	ID:13	calling checkMalicious
+126334113	ID:13	Deactiavitng!!
+126370418	ID:16	calling checkMalicious
+126373142	ID:16	Deactiavitng!!
+126456265	ID:18	Replaying DIO with fixed interval 
+126458929	ID:18	ticks value 256
+126461835	ID:19	Replaying DIO with fixed interval 
+126464499	ID:19	ticks value 256
+127207320	ID:20	Replaying DIO with fixed interval 
+127209984	ID:20	ticks value 256
+128294357	ID:21	Replaying DIO with fixed interval 
+128297020	ID:21	ticks value 256
+128323832	ID:6	calling checkMalicious
+128326535	ID:6	Deactiavitng!!
+128341288	ID:10	calling checkMalicious
+128344139	ID:10	Deactiavitng!!
+128463908	ID:18	Replaying DIO with fixed interval 
+128466571	ID:18	ticks value 256
+128469651	ID:19	Replaying DIO with fixed interval 
+128472187	ID:19	ticks value 256
+129081696	ID:15	calling checkMalicious
+129084411	ID:15	Deactiavitng!!
+129214792	ID:20	Replaying DIO with fixed interval 
+129217456	ID:20	ticks value 256
+129273828	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
+130255769	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
+130302169	ID:21	Replaying DIO with fixed interval 
+130304833	ID:21	ticks value 256
+130471720	ID:18	Replaying DIO with fixed interval 
+130474384	ID:18	ticks value 256
+130477460	ID:19	Replaying DIO with fixed interval 
+130480124	ID:19	ticks value 256
+130485729	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 2 at NodeID= 1
+130961094	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 11 at NodeID= 1
+131343174	ID:20	Replaying DIO with fixed interval 
+131346018	ID:20	ticks value 256
+132309982	ID:21	Replaying DIO with fixed interval 
+132312645	ID:21	ticks value 256
+132479533	ID:18	Replaying DIO with fixed interval 
+132482196	ID:18	ticks value 256
+132485277	ID:19	Replaying DIO with fixed interval 
+132487984	ID:19	ticks value 256
+133354907	ID:20	Replaying DIO with fixed interval 
+133357571	ID:20	ticks value 256
+134317794	ID:21	Replaying DIO with fixed interval 
+134320458	ID:21	ticks value 256
+134487345	ID:18	Replaying DIO with fixed interval 
+134490009	ID:18	ticks value 256
+134493085	ID:19	Replaying DIO with fixed interval 
+134495749	ID:19	ticks value 256
+135362720	ID:20	Replaying DIO with fixed interval 
+135365383	ID:20	ticks value 256
+135575331	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
+136226527	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
+136325607	ID:21	Replaying DIO with fixed interval 
+136328270	ID:21	ticks value 256
+136337519	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 8 at NodeID= 1
+136495192	ID:18	Replaying DIO with fixed interval 
+136497856	ID:18	ticks value 256
+136500897	ID:19	Replaying DIO with fixed interval 
+136503561	ID:19	ticks value 256
+137370532	ID:20	Replaying DIO with fixed interval 
+137373196	ID:20	ticks value 256
+138333419	ID:21	Replaying DIO with fixed interval 
+138336083	ID:21	ticks value 256
+138502986	ID:18	Replaying DIO with fixed interval 
+138505649	ID:18	ticks value 256
+138508710	ID:19	Replaying DIO with fixed interval 
+138511374	ID:19	ticks value 256
+139378345	ID:20	Replaying DIO with fixed interval 
+139381008	ID:20	ticks value 256
+140341237	ID:21	Replaying DIO with fixed interval 
+140343933	ID:21	ticks value 256
+140510788	ID:18	Replaying DIO with fixed interval 
+140513484	ID:18	ticks value 256
+140516523	ID:19	Replaying DIO with fixed interval 
+140519186	ID:19	ticks value 256
+140831461	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
+141386157	ID:20	Replaying DIO with fixed interval 
+141388821	ID:20	ticks value 256
+142349044	ID:21	Replaying DIO with fixed interval 
+142351708	ID:21	ticks value 256
+142518595	ID:18	Replaying DIO with fixed interval 
+142521259	ID:18	ticks value 256
+142524548	ID:19	Replaying DIO with fixed interval 
+142527212	ID:19	ticks value 256
+143393975	ID:20	Replaying DIO with fixed interval 
+143396671	ID:20	ticks value 256
+144356857	ID:21	Replaying DIO with fixed interval 
+144359520	ID:21	ticks value 256
+144526408	ID:18	Replaying DIO with fixed interval 
+144529071	ID:18	ticks value 256
+144532148	ID:19	Replaying DIO with fixed interval 
+144534811	ID:19	ticks value 256
+145049082	ID:14	calling checkMalicious
+145051135	ID:14	Deactiavitng!!
+145401782	ID:20	Replaying DIO with fixed interval 
+145404446	ID:20	ticks value 256
+146364669	ID:21	Replaying DIO with fixed interval 
+146367333	ID:21	ticks value 256
+146534220	ID:18	Replaying DIO with fixed interval 
+146536884	ID:18	ticks value 256
+146539960	ID:19	Replaying DIO with fixed interval 
+146542624	ID:19	ticks value 256
+147409595	ID:20	Replaying DIO with fixed interval 
+147412258	ID:20	ticks value 256
+148373256	ID:21	Replaying DIO with fixed interval 
+148375920	ID:21	ticks value 256
+148542883	ID:18	Replaying DIO with fixed interval 
+148545547	ID:18	ticks value 256
+148548623	ID:19	Replaying DIO with fixed interval 
+148551287	ID:19	ticks value 256
+149417407	ID:20	Replaying DIO with fixed interval 
+149420071	ID:20	ticks value 256
+150081617	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
+150100480	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 6 at NodeID= 1
+150380463	ID:21	Replaying DIO with fixed interval 
+150383127	ID:21	ticks value 256
+150549987	ID:18	Replaying DIO with fixed interval 
+150552627	ID:18	ticks value 256
+150555585	ID:19	Replaying DIO with fixed interval 
+150558249	ID:19	ticks value 256
+150963151	ID:6	antiCopycat called !!
+150964073	ID:6	Activating!!
+150969437	ID:15	antiCopycat called !!
+150970359	ID:15	Activating!!
+150978684	ID:10	antiCopycat called !!
+150979606	ID:10	Activating!!
+151013468	ID:1	antiCopycat called !!
+151014390	ID:1	Activating!!
+151058848	ID:5	antiCopycat called !!
+151059770	ID:5	Activating!!
+151167802	ID:9	antiCopycat called !!
+151168724	ID:9	Activating!!
+151172722	ID:17	antiCopycat called !!
+151173071	ID:7	antiCopycat called !!
+151173644	ID:17	Activating!!
+151173993	ID:7	Activating!!
+151221546	ID:13	antiCopycat called !!
+151222468	ID:13	Activating!!
+151228502	ID:12	antiCopycat called !!
+151229424	ID:12	Activating!!
+151425220	ID:20	Replaying DIO with fixed interval 
+151427860	ID:20	ticks value 256
+151563604	ID:14	antiCopycat called !!
+151564526	ID:14	Activating!!
+151582617	ID:2	antiCopycat called !!
+151583539	ID:2	Activating!!
+151585502	ID:11	antiCopycat called !!
+151586424	ID:11	Activating!!
+151618586	ID:8	antiCopycat called !!
+151619508	ID:8	Activating!!
+151635340	ID:16	antiCopycat called !!
+151636262	ID:16	Activating!!
+151713026	ID:3	antiCopycat called !!
+151713948	ID:3	Activating!!
+151774038	ID:4	antiCopycat called !!
+151774960	ID:4	Activating!!
+152388107	ID:21	Replaying DIO with fixed interval 
+152390747	ID:21	ticks value 256
+152426034	ID:14	calling checkMalicious
+152428756	ID:14	Deactiavitng!!
+152439318	ID:11	calling checkMalicious
+152443105	ID:11	Deactiavitng!!
+152447721	ID:6	calling checkMalicious
+152450503	ID:6	Deactiavitng!!
+152465036	ID:10	calling checkMalicious
+152467836	ID:10	Deactiavitng!!
+152502041	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
+152557657	ID:18	Replaying DIO with fixed interval 
+152560298	ID:18	ticks value 256
+152563398	ID:19	Replaying DIO with fixed interval 
+152566038	ID:19	ticks value 256
+152625775	ID:1	calling checkMalicious
+152628657	ID:1	Deactiavitng!!
+153227332	ID:8	calling checkMalicious
+153231071	ID:8	Deactiavitng!!
+153257439	ID:4	calling checkMalicious
+153260291	ID:4	Deactiavitng!!
+153266345	ID:7	calling checkMalicious
+153269862	ID:7	Deactiavitng!!
+153318264	ID:2	calling checkMalicious
+153322530	ID:3	calling checkMalicious
+153325242	ID:2	Node fe80::c30c:0:0:14 is suspected to be MALICIOUS!!
+153326121	ID:3	Deactiavitng!!
+153326305	ID:2	Deactiavitng!!
+153433174	ID:20	Replaying DIO with fixed interval 
+153435814	ID:20	ticks value 256
+153462710	ID:12	calling checkMalicious
+153468795	ID:12	Node fe80::c30c:0:0:15 is suspected to be MALICIOUS!!
+153469858	ID:12	Deactiavitng!!
+153995033	ID:16	calling checkMalicious
+153997735	ID:16	Deactiavitng!!
+154238530	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
+154395919	ID:21	Replaying DIO with fixed interval 
+154398559	ID:21	ticks value 256
+154565470	ID:18	Replaying DIO with fixed interval 
+154568110	ID:18	ticks value 256
+154571210	ID:19	Replaying DIO with fixed interval 
+154573850	ID:19	ticks value 256
+155440844	ID:20	Replaying DIO with fixed interval 
+155443485	ID:20	ticks value 256
+156403732	ID:21	Replaying DIO with fixed interval 
+156406372	ID:21	ticks value 256
+156454697	ID:15	calling checkMalicious
+156457481	ID:15	Deactiavitng!!

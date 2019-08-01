@@ -13,12 +13,12 @@
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <captureEffect value="false" />
-      <tx_power value="0.0" />
-      <system_gain_mean value="-20.0" />
-      <obstacle_attenuation value="-10.0" />
       <system_gain_var value="0.0" />
       <tx_with_gain value="false" />
+      <obstacle_attenuation value="-10.0" />
+      <tx_power value="0.0" />
+      <captureEffect value="false" />
+      <system_gain_mean value="-20.0" />
       <obstacles />
     </radiomedium>
     <events>
@@ -459,7 +459,7 @@
       <viewport>2.653198653198653 0.0 0.0 2.653198653198653 52.990909090909014 29.797575757575792</viewport>
     </plugin_config>
     <width>457</width>
-    <z>0</z>
+    <z>3</z>
     <height>448</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
@@ -467,12 +467,12 @@
   <plugin>
     org.contikios.cooja.plugins.LogListener
     <plugin_config>
-      <filter />
+      <filter>BLOCKED</filter>
       <formatted_time />
       <coloring />
     </plugin_config>
     <width>721</width>
-    <z>4</z>
+    <z>2</z>
     <height>536</height>
     <location_x>453</location_x>
     <location_y>-4</location_y>
@@ -480,7 +480,7 @@
   <plugin>
     PowerTracker
     <width>375</width>
-    <z>2</z>
+    <z>4</z>
     <height>243</height>
     <location_x>791</location_x>
     <location_y>537</location_y>
@@ -489,10 +489,10 @@
     org.contikios.cooja.plugins.ScriptRunner
     <plugin_config>
       <scriptfile>[CONTIKI_DIR]/script_replay.js</scriptfile>
-      <active>false</active>
+      <active>true</active>
     </plugin_config>
     <width>423</width>
-    <z>3</z>
+    <z>0</z>
     <height>780</height>
     <location_x>1176</location_x>
     <location_y>-1</location_y>

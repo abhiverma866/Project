@@ -50,7 +50,7 @@
 
 // IDS specific macros
 #include "net/common.h"
-#define MAX_NUM_NODE 25
+#define MAX_NUM_NODE 20
 #define IDS_INTERVAL (30 * CLOCK_SECOND)
 
 #define UDP_EXAMPLE_ID  190
