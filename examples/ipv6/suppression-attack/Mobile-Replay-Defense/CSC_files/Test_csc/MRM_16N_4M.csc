@@ -9,16 +9,16 @@
   <project EXPORT="discard">[APPS_DIR]/mobility</project>
   <simulation>
     <title>My simulation</title>
-    <randomseed>467854</randomseed>
+    <randomseed>169859</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
-      <system_gain_mean value="-20.0" />
       <obstacle_attenuation value="-10.0" />
       <tx_power value="0.0" />
-      <system_gain_var value="0.0" />
-      <captureEffect value="false" />
       <tx_with_gain value="false" />
+      <system_gain_mean value="-20.0" />
+      <captureEffect value="false" />
+      <system_gain_var value="0.0" />
       <obstacles />
     </radiomedium>
     <events>
@@ -406,8 +406,8 @@
       <breakpoints />
       <interface_config>
         org.contikios.cooja.interfaces.Position
-        <x>82.58554689977586</x>
-        <y>35.07715360472183</y>
+        <x>90.7266636510449</x>
+        <y>55.42994548289442</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -460,7 +460,7 @@
   <plugin>
     org.contikios.cooja.plugins.SimControl
     <width>451</width>
-    <z>0</z>
+    <z>1</z>
     <height>332</height>
     <location_x>3</location_x>
     <location_y>447</location_y>
@@ -477,7 +477,7 @@
       <viewport>2.2109988776655443 0.0 0.0 2.2109988776655443 123.60353535353535 77.82575757575758</viewport>
     </plugin_config>
     <width>457</width>
-    <z>1</z>
+    <z>0</z>
     <height>448</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
