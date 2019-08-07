@@ -1,175 +1,175 @@
-924044	ID:6	Rime started with address 193.12.0.0.0.0.0.6
-930406	ID:15	Rime started with address 193.12.0.0.0.0.0.15
-932452	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3406-g9d24d590b started. Node id is set to 6.
-938073	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-938939	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3406-g9d24d590b started. Node id is set to 15.
-939663	ID:10	Rime started with address 193.12.0.0.0.0.0.10
-944536	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-946048	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
-948191	ID:6	Starting 'UDP client process'
-948196	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3406-g9d24d590b started. Node id is set to 10.
-951618	ID:6	UDP client process started nbr:20 routes:0
-952511	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
-953793	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-954654	ID:15	Starting 'UDP client process'
-954945	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
-956629	ID:6	fe80::c30c:0:0:6
-958081	ID:15	UDP client process started nbr:20 routes:0
-961409	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
-961768	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
-961772	ID:6	Created a connection with the server :: local/remote port 8765/5678
-963094	ID:15	fe80::c30c:0:0:f
-963911	ID:10	Starting 'UDP client process'
-967338	ID:10	UDP client process started nbr:20 routes:0
-968237	ID:15	Created a connection with the server :: local/remote port 8765/5678
-970666	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
-972351	ID:10	fe80::c30c:0:0:a
-974435	ID:1	Rime started with address 193.12.0.0.0.0.0.1
-977494	ID:10	Created a connection with the server :: local/remote port 8765/5678
-982843	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3406-g9d24d590b started. Node id is set to 1.
-988464	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-996438	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
-998581	ID:1	Starting 'UDP server process'
-1001329	ID:1	UDP server started. nbr:20 routes:0
-1004077	ID:1	created a new RPL dag
-1007401	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
-1009027	ID:1	fd00::ff:fe00:1
-1010722	ID:1	fe80::c30c:0:0:1
-1016670	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
-1019713	ID:5	Rime started with address 193.12.0.0.0.0.0.5
-1028121	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3406-g9d24d590b started. Node id is set to 5.
-1033742	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1041717	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
-1043860	ID:5	Starting 'UDP client process'
-1047287	ID:5	UDP client process started nbr:20 routes:0
-1050614	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
-1052298	ID:5	fe80::c30c:0:0:5
-1057441	ID:5	Created a connection with the server :: local/remote port 8765/5678
-1116198	ID:7	Rime started with address 193.12.0.0.0.0.0.7
-1124606	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3406-g9d24d590b started. Node id is set to 7.
-1128695	ID:9	Rime started with address 193.12.0.0.0.0.0.9
-1130227	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1133691	ID:17	Rime started with address 193.12.0.0.0.0.0.17
-1137103	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3406-g9d24d590b started. Node id is set to 9.
-1138202	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
-1140345	ID:7	Starting 'UDP client process'
-1142267	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3406-g9d24d590b started. Node id is set to 17.
-1142724	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1143772	ID:7	UDP client process started nbr:20 routes:0
-1147099	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
-1147853	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1148783	ID:7	fe80::c30c:0:0:7
-1150699	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
-1152842	ID:9	Starting 'UDP client process'
-1153926	ID:7	Created a connection with the server :: local/remote port 8765/5678
-1155871	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
-1156269	ID:9	UDP client process started nbr:20 routes:0
-1158014	ID:17	Starting 'UDP client process'
-1159596	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
-1161280	ID:9	fe80::c30c:0:0:9
-1161441	ID:17	UDP client process started nbr:20 routes:0
-1164881	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
-1166423	ID:9	Created a connection with the server :: local/remote port 8765/5678
-1166677	ID:17	fe80::c30c:0:0:11
-1171820	ID:17	Created a connection with the server :: local/remote port 8765/5678
-1182525	ID:13	Rime started with address 193.12.0.0.0.0.0.13
-1189518	ID:12	Rime started with address 193.12.0.0.0.0.0.12
-1191058	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3406-g9d24d590b started. Node id is set to 13.
-1196655	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1198051	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3406-g9d24d590b started. Node id is set to 12.
-1203648	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1204630	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
-1206773	ID:13	Starting 'UDP client process'
-1210200	ID:13	UDP client process started nbr:20 routes:0
-1211623	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
-1213528	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
-1213766	ID:12	Starting 'UDP client process'
-1215213	ID:13	fe80::c30c:0:0:d
-1217193	ID:12	UDP client process started nbr:20 routes:0
-1220356	ID:13	Created a connection with the server :: local/remote port 8765/5678
-1220521	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
-1222206	ID:12	fe80::c30c:0:0:c
-1227349	ID:12	Created a connection with the server :: local/remote port 8765/5678
-1279100	ID:18	Rime started with address 193.12.0.0.0.0.0.18
-1287676	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3378-g591de4579 started. Node id is set to 18.
-1293261	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1301279	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
-1304349	ID:18	Starting 'Malicious sensor client process'
-1409840	ID:19	Rime started with address 193.12.0.0.0.0.0.19
-1418416	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3378-g591de4579 started. Node id is set to 19.
-1424001	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1432019	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
-1435089	ID:19	Starting 'Malicious sensor client process'
-1524573	ID:14	Rime started with address 193.12.0.0.0.0.0.14
-1533106	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3406-g9d24d590b started. Node id is set to 14.
-1538145	ID:11	Rime started with address 193.12.0.0.0.0.0.11
-1538703	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1543520	ID:2	Rime started with address 193.12.0.0.0.0.0.2
-1546678	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3406-g9d24d590b started. Node id is set to 11.
-1546678	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
-1548821	ID:14	Starting 'UDP client process'
-1551928	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3406-g9d24d590b started. Node id is set to 2.
-1552248	ID:14	UDP client process started nbr:20 routes:0
-1552275	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1555576	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
-1557261	ID:14	fe80::c30c:0:0:e
-1557549	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1560250	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
-1562393	ID:11	Starting 'UDP client process'
-1562404	ID:14	Created a connection with the server :: local/remote port 8765/5678
-1565524	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
-1565820	ID:11	UDP client process started nbr:20 routes:0
-1567667	ID:2	Starting 'UDP client process'
-1569148	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
-1570833	ID:11	fe80::c30c:0:0:b
-1571094	ID:2	UDP client process started nbr:20 routes:0
-1574421	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
-1575976	ID:11	Created a connection with the server :: local/remote port 8765/5678
-1576105	ID:2	fe80::c30c:0:0:2
-1576778	ID:8	Rime started with address 193.12.0.0.0.0.0.8
-1581248	ID:2	Created a connection with the server :: local/remote port 8765/5678
-1585186	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3406-g9d24d590b started. Node id is set to 8.
-1590807	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1596319	ID:16	Rime started with address 193.12.0.0.0.0.0.16
-1598782	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
-1600925	ID:8	Starting 'UDP client process'
-1604352	ID:8	UDP client process started nbr:20 routes:0
-1604895	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3406-g9d24d590b started. Node id is set to 16.
-1607679	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
-1609363	ID:8	fe80::c30c:0:0:8
-1610481	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1614506	ID:8	Created a connection with the server :: local/remote port 8765/5678
-1618499	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
-1620642	ID:16	Starting 'UDP client process'
-1624069	ID:16	UDP client process started nbr:20 routes:0
-1627509	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
-1629305	ID:16	fe80::c30c:0:0:10
-1634448	ID:16	Created a connection with the server :: local/remote port 8765/5678
-1673919	ID:3	Rime started with address 193.12.0.0.0.0.0.3
-1682327	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3406-g9d24d590b started. Node id is set to 3.
-1687948	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1695923	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
-1698066	ID:3	Starting 'UDP client process'
-1701493	ID:3	UDP client process started nbr:20 routes:0
-1704820	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
-1706504	ID:3	fe80::c30c:0:0:3
-1711647	ID:3	Created a connection with the server :: local/remote port 8765/5678
-1734894	ID:4	Rime started with address 193.12.0.0.0.0.0.4
-1743302	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3406-g9d24d590b started. Node id is set to 4.
-1748923	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1756898	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
-1759041	ID:4	Starting 'UDP client process'
-1762468	ID:4	UDP client process started nbr:20 routes:0
-1765795	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
-1767479	ID:4	fe80::c30c:0:0:4
-1772622	ID:4	Created a connection with the server :: local/remote port 8765/5678
-1818537	ID:20	Rime started with address 193.12.0.0.0.0.0.20
-1827113	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3378-g591de4579 started. Node id is set to 20.
-1832698	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1840716	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
-1843786	ID:20	Starting 'Malicious sensor client process'
-1859549	ID:21	Rime started with address 193.12.0.0.0.0.0.21
-1868125	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3378-g591de4579 started. Node id is set to 21.
-1873710	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
-1881728	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
-1884798	ID:21	Starting 'Malicious sensor client process'
+937450	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+945858	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3406-g9d24d590b started. Node id is set to 8.
+951479	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+959454	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+961597	ID:8	Starting 'UDP client process'
+965024	ID:8	UDP client process started nbr:20 routes:0
+968351	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+970035	ID:8	fe80::c30c:0:0:8
+975178	ID:8	Created a connection with the server :: local/remote port 8765/5678
+1055254	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+1063787	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3406-g9d24d590b started. Node id is set to 11.
+1069384	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1077359	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1079502	ID:11	Starting 'UDP client process'
+1082929	ID:11	UDP client process started nbr:20 routes:0
+1086257	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1087942	ID:11	fe80::c30c:0:0:b
+1093085	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1100801	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1109209	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3406-g9d24d590b started. Node id is set to 2.
+1114830	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1115337	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1122805	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1123745	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3406-g9d24d590b started. Node id is set to 6.
+1124948	ID:2	Starting 'UDP client process'
+1128375	ID:2	UDP client process started nbr:20 routes:0
+1129366	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1131702	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1133386	ID:2	fe80::c30c:0:0:2
+1137341	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1138529	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1139484	ID:6	Starting 'UDP client process'
+1142911	ID:6	UDP client process started nbr:20 routes:0
+1146238	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+1147922	ID:6	fe80::c30c:0:0:6
+1153065	ID:6	Created a connection with the server :: local/remote port 8765/5678
+1192722	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1201298	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3378-g591de4579 started. Node id is set to 18.
+1206883	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1213039	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+1214901	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1217971	ID:18	Starting 'Malicious sensor client process'
+1221447	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3406-g9d24d590b started. Node id is set to 4.
+1227068	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1235043	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1237186	ID:4	Starting 'UDP client process'
+1240613	ID:4	UDP client process started nbr:20 routes:0
+1243940	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+1245624	ID:4	fe80::c30c:0:0:4
+1246737	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1250767	ID:4	Created a connection with the server :: local/remote port 8765/5678
+1255145	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3406-g9d24d590b started. Node id is set to 1.
+1260766	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1266451	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1268740	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1270883	ID:1	Starting 'UDP server process'
+1273631	ID:1	UDP server started. nbr:20 routes:0
+1274859	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3406-g9d24d590b started. Node id is set to 7.
+1276379	ID:1	created a new RPL dag
+1279703	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1280480	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1281329	ID:1	fd00::ff:fe00:1
+1283024	ID:1	fe80::c30c:0:0:1
+1288455	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1288972	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1290598	ID:7	Starting 'UDP client process'
+1294025	ID:7	UDP client process started nbr:20 routes:0
+1297352	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+1299036	ID:7	fe80::c30c:0:0:7
+1304179	ID:7	Created a connection with the server :: local/remote port 8765/5678
+1314891	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+1323424	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3406-g9d24d590b started. Node id is set to 14.
+1327343	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+1329021	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1335876	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3406-g9d24d590b started. Node id is set to 15.
+1336996	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+1337736	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1338697	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1339139	ID:14	Starting 'UDP client process'
+1341473	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1342566	ID:14	UDP client process started nbr:20 routes:0
+1345894	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1346312	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3406-g9d24d590b started. Node id is set to 16.
+1347273	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3378-g591de4579 started. Node id is set to 20.
+1347579	ID:14	fe80::c30c:0:0:e
+1349448	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+1351591	ID:15	Starting 'UDP client process'
+1351898	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1352722	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1352858	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1355018	ID:15	UDP client process started nbr:20 routes:0
+1358346	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+1359916	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1360031	ID:15	fe80::c30c:0:0:f
+1360876	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1362059	ID:16	Starting 'UDP client process'
+1363946	ID:20	Starting 'Malicious sensor client process'
+1365174	ID:15	Created a connection with the server :: local/remote port 8765/5678
+1365486	ID:16	UDP client process started nbr:20 routes:0
+1368926	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1370722	ID:16	fe80::c30c:0:0:10
+1375865	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1421274	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1429807	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3406-g9d24d590b started. Node id is set to 10.
+1435404	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1443379	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1445522	ID:10	Starting 'UDP client process'
+1448949	ID:10	UDP client process started nbr:20 routes:0
+1452277	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+1453962	ID:10	fe80::c30c:0:0:a
+1459105	ID:10	Created a connection with the server :: local/remote port 8765/5678
+1459129	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1467662	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3406-g9d24d590b started. Node id is set to 12.
+1473259	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1481234	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1483377	ID:12	Starting 'UDP client process'
+1486804	ID:12	UDP client process started nbr:20 routes:0
+1490132	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1491817	ID:12	fe80::c30c:0:0:c
+1496960	ID:12	Created a connection with the server :: local/remote port 8765/5678
+1573158	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1579792	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1581566	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3406-g9d24d590b started. Node id is set to 9.
+1585275	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1587187	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1588200	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3406-g9d24d590b started. Node id is set to 5.
+1593821	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1593851	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3378-g591de4579 started. Node id is set to 19.
+1595162	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1597305	ID:9	Starting 'UDP client process'
+1599436	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1600732	ID:9	UDP client process started nbr:20 routes:0
+1601796	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1603939	ID:5	Starting 'UDP client process'
+1604059	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1605743	ID:9	fe80::c30c:0:0:9
+1607366	ID:5	UDP client process started nbr:20 routes:0
+1607454	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1610524	ID:19	Starting 'Malicious sensor client process'
+1610693	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1610886	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1612377	ID:5	fe80::c30c:0:0:5
+1617520	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1673843	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1682419	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3406-g9d24d590b started. Node id is set to 17.
+1688005	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1696023	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1698166	ID:17	Starting 'UDP client process'
+1701593	ID:17	UDP client process started nbr:20 routes:0
+1705033	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1706829	ID:17	fe80::c30c:0:0:11
+1711972	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1748666	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1757199	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3406-g9d24d590b started. Node id is set to 13.
+1762796	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1764021	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1770771	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1772429	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3406-g9d24d590b started. Node id is set to 3.
+1772887	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1772914	ID:13	Starting 'UDP client process'
+1776341	ID:13	UDP client process started nbr:20 routes:0
+1778050	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1779669	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1781354	ID:13	fe80::c30c:0:0:d
+1781463	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3378-g591de4579 started. Node id is set to 21.
+1786025	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1786497	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1787048	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1788168	ID:3	Starting 'UDP client process'
+1791595	ID:3	UDP client process started nbr:20 routes:0
+1794922	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+1795066	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1796606	ID:3	fe80::c30c:0:0:3
+1798136	ID:21	Starting 'Malicious sensor client process'
+1801749	ID:3	Created a connection with the server :: local/remote port 8765/5678

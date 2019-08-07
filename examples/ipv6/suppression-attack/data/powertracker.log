@@ -27,21 +27,21 @@ Z1_5 ON 0 us NaN %
 Z1_5 TX 0 us NaN %
 Z1_5 RX 0 us NaN %
 Z1_5 INT 0 us NaN %
-Z1_6 MONITORED 925617 us
-Z1_6 ON 0 us 0.00 %
-Z1_6 TX 0 us 0.00 %
-Z1_6 RX 0 us 0.00 %
-Z1_6 INT 0 us 0.00 %
+Z1_6 MONITORED 0 us
+Z1_6 ON 0 us NaN %
+Z1_6 TX 0 us NaN %
+Z1_6 RX 0 us NaN %
+Z1_6 INT 0 us NaN %
 Z1_7 MONITORED 0 us
 Z1_7 ON 0 us NaN %
 Z1_7 TX 0 us NaN %
 Z1_7 RX 0 us NaN %
 Z1_7 INT 0 us NaN %
-Z1_8 MONITORED 0 us
-Z1_8 ON 0 us NaN %
-Z1_8 TX 0 us NaN %
-Z1_8 RX 0 us NaN %
-Z1_8 INT 0 us NaN %
+Z1_8 MONITORED 939023 us
+Z1_8 ON 0 us 0.00 %
+Z1_8 TX 0 us 0.00 %
+Z1_8 RX 0 us 0.00 %
+Z1_8 INT 0 us 0.00 %
 Z1_9 MONITORED 0 us
 Z1_9 ON 0 us NaN %
 Z1_9 TX 0 us NaN %
