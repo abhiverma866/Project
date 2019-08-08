@@ -1,0 +1,34 @@
+Generated Packets 4 | ReceivedPackets 1
+TL = 4558083 |  AE2ED = 4.558083 |  PDR = 0.25
+Generated Packets 5 | ReceivedPackets 2
+TL = 4595081 |  AE2ED = 2.2975405 |  PDR = 0.4
+Generated Packets 11 | ReceivedPackets 3
+TL = 16333305 |  AE2ED = 5.444435 |  PDR = 0.2727272727272727
+Generated Packets 13 | ReceivedPackets 4
+TL = 17320620 |  AE2ED = 4.330155 |  PDR = 0.3076923076923077
+Generated Packets 22 | ReceivedPackets 5
+TL = 19333774 |  AE2ED = 3.8667548 |  PDR = 0.22727272727272727
+Generated Packets 25 | ReceivedPackets 6
+TL = 21480805 |  AE2ED = 3.5801341666666664 |  PDR = 0.24
+Generated Packets 28 | ReceivedPackets 7
+TL = 21500456 |  AE2ED = 3.071493714285714 |  PDR = 0.25
+Generated Packets 64 | ReceivedPackets 8
+TL = 22202940 |  AE2ED = 2.7753675 |  PDR = 0.125
+Generated Packets 140 | ReceivedPackets 9
+TL = 22256079 |  AE2ED = 2.4728976666666664 |  PDR = 0.06428571428571428
+Generated Packets 187 | ReceivedPackets 10
+TL = 22279489 |  AE2ED = 2.2279489 |  PDR = 0.053475935828877004
+Generated Packets 216 | ReceivedPackets 11
+TL = 22303336 |  AE2ED = 2.027576 |  PDR = 0.05092592592592592
+Generated Packets 250 | ReceivedPackets 12
+TL = 22494736 |  AE2ED = 1.8745613333333333 |  PDR = 0.048
+Generated Packets 259 | ReceivedPackets 13
+TL = 22515952 |  AE2ED = 1.7319963076923077 |  PDR = 0.05019305019305019
+Generated Packets 304 | ReceivedPackets 14
+TL = 22536117 |  AE2ED = 1.609722642857143 |  PDR = 0.046052631578947366
+Generated Packets 316 | ReceivedPackets 15
+TL = 25677730 |  AE2ED = 1.7118486666666668 |  PDR = 0.04746835443037975
+Script timed out
+Performance Calculation
+Generated Packets 464 | ReceivedPackets 15
+TL = 25677730 |  AE2ED = 1.7118486666666668 |  PDR = 0.032327586206896554

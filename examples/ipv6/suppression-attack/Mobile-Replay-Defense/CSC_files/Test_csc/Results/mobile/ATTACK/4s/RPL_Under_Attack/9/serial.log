@@ -1,0 +1,4069 @@
+946791	ID:4	Rime started with address 193.12.0.0.0.0.0.4
+955199	ID:4	MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3406-g9d24d590b started. Node id is set to 4.
+960820	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+968795	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+970938	ID:4	Starting 'UDP client process'
+974365	ID:4	UDP client process started nbr:20 routes:0
+977692	ID:4	Client IPv6 addresses: fd00::c30c:0:0:4
+979376	ID:4	fe80::c30c:0:0:4
+984519	ID:4	Created a connection with the server :: local/remote port 8765/5678
+988852	ID:14	Rime started with address 193.12.0.0.0.0.0.14
+997385	ID:14	MAC c1:0c:00:00:00:00:00:0e Contiki-3.x-3406-g9d24d590b started. Node id is set to 14.
+1002982	ID:14	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1004180	ID:9	Rime started with address 193.12.0.0.0.0.0.9
+1010957	ID:14	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000e
+1012588	ID:9	MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3406-g9d24d590b started. Node id is set to 9.
+1013100	ID:14	Starting 'UDP client process'
+1016527	ID:14	UDP client process started nbr:20 routes:0
+1018209	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1019855	ID:14	Client IPv6 addresses: fd00::c30c:0:0:e
+1021540	ID:14	fe80::c30c:0:0:e
+1026184	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1026683	ID:14	Created a connection with the server :: local/remote port 8765/5678
+1028327	ID:9	Starting 'UDP client process'
+1031754	ID:9	UDP client process started nbr:20 routes:0
+1031935	ID:18	Rime started with address 193.12.0.0.0.0.0.18
+1035081	ID:9	Client IPv6 addresses: fd00::c30c:0:0:9
+1036765	ID:9	fe80::c30c:0:0:9
+1040511	ID:18	MAC c1:0c:00:00:00:00:00:12 Contiki-3.x-3378-g591de4579 started. Node id is set to 18.
+1041908	ID:9	Created a connection with the server :: local/remote port 8765/5678
+1046096	ID:18	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1054114	ID:18	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0012
+1057184	ID:18	Starting 'Malicious sensor client process'
+1130883	ID:17	Rime started with address 193.12.0.0.0.0.0.17
+1139459	ID:17	MAC c1:0c:00:00:00:00:00:11 Contiki-3.x-3406-g9d24d590b started. Node id is set to 17.
+1145045	ID:17	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1153063	ID:17	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0011
+1153259	ID:16	Rime started with address 193.12.0.0.0.0.0.16
+1154752	ID:13	Rime started with address 193.12.0.0.0.0.0.13
+1155206	ID:17	Starting 'UDP client process'
+1158633	ID:17	UDP client process started nbr:20 routes:0
+1161835	ID:16	MAC c1:0c:00:00:00:00:00:10 Contiki-3.x-3406-g9d24d590b started. Node id is set to 16.
+1162073	ID:17	Client IPv6 addresses: fd00::c30c:0:0:11
+1163285	ID:13	MAC c1:0c:00:00:00:00:00:0d Contiki-3.x-3406-g9d24d590b started. Node id is set to 13.
+1163869	ID:17	fe80::c30c:0:0:11
+1167421	ID:16	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1168882	ID:13	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1169012	ID:17	Created a connection with the server :: local/remote port 8765/5678
+1172827	ID:6	Rime started with address 193.12.0.0.0.0.0.6
+1175424	ID:7	Rime started with address 193.12.0.0.0.0.0.7
+1175439	ID:16	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0010
+1176857	ID:13	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000d
+1177582	ID:16	Starting 'UDP client process'
+1179000	ID:13	Starting 'UDP client process'
+1181009	ID:16	UDP client process started nbr:20 routes:0
+1181235	ID:6	MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3406-g9d24d590b started. Node id is set to 6.
+1182427	ID:13	UDP client process started nbr:20 routes:0
+1183832	ID:7	MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3406-g9d24d590b started. Node id is set to 7.
+1184449	ID:16	Client IPv6 addresses: fd00::c30c:0:0:10
+1185755	ID:13	Client IPv6 addresses: fd00::c30c:0:0:d
+1186245	ID:16	fe80::c30c:0:0:10
+1186856	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1187440	ID:13	fe80::c30c:0:0:d
+1189453	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1191388	ID:16	Created a connection with the server :: local/remote port 8765/5678
+1192583	ID:13	Created a connection with the server :: local/remote port 8765/5678
+1194831	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1196974	ID:6	Starting 'UDP client process'
+1197428	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1199571	ID:7	Starting 'UDP client process'
+1200401	ID:6	UDP client process started nbr:20 routes:0
+1202998	ID:7	UDP client process started nbr:20 routes:0
+1203728	ID:6	Client IPv6 addresses: fd00::c30c:0:0:6
+1205412	ID:6	fe80::c30c:0:0:6
+1206325	ID:7	Client IPv6 addresses: fd00::c30c:0:0:7
+1208009	ID:7	fe80::c30c:0:0:7
+1210555	ID:6	Created a connection with the server :: local/remote port 8765/5678
+1213152	ID:7	Created a connection with the server :: local/remote port 8765/5678
+1232794	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+1241202	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3406-g9d24d590b started. Node id is set to 1.
+1246823	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1254797	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1256940	ID:1	Starting 'UDP server process'
+1259688	ID:1	UDP server started. nbr:20 routes:0
+1262436	ID:1	created a new RPL dag
+1263489	ID:2	Rime started with address 193.12.0.0.0.0.0.2
+1265760	ID:1	Server IPv6 addresses: fd00::c30c:0:0:1
+1267386	ID:1	fd00::ff:fe00:1
+1269081	ID:1	fe80::c30c:0:0:1
+1271897	ID:2	MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3406-g9d24d590b started. Node id is set to 2.
+1275029	ID:1	Created a server connection with remote address :: local/remote port 5678/8765
+1277518	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1285493	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1287636	ID:2	Starting 'UDP client process'
+1291063	ID:2	UDP client process started nbr:20 routes:0
+1294390	ID:2	Client IPv6 addresses: fd00::c30c:0:0:2
+1296074	ID:2	fe80::c30c:0:0:2
+1301217	ID:2	Created a connection with the server :: local/remote port 8765/5678
+1310524	ID:8	Rime started with address 193.12.0.0.0.0.0.8
+1318932	ID:8	MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3406-g9d24d590b started. Node id is set to 8.
+1324553	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1332528	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+1333029	ID:5	Rime started with address 193.12.0.0.0.0.0.5
+1334671	ID:8	Starting 'UDP client process'
+1335471	ID:21	Rime started with address 193.12.0.0.0.0.0.21
+1338098	ID:8	UDP client process started nbr:20 routes:0
+1341425	ID:8	Client IPv6 addresses: fd00::c30c:0:0:8
+1341437	ID:5	MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3406-g9d24d590b started. Node id is set to 5.
+1343109	ID:8	fe80::c30c:0:0:8
+1344047	ID:21	MAC c1:0c:00:00:00:00:00:15 Contiki-3.x-3378-g591de4579 started. Node id is set to 21.
+1347058	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1348252	ID:8	Created a connection with the server :: local/remote port 8765/5678
+1349632	ID:21	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1350145	ID:19	Rime started with address 193.12.0.0.0.0.0.19
+1355033	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1357176	ID:5	Starting 'UDP client process'
+1357650	ID:21	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0015
+1358721	ID:19	MAC c1:0c:00:00:00:00:00:13 Contiki-3.x-3378-g591de4579 started. Node id is set to 19.
+1360603	ID:5	UDP client process started nbr:20 routes:0
+1360720	ID:21	Starting 'Malicious sensor client process'
+1363930	ID:5	Client IPv6 addresses: fd00::c30c:0:0:5
+1364306	ID:19	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1365614	ID:5	fe80::c30c:0:0:5
+1370757	ID:5	Created a connection with the server :: local/remote port 8765/5678
+1372324	ID:19	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0013
+1375394	ID:19	Starting 'Malicious sensor client process'
+1413706	ID:11	Rime started with address 193.12.0.0.0.0.0.11
+1422239	ID:11	MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3406-g9d24d590b started. Node id is set to 11.
+1427836	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1435811	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1437954	ID:11	Starting 'UDP client process'
+1441381	ID:11	UDP client process started nbr:20 routes:0
+1444709	ID:11	Client IPv6 addresses: fd00::c30c:0:0:b
+1446394	ID:11	fe80::c30c:0:0:b
+1451537	ID:11	Created a connection with the server :: local/remote port 8765/5678
+1602802	ID:3	Rime started with address 193.12.0.0.0.0.0.3
+1603093	ID:10	Rime started with address 193.12.0.0.0.0.0.10
+1611210	ID:3	MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3406-g9d24d590b started. Node id is set to 3.
+1611338	ID:15	Rime started with address 193.12.0.0.0.0.0.15
+1611626	ID:10	MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3406-g9d24d590b started. Node id is set to 10.
+1616831	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1617223	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1619871	ID:15	MAC c1:0c:00:00:00:00:00:0f Contiki-3.x-3406-g9d24d590b started. Node id is set to 15.
+1624806	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1625198	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1625468	ID:15	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1626949	ID:3	Starting 'UDP client process'
+1627341	ID:10	Starting 'UDP client process'
+1630376	ID:3	UDP client process started nbr:20 routes:0
+1630768	ID:10	UDP client process started nbr:20 routes:0
+1633443	ID:15	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000f
+1633703	ID:3	Client IPv6 addresses: fd00::c30c:0:0:3
+1634096	ID:10	Client IPv6 addresses: fd00::c30c:0:0:a
+1635387	ID:3	fe80::c30c:0:0:3
+1635586	ID:15	Starting 'UDP client process'
+1635781	ID:10	fe80::c30c:0:0:a
+1639013	ID:15	UDP client process started nbr:20 routes:0
+1640530	ID:3	Created a connection with the server :: local/remote port 8765/5678
+1640924	ID:10	Created a connection with the server :: local/remote port 8765/5678
+1642341	ID:15	Client IPv6 addresses: fd00::c30c:0:0:f
+1644026	ID:15	fe80::c30c:0:0:f
+1649169	ID:15	Created a connection with the server :: local/remote port 8765/5678
+1650644	ID:20	Rime started with address 193.12.0.0.0.0.0.20
+1659220	ID:20	MAC c1:0c:00:00:00:00:00:14 Contiki-3.x-3378-g591de4579 started. Node id is set to 20.
+1664805	ID:20	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1672823	ID:20	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0014
+1675893	ID:20	Starting 'Malicious sensor client process'
+1816862	ID:12	Rime started with address 193.12.0.0.0.0.0.12
+1825395	ID:12	MAC c1:0c:00:00:00:00:00:0c Contiki-3.x-3406-g9d24d590b started. Node id is set to 12.
+1830992	ID:12	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1838967	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000c
+1841110	ID:12	Starting 'UDP client process'
+1844537	ID:12	UDP client process started nbr:20 routes:0
+1847865	ID:12	Client IPv6 addresses: fd00::c30c:0:0:c
+1849550	ID:12	fe80::c30c:0:0:c
+1854693	ID:12	Created a connection with the server :: local/remote port 8765/5678
+68107497	ID:13	Sending DATA to 1 'Hello 1' with NodeID= 13
+69170914	ID:11	Sending DATA to 1 'Hello 1' with NodeID= 11
+71173234	ID:15	Sending DATA to 1 'Hello 1' with NodeID= 15
+76139513	ID:5	Sending DATA to 1 'Hello 1' with NodeID= 5
+78938168	ID:3	Sending DATA to 1 'Hello 1' with NodeID= 3
+79691265	ID:12	Sending DATA to 1 'Hello 1' with NodeID= 12
+85255279	ID:17	Sending DATA to 1 'Hello 1' with NodeID= 17
+85836315	ID:6	Sending DATA to 1 'Hello 1' with NodeID= 6
+87628820	ID:8	Sending DATA to 1 'Hello 1' with NodeID= 8
+88097352	ID:9	Sending DATA to 1 'Hello 1' with NodeID= 9
+90253496	ID:18	Malicious UDP client process started nbr:30 routes:0
+90258182	ID:18	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:12
+90259978	ID:18	fe80::c30c:0:0:12
+90265136	ID:18	Created a connection with the server :: local/remote port 8765/5678
+90556945	ID:21	Malicious UDP client process started nbr:30 routes:0
+90561593	ID:21	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:15
+90563390	ID:21	fe80::c30c:0:0:15
+90568532	ID:21	Created a connection with the server :: local/remote port 8765/5678
+90569743	ID:19	Malicious UDP client process started nbr:30 routes:0
+90574430	ID:19	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:13
+90576227	ID:19	fe80::c30c:0:0:13
+90581408	ID:19	Created a connection with the server :: local/remote port 8765/5678
+90870164	ID:20	Malicious UDP client process started nbr:30 routes:0
+90874851	ID:20	Malicious sensor client IPv6 addresses: fd00::c30c:0:0:14
+90876647	ID:20	fe80::c30c:0:0:14
+90881828	ID:20	Created a connection with the server :: local/remote port 8765/5678
+92993880	ID:19	First DIO recieved 
+93027988	ID:19	ticks value 512
+93791930	ID:20	First DIO recieved 
+93800556	ID:18	First DIO recieved 
+93826057	ID:20	ticks value 512
+93835033	ID:18	ticks value 512
+93856997	ID:21	First DIO recieved 
+93891734	ID:21	ticks value 512
+96735308	ID:10	Sending DATA to 1 'Hello 1' with NodeID= 10
+97034953	ID:19	Replaying DIO with fixed interval 
+97037618	ID:19	ticks value 512
+97809814	ID:2	Sending DATA to 1 'Hello 1' with NodeID= 2
+97827640	ID:20	Replaying DIO with fixed interval 
+97830306	ID:20	ticks value 512
+97841766	ID:18	Replaying DIO with fixed interval 
+97844461	ID:18	ticks value 512
+97895280	ID:21	Replaying DIO with fixed interval 
+97897945	ID:21	ticks value 512
+99113599	ID:16	Sending DATA to 1 'Hello 1' with NodeID= 16
+101042765	ID:19	Replaying DIO with fixed interval 
+101045430	ID:19	ticks value 512
+101835451	ID:20	Replaying DIO with fixed interval 
+101838117	ID:20	ticks value 512
+101849555	ID:18	Replaying DIO with fixed interval 
+101852220	ID:18	ticks value 512
+101903091	ID:21	Replaying DIO with fixed interval 
+101905756	ID:21	ticks value 512
+105050582	ID:19	Replaying DIO with fixed interval 
+105053280	ID:19	ticks value 512
+105843264	ID:20	Replaying DIO with fixed interval 
+105845929	ID:20	ticks value 512
+105857372	ID:18	Replaying DIO with fixed interval 
+105860070	ID:18	ticks value 512
+105910903	ID:21	Replaying DIO with fixed interval 
+105913569	ID:21	ticks value 512
+109058390	ID:19	Replaying DIO with fixed interval 
+109061055	ID:19	ticks value 512
+109237350	ID:7	Sending DATA to 1 'Hello 1' with NodeID= 7
+109851081	ID:20	Replaying DIO with fixed interval 
+109853779	ID:20	ticks value 512
+109865180	ID:18	Replaying DIO with fixed interval 
+109867845	ID:18	ticks value 512
+109918885	ID:21	Replaying DIO with fixed interval 
+109921550	ID:21	ticks value 512
+113066202	ID:19	Replaying DIO with fixed interval 
+113068867	ID:19	ticks value 512
+113214835	ID:14	Sending DATA to 1 'Hello 1' with NodeID= 14
+113858889	ID:20	Replaying DIO with fixed interval 
+113861554	ID:20	ticks value 512
+113872992	ID:18	Replaying DIO with fixed interval 
+113875658	ID:18	ticks value 512
+113926528	ID:21	Replaying DIO with fixed interval 
+113929194	ID:21	ticks value 512
+117074015	ID:19	Replaying DIO with fixed interval 
+117076680	ID:19	ticks value 512
+117664947	ID:4	Sending DATA to 1 'Hello 1' with NodeID= 4
+117866735	ID:20	Replaying DIO with fixed interval 
+117869273	ID:20	ticks value 512
+117880805	ID:18	Replaying DIO with fixed interval 
+117883470	ID:18	ticks value 512
+117934344	ID:21	Replaying DIO with fixed interval 
+117936881	ID:21	ticks value 512
+121081832	ID:19	Replaying DIO with fixed interval 
+121084530	ID:19	ticks value 512
+121874529	ID:20	Replaying DIO with fixed interval 
+121877194	ID:20	ticks value 512
+121888622	ID:18	Replaying DIO with fixed interval 
+121891320	ID:18	ticks value 512
+121942156	ID:21	Replaying DIO with fixed interval 
+121944687	ID:21	ticks value 512
+122164400	ID:6	Sending DATA to 1 'Hello 2' with NodeID= 6
+124423011	ID:9	Sending DATA to 1 'Hello 2' with NodeID= 9
+125089640	ID:19	Replaying DIO with fixed interval 
+125092305	ID:19	ticks value 512
+125882331	ID:20	Replaying DIO with fixed interval 
+125885029	ID:20	ticks value 512
+125896430	ID:18	Replaying DIO with fixed interval 
+125899095	ID:18	ticks value 512
+125951707	ID:21	Replaying DIO with fixed interval 
+125954245	ID:21	ticks value 512
+126219492	ID:17	Sending DATA to 1 'Hello 2' with NodeID= 17
+128269968	ID:13	Sending DATA to 1 'Hello 2' with NodeID= 13
+129097452	ID:19	Replaying DIO with fixed interval 
+129100117	ID:19	ticks value 512
+129513041	ID:8	Sending DATA to 1 'Hello 2' with NodeID= 8
+129890142	ID:20	Replaying DIO with fixed interval 
+129892679	ID:20	ticks value 512
+129904245	ID:18	Replaying DIO with fixed interval 
+129906783	ID:18	ticks value 512
+129957778	ID:21	Replaying DIO with fixed interval 
+129960444	ID:21	ticks value 512
+133105265	ID:19	Replaying DIO with fixed interval 
+133107930	ID:19	ticks value 512
+133897954	ID:20	Replaying DIO with fixed interval 
+133900485	ID:20	ticks value 512
+133912058	ID:18	Replaying DIO with fixed interval 
+133914605	ID:18	ticks value 512
+133965591	ID:21	Replaying DIO with fixed interval 
+133968256	ID:21	ticks value 512
+137113934	ID:19	Replaying DIO with fixed interval 
+137116631	ID:19	ticks value 512
+137905767	ID:20	Replaying DIO with fixed interval 
+137908314	ID:20	ticks value 512
+137921002	ID:18	Replaying DIO with fixed interval 
+137924084	ID:18	ticks value 512
+137974465	ID:21	Replaying DIO with fixed interval 
+137977477	ID:21	ticks value 512
+141121267	ID:19	Replaying DIO with fixed interval 
+141123932	ID:19	ticks value 512
+141914782	ID:20	Replaying DIO with fixed interval 
+141917721	ID:20	ticks value 512
+141928059	ID:18	Replaying DIO with fixed interval 
+141930724	ID:18	ticks value 512
+141981783	ID:21	Replaying DIO with fixed interval 
+141987752	ID:21	ticks value 512
+142399319	ID:4	Sending DATA to 1 'Hello 2' with NodeID= 4
+142668592	ID:16	Sending DATA to 1 'Hello 2' with NodeID= 16
+144527763	ID:5	Sending DATA to 1 'Hello 2' with NodeID= 5
+145128702	ID:19	Replaying DIO with fixed interval 
+145131367	ID:19	ticks value 512
+145921767	ID:20	Replaying DIO with fixed interval 
+145924307	ID:20	ticks value 512
+145935495	ID:18	Replaying DIO with fixed interval 
+145938033	ID:18	ticks value 512
+145996844	ID:21	Replaying DIO with fixed interval 
+145999381	ID:21	ticks value 512
+146519408	ID:12	Sending DATA to 1 'Hello 2' with NodeID= 12
+149136515	ID:19	Replaying DIO with fixed interval 
+149139180	ID:19	ticks value 512
+149929204	ID:20	Replaying DIO with fixed interval 
+149931751	ID:20	ticks value 512
+149943308	ID:18	Replaying DIO with fixed interval 
+149945855	ID:18	ticks value 512
+150004656	ID:21	Replaying DIO with fixed interval 
+150007203	ID:21	ticks value 512
+151368572	ID:10	Sending DATA to 1 'Hello 2' with NodeID= 10
+153144333	ID:19	Replaying DIO with fixed interval 
+153147004	ID:19	ticks value 512
+153937014	ID:20	Replaying DIO with fixed interval 
+153939555	ID:20	ticks value 512
+153951123	ID:18	Replaying DIO with fixed interval 
+153953696	ID:18	ticks value 512
+154012466	ID:21	Replaying DIO with fixed interval 
+154014980	ID:21	ticks value 512
+156040428	ID:15	Sending DATA to 1 'Hello 2' with NodeID= 15
+157152140	ID:19	Replaying DIO with fixed interval 
+157154661	ID:19	ticks value 512
+157958930	ID:18	Replaying DIO with fixed interval 
+157961572	ID:18	ticks value 512
+158020278	ID:21	Replaying DIO with fixed interval 
+158022920	ID:21	ticks value 512
+158081942	ID:20	Replaying DIO with fixed interval 
+158222214	ID:20	ticks value 512
+160966017	ID:2	Sending DATA to 1 'Hello 2' with NodeID= 2
+161159953	ID:19	Replaying DIO with fixed interval 
+161162595	ID:19	ticks value 512
+161966743	ID:18	Replaying DIO with fixed interval 
+161969264	ID:18	ticks value 512
+161984783	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 17 at NodeID= 1
+162028091	ID:21	Replaying DIO with fixed interval 
+162030732	ID:21	ticks value 512
+162139667	ID:11	Sending DATA to 1 'Hello 2' with NodeID= 11
+162226076	ID:20	Replaying DIO with fixed interval 
+162228718	ID:20	ticks value 512
+165167765	ID:19	Replaying DIO with fixed interval 
+165170407	ID:19	ticks value 512
+165974555	ID:18	Replaying DIO with fixed interval 
+165977196	ID:18	ticks value 512
+166035903	ID:21	Replaying DIO with fixed interval 
+166038545	ID:21	ticks value 512
+166233889	ID:20	Replaying DIO with fixed interval 
+166236531	ID:20	ticks value 512
+168644507	ID:14	Sending DATA to 1 'Hello 2' with NodeID= 14
+169175583	ID:19	Replaying DIO with fixed interval 
+169178254	ID:19	ticks value 512
+169982372	ID:18	Replaying DIO with fixed interval 
+169985043	ID:18	ticks value 512
+170043716	ID:21	Replaying DIO with fixed interval 
+170046237	ID:21	ticks value 512
+170241701	ID:20	Replaying DIO with fixed interval 
+170244343	ID:20	ticks value 512
+172039699	ID:3	Sending DATA to 1 'Hello 2' with NodeID= 3
+173183390	ID:19	Replaying DIO with fixed interval 
+173186032	ID:19	ticks value 512
+173990180	ID:18	Replaying DIO with fixed interval 
+173992822	ID:18	ticks value 512
+174051528	ID:21	Replaying DIO with fixed interval 
+174054170	ID:21	ticks value 512
+174249514	ID:20	Replaying DIO with fixed interval 
+174252035	ID:20	ticks value 512
+176237321	ID:7	Sending DATA to 1 'Hello 2' with NodeID= 7
+177191203	ID:19	Replaying DIO with fixed interval 
+177193844	ID:19	ticks value 512
+177561925	ID:1	Received DATA recv 'Hello 2 from the client abhive' from 3 at NodeID= 1
+177997992	ID:18	Replaying DIO with fixed interval 
+178000634	ID:18	ticks value 512
+178059341	ID:21	Replaying DIO with fixed interval 
+178061983	ID:21	ticks value 512
+178257327	ID:20	Replaying DIO with fixed interval 
+178259858	ID:20	ticks value 512
+181199015	ID:19	Replaying DIO with fixed interval 
+181201657	ID:19	ticks value 512
+182005805	ID:18	Replaying DIO with fixed interval 
+182008326	ID:18	ticks value 512
+182067153	ID:21	Replaying DIO with fixed interval 
+182069795	ID:21	ticks value 512
+182265139	ID:20	Replaying DIO with fixed interval 
+182267781	ID:20	ticks value 512
+184028686	ID:8	Sending DATA to 1 'Hello 3' with NodeID= 8
+185206833	ID:19	Replaying DIO with fixed interval 
+185209504	ID:19	ticks value 512
+186013622	ID:18	Replaying DIO with fixed interval 
+186016293	ID:18	ticks value 512
+186074966	ID:21	Replaying DIO with fixed interval 
+186077608	ID:21	ticks value 512
+186272951	ID:20	Replaying DIO with fixed interval 
+186275593	ID:20	ticks value 512
+189214640	ID:19	Replaying DIO with fixed interval 
+189217282	ID:19	ticks value 512
+189532121	ID:4	Sending DATA to 1 'Hello 3' with NodeID= 4
+190021430	ID:18	Replaying DIO with fixed interval 
+190024072	ID:18	ticks value 512
+190082778	ID:21	Replaying DIO with fixed interval 
+190085420	ID:21	ticks value 512
+190280764	ID:20	Replaying DIO with fixed interval 
+190283405	ID:20	ticks value 512
+193222453	ID:19	Replaying DIO with fixed interval 
+193225095	ID:19	ticks value 512
+193378753	ID:12	Sending DATA to 1 'Hello 3' with NodeID= 12
+194029242	ID:18	Replaying DIO with fixed interval 
+194031764	ID:18	ticks value 512
+194090591	ID:21	Replaying DIO with fixed interval 
+194093233	ID:21	ticks value 512
+194263120	ID:17	Sending DATA to 1 'Hello 3' with NodeID= 17
+194289263	ID:20	Replaying DIO with fixed interval 
+194292233	ID:20	ticks value 512
+195663102	ID:11	Sending DATA to 1 'Hello 3' with NodeID= 11
+197230265	ID:19	Replaying DIO with fixed interval 
+197232907	ID:19	ticks value 512
+198037055	ID:18	Replaying DIO with fixed interval 
+198039697	ID:18	ticks value 512
+198099090	ID:21	Replaying DIO with fixed interval 
+198101917	ID:21	ticks value 512
+198296389	ID:20	Replaying DIO with fixed interval 
+198299030	ID:20	ticks value 512
+201238765	ID:19	Replaying DIO with fixed interval 
+201241733	ID:19	ticks value 512
+202045723	ID:18	Replaying DIO with fixed interval 
+202048419	ID:18	ticks value 512
+202106216	ID:21	Replaying DIO with fixed interval 
+202108857	ID:21	ticks value 512
+202304201	ID:20	Replaying DIO with fixed interval 
+202306843	ID:20	ticks value 512
+205245890	ID:19	Replaying DIO with fixed interval 
+205248532	ID:19	ticks value 512
+206054706	ID:18	Replaying DIO with fixed interval 
+206057348	ID:18	ticks value 512
+206114028	ID:21	Replaying DIO with fixed interval 
+206116670	ID:21	ticks value 512
+206312014	ID:20	Replaying DIO with fixed interval 
+206314656	ID:20	ticks value 512
+206909829	ID:9	Sending DATA to 1 'Hello 3' with NodeID= 9
+209253703	ID:19	Replaying DIO with fixed interval 
+209256345	ID:19	ticks value 512
+210060493	ID:18	Replaying DIO with fixed interval 
+210063135	ID:18	ticks value 512
+210121841	ID:21	Replaying DIO with fixed interval 
+210124483	ID:21	ticks value 512
+210319826	ID:20	Replaying DIO with fixed interval 
+210322468	ID:20	ticks value 512
+212516554	ID:10	Sending DATA to 1 'Hello 3' with NodeID= 10
+213261515	ID:19	Replaying DIO with fixed interval 
+213264157	ID:19	ticks value 512
+214068305	ID:18	Replaying DIO with fixed interval 
+214070947	ID:18	ticks value 512
+214129653	ID:21	Replaying DIO with fixed interval 
+214132295	ID:21	ticks value 512
+214327639	ID:20	Replaying DIO with fixed interval 
+214330281	ID:20	ticks value 512
+217269333	ID:19	Replaying DIO with fixed interval 
+217272004	ID:19	ticks value 512
+218076123	ID:18	Replaying DIO with fixed interval 
+218078804	ID:18	ticks value 512
+218137466	ID:21	Replaying DIO with fixed interval 
+218140107	ID:21	ticks value 512
+218335451	ID:20	Replaying DIO with fixed interval 
+218338093	ID:20	ticks value 512
+221277140	ID:19	Replaying DIO with fixed interval 
+221279782	ID:19	ticks value 512
+222073265	ID:7	Sending DATA to 1 'Hello 3' with NodeID= 7
+222083930	ID:18	Replaying DIO with fixed interval 
+222086572	ID:18	ticks value 512
+222145278	ID:21	Replaying DIO with fixed interval 
+222147920	ID:21	ticks value 512
+222343264	ID:20	Replaying DIO with fixed interval 
+222345905	ID:20	ticks value 512
+223117539	ID:6	Sending DATA to 1 'Hello 3' with NodeID= 6
+225284953	ID:19	Replaying DIO with fixed interval 
+225287595	ID:19	ticks value 512
+226091743	ID:18	Replaying DIO with fixed interval 
+226094385	ID:18	ticks value 512
+226153091	ID:21	Replaying DIO with fixed interval 
+226155732	ID:21	ticks value 512
+226351076	ID:20	Replaying DIO with fixed interval 
+226353718	ID:20	ticks value 512
+228746407	ID:16	Sending DATA to 1 'Hello 3' with NodeID= 16
+229292765	ID:19	Replaying DIO with fixed interval 
+229295407	ID:19	ticks value 512
+230099555	ID:18	Replaying DIO with fixed interval 
+230102197	ID:18	ticks value 512
+230160903	ID:21	Replaying DIO with fixed interval 
+230163545	ID:21	ticks value 512
+230358889	ID:20	Replaying DIO with fixed interval 
+230361531	ID:20	ticks value 512
+231563866	ID:15	Sending DATA to 1 'Hello 3' with NodeID= 15
+231848852	ID:2	Sending DATA to 1 'Hello 3' with NodeID= 2
+233300583	ID:19	Replaying DIO with fixed interval 
+233303254	ID:19	ticks value 512
+234107373	ID:18	Replaying DIO with fixed interval 
+234110054	ID:18	ticks value 512
+234168716	ID:21	Replaying DIO with fixed interval 
+234171357	ID:21	ticks value 512
+234366701	ID:20	Replaying DIO with fixed interval 
+234369343	ID:20	ticks value 512
+234458842	ID:13	Sending DATA to 1 'Hello 3' with NodeID= 13
+235743142	ID:3	Sending DATA to 1 'Hello 3' with NodeID= 3
+235873705	ID:1	Received DATA recv 'Hello 3 from the client abhive' from 3 at NodeID= 1
+236074620	ID:5	Sending DATA to 1 'Hello 3' with NodeID= 5
+237308390	ID:19	Replaying DIO with fixed interval 
+237311032	ID:19	ticks value 512
+238115180	ID:18	Replaying DIO with fixed interval 
+238117822	ID:18	ticks value 512
+238176528	ID:21	Replaying DIO with fixed interval 
+238179170	ID:21	ticks value 512
+238374514	ID:20	Replaying DIO with fixed interval 
+238377156	ID:20	ticks value 512
+239127099	ID:14	Sending DATA to 1 'Hello 3' with NodeID= 14
+241316203	ID:19	Replaying DIO with fixed interval 
+241318844	ID:19	ticks value 512
+242122997	ID:18	Replaying DIO with fixed interval 
+242125570	ID:18	ticks value 512
+242184341	ID:21	Replaying DIO with fixed interval 
+242186862	ID:21	ticks value 512
+242382327	ID:20	Replaying DIO with fixed interval 
+242384848	ID:20	ticks value 512
+244110029	ID:3	Sending DATA to 1 'Hello 4' with NodeID= 3
+244267464	ID:7	Sending DATA to 1 'Hello 4' with NodeID= 7
+245324015	ID:19	Replaying DIO with fixed interval 
+245326657	ID:19	ticks value 512
+246130805	ID:18	Replaying DIO with fixed interval 
+246133336	ID:18	ticks value 512
+246180068	ID:6	Sending DATA to 1 'Hello 4' with NodeID= 6
+246192153	ID:21	Replaying DIO with fixed interval 
+246194795	ID:21	ticks value 512
+246390139	ID:20	Replaying DIO with fixed interval 
+246392670	ID:20	ticks value 512
+246578081	ID:1	Received DATA recv 'Hello 4 from the client abhive' from 3 at NodeID= 1
+249331833	ID:19	Replaying DIO with fixed interval 
+249334504	ID:19	ticks value 512
+250138623	ID:18	Replaying DIO with fixed interval 
+250141304	ID:18	ticks value 512
+250199966	ID:21	Replaying DIO with fixed interval 
+250202608	ID:21	ticks value 512
+250397951	ID:20	Replaying DIO with fixed interval 
+250400593	ID:20	ticks value 512
+253042980	ID:14	Sending DATA to 1 'Hello 4' with NodeID= 14
+253339640	ID:19	Replaying DIO with fixed interval 
+253342282	ID:19	ticks value 512
+254146430	ID:18	Replaying DIO with fixed interval 
+254149071	ID:18	ticks value 512
+254207778	ID:21	Replaying DIO with fixed interval 
+254210420	ID:21	ticks value 512
+254405764	ID:20	Replaying DIO with fixed interval 
+254408406	ID:20	ticks value 512
+257347453	ID:19	Replaying DIO with fixed interval 
+257349974	ID:19	ticks value 512
+257985353	ID:10	Sending DATA to 1 'Hello 4' with NodeID= 10
+258154242	ID:18	Replaying DIO with fixed interval 
+258156884	ID:18	ticks value 512
+258215591	ID:21	Replaying DIO with fixed interval 
+258218232	ID:21	ticks value 512
+258414263	ID:20	Replaying DIO with fixed interval 
+258417281	ID:20	ticks value 512
+261355265	ID:19	Replaying DIO with fixed interval 
+261357796	ID:19	ticks value 512
+262162055	ID:18	Replaying DIO with fixed interval 
+262164696	ID:18	ticks value 512
+262224091	ID:21	Replaying DIO with fixed interval 
+262226843	ID:21	ticks value 512
+262421828	ID:20	Replaying DIO with fixed interval 
+262424470	ID:20	ticks value 512
+264916411	ID:2	Sending DATA to 1 'Hello 4' with NodeID= 2
+265363934	ID:19	Replaying DIO with fixed interval 
+265366630	ID:19	ticks value 512
+266170555	ID:18	Replaying DIO with fixed interval 
+266173524	ID:18	ticks value 512
+266231594	ID:21	Replaying DIO with fixed interval 
+266234236	ID:21	ticks value 512
+266429201	ID:20	Replaying DIO with fixed interval 
+266431843	ID:20	ticks value 512
+269373940	ID:19	Replaying DIO with fixed interval 
+269376582	ID:19	ticks value 512
+270063404	ID:4	Sending DATA to 1 'Hello 4' with NodeID= 4
+270178058	ID:18	Replaying DIO with fixed interval 
+270180579	ID:18	ticks value 512
+270239028	ID:21	Replaying DIO with fixed interval 
+270241670	ID:21	ticks value 512
+270437014	ID:20	Replaying DIO with fixed interval 
+270439656	ID:20	ticks value 512
+273378702	ID:19	Replaying DIO with fixed interval 
+273381344	ID:19	ticks value 512
+274185492	ID:18	Replaying DIO with fixed interval 
+274188134	ID:18	ticks value 512
+274246841	ID:21	Replaying DIO with fixed interval 
+274249482	ID:21	ticks value 512
+274444826	ID:20	Replaying DIO with fixed interval 
+274447468	ID:20	ticks value 512
+275669393	ID:17	Sending DATA to 1 'Hello 4' with NodeID= 17
+276786992	ID:13	Sending DATA to 1 'Hello 4' with NodeID= 13
+277386515	ID:19	Replaying DIO with fixed interval 
+277389157	ID:19	ticks value 512
+278193305	ID:18	Replaying DIO with fixed interval 
+278195947	ID:18	ticks value 512
+278254653	ID:21	Replaying DIO with fixed interval 
+278257295	ID:21	ticks value 512
+278452639	ID:20	Replaying DIO with fixed interval 
+278455281	ID:20	ticks value 512
+281394332	ID:19	Replaying DIO with fixed interval 
+281397013	ID:19	ticks value 512
+282201122	ID:18	Replaying DIO with fixed interval 
+282203793	ID:18	ticks value 512
+282262466	ID:21	Replaying DIO with fixed interval 
+282264987	ID:21	ticks value 512
+282460451	ID:20	Replaying DIO with fixed interval 
+282463093	ID:20	ticks value 512
+282504571	ID:5	Sending DATA to 1 'Hello 4' with NodeID= 5
+285402140	ID:19	Replaying DIO with fixed interval 
+285404782	ID:19	ticks value 512
+286208930	ID:18	Replaying DIO with fixed interval 
+286211572	ID:18	ticks value 512
+286270278	ID:21	Replaying DIO with fixed interval 
+286272920	ID:21	ticks value 512
+286510704	ID:20	Replaying DIO with fixed interval 
+286513475	ID:20	ticks value 512
+288747428	ID:8	Sending DATA to 1 'Hello 4' with NodeID= 8
+288777662	ID:16	Sending DATA to 1 'Hello 4' with NodeID= 16
+289204491	ID:15	Sending DATA to 1 'Hello 4' with NodeID= 15
+289409952	ID:19	Replaying DIO with fixed interval 
+289412594	ID:19	ticks value 512
+289441084	ID:9	Sending DATA to 1 'Hello 4' with NodeID= 9
+290216742	ID:18	Replaying DIO with fixed interval 
+290219384	ID:18	ticks value 512
+290278091	ID:21	Replaying DIO with fixed interval 
+290280733	ID:21	ticks value 512
+290515281	ID:20	Replaying DIO with fixed interval 
+290517922	ID:20	ticks value 512
+290631915	ID:11	Sending DATA to 1 'Hello 4' with NodeID= 11
+293417765	ID:19	Replaying DIO with fixed interval 
+293420407	ID:19	ticks value 512
+294224555	ID:18	Replaying DIO with fixed interval 
+294227196	ID:18	ticks value 512
+294285903	ID:21	Replaying DIO with fixed interval 
+294288545	ID:21	ticks value 512
+294522951	ID:20	Replaying DIO with fixed interval 
+294525472	ID:20	ticks value 512
+297425582	ID:19	Replaying DIO with fixed interval 
+297428263	ID:19	ticks value 512
+297870952	ID:12	Sending DATA to 1 'Hello 4' with NodeID= 12
+298232372	ID:18	Replaying DIO with fixed interval 
+298234926	ID:18	ticks value 512
+298293716	ID:21	Replaying DIO with fixed interval 
+298296358	ID:21	ticks value 512
+298530764	ID:20	Replaying DIO with fixed interval 
+298533294	ID:20	ticks value 512
+301433390	ID:19	Replaying DIO with fixed interval 
+301436032	ID:19	ticks value 512
+302240180	ID:18	Replaying DIO with fixed interval 
+302242821	ID:18	ticks value 512
+302301528	ID:21	Replaying DIO with fixed interval 
+302304170	ID:21	ticks value 512
+302539263	ID:20	Replaying DIO with fixed interval 
+302542108	ID:20	ticks value 512
+305441203	ID:19	Replaying DIO with fixed interval 
+305443844	ID:19	ticks value 512
+306248026	ID:18	Replaying DIO with fixed interval 
+306250668	ID:18	ticks value 512
+306309341	ID:21	Replaying DIO with fixed interval 
+306311983	ID:21	ticks value 512
+306547042	ID:20	Replaying DIO with fixed interval 
+306549684	ID:20	ticks value 512
+309449015	ID:19	Replaying DIO with fixed interval 
+309451656	ID:19	ticks value 512
+310255807	ID:18	Replaying DIO with fixed interval 
+310258449	ID:18	ticks value 512
+310317153	ID:21	Replaying DIO with fixed interval 
+310319795	ID:21	ticks value 512
+310554201	ID:20	Replaying DIO with fixed interval 
+310556722	ID:20	ticks value 512
+313175900	ID:12	Sending DATA to 1 'Hello 5' with NodeID= 12
+313456832	ID:19	Replaying DIO with fixed interval 
+313459513	ID:19	ticks value 512
+313774799	ID:15	Sending DATA to 1 'Hello 5' with NodeID= 15
+314263622	ID:18	Replaying DIO with fixed interval 
+314266293	ID:18	ticks value 512
+314324966	ID:21	Replaying DIO with fixed interval 
+314327608	ID:21	ticks value 512
+314562014	ID:20	Replaying DIO with fixed interval 
+314564545	ID:20	ticks value 512
+315070968	ID:3	Sending DATA to 1 'Hello 5' with NodeID= 3
+317464640	ID:19	Replaying DIO with fixed interval 
+317467282	ID:19	ticks value 512
+318271430	ID:18	Replaying DIO with fixed interval 
+318274072	ID:18	ticks value 512
+318332778	ID:21	Replaying DIO with fixed interval 
+318335420	ID:21	ticks value 512
+318706809	ID:20	Replaying DIO with fixed interval 
+318849331	ID:20	ticks value 512
+321472453	ID:19	Replaying DIO with fixed interval 
+321475094	ID:19	ticks value 512
+322279242	ID:18	Replaying DIO with fixed interval 
+322281884	ID:18	ticks value 512
+322340591	ID:21	Replaying DIO with fixed interval 
+322343233	ID:21	ticks value 512
+322851081	ID:20	Replaying DIO with fixed interval 
+322853752	ID:20	ticks value 512
+325480265	ID:19	Replaying DIO with fixed interval 
+325482906	ID:19	ticks value 512
+326287055	ID:18	Replaying DIO with fixed interval 
+326289697	ID:18	ticks value 512
+326349090	ID:21	Replaying DIO with fixed interval 
+326352060	ID:21	ticks value 512
+326858889	ID:20	Replaying DIO with fixed interval 
+326861531	ID:20	ticks value 512
+329488934	ID:19	Replaying DIO with fixed interval 
+329491604	ID:19	ticks value 512
+330295723	ID:18	Replaying DIO with fixed interval 
+330298394	ID:18	ticks value 512
+330359266	ID:21	Replaying DIO with fixed interval 
+330361908	ID:21	ticks value 512
+330866735	ID:20	Replaying DIO with fixed interval 
+330869377	ID:20	ticks value 512
+333495890	ID:19	Replaying DIO with fixed interval 
+333498532	ID:19	ticks value 512
+333544303	ID:8	Sending DATA to 1 'Hello 5' with NodeID= 8
+334302680	ID:18	Replaying DIO with fixed interval 
+334305321	ID:18	ticks value 512
+334364029	ID:21	Replaying DIO with fixed interval 
+334366671	ID:21	ticks value 512
+334874516	ID:20	Replaying DIO with fixed interval 
+334877157	ID:20	ticks value 512
+335999552	ID:11	Sending DATA to 1 'Hello 5' with NodeID= 11
+336013322	ID:13	Sending DATA to 1 'Hello 5' with NodeID= 13
+337503703	ID:19	Replaying DIO with fixed interval 
+337506344	ID:19	ticks value 512
+338310492	ID:18	Replaying DIO with fixed interval 
+338313134	ID:18	ticks value 512
+338371841	ID:21	Replaying DIO with fixed interval 
+338374483	ID:21	ticks value 512
+338882331	ID:20	Replaying DIO with fixed interval 
+338885002	ID:20	ticks value 512
+339445691	ID:6	Sending DATA to 1 'Hello 5' with NodeID= 6
+340141510	ID:4	Sending DATA to 1 'Hello 5' with NodeID= 4
+341424818	ID:7	Sending DATA to 1 'Hello 5' with NodeID= 7
+341511515	ID:19	Replaying DIO with fixed interval 
+341514157	ID:19	ticks value 512
+342318305	ID:18	Replaying DIO with fixed interval 
+342320946	ID:18	ticks value 512
+342379654	ID:21	Replaying DIO with fixed interval 
+342382296	ID:21	ticks value 512
+342583632	ID:17	Sending DATA to 1 'Hello 5' with NodeID= 17
+342890139	ID:20	Replaying DIO with fixed interval 
+342892781	ID:20	ticks value 512
+344083227	ID:2	Sending DATA to 1 'Hello 5' with NodeID= 2
+345519333	ID:19	Replaying DIO with fixed interval 
+345522004	ID:19	ticks value 512
+346137142	ID:5	Sending DATA to 1 'Hello 5' with NodeID= 5
+346326122	ID:18	Replaying DIO with fixed interval 
+346328793	ID:18	ticks value 512
+346387466	ID:21	Replaying DIO with fixed interval 
+346390108	ID:21	ticks value 512
+346897951	ID:20	Replaying DIO with fixed interval 
+346900593	ID:20	ticks value 512
+349527140	ID:19	Replaying DIO with fixed interval 
+349529782	ID:19	ticks value 512
+350333930	ID:18	Replaying DIO with fixed interval 
+350336571	ID:18	ticks value 512
+350395278	ID:21	Replaying DIO with fixed interval 
+350397920	ID:21	ticks value 512
+350485311	ID:10	Sending DATA to 1 'Hello 5' with NodeID= 10
+350905764	ID:20	Replaying DIO with fixed interval 
+350908405	ID:20	ticks value 512
+353158291	ID:14	Sending DATA to 1 'Hello 5' with NodeID= 14
+353534953	ID:19	Replaying DIO with fixed interval 
+353537594	ID:19	ticks value 512
+354341742	ID:18	Replaying DIO with fixed interval 
+354344384	ID:18	ticks value 512
+354403091	ID:21	Replaying DIO with fixed interval 
+354405733	ID:21	ticks value 512
+354914264	ID:20	Replaying DIO with fixed interval 
+354917274	ID:20	ticks value 512
+356980787	ID:16	Sending DATA to 1 'Hello 5' with NodeID= 16
+357542765	ID:19	Replaying DIO with fixed interval 
+357545406	ID:19	ticks value 512
+358349555	ID:18	Replaying DIO with fixed interval 
+358352197	ID:18	ticks value 512
+358410903	ID:21	Replaying DIO with fixed interval 
+358413545	ID:21	ticks value 512
+358921389	ID:20	Replaying DIO with fixed interval 
+358924031	ID:20	ticks value 512
+360253584	ID:9	Sending DATA to 1 'Hello 5' with NodeID= 9
+361550582	ID:19	Replaying DIO with fixed interval 
+361553253	ID:19	ticks value 512
+362357372	ID:18	Replaying DIO with fixed interval 
+362360043	ID:18	ticks value 512
+362418716	ID:21	Replaying DIO with fixed interval 
+362421357	ID:21	ticks value 512
+362929201	ID:20	Replaying DIO with fixed interval 
+362931843	ID:20	ticks value 512
+365558390	ID:19	Replaying DIO with fixed interval 
+365561031	ID:19	ticks value 512
+366365180	ID:18	Replaying DIO with fixed interval 
+366367822	ID:18	ticks value 512
+366426528	ID:21	Replaying DIO with fixed interval 
+366429170	ID:21	ticks value 512
+366937014	ID:20	Replaying DIO with fixed interval 
+366939656	ID:20	ticks value 512
+369566236	ID:19	Replaying DIO with fixed interval 
+369568878	ID:19	ticks value 512
+370372992	ID:18	Replaying DIO with fixed interval 
+370375634	ID:18	ticks value 512
+370434341	ID:21	Replaying DIO with fixed interval 
+370436983	ID:21	ticks value 512
+370944831	ID:20	Replaying DIO with fixed interval 
+370947502	ID:20	ticks value 512
+373574016	ID:19	Replaying DIO with fixed interval 
+373576657	ID:19	ticks value 512
+374380805	ID:18	Replaying DIO with fixed interval 
+374383446	ID:18	ticks value 512
+374442153	ID:21	Replaying DIO with fixed interval 
+374444795	ID:21	ticks value 512
+374747893	ID:13	Sending DATA to 1 'Hello 6' with NodeID= 13
+374952639	ID:20	Replaying DIO with fixed interval 
+374955281	ID:20	ticks value 512
+375855438	ID:14	Sending DATA to 1 'Hello 6' with NodeID= 14
+377550454	ID:9	Sending DATA to 1 'Hello 6' with NodeID= 9
+377581832	ID:19	Replaying DIO with fixed interval 
+377584503	ID:19	ticks value 512
+378388622	ID:18	Replaying DIO with fixed interval 
+378391293	ID:18	ticks value 512
+378449966	ID:21	Replaying DIO with fixed interval 
+378452607	ID:21	ticks value 512
+378960451	ID:20	Replaying DIO with fixed interval 
+378963093	ID:20	ticks value 512
+379292015	ID:7	Sending DATA to 1 'Hello 6' with NodeID= 7
+381589640	ID:19	Replaying DIO with fixed interval 
+381592281	ID:19	ticks value 512
+381606798	ID:8	Sending DATA to 1 'Hello 6' with NodeID= 8
+382396430	ID:18	Replaying DIO with fixed interval 
+382399071	ID:18	ticks value 512
+382457778	ID:21	Replaying DIO with fixed interval 
+382460420	ID:21	ticks value 512
+382968264	ID:20	Replaying DIO with fixed interval 
+382970905	ID:20	ticks value 512
+384917830	ID:12	Sending DATA to 1 'Hello 6' with NodeID= 12
+385597453	ID:19	Replaying DIO with fixed interval 
+385600094	ID:19	ticks value 512
+386404242	ID:18	Replaying DIO with fixed interval 
+386406884	ID:18	ticks value 512
+386465591	ID:21	Replaying DIO with fixed interval 
+386468232	ID:21	ticks value 512
+386976081	ID:20	Replaying DIO with fixed interval 
+386978752	ID:20	ticks value 512
+388250951	ID:10	Sending DATA to 1 'Hello 6' with NodeID= 10
+389427156	ID:17	Sending DATA to 1 'Hello 6' with NodeID= 17
+389605265	ID:19	Replaying DIO with fixed interval 
+389607907	ID:19	ticks value 512
+390412055	ID:18	Replaying DIO with fixed interval 
+390414697	ID:18	ticks value 512
+390474254	ID:21	Replaying DIO with fixed interval 
+390476896	ID:21	ticks value 512
+390591017	ID:2	Sending DATA to 1 'Hello 6' with NodeID= 2
+390983889	ID:20	Replaying DIO with fixed interval 
+390986531	ID:20	ticks value 512
+393461289	ID:6	Sending DATA to 1 'Hello 6' with NodeID= 6
+393613934	ID:19	Replaying DIO with fixed interval 
+393616604	ID:19	ticks value 512
+394420724	ID:18	Replaying DIO with fixed interval 
+394423395	ID:18	ticks value 512
+394481216	ID:21	Replaying DIO with fixed interval 
+394483858	ID:21	ticks value 512
+394991701	ID:20	Replaying DIO with fixed interval 
+394994343	ID:20	ticks value 512
+396821882	ID:15	Sending DATA to 1 'Hello 6' with NodeID= 15
+396863599	ID:16	Sending DATA to 1 'Hello 6' with NodeID= 16
+397133456	ID:3	Sending DATA to 1 'Hello 6' with NodeID= 3
+397621329	ID:19	Replaying DIO with fixed interval 
+397623971	ID:19	ticks value 512
+398427680	ID:18	Replaying DIO with fixed interval 
+398430321	ID:18	ticks value 512
+398489028	ID:21	Replaying DIO with fixed interval 
+398491670	ID:21	ticks value 512
+398999514	ID:20	Replaying DIO with fixed interval 
+399002155	ID:20	ticks value 512
+401628702	ID:19	Replaying DIO with fixed interval 
+401631344	ID:19	ticks value 512
+402435492	ID:18	Replaying DIO with fixed interval 
+402438134	ID:18	ticks value 512
+402496841	ID:21	Replaying DIO with fixed interval 
+402499483	ID:21	ticks value 512
+403007331	ID:20	Replaying DIO with fixed interval 
+403010002	ID:20	ticks value 512
+403164435	ID:4	Sending DATA to 1 'Hello 6' with NodeID= 4
+404527747	ID:5	Sending DATA to 1 'Hello 6' with NodeID= 5
+405636515	ID:19	Replaying DIO with fixed interval 
+405639156	ID:19	ticks value 512
+406443305	ID:18	Replaying DIO with fixed interval 
+406445947	ID:18	ticks value 512
+406504653	ID:21	Replaying DIO with fixed interval 
+406507295	ID:21	ticks value 512
+407015139	ID:20	Replaying DIO with fixed interval 
+407017781	ID:20	ticks value 512
+409644333	ID:19	Replaying DIO with fixed interval 
+409647004	ID:19	ticks value 512
+410451122	ID:18	Replaying DIO with fixed interval 
+410453793	ID:18	ticks value 512
+410512466	ID:21	Replaying DIO with fixed interval 
+410515107	ID:21	ticks value 512
+411022951	ID:20	Replaying DIO with fixed interval 
+411025593	ID:20	ticks value 512
+413652140	ID:19	Replaying DIO with fixed interval 
+413654782	ID:19	ticks value 512
+414458930	ID:18	Replaying DIO with fixed interval 
+414461571	ID:18	ticks value 512
+414520278	ID:21	Replaying DIO with fixed interval 
+414522920	ID:21	ticks value 512
+415030764	ID:20	Replaying DIO with fixed interval 
+415033406	ID:20	ticks value 512
+417659953	ID:19	Replaying DIO with fixed interval 
+417662594	ID:19	ticks value 512
+417751224	ID:11	Sending DATA to 1 'Hello 6' with NodeID= 11
+418466742	ID:18	Replaying DIO with fixed interval 
+418469384	ID:18	ticks value 512
+418528091	ID:21	Replaying DIO with fixed interval 
+418530733	ID:21	ticks value 512
+419039432	ID:20	Replaying DIO with fixed interval 
+419042103	ID:20	ticks value 512
+421667765	ID:19	Replaying DIO with fixed interval 
+421670407	ID:19	ticks value 512
+422430558	ID:4	Sending DATA to 1 'Hello 7' with NodeID= 4
+422474555	ID:18	Replaying DIO with fixed interval 
+422477197	ID:18	ticks value 512
+422535903	ID:21	Replaying DIO with fixed interval 
+422538545	ID:21	ticks value 512
+423046389	ID:20	Replaying DIO with fixed interval 
+423049030	ID:20	ticks value 512
+423381847	ID:11	Sending DATA to 1 'Hello 7' with NodeID= 11
+425675582	ID:19	Replaying DIO with fixed interval 
+425678253	ID:19	ticks value 512
+426482372	ID:18	Replaying DIO with fixed interval 
+426485043	ID:18	ticks value 512
+426543716	ID:21	Replaying DIO with fixed interval 
+426546357	ID:21	ticks value 512
+427054201	ID:20	Replaying DIO with fixed interval 
+427056843	ID:20	ticks value 512
+429683390	ID:19	Replaying DIO with fixed interval 
+429686031	ID:19	ticks value 512
+430406594	ID:6	Sending DATA to 1 'Hello 7' with NodeID= 6
+430490180	ID:18	Replaying DIO with fixed interval 
+430492822	ID:18	ticks value 512
+430551563	ID:21	Replaying DIO with fixed interval 
+430554204	ID:21	ticks value 512
+431062014	ID:20	Replaying DIO with fixed interval 
+431064656	ID:20	ticks value 512
+433691202	ID:19	Replaying DIO with fixed interval 
+433693844	ID:19	ticks value 512
+434497992	ID:18	Replaying DIO with fixed interval 
+434500634	ID:18	ticks value 512
+434559343	ID:21	Replaying DIO with fixed interval 
+434561984	ID:21	ticks value 512
+434594109	ID:17	Sending DATA to 1 'Hello 7' with NodeID= 17
+435069831	ID:20	Replaying DIO with fixed interval 
+435072502	ID:20	ticks value 512
+437699015	ID:19	Replaying DIO with fixed interval 
+437701656	ID:19	ticks value 512
+438231020	ID:16	Sending DATA to 1 'Hello 7' with NodeID= 16
+438505805	ID:18	Replaying DIO with fixed interval 
+438508446	ID:18	ticks value 512
+438567153	ID:21	Replaying DIO with fixed interval 
+438569795	ID:21	ticks value 512
+439077639	ID:20	Replaying DIO with fixed interval 
+439080280	ID:20	ticks value 512
+439745136	ID:7	Sending DATA to 1 'Hello 7' with NodeID= 7
+439933984	ID:5	Sending DATA to 1 'Hello 7' with NodeID= 5
+441706833	ID:19	Replaying DIO with fixed interval 
+441709504	ID:19	ticks value 512
+442513622	ID:18	Replaying DIO with fixed interval 
+442516293	ID:18	ticks value 512
+442536956	ID:13	Sending DATA to 1 'Hello 7' with NodeID= 13
+442574966	ID:21	Replaying DIO with fixed interval 
+442577608	ID:21	ticks value 512
+443085451	ID:20	Replaying DIO with fixed interval 
+443088093	ID:20	ticks value 512
+445714640	ID:19	Replaying DIO with fixed interval 
+445717281	ID:19	ticks value 512
+446521430	ID:18	Replaying DIO with fixed interval 
+446524071	ID:18	ticks value 512
+446582778	ID:21	Replaying DIO with fixed interval 
+446585420	ID:21	ticks value 512
+446965744	ID:12	Sending DATA to 1 'Hello 7' with NodeID= 12
+447093264	ID:20	Replaying DIO with fixed interval 
+447095905	ID:20	ticks value 512
+449722452	ID:19	Replaying DIO with fixed interval 
+449725094	ID:19	ticks value 512
+450529242	ID:18	Replaying DIO with fixed interval 
+450531884	ID:18	ticks value 512
+450590591	ID:21	Replaying DIO with fixed interval 
+450593232	ID:21	ticks value 512
+451101081	ID:20	Replaying DIO with fixed interval 
+451103752	ID:20	ticks value 512
+453730265	ID:19	Replaying DIO with fixed interval 
+453732906	ID:19	ticks value 512
+453975583	ID:10	Sending DATA to 1 'Hello 7' with NodeID= 10
+454537055	ID:18	Replaying DIO with fixed interval 
+454539697	ID:18	ticks value 512
+454599254	ID:21	Replaying DIO with fixed interval 
+454601896	ID:21	ticks value 512
+455108889	ID:20	Replaying DIO with fixed interval 
+455111531	ID:20	ticks value 512
+457695951	ID:3	Sending DATA to 1 'Hello 7' with NodeID= 3
+457738933	ID:19	Replaying DIO with fixed interval 
+457741604	ID:19	ticks value 512
+458545723	ID:18	Replaying DIO with fixed interval 
+458548394	ID:18	ticks value 512
+458606664	ID:21	Replaying DIO with fixed interval 
+458611311	ID:21	ticks value 512
+459116701	ID:20	Replaying DIO with fixed interval 
+459119343	ID:20	ticks value 512
+461745890	ID:19	Replaying DIO with fixed interval 
+461748531	ID:19	ticks value 512
+462262888	ID:2	Sending DATA to 1 'Hello 7' with NodeID= 2
+462552964	ID:18	Replaying DIO with fixed interval 
+462555606	ID:18	ticks value 512
+462614028	ID:21	Replaying DIO with fixed interval 
+462616670	ID:21	ticks value 512
+463124514	ID:20	Replaying DIO with fixed interval 
+463127156	ID:20	ticks value 512
+463274806	ID:15	Sending DATA to 1 'Hello 7' with NodeID= 15
+465753702	ID:19	Replaying DIO with fixed interval 
+465756344	ID:19	ticks value 512
+466560492	ID:18	Replaying DIO with fixed interval 
+466563134	ID:18	ticks value 512
+466621841	ID:21	Replaying DIO with fixed interval 
+466624483	ID:21	ticks value 512
+467132331	ID:20	Replaying DIO with fixed interval 
+467135002	ID:20	ticks value 512
+468292642	ID:9	Sending DATA to 1 'Hello 7' with NodeID= 9
+469253868	ID:14	Sending DATA to 1 'Hello 7' with NodeID= 14
+469761515	ID:19	Replaying DIO with fixed interval 
+469764156	ID:19	ticks value 512
+470568305	ID:18	Replaying DIO with fixed interval 
+470570947	ID:18	ticks value 512
+470629653	ID:21	Replaying DIO with fixed interval 
+470632295	ID:21	ticks value 512
+471140139	ID:20	Replaying DIO with fixed interval 
+471142781	ID:20	ticks value 512
+473769332	ID:19	Replaying DIO with fixed interval 
+473772003	ID:19	ticks value 512
+474576122	ID:18	Replaying DIO with fixed interval 
+474578793	ID:18	ticks value 512
+474637466	ID:21	Replaying DIO with fixed interval 
+474640108	ID:21	ticks value 512
+475147951	ID:20	Replaying DIO with fixed interval 
+475150593	ID:20	ticks value 512
+475427118	ID:8	Sending DATA to 1 'Hello 7' with NodeID= 8
+477777140	ID:19	Replaying DIO with fixed interval 
+477779781	ID:19	ticks value 512
+478583930	ID:18	Replaying DIO with fixed interval 
+478586571	ID:18	ticks value 512
+478645278	ID:21	Replaying DIO with fixed interval 
+478647920	ID:21	ticks value 512
+479155764	ID:20	Replaying DIO with fixed interval 
+479158406	ID:20	ticks value 512
+481784953	ID:19	Replaying DIO with fixed interval 
+481787594	ID:19	ticks value 512
+482591742	ID:18	Replaying DIO with fixed interval 
+482594384	ID:18	ticks value 512
+482653091	ID:21	Replaying DIO with fixed interval 
+482655732	ID:21	ticks value 512
+483164432	ID:20	Replaying DIO with fixed interval 
+483167103	ID:20	ticks value 512
+483184756	ID:2	Sending DATA to 1 'Hello 8' with NodeID= 2
+483277010	ID:9	Sending DATA to 1 'Hello 8' with NodeID= 9
+485792765	ID:19	Replaying DIO with fixed interval 
+485795406	ID:19	ticks value 512
+486599555	ID:18	Replaying DIO with fixed interval 
+486602197	ID:18	ticks value 512
+486660903	ID:21	Replaying DIO with fixed interval 
+486663545	ID:21	ticks value 512
+487171389	ID:20	Replaying DIO with fixed interval 
+487174030	ID:20	ticks value 512
+489125929	ID:10	Sending DATA to 1 'Hello 8' with NodeID= 10
+489800582	ID:19	Replaying DIO with fixed interval 
+489803253	ID:19	ticks value 512
+490607372	ID:18	Replaying DIO with fixed interval 
+490610043	ID:18	ticks value 512
+490668716	ID:21	Replaying DIO with fixed interval 
+490671357	ID:21	ticks value 512
+490996407	ID:16	Sending DATA to 1 'Hello 8' with NodeID= 16
+491179201	ID:20	Replaying DIO with fixed interval 
+491181843	ID:20	ticks value 512
+492367826	ID:3	Sending DATA to 1 'Hello 8' with NodeID= 3
+493808390	ID:19	Replaying DIO with fixed interval 
+493811032	ID:19	ticks value 512
+494615180	ID:18	Replaying DIO with fixed interval 
+494617822	ID:18	ticks value 512
+494676528	ID:21	Replaying DIO with fixed interval 
+494679170	ID:21	ticks value 512
+495187014	ID:20	Replaying DIO with fixed interval 
+495189656	ID:20	ticks value 512
+497277741	ID:5	Sending DATA to 1 'Hello 8' with NodeID= 5
+497816202	ID:19	Replaying DIO with fixed interval 
+497818844	ID:19	ticks value 512
+498328996	ID:4	Sending DATA to 1 'Hello 8' with NodeID= 4
+498622993	ID:18	Replaying DIO with fixed interval 
+498625635	ID:18	ticks value 512
+498684341	ID:21	Replaying DIO with fixed interval 
+498686983	ID:21	ticks value 512
+499194831	ID:20	Replaying DIO with fixed interval 
+499197502	ID:20	ticks value 512
+501824015	ID:19	Replaying DIO with fixed interval 
+501826656	ID:19	ticks value 512
+502630805	ID:18	Replaying DIO with fixed interval 
+502633447	ID:18	ticks value 512
+502692153	ID:21	Replaying DIO with fixed interval 
+502694795	ID:21	ticks value 512
+503202639	ID:20	Replaying DIO with fixed interval 
+503205281	ID:20	ticks value 512
+505831833	ID:19	Replaying DIO with fixed interval 
+505834504	ID:19	ticks value 512
+505872893	ID:13	Sending DATA to 1 'Hello 8' with NodeID= 13
+506638622	ID:18	Replaying DIO with fixed interval 
+506641293	ID:18	ticks value 512
+506699966	ID:21	Replaying DIO with fixed interval 
+506702608	ID:21	ticks value 512
+507210451	ID:20	Replaying DIO with fixed interval 
+507213093	ID:20	ticks value 512
+508588886	ID:7	Sending DATA to 1 'Hello 8' with NodeID= 7
+509839640	ID:19	Replaying DIO with fixed interval 
+509842281	ID:19	ticks value 512
+510646430	ID:18	Replaying DIO with fixed interval 
+510649072	ID:18	ticks value 512
+510707778	ID:21	Replaying DIO with fixed interval 
+510710420	ID:21	ticks value 512
+511218264	ID:20	Replaying DIO with fixed interval 
+511220906	ID:20	ticks value 512
+513847453	ID:19	Replaying DIO with fixed interval 
+513850095	ID:19	ticks value 512
+514167938	ID:14	Sending DATA to 1 'Hello 8' with NodeID= 14
+514654242	ID:18	Replaying DIO with fixed interval 
+514656884	ID:18	ticks value 512
+514715591	ID:21	Replaying DIO with fixed interval 
+514718233	ID:21	ticks value 512
+515226081	ID:20	Replaying DIO with fixed interval 
+515228752	ID:20	ticks value 512
+517855265	ID:19	Replaying DIO with fixed interval 
+517857907	ID:19	ticks value 512
+518662055	ID:18	Replaying DIO with fixed interval 
+518664697	ID:18	ticks value 512
+518724465	ID:21	Replaying DIO with fixed interval 
+518727468	ID:21	ticks value 512
+519233889	ID:20	Replaying DIO with fixed interval 
+519236531	ID:20	ticks value 512
+521864212	ID:19	Replaying DIO with fixed interval 
+521867294	ID:19	ticks value 512
+522670723	ID:18	Replaying DIO with fixed interval 
+522673394	ID:18	ticks value 512
+522731664	ID:21	Replaying DIO with fixed interval 
+522736132	ID:21	ticks value 512
+523241701	ID:20	Replaying DIO with fixed interval 
+523244343	ID:20	ticks value 512
+525870890	ID:19	Replaying DIO with fixed interval 
+525873531	ID:19	ticks value 512
+526677680	ID:18	Replaying DIO with fixed interval 
+526680321	ID:18	ticks value 512
+526739028	ID:21	Replaying DIO with fixed interval 
+526741670	ID:21	ticks value 512
+527249514	ID:20	Replaying DIO with fixed interval 
+527252155	ID:20	ticks value 512
+529618542	ID:15	Sending DATA to 1 'Hello 8' with NodeID= 15
+529878703	ID:19	Replaying DIO with fixed interval 
+529881344	ID:19	ticks value 512
+530685492	ID:18	Replaying DIO with fixed interval 
+530688134	ID:18	ticks value 512
+530746841	ID:21	Replaying DIO with fixed interval 
+530749483	ID:21	ticks value 512
+531257332	ID:20	Replaying DIO with fixed interval 
+531260003	ID:20	ticks value 512
+532600604	ID:11	Sending DATA to 1 'Hello 8' with NodeID= 11
+533331892	ID:12	Sending DATA to 1 'Hello 8' with NodeID= 12
+533886515	ID:19	Replaying DIO with fixed interval 
+533889157	ID:19	ticks value 512
+534693305	ID:18	Replaying DIO with fixed interval 
+534695947	ID:18	ticks value 512
+534754653	ID:21	Replaying DIO with fixed interval 
+534757295	ID:21	ticks value 512
+535265139	ID:20	Replaying DIO with fixed interval 
+535267780	ID:20	ticks value 512
+535703483	ID:6	Sending DATA to 1 'Hello 8' with NodeID= 6
+537894333	ID:19	Replaying DIO with fixed interval 
+537897004	ID:19	ticks value 512
+538701122	ID:18	Replaying DIO with fixed interval 
+538703793	ID:18	ticks value 512
+538762466	ID:21	Replaying DIO with fixed interval 
+538765107	ID:21	ticks value 512
+539272951	ID:20	Replaying DIO with fixed interval 
+539275593	ID:20	ticks value 512
+539880236	ID:8	Sending DATA to 1 'Hello 8' with NodeID= 8
+540513101	ID:17	Sending DATA to 1 'Hello 8' with NodeID= 17
+541902140	ID:19	Replaying DIO with fixed interval 
+541904782	ID:19	ticks value 512
+542708930	ID:18	Replaying DIO with fixed interval 
+542711571	ID:18	ticks value 512
+542770278	ID:21	Replaying DIO with fixed interval 
+542772920	ID:21	ticks value 512
+543280764	ID:20	Replaying DIO with fixed interval 
+543283405	ID:20	ticks value 512
+545219672	ID:10	Sending DATA to 1 'Hello 9' with NodeID= 10
+545909953	ID:19	Replaying DIO with fixed interval 
+545912595	ID:19	ticks value 512
+546716742	ID:18	Replaying DIO with fixed interval 
+546719384	ID:18	ticks value 512
+546778091	ID:21	Replaying DIO with fixed interval 
+546780733	ID:21	ticks value 512
+547289432	ID:20	Replaying DIO with fixed interval 
+547292103	ID:20	ticks value 512
+547633445	ID:3	Sending DATA to 1 'Hello 9' with NodeID= 3
+549917765	ID:19	Replaying DIO with fixed interval 
+549920407	ID:19	ticks value 512
+550724555	ID:18	Replaying DIO with fixed interval 
+550727197	ID:18	ticks value 512
+550785903	ID:21	Replaying DIO with fixed interval 
+550788545	ID:21	ticks value 512
+551296389	ID:20	Replaying DIO with fixed interval 
+551299030	ID:20	ticks value 512
+553925583	ID:19	Replaying DIO with fixed interval 
+553928254	ID:19	ticks value 512
+554732372	ID:18	Replaying DIO with fixed interval 
+554735043	ID:18	ticks value 512
+554793716	ID:21	Replaying DIO with fixed interval 
+554796358	ID:21	ticks value 512
+555304201	ID:20	Replaying DIO with fixed interval 
+555306843	ID:20	ticks value 512
+557077160	ID:11	Sending DATA to 1 'Hello 9' with NodeID= 11
+557933390	ID:19	Replaying DIO with fixed interval 
+557936032	ID:19	ticks value 512
+558740180	ID:18	Replaying DIO with fixed interval 
+558742821	ID:18	ticks value 512
+558801528	ID:21	Replaying DIO with fixed interval 
+558804170	ID:21	ticks value 512
+559312014	ID:20	Replaying DIO with fixed interval 
+559314655	ID:20	ticks value 512
+561941203	ID:19	Replaying DIO with fixed interval 
+561943845	ID:19	ticks value 512
+562747992	ID:18	Replaying DIO with fixed interval 
+562750634	ID:18	ticks value 512
+562809341	ID:21	Replaying DIO with fixed interval 
+562811982	ID:21	ticks value 512
+563319831	ID:20	Replaying DIO with fixed interval 
+563322502	ID:20	ticks value 512
+563946197	ID:4	Sending DATA to 1 'Hello 9' with NodeID= 4
+564039407	ID:6	Sending DATA to 1 'Hello 9' with NodeID= 6
+564512109	ID:5	Sending DATA to 1 'Hello 9' with NodeID= 5
+565949015	ID:19	Replaying DIO with fixed interval 
+565951657	ID:19	ticks value 512
+566727928	ID:15	Sending DATA to 1 'Hello 9' with NodeID= 15
+566755805	ID:18	Replaying DIO with fixed interval 
+566758447	ID:18	ticks value 512
+566817153	ID:21	Replaying DIO with fixed interval 
+566819795	ID:21	ticks value 512
+567327639	ID:20	Replaying DIO with fixed interval 
+567330280	ID:20	ticks value 512
+568761681	ID:14	Sending DATA to 1 'Hello 9' with NodeID= 14
+569956833	ID:19	Replaying DIO with fixed interval 
+569959504	ID:19	ticks value 512
+570396128	ID:17	Sending DATA to 1 'Hello 9' with NodeID= 17
+570763622	ID:18	Replaying DIO with fixed interval 
+570766293	ID:18	ticks value 512
+570824966	ID:21	Replaying DIO with fixed interval 
+570827607	ID:21	ticks value 512
+571335451	ID:20	Replaying DIO with fixed interval 
+571338093	ID:20	ticks value 512
+572933907	ID:16	Sending DATA to 1 'Hello 9' with NodeID= 16
+573964640	ID:19	Replaying DIO with fixed interval 
+573967282	ID:19	ticks value 512
+574771430	ID:18	Replaying DIO with fixed interval 
+574774071	ID:18	ticks value 512
+574832778	ID:21	Replaying DIO with fixed interval 
+574835420	ID:21	ticks value 512
+575343264	ID:20	Replaying DIO with fixed interval 
+575345906	ID:20	ticks value 512
+575958845	ID:13	Sending DATA to 1 'Hello 9' with NodeID= 13
+577972453	ID:19	Replaying DIO with fixed interval 
+577975095	ID:19	ticks value 512
+578667018	ID:7	Sending DATA to 1 'Hello 9' with NodeID= 7
+578779242	ID:18	Replaying DIO with fixed interval 
+578781884	ID:18	ticks value 512
+578840591	ID:21	Replaying DIO with fixed interval 
+578843233	ID:21	ticks value 512
+579351081	ID:20	Replaying DIO with fixed interval 
+579353752	ID:20	ticks value 512
+581206704	ID:9	Sending DATA to 1 'Hello 9' with NodeID= 9
+581980265	ID:19	Replaying DIO with fixed interval 
+581982907	ID:19	ticks value 512
+582787055	ID:18	Replaying DIO with fixed interval 
+582789697	ID:18	ticks value 512
+582849254	ID:21	Replaying DIO with fixed interval 
+582851896	ID:21	ticks value 512
+583358889	ID:20	Replaying DIO with fixed interval 
+583361530	ID:20	ticks value 512
+585988934	ID:19	Replaying DIO with fixed interval 
+585991604	ID:19	ticks value 512
+586795723	ID:18	Replaying DIO with fixed interval 
+586798394	ID:18	ticks value 512
+586856216	ID:21	Replaying DIO with fixed interval 
+586858858	ID:21	ticks value 512
+587366701	ID:20	Replaying DIO with fixed interval 
+587369343	ID:20	ticks value 512
+589700770	ID:8	Sending DATA to 1 'Hello 9' with NodeID= 8
+589995890	ID:19	Replaying DIO with fixed interval 
+589998532	ID:19	ticks value 512
+590802680	ID:18	Replaying DIO with fixed interval 
+590805321	ID:18	ticks value 512
+590864028	ID:21	Replaying DIO with fixed interval 
+590866670	ID:21	ticks value 512
+591374514	ID:20	Replaying DIO with fixed interval 
+591377155	ID:20	ticks value 512
+592370948	ID:12	Sending DATA to 1 'Hello 9' with NodeID= 12
+594003703	ID:19	Replaying DIO with fixed interval 
+594006344	ID:19	ticks value 512
+594810492	ID:18	Replaying DIO with fixed interval 
+594813134	ID:18	ticks value 512
+594871841	ID:21	Replaying DIO with fixed interval 
+594874483	ID:21	ticks value 512
+595382331	ID:20	Replaying DIO with fixed interval 
+595385002	ID:20	ticks value 512
+597227514	ID:2	Sending DATA to 1 'Hello 9' with NodeID= 2
+598011515	ID:19	Replaying DIO with fixed interval 
+598014157	ID:19	ticks value 512
+598818305	ID:18	Replaying DIO with fixed interval 
+598820946	ID:18	ticks value 512
+598879653	ID:21	Replaying DIO with fixed interval 
+598882295	ID:21	ticks value 512
+599390139	ID:20	Replaying DIO with fixed interval 
+599392781	ID:20	ticks value 512
+602019333	ID:19	Replaying DIO with fixed interval 
+602022004	ID:19	ticks value 512
+602175559	ID:9	Sending DATA to 1 'Hello 10' with NodeID= 9
+602826122	ID:18	Replaying DIO with fixed interval 
+602828793	ID:18	ticks value 512
+602887466	ID:21	Replaying DIO with fixed interval 
+602890108	ID:21	ticks value 512
+603397951	ID:20	Replaying DIO with fixed interval 
+603400593	ID:20	ticks value 512
+606027140	ID:19	Replaying DIO with fixed interval 
+606029782	ID:19	ticks value 512
+606833930	ID:18	Replaying DIO with fixed interval 
+606836571	ID:18	ticks value 512
+606895278	ID:21	Replaying DIO with fixed interval 
+606897920	ID:21	ticks value 512
+607405764	ID:20	Replaying DIO with fixed interval 
+607408406	ID:20	ticks value 512
+608552700	ID:13	Sending DATA to 1 'Hello 10' with NodeID= 13
+609665045	ID:4	Sending DATA to 1 'Hello 10' with NodeID= 4
+610034953	ID:19	Replaying DIO with fixed interval 
+610037595	ID:19	ticks value 512
+610841742	ID:18	Replaying DIO with fixed interval 
+610844384	ID:18	ticks value 512
+610903091	ID:21	Replaying DIO with fixed interval 
+610905733	ID:21	ticks value 512
+611414432	ID:20	Replaying DIO with fixed interval 
+611417103	ID:20	ticks value 512
+614042765	ID:19	Replaying DIO with fixed interval 
+614045407	ID:19	ticks value 512
+614849555	ID:18	Replaying DIO with fixed interval 
+614852197	ID:18	ticks value 512
+614910903	ID:21	Replaying DIO with fixed interval 
+614913545	ID:21	ticks value 512
+615421389	ID:20	Replaying DIO with fixed interval 
+615424030	ID:20	ticks value 512
+618050583	ID:19	Replaying DIO with fixed interval 
+618053254	ID:19	ticks value 512
+618857372	ID:18	Replaying DIO with fixed interval 
+618860043	ID:18	ticks value 512
+618918716	ID:21	Replaying DIO with fixed interval 
+618921358	ID:21	ticks value 512
+619429201	ID:20	Replaying DIO with fixed interval 
+619431843	ID:20	ticks value 512
+622058390	ID:19	Replaying DIO with fixed interval 
+622061032	ID:19	ticks value 512
+622138005	ID:2	Sending DATA to 1 'Hello 10' with NodeID= 2
+622865180	ID:18	Replaying DIO with fixed interval 
+622867821	ID:18	ticks value 512
+622926528	ID:21	Replaying DIO with fixed interval 
+622929170	ID:21	ticks value 512
+623437014	ID:20	Replaying DIO with fixed interval 
+623439655	ID:20	ticks value 512
+624691488	ID:14	Sending DATA to 1 'Hello 10' with NodeID= 14
+626066203	ID:19	Replaying DIO with fixed interval 
+626068845	ID:19	ticks value 512
+626269950	ID:16	Sending DATA to 1 'Hello 10' with NodeID= 16
+626516670	ID:10	Sending DATA to 1 'Hello 10' with NodeID= 10
+626872992	ID:18	Replaying DIO with fixed interval 
+626875634	ID:18	ticks value 512
+626934341	ID:21	Replaying DIO with fixed interval 
+626936982	ID:21	ticks value 512
+627444831	ID:20	Replaying DIO with fixed interval 
+627447502	ID:20	ticks value 512
+629222623	ID:12	Sending DATA to 1 'Hello 10' with NodeID= 12
+630074015	ID:19	Replaying DIO with fixed interval 
+630076657	ID:19	ticks value 512
+630880805	ID:18	Replaying DIO with fixed interval 
+630883446	ID:18	ticks value 512
+630920666	ID:5	Sending DATA to 1 'Hello 10' with NodeID= 5
+630942153	ID:21	Replaying DIO with fixed interval 
+630944795	ID:21	ticks value 512
+631452639	ID:20	Replaying DIO with fixed interval 
+631455280	ID:20	ticks value 512
+633478036	ID:15	Sending DATA to 1 'Hello 10' with NodeID= 15
+634081833	ID:19	Replaying DIO with fixed interval 
+634084504	ID:19	ticks value 512
+634888622	ID:18	Replaying DIO with fixed interval 
+634891293	ID:18	ticks value 512
+634949966	ID:21	Replaying DIO with fixed interval 
+634952608	ID:21	ticks value 512
+635421022	ID:11	Sending DATA to 1 'Hello 10' with NodeID= 11
+635460451	ID:20	Replaying DIO with fixed interval 
+635463093	ID:20	ticks value 512
+638089640	ID:19	Replaying DIO with fixed interval 
+638092282	ID:19	ticks value 512
+638896430	ID:18	Replaying DIO with fixed interval 
+638899071	ID:18	ticks value 512
+638957778	ID:21	Replaying DIO with fixed interval 
+638960420	ID:21	ticks value 512
+639468264	ID:20	Replaying DIO with fixed interval 
+639470906	ID:20	ticks value 512
+642097453	ID:19	Replaying DIO with fixed interval 
+642100095	ID:19	ticks value 512
+642904242	ID:18	Replaying DIO with fixed interval 
+642906884	ID:18	ticks value 512
+642965591	ID:21	Replaying DIO with fixed interval 
+642968232	ID:21	ticks value 512
+643336401	ID:6	Sending DATA to 1 'Hello 10' with NodeID= 6
+643476081	ID:20	Replaying DIO with fixed interval 
+643478752	ID:20	ticks value 512
+646105265	ID:19	Replaying DIO with fixed interval 
+646107907	ID:19	ticks value 512
+646912055	ID:18	Replaying DIO with fixed interval 
+646914697	ID:18	ticks value 512
+646974466	ID:21	Replaying DIO with fixed interval 
+646977468	ID:21	ticks value 512
+647247542	ID:8	Sending DATA to 1 'Hello 10' with NodeID= 8
+647483889	ID:20	Replaying DIO with fixed interval 
+647486530	ID:20	ticks value 512
+650113934	ID:19	Replaying DIO with fixed interval 
+650116604	ID:19	ticks value 512
+650920723	ID:18	Replaying DIO with fixed interval 
+650923394	ID:18	ticks value 512
+650981664	ID:21	Replaying DIO with fixed interval 
+650986310	ID:21	ticks value 512
+651491701	ID:20	Replaying DIO with fixed interval 
+651494343	ID:20	ticks value 512
+654120890	ID:19	Replaying DIO with fixed interval 
+654123532	ID:19	ticks value 512
+654927680	ID:18	Replaying DIO with fixed interval 
+654930322	ID:18	ticks value 512
+654989028	ID:21	Replaying DIO with fixed interval 
+654991670	ID:21	ticks value 512
+655235133	ID:3	Sending DATA to 1 'Hello 10' with NodeID= 3
+655499514	ID:20	Replaying DIO with fixed interval 
+655502155	ID:20	ticks value 512
+657700706	ID:17	Sending DATA to 1 'Hello 10' with NodeID= 17
+658128703	ID:19	Replaying DIO with fixed interval 
+658131344	ID:19	ticks value 512
+658260880	ID:7	Sending DATA to 1 'Hello 10' with NodeID= 7
+658935492	ID:18	Replaying DIO with fixed interval 
+658938134	ID:18	ticks value 512
+658996841	ID:21	Replaying DIO with fixed interval 
+658999483	ID:21	ticks value 512
+659507331	ID:20	Replaying DIO with fixed interval 
+659510002	ID:20	ticks value 512
+662136515	ID:19	Replaying DIO with fixed interval 
+662139157	ID:19	ticks value 512
+662378859	ID:12	Sending DATA to 1 'Hello 11' with NodeID= 12
+662915097	ID:10	Sending DATA to 1 'Hello 11' with NodeID= 10
+662943305	ID:18	Replaying DIO with fixed interval 
+662945946	ID:18	ticks value 512
+663004653	ID:21	Replaying DIO with fixed interval 
+663007295	ID:21	ticks value 512
+663515139	ID:20	Replaying DIO with fixed interval 
+663517781	ID:20	ticks value 512
+665155397	ID:11	Sending DATA to 1 'Hello 11' with NodeID= 11
+666144333	ID:19	Replaying DIO with fixed interval 
+666147004	ID:19	ticks value 512
+666951122	ID:18	Replaying DIO with fixed interval 
+666953793	ID:18	ticks value 512
+667012466	ID:21	Replaying DIO with fixed interval 
+667015108	ID:21	ticks value 512
+667199721	ID:5	Sending DATA to 1 'Hello 11' with NodeID= 5
+667522951	ID:20	Replaying DIO with fixed interval 
+667525593	ID:20	ticks value 512
+668360358	ID:4	Sending DATA to 1 'Hello 11' with NodeID= 4
+670152140	ID:19	Replaying DIO with fixed interval 
+670154782	ID:19	ticks value 512
+670606956	ID:17	Sending DATA to 1 'Hello 11' with NodeID= 17
+670958930	ID:18	Replaying DIO with fixed interval 
+670961571	ID:18	ticks value 512
+671020278	ID:21	Replaying DIO with fixed interval 
+671022920	ID:21	ticks value 512
+671530764	ID:20	Replaying DIO with fixed interval 
+671533406	ID:20	ticks value 512
+672964622	ID:9	Sending DATA to 1 'Hello 11' with NodeID= 9
+674159953	ID:19	Replaying DIO with fixed interval 
+674162595	ID:19	ticks value 512
+674966742	ID:18	Replaying DIO with fixed interval 
+674969384	ID:18	ticks value 512
+675028091	ID:21	Replaying DIO with fixed interval 
+675030733	ID:21	ticks value 512
+675539432	ID:20	Replaying DIO with fixed interval 
+675542103	ID:20	ticks value 512
+678167765	ID:19	Replaying DIO with fixed interval 
+678170407	ID:19	ticks value 512
+678974555	ID:18	Replaying DIO with fixed interval 
+678977197	ID:18	ticks value 512
+679035903	ID:21	Replaying DIO with fixed interval 
+679038545	ID:21	ticks value 512
+679546389	ID:20	Replaying DIO with fixed interval 
+679549031	ID:20	ticks value 512
+682175583	ID:19	Replaying DIO with fixed interval 
+682178254	ID:19	ticks value 512
+682982372	ID:18	Replaying DIO with fixed interval 
+682985043	ID:18	ticks value 512
+683043716	ID:21	Replaying DIO with fixed interval 
+683046357	ID:21	ticks value 512
+683554201	ID:20	Replaying DIO with fixed interval 
+683556843	ID:20	ticks value 512
+686183390	ID:19	Replaying DIO with fixed interval 
+686186032	ID:19	ticks value 512
+686990180	ID:18	Replaying DIO with fixed interval 
+686992821	ID:18	ticks value 512
+687051528	ID:21	Replaying DIO with fixed interval 
+687054170	ID:21	ticks value 512
+687562014	ID:20	Replaying DIO with fixed interval 
+687564656	ID:20	ticks value 512
+689458950	ID:13	Sending DATA to 1 'Hello 11' with NodeID= 13
+690191202	ID:19	Replaying DIO with fixed interval 
+690193846	ID:19	ticks value 512
+690997993	ID:18	Replaying DIO with fixed interval 
+691000636	ID:18	ticks value 512
+691059341	ID:21	Replaying DIO with fixed interval 
+691061984	ID:21	ticks value 512
+691569832	ID:20	Replaying DIO with fixed interval 
+691572505	ID:20	ticks value 512
+692850836	ID:15	Sending DATA to 1 'Hello 11' with NodeID= 15
+693078869	ID:3	Sending DATA to 1 'Hello 11' with NodeID= 3
+694199015	ID:19	Replaying DIO with fixed interval 
+694201658	ID:19	ticks value 512
+694867651	ID:6	Sending DATA to 1 'Hello 11' with NodeID= 6
+695005805	ID:18	Replaying DIO with fixed interval 
+695008448	ID:18	ticks value 512
+695067154	ID:21	Replaying DIO with fixed interval 
+695069797	ID:21	ticks value 512
+695577639	ID:20	Replaying DIO with fixed interval 
+695580282	ID:20	ticks value 512
+697745248	ID:7	Sending DATA to 1 'Hello 11' with NodeID= 7
+698206833	ID:19	Replaying DIO with fixed interval 
+698209505	ID:19	ticks value 512
+699013623	ID:18	Replaying DIO with fixed interval 
+699016296	ID:18	ticks value 512
+699074966	ID:21	Replaying DIO with fixed interval 
+699077609	ID:21	ticks value 512
+699585452	ID:20	Replaying DIO with fixed interval 
+699588095	ID:20	ticks value 512
+701138168	ID:8	Sending DATA to 1 'Hello 11' with NodeID= 8
+702214640	ID:19	Replaying DIO with fixed interval 
+702217283	ID:19	ticks value 512
+703021430	ID:18	Replaying DIO with fixed interval 
+703024073	ID:18	ticks value 512
+703082779	ID:21	Replaying DIO with fixed interval 
+703085422	ID:21	ticks value 512
+703593264	ID:20	Replaying DIO with fixed interval 
+703595907	ID:20	ticks value 512
+706222452	ID:19	Replaying DIO with fixed interval 
+706225096	ID:19	ticks value 512
+707029242	ID:18	Replaying DIO with fixed interval 
+707031886	ID:18	ticks value 512
+707090591	ID:21	Replaying DIO with fixed interval 
+707093234	ID:21	ticks value 512
+707601082	ID:20	Replaying DIO with fixed interval 
+707603755	ID:20	ticks value 512
+709660467	ID:14	Sending DATA to 1 'Hello 11' with NodeID= 14
+710230265	ID:19	Replaying DIO with fixed interval 
+710232908	ID:19	ticks value 512
+711037055	ID:18	Replaying DIO with fixed interval 
+711039698	ID:18	ticks value 512
+711099466	ID:21	Replaying DIO with fixed interval 
+711102468	ID:21	ticks value 512
+711608889	ID:20	Replaying DIO with fixed interval 
+711611532	ID:20	ticks value 512
+711794258	ID:2	Sending DATA to 1 'Hello 11' with NodeID= 2
+714238933	ID:19	Replaying DIO with fixed interval 
+714241606	ID:19	ticks value 512
+715045723	ID:18	Replaying DIO with fixed interval 
+715048422	ID:18	ticks value 512
+715106663	ID:21	Replaying DIO with fixed interval 
+715111193	ID:21	ticks value 512
+715616702	ID:20	Replaying DIO with fixed interval 
+715619345	ID:20	ticks value 512
+716871513	ID:16	Sending DATA to 1 'Hello 11' with NodeID= 16
+718245890	ID:19	Replaying DIO with fixed interval 
+718248533	ID:19	ticks value 512
+719055204	ID:18	Replaying DIO with fixed interval 
+719057847	ID:18	ticks value 512
+719114029	ID:21	Replaying DIO with fixed interval 
+719116672	ID:21	ticks value 512
+719624514	ID:20	Replaying DIO with fixed interval 
+719627157	ID:20	ticks value 512
+721878047	ID:7	Sending DATA to 1 'Hello 12' with NodeID= 7
+722253702	ID:19	Replaying DIO with fixed interval 
+722256346	ID:19	ticks value 512
+722936044	ID:6	Sending DATA to 1 'Hello 12' with NodeID= 6
+723060492	ID:18	Replaying DIO with fixed interval 
+723063136	ID:18	ticks value 512
+723121841	ID:21	Replaying DIO with fixed interval 
+723124484	ID:21	ticks value 512
+723632332	ID:20	Replaying DIO with fixed interval 
+723635005	ID:20	ticks value 512
+726012994	ID:2	Sending DATA to 1 'Hello 12' with NodeID= 2
+726261515	ID:19	Replaying DIO with fixed interval 
+726264158	ID:19	ticks value 512
+727068305	ID:18	Replaying DIO with fixed interval 
+727070948	ID:18	ticks value 512
+727129654	ID:21	Replaying DIO with fixed interval 
+727132297	ID:21	ticks value 512
+727640139	ID:20	Replaying DIO with fixed interval 
+727642782	ID:20	ticks value 512
+730269333	ID:19	Replaying DIO with fixed interval 
+730272005	ID:19	ticks value 512
+731076122	ID:18	Replaying DIO with fixed interval 
+731078805	ID:18	ticks value 512
+731137466	ID:21	Replaying DIO with fixed interval 
+731140109	ID:21	ticks value 512
+731647951	ID:20	Replaying DIO with fixed interval 
+731650595	ID:20	ticks value 512
+733211682	ID:3	Sending DATA to 1 'Hello 12' with NodeID= 3
+733538210	ID:11	Sending DATA to 1 'Hello 12' with NodeID= 11
+734277140	ID:19	Replaying DIO with fixed interval 
+734279783	ID:19	ticks value 512
+735083930	ID:18	Replaying DIO with fixed interval 
+735086573	ID:18	ticks value 512
+735145279	ID:21	Replaying DIO with fixed interval 
+735147922	ID:21	ticks value 512
+735655764	ID:20	Replaying DIO with fixed interval 
+735658407	ID:20	ticks value 512
+736106940	ID:8	Sending DATA to 1 'Hello 12' with NodeID= 8
+738284952	ID:19	Replaying DIO with fixed interval 
+738287596	ID:19	ticks value 512
+739091742	ID:18	Replaying DIO with fixed interval 
+739094386	ID:18	ticks value 512
+739153091	ID:21	Replaying DIO with fixed interval 
+739155734	ID:21	ticks value 512
+739605568	ID:14	Sending DATA to 1 'Hello 12' with NodeID= 14
+739664264	ID:20	Replaying DIO with fixed interval 
+739667274	ID:20	ticks value 512
+741305900	ID:4	Sending DATA to 1 'Hello 12' with NodeID= 4
+742231957	ID:17	Sending DATA to 1 'Hello 12' with NodeID= 17
+742292765	ID:19	Replaying DIO with fixed interval 
+742295408	ID:19	ticks value 512
+743099555	ID:18	Replaying DIO with fixed interval 
+743102198	ID:18	ticks value 512
+743160904	ID:21	Replaying DIO with fixed interval 
+743163547	ID:21	ticks value 512
+743673913	ID:20	Replaying DIO with fixed interval 
+743676556	ID:20	ticks value 512
+746300582	ID:19	Replaying DIO with fixed interval 
+746303255	ID:19	ticks value 512
+747107372	ID:18	Replaying DIO with fixed interval 
+747110055	ID:18	ticks value 512
+747168716	ID:21	Replaying DIO with fixed interval 
+747171359	ID:21	ticks value 512
+747679201	ID:20	Replaying DIO with fixed interval 
+747681845	ID:20	ticks value 512
+750052700	ID:13	Sending DATA to 1 'Hello 12' with NodeID= 13
+750308390	ID:19	Replaying DIO with fixed interval 
+750311033	ID:19	ticks value 512
+751115180	ID:18	Replaying DIO with fixed interval 
+751117823	ID:18	ticks value 512
+751176529	ID:21	Replaying DIO with fixed interval 
+751179172	ID:21	ticks value 512
+751687014	ID:20	Replaying DIO with fixed interval 
+751689657	ID:20	ticks value 512
+754316202	ID:19	Replaying DIO with fixed interval 
+754318846	ID:19	ticks value 512
+755122993	ID:18	Replaying DIO with fixed interval 
+755125636	ID:18	ticks value 512
+755184341	ID:21	Replaying DIO with fixed interval 
+755186984	ID:21	ticks value 512
+755694831	ID:20	Replaying DIO with fixed interval 
+755697514	ID:20	ticks value 512
+757652846	ID:5	Sending DATA to 1 'Hello 12' with NodeID= 5
+758324015	ID:19	Replaying DIO with fixed interval 
+758326659	ID:19	ticks value 512
+759130805	ID:18	Replaying DIO with fixed interval 
+759133448	ID:18	ticks value 512
+759192154	ID:21	Replaying DIO with fixed interval 
+759194797	ID:21	ticks value 512
+759702639	ID:20	Replaying DIO with fixed interval 
+759705282	ID:20	ticks value 512
+762331833	ID:19	Replaying DIO with fixed interval 
+762334505	ID:19	ticks value 512
+763138622	ID:18	Replaying DIO with fixed interval 
+763141305	ID:18	ticks value 512
+763199966	ID:21	Replaying DIO with fixed interval 
+763202609	ID:21	ticks value 512
+763710451	ID:20	Replaying DIO with fixed interval 
+763713095	ID:20	ticks value 512
+766339640	ID:19	Replaying DIO with fixed interval 
+766342283	ID:19	ticks value 512
+767146430	ID:18	Replaying DIO with fixed interval 
+767149073	ID:18	ticks value 512
+767207779	ID:21	Replaying DIO with fixed interval 
+767210422	ID:21	ticks value 512
+767718264	ID:20	Replaying DIO with fixed interval 
+767720907	ID:20	ticks value 512
+768972449	ID:9	Sending DATA to 1 'Hello 12' with NodeID= 9
+770347453	ID:19	Replaying DIO with fixed interval 
+770350096	ID:19	ticks value 512
+770759280	ID:15	Sending DATA to 1 'Hello 12' with NodeID= 15
+771154243	ID:18	Replaying DIO with fixed interval 
+771156886	ID:18	ticks value 512
+771215591	ID:21	Replaying DIO with fixed interval 
+771218234	ID:21	ticks value 512
+771726081	ID:20	Replaying DIO with fixed interval 
+771728764	ID:20	ticks value 512
+773699179	ID:12	Sending DATA to 1 'Hello 12' with NodeID= 12
+774355265	ID:19	Replaying DIO with fixed interval 
+774357909	ID:19	ticks value 512
+774957464	ID:16	Sending DATA to 1 'Hello 12' with NodeID= 16
+775162055	ID:18	Replaying DIO with fixed interval 
+775164698	ID:18	ticks value 512
+775224254	ID:21	Replaying DIO with fixed interval 
+775226898	ID:21	ticks value 512
+775733889	ID:20	Replaying DIO with fixed interval 
+775736532	ID:20	ticks value 512
+778363933	ID:19	Replaying DIO with fixed interval 
+778366632	ID:19	ticks value 512
+779170723	ID:18	Replaying DIO with fixed interval 
+779173396	ID:18	ticks value 512
+779231216	ID:21	Replaying DIO with fixed interval 
+779233859	ID:21	ticks value 512
+779741702	ID:20	Replaying DIO with fixed interval 
+779744345	ID:20	ticks value 512
+780336986	ID:10	Sending DATA to 1 'Hello 12' with NodeID= 10
+782373413	ID:19	Replaying DIO with fixed interval 
+782376056	ID:19	ticks value 512
+783177680	ID:18	Replaying DIO with fixed interval 
+783180323	ID:18	ticks value 512
+783239029	ID:21	Replaying DIO with fixed interval 
+783241672	ID:21	ticks value 512
+783749514	ID:20	Replaying DIO with fixed interval 
+783752157	ID:20	ticks value 512
+786378703	ID:19	Replaying DIO with fixed interval 
+786381346	ID:19	ticks value 512
+787185493	ID:18	Replaying DIO with fixed interval 
+787188136	ID:18	ticks value 512
+787246841	ID:21	Replaying DIO with fixed interval 
+787249484	ID:21	ticks value 512
+787757331	ID:20	Replaying DIO with fixed interval 
+787760014	ID:20	ticks value 512
+789224144	ID:17	Sending DATA to 1 'Hello 13' with NodeID= 17
+790386515	ID:19	Replaying DIO with fixed interval 
+790389159	ID:19	ticks value 512
+791193305	ID:18	Replaying DIO with fixed interval 
+791195948	ID:18	ticks value 512
+791254654	ID:21	Replaying DIO with fixed interval 
+791257297	ID:21	ticks value 512
+791765139	ID:20	Replaying DIO with fixed interval 
+791767782	ID:20	ticks value 512
+792840346	ID:5	Sending DATA to 1 'Hello 13' with NodeID= 5
+794394333	ID:19	Replaying DIO with fixed interval 
+794397016	ID:19	ticks value 512
+795125983	ID:4	Sending DATA to 1 'Hello 13' with NodeID= 4
+795201123	ID:18	Replaying DIO with fixed interval 
+795203796	ID:18	ticks value 512
+795262466	ID:21	Replaying DIO with fixed interval 
+795265109	ID:21	ticks value 512
+795772952	ID:20	Replaying DIO with fixed interval 
+795775595	ID:20	ticks value 512
+796019613	ID:14	Sending DATA to 1 'Hello 13' with NodeID= 14
+798402140	ID:19	Replaying DIO with fixed interval 
+798404784	ID:19	ticks value 512
+798846804	ID:7	Sending DATA to 1 'Hello 13' with NodeID= 7
+799208930	ID:18	Replaying DIO with fixed interval 
+799211573	ID:18	ticks value 512
+799270279	ID:21	Replaying DIO with fixed interval 
+799272922	ID:21	ticks value 512
+799780764	ID:20	Replaying DIO with fixed interval 
+799783407	ID:20	ticks value 512
+801316366	ID:12	Sending DATA to 1 'Hello 13' with NodeID= 12
+802409953	ID:19	Replaying DIO with fixed interval 
+802412596	ID:19	ticks value 512
+803216743	ID:18	Replaying DIO with fixed interval 
+803219386	ID:18	ticks value 512
+803278091	ID:21	Replaying DIO with fixed interval 
+803280734	ID:21	ticks value 512
+803789432	ID:20	Replaying DIO with fixed interval 
+803792105	ID:20	ticks value 512
+806417765	ID:19	Replaying DIO with fixed interval 
+806420408	ID:19	ticks value 512
+807224555	ID:18	Replaying DIO with fixed interval 
+807227198	ID:18	ticks value 512
+807285904	ID:21	Replaying DIO with fixed interval 
+807288547	ID:21	ticks value 512
+807796389	ID:20	Replaying DIO with fixed interval 
+807799032	ID:20	ticks value 512
+809754326	ID:16	Sending DATA to 1 'Hello 13' with NodeID= 16
+810425583	ID:19	Replaying DIO with fixed interval 
+810428266	ID:19	ticks value 512
+811232373	ID:18	Replaying DIO with fixed interval 
+811235046	ID:18	ticks value 512
+811293716	ID:21	Replaying DIO with fixed interval 
+811296359	ID:21	ticks value 512
+811804202	ID:20	Replaying DIO with fixed interval 
+811806845	ID:20	ticks value 512
+812055729	ID:10	Sending DATA to 1 'Hello 13' with NodeID= 10
+814433390	ID:19	Replaying DIO with fixed interval 
+814436034	ID:19	ticks value 512
+815240180	ID:18	Replaying DIO with fixed interval 
+815242823	ID:18	ticks value 512
+815301528	ID:21	Replaying DIO with fixed interval 
+815304172	ID:21	ticks value 512
+815812014	ID:20	Replaying DIO with fixed interval 
+815814657	ID:20	ticks value 512
+818441202	ID:19	Replaying DIO with fixed interval 
+818443846	ID:19	ticks value 512
+818981911	ID:8	Sending DATA to 1 'Hello 13' with NodeID= 8
+819248027	ID:18	Replaying DIO with fixed interval 
+819250670	ID:18	ticks value 512
+819309341	ID:21	Replaying DIO with fixed interval 
+819311984	ID:21	ticks value 512
+819819832	ID:20	Replaying DIO with fixed interval 
+819822505	ID:20	ticks value 512
+820412075	ID:13	Sending DATA to 1 'Hello 13' with NodeID= 13
+821445776	ID:6	Sending DATA to 1 'Hello 13' with NodeID= 6
+822191192	ID:9	Sending DATA to 1 'Hello 13' with NodeID= 9
+822449015	ID:19	Replaying DIO with fixed interval 
+822451658	ID:19	ticks value 512
+823255807	ID:18	Replaying DIO with fixed interval 
+823258450	ID:18	ticks value 512
+823317154	ID:21	Replaying DIO with fixed interval 
+823319797	ID:21	ticks value 512
+823827639	ID:20	Replaying DIO with fixed interval 
+823830282	ID:20	ticks value 512
+826456833	ID:19	Replaying DIO with fixed interval 
+826459516	ID:19	ticks value 512
+827017106	ID:15	Sending DATA to 1 'Hello 13' with NodeID= 15
+827263623	ID:18	Replaying DIO with fixed interval 
+827266296	ID:18	ticks value 512
+827324966	ID:21	Replaying DIO with fixed interval 
+827327609	ID:21	ticks value 512
+827835452	ID:20	Replaying DIO with fixed interval 
+827838095	ID:20	ticks value 512
+828934876	ID:2	Sending DATA to 1 'Hello 13' with NodeID= 2
+828938244	ID:3	Sending DATA to 1 'Hello 13' with NodeID= 3
+830464640	ID:19	Replaying DIO with fixed interval 
+830467283	ID:19	ticks value 512
+831271430	ID:18	Replaying DIO with fixed interval 
+831274073	ID:18	ticks value 512
+831332778	ID:21	Replaying DIO with fixed interval 
+831335422	ID:21	ticks value 512
+831843264	ID:20	Replaying DIO with fixed interval 
+831845907	ID:20	ticks value 512
+834472452	ID:19	Replaying DIO with fixed interval 
+834475096	ID:19	ticks value 512
+835279243	ID:18	Replaying DIO with fixed interval 
+835281886	ID:18	ticks value 512
+835340591	ID:21	Replaying DIO with fixed interval 
+835343234	ID:21	ticks value 512
+835851082	ID:20	Replaying DIO with fixed interval 
+835853755	ID:20	ticks value 512
+838480265	ID:19	Replaying DIO with fixed interval 
+838482908	ID:19	ticks value 512
+839287055	ID:18	Replaying DIO with fixed interval 
+839289698	ID:18	ticks value 512
+839349538	ID:21	Replaying DIO with fixed interval 
+839352611	ID:21	ticks value 512
+839858889	ID:20	Replaying DIO with fixed interval 
+839861532	ID:20	ticks value 512
+841256967	ID:11	Sending DATA to 1 'Hello 13' with NodeID= 11
+842488933	ID:19	Replaying DIO with fixed interval 
+842491606	ID:19	ticks value 512
+843295723	ID:18	Replaying DIO with fixed interval 
+843298396	ID:18	ticks value 512
+843358740	ID:21	Replaying DIO with fixed interval 
+843361383	ID:21	ticks value 512
+843519310	ID:9	Sending DATA to 1 'Hello 14' with NodeID= 9
+843866736	ID:20	Replaying DIO with fixed interval 
+843869379	ID:20	ticks value 512
+844316832	ID:16	Sending DATA to 1 'Hello 14' with NodeID= 16
+845614554	ID:2	Sending DATA to 1 'Hello 14' with NodeID= 2
+846495890	ID:19	Replaying DIO with fixed interval 
+846498533	ID:19	ticks value 512
+847302680	ID:18	Replaying DIO with fixed interval 
+847305323	ID:18	ticks value 512
+847364028	ID:21	Replaying DIO with fixed interval 
+847366672	ID:21	ticks value 512
+847874516	ID:20	Replaying DIO with fixed interval 
+847877159	ID:20	ticks value 512
+848064571	ID:10	Sending DATA to 1 'Hello 14' with NodeID= 10
+850503702	ID:19	Replaying DIO with fixed interval 
+850506346	ID:19	ticks value 512
+851310493	ID:18	Replaying DIO with fixed interval 
+851313136	ID:18	ticks value 512
+851371841	ID:21	Replaying DIO with fixed interval 
+851374484	ID:21	ticks value 512
+851882332	ID:20	Replaying DIO with fixed interval 
+851885005	ID:20	ticks value 512
+854227026	ID:6	Sending DATA to 1 'Hello 14' with NodeID= 6
+854511515	ID:19	Replaying DIO with fixed interval 
+854514158	ID:19	ticks value 512
+855318305	ID:18	Replaying DIO with fixed interval 
+855320948	ID:18	ticks value 512
+855379653	ID:21	Replaying DIO with fixed interval 
+855382297	ID:21	ticks value 512
+855890139	ID:20	Replaying DIO with fixed interval 
+855892782	ID:20	ticks value 512
+857852553	ID:4	Sending DATA to 1 'Hello 14' with NodeID= 4
+858519332	ID:19	Replaying DIO with fixed interval 
+858522005	ID:19	ticks value 512
+859326123	ID:18	Replaying DIO with fixed interval 
+859328796	ID:18	ticks value 512
+859387466	ID:21	Replaying DIO with fixed interval 
+859390109	ID:21	ticks value 512
+859589810	ID:12	Sending DATA to 1 'Hello 14' with NodeID= 12
+859897952	ID:20	Replaying DIO with fixed interval 
+859900595	ID:20	ticks value 512
+862527140	ID:19	Replaying DIO with fixed interval 
+862529783	ID:19	ticks value 512
+863333930	ID:18	Replaying DIO with fixed interval 
+863336573	ID:18	ticks value 512
+863395279	ID:21	Replaying DIO with fixed interval 
+863397922	ID:21	ticks value 512
+863905764	ID:20	Replaying DIO with fixed interval 
+863908407	ID:20	ticks value 512
+866534952	ID:19	Replaying DIO with fixed interval 
+866537596	ID:19	ticks value 512
+867341743	ID:18	Replaying DIO with fixed interval 
+867344386	ID:18	ticks value 512
+867403091	ID:21	Replaying DIO with fixed interval 
+867405734	ID:21	ticks value 512
+867635866	ID:7	Sending DATA to 1 'Hello 14' with NodeID= 7
+867914432	ID:20	Replaying DIO with fixed interval 
+867917105	ID:20	ticks value 512
+870542765	ID:19	Replaying DIO with fixed interval 
+870545408	ID:19	ticks value 512
+871349555	ID:18	Replaying DIO with fixed interval 
+871352198	ID:18	ticks value 512
+871410903	ID:21	Replaying DIO with fixed interval 
+871413547	ID:21	ticks value 512
+871419643	ID:8	Sending DATA to 1 'Hello 14' with NodeID= 8
+871921389	ID:20	Replaying DIO with fixed interval 
+871924032	ID:20	ticks value 512
+874550583	ID:19	Replaying DIO with fixed interval 
+874553256	ID:19	ticks value 512
+875235849	ID:15	Sending DATA to 1 'Hello 14' with NodeID= 15
+875357373	ID:18	Replaying DIO with fixed interval 
+875360046	ID:18	ticks value 512
+875418716	ID:21	Replaying DIO with fixed interval 
+875421359	ID:21	ticks value 512
+875929202	ID:20	Replaying DIO with fixed interval 
+875931845	ID:20	ticks value 512
+878558390	ID:19	Replaying DIO with fixed interval 
+878561033	ID:19	ticks value 512
+879365180	ID:18	Replaying DIO with fixed interval 
+879367823	ID:18	ticks value 512
+879426529	ID:21	Replaying DIO with fixed interval 
+879429172	ID:21	ticks value 512
+879937014	ID:20	Replaying DIO with fixed interval 
+879939657	ID:20	ticks value 512
+882566237	ID:19	Replaying DIO with fixed interval 
+882568880	ID:19	ticks value 512
+883372993	ID:18	Replaying DIO with fixed interval 
+883375636	ID:18	ticks value 512
+883434341	ID:21	Replaying DIO with fixed interval 
+883436984	ID:21	ticks value 512
+883497116	ID:13	Sending DATA to 1 'Hello 14' with NodeID= 13
+883944832	ID:20	Replaying DIO with fixed interval 
+883947505	ID:20	ticks value 512
+884230557	ID:14	Sending DATA to 1 'Hello 14' with NodeID= 14
+885350891	ID:5	Sending DATA to 1 'Hello 14' with NodeID= 5
+886574016	ID:19	Replaying DIO with fixed interval 
+886576659	ID:19	ticks value 512
+887380805	ID:18	Replaying DIO with fixed interval 
+887383449	ID:18	ticks value 512
+887442154	ID:21	Replaying DIO with fixed interval 
+887444797	ID:21	ticks value 512
+887952639	ID:20	Replaying DIO with fixed interval 
+887955282	ID:20	ticks value 512
+889967904	ID:11	Sending DATA to 1 'Hello 14' with NodeID= 11
+890581833	ID:19	Replaying DIO with fixed interval 
+890584505	ID:19	ticks value 512
+891388623	ID:18	Replaying DIO with fixed interval 
+891391296	ID:18	ticks value 512
+891449966	ID:21	Replaying DIO with fixed interval 
+891452609	ID:21	ticks value 512
+891960452	ID:20	Replaying DIO with fixed interval 
+891963095	ID:20	ticks value 512
+892682534	ID:3	Sending DATA to 1 'Hello 14' with NodeID= 3
+894589640	ID:19	Replaying DIO with fixed interval 
+894592283	ID:19	ticks value 512
+895396430	ID:18	Replaying DIO with fixed interval 
+895399073	ID:18	ticks value 512
+895457779	ID:21	Replaying DIO with fixed interval 
+895460422	ID:21	ticks value 512
+895968264	ID:20	Replaying DIO with fixed interval 
+895970907	ID:20	ticks value 512
+898597452	ID:19	Replaying DIO with fixed interval 
+898600096	ID:19	ticks value 512
+899404243	ID:18	Replaying DIO with fixed interval 
+899406886	ID:18	ticks value 512
+899465591	ID:21	Replaying DIO with fixed interval 
+899468234	ID:21	ticks value 512
+899976082	ID:20	Replaying DIO with fixed interval 
+899978755	ID:20	ticks value 512
+900606956	ID:17	Sending DATA to 1 'Hello 14' with NodeID= 17
+902605265	ID:19	Replaying DIO with fixed interval 
+902607908	ID:19	ticks value 512
+903412055	ID:18	Replaying DIO with fixed interval 
+903414698	ID:18	ticks value 512
+903474466	ID:21	Replaying DIO with fixed interval 
+903477468	ID:21	ticks value 512
+903983889	ID:20	Replaying DIO with fixed interval 
+903986532	ID:20	ticks value 512
+906613933	ID:19	Replaying DIO with fixed interval 
+906616606	ID:19	ticks value 512
+906880181	ID:2	Sending DATA to 1 'Hello 15' with NodeID= 2
+907421001	ID:18	Replaying DIO with fixed interval 
+907424083	ID:18	ticks value 512
+907481216	ID:21	Replaying DIO with fixed interval 
+907483859	ID:21	ticks value 512
+907991702	ID:20	Replaying DIO with fixed interval 
+907994345	ID:20	ticks value 512
+908922858	ID:4	Sending DATA to 1 'Hello 15' with NodeID= 4
+910620890	ID:19	Replaying DIO with fixed interval 
+910623533	ID:19	ticks value 512
+911427680	ID:18	Replaying DIO with fixed interval 
+911430323	ID:18	ticks value 512
+911489029	ID:21	Replaying DIO with fixed interval 
+911491672	ID:21	ticks value 512
+911815315	ID:3	Sending DATA to 1 'Hello 15' with NodeID= 3
+911999514	ID:20	Replaying DIO with fixed interval 
+912001035	ID:10	Sending DATA to 1 'Hello 15' with NodeID= 10
+912002157	ID:20	ticks value 512
+914628702	ID:19	Replaying DIO with fixed interval 
+914631346	ID:19	ticks value 512
+915435493	ID:18	Replaying DIO with fixed interval 
+915438136	ID:18	ticks value 512
+915496841	ID:21	Replaying DIO with fixed interval 
+915499484	ID:21	ticks value 512
+916007332	ID:20	Replaying DIO with fixed interval 
+916010005	ID:20	ticks value 512
+918636515	ID:19	Replaying DIO with fixed interval 
+918639158	ID:19	ticks value 512
+919443305	ID:18	Replaying DIO with fixed interval 
+919445948	ID:18	ticks value 512
+919504654	ID:21	Replaying DIO with fixed interval 
+919507297	ID:21	ticks value 512
+920015139	ID:20	Replaying DIO with fixed interval 
+920017782	ID:20	ticks value 512
+920446786	ID:15	Sending DATA to 1 'Hello 15' with NodeID= 15
+921643679	ID:7	Sending DATA to 1 'Hello 15' with NodeID= 7
+921920289	ID:13	Sending DATA to 1 'Hello 15' with NodeID= 13
+922644332	ID:19	Replaying DIO with fixed interval 
+922647005	ID:19	ticks value 512
+923451123	ID:18	Replaying DIO with fixed interval 
+923453796	ID:18	ticks value 512
+923512466	ID:21	Replaying DIO with fixed interval 
+923515109	ID:21	ticks value 512
+924022952	ID:20	Replaying DIO with fixed interval 
+924025595	ID:20	ticks value 512
+924394968	ID:16	Sending DATA to 1 'Hello 15' with NodeID= 16
+926652140	ID:19	Replaying DIO with fixed interval 
+926654783	ID:19	ticks value 512
+926880034	ID:6	Sending DATA to 1 'Hello 15' with NodeID= 6
+927458930	ID:18	Replaying DIO with fixed interval 
+927461573	ID:18	ticks value 512
+927520279	ID:21	Replaying DIO with fixed interval 
+927522922	ID:21	ticks value 512
+927918939	ID:5	Sending DATA to 1 'Hello 15' with NodeID= 5
+928030764	ID:20	Replaying DIO with fixed interval 
+928033407	ID:20	ticks value 512
+930659952	ID:19	Replaying DIO with fixed interval 
+930662596	ID:19	ticks value 512
+931466743	ID:18	Replaying DIO with fixed interval 
+931469386	ID:18	ticks value 512
+931528091	ID:21	Replaying DIO with fixed interval 
+931530734	ID:21	ticks value 512
+932039264	ID:20	Replaying DIO with fixed interval 
+932042227	ID:20	ticks value 512
+933217902	ID:11	Sending DATA to 1 'Hello 15' with NodeID= 11
+934667765	ID:19	Replaying DIO with fixed interval 
+934670408	ID:19	ticks value 512
+935474555	ID:18	Replaying DIO with fixed interval 
+935477198	ID:18	ticks value 512
+935535904	ID:21	Replaying DIO with fixed interval 
+935538547	ID:21	ticks value 512
+936046389	ID:20	Replaying DIO with fixed interval 
+936049032	ID:20	ticks value 512
+938675583	ID:19	Replaying DIO with fixed interval 
+938678255	ID:19	ticks value 512
+939482373	ID:18	Replaying DIO with fixed interval 
+939485046	ID:18	ticks value 512
+939543716	ID:21	Replaying DIO with fixed interval 
+939546359	ID:21	ticks value 512
+939817848	ID:8	Sending DATA to 1 'Hello 15' with NodeID= 8
+940054202	ID:20	Replaying DIO with fixed interval 
+940056845	ID:20	ticks value 512
+942683390	ID:19	Replaying DIO with fixed interval 
+942686033	ID:19	ticks value 512
+943490180	ID:18	Replaying DIO with fixed interval 
+943492823	ID:18	ticks value 512
+943551563	ID:21	Replaying DIO with fixed interval 
+943554206	ID:21	ticks value 512
+944062014	ID:20	Replaying DIO with fixed interval 
+944064657	ID:20	ticks value 512
+946691202	ID:19	Replaying DIO with fixed interval 
+946693846	ID:19	ticks value 512
+947497993	ID:18	Replaying DIO with fixed interval 
+947500636	ID:18	ticks value 512
+947559343	ID:21	Replaying DIO with fixed interval 
+947561986	ID:21	ticks value 512
+948069832	ID:20	Replaying DIO with fixed interval 
+948072505	ID:20	ticks value 512
+950699015	ID:19	Replaying DIO with fixed interval 
+950701658	ID:19	ticks value 512
+950910105	ID:12	Sending DATA to 1 'Hello 15' with NodeID= 12
+951505805	ID:18	Replaying DIO with fixed interval 
+951508448	ID:18	ticks value 512
+951567154	ID:21	Replaying DIO with fixed interval 
+951569797	ID:21	ticks value 512
+952077639	ID:20	Replaying DIO with fixed interval 
+952080282	ID:20	ticks value 512
+954027136	ID:9	Sending DATA to 1 'Hello 15' with NodeID= 9
+954706833	ID:19	Replaying DIO with fixed interval 
+954709505	ID:19	ticks value 512
+955513623	ID:18	Replaying DIO with fixed interval 
+955516296	ID:18	ticks value 512
+955574966	ID:21	Replaying DIO with fixed interval 
+955577609	ID:21	ticks value 512
+956085452	ID:20	Replaying DIO with fixed interval 
+956088095	ID:20	ticks value 512
+956334281	ID:17	Sending DATA to 1 'Hello 15' with NodeID= 17
+957160453	ID:14	Sending DATA to 1 'Hello 15' with NodeID= 14
+958714640	ID:19	Replaying DIO with fixed interval 
+958717283	ID:19	ticks value 512
+959521430	ID:18	Replaying DIO with fixed interval 
+959524073	ID:18	ticks value 512
+959582779	ID:21	Replaying DIO with fixed interval 
+959585422	ID:21	ticks value 512
+960093264	ID:20	Replaying DIO with fixed interval 
+960095907	ID:20	ticks value 512
+962722452	ID:19	Replaying DIO with fixed interval 
+962725096	ID:19	ticks value 512
+963529243	ID:18	Replaying DIO with fixed interval 
+963531886	ID:18	ticks value 512
+963590591	ID:21	Replaying DIO with fixed interval 
+963593234	ID:21	ticks value 512
+964101082	ID:20	Replaying DIO with fixed interval 
+964103755	ID:20	ticks value 512
+966152122	ID:9	Sending DATA to 1 'Hello 16' with NodeID= 9
+966730265	ID:19	Replaying DIO with fixed interval 
+966732908	ID:19	ticks value 512
+967537055	ID:18	Replaying DIO with fixed interval 
+967539698	ID:18	ticks value 512
+967599254	ID:21	Replaying DIO with fixed interval 
+967601898	ID:21	ticks value 512
+968108889	ID:20	Replaying DIO with fixed interval 
+968111532	ID:20	ticks value 512
+970706991	ID:12	Sending DATA to 1 'Hello 16' with NodeID= 12
+970739212	ID:19	Replaying DIO with fixed interval 
+970742294	ID:19	ticks value 512
+971545723	ID:18	Replaying DIO with fixed interval 
+971548396	ID:18	ticks value 512
+971606594	ID:21	Replaying DIO with fixed interval 
+971609237	ID:21	ticks value 512
+972116702	ID:20	Replaying DIO with fixed interval 
+972119345	ID:20	ticks value 512
+972539526	ID:6	Sending DATA to 1 'Hello 16' with NodeID= 6
+974746107	ID:19	Replaying DIO with fixed interval 
+974748750	ID:19	ticks value 512
+975254326	ID:16	Sending DATA to 1 'Hello 16' with NodeID= 16
+975553119	ID:18	Replaying DIO with fixed interval 
+975555763	ID:18	ticks value 512
+975614029	ID:21	Replaying DIO with fixed interval 
+975616672	ID:21	ticks value 512
+976124514	ID:20	Replaying DIO with fixed interval 
+976127157	ID:20	ticks value 512
+976247586	ID:17	Sending DATA to 1 'Hello 16' with NodeID= 17
+978753702	ID:19	Replaying DIO with fixed interval 
+978756346	ID:19	ticks value 512
+979560493	ID:18	Replaying DIO with fixed interval 
+979563136	ID:18	ticks value 512
+979621841	ID:21	Replaying DIO with fixed interval 
+979624484	ID:21	ticks value 512
+980132332	ID:20	Replaying DIO with fixed interval 
+980135005	ID:20	ticks value 512
+981123006	ID:13	Sending DATA to 1 'Hello 16' with NodeID= 13
+982761515	ID:19	Replaying DIO with fixed interval 
+982764158	ID:19	ticks value 512
+983568305	ID:18	Replaying DIO with fixed interval 
+983570948	ID:18	ticks value 512
+983629654	ID:21	Replaying DIO with fixed interval 
+983632297	ID:21	ticks value 512
+984140139	ID:20	Replaying DIO with fixed interval 
+984142782	ID:20	ticks value 512
+985647592	ID:11	Sending DATA to 1 'Hello 16' with NodeID= 11
+986769332	ID:19	Replaying DIO with fixed interval 
+986772005	ID:19	ticks value 512
+987576123	ID:18	Replaying DIO with fixed interval 
+987578796	ID:18	ticks value 512
+987637466	ID:21	Replaying DIO with fixed interval 
+987640109	ID:21	ticks value 512
+988147952	ID:20	Replaying DIO with fixed interval 
+988150595	ID:20	ticks value 512
+989555654	ID:3	Sending DATA to 1 'Hello 16' with NodeID= 3
+990180722	ID:10	Sending DATA to 1 'Hello 16' with NodeID= 10
+990777140	ID:19	Replaying DIO with fixed interval 
+990779783	ID:19	ticks value 512
+991583930	ID:18	Replaying DIO with fixed interval 
+991586573	ID:18	ticks value 512
+991645279	ID:21	Replaying DIO with fixed interval 
+991647922	ID:21	ticks value 512
+992155764	ID:20	Replaying DIO with fixed interval 
+992158407	ID:20	ticks value 512
+992692331	ID:15	Sending DATA to 1 'Hello 16' with NodeID= 15
+994784952	ID:19	Replaying DIO with fixed interval 
+994787596	ID:19	ticks value 512
+995591743	ID:18	Replaying DIO with fixed interval 
+995594386	ID:18	ticks value 512
+995653091	ID:21	Replaying DIO with fixed interval 
+995655734	ID:21	ticks value 512
+995721804	ID:7	Sending DATA to 1 'Hello 16' with NodeID= 7
+996164352	ID:20	Replaying DIO with fixed interval 
+996167024	ID:20	ticks value 512
+998520820	ID:2	Sending DATA to 1 'Hello 16' with NodeID= 2
+998792765	ID:19	Replaying DIO with fixed interval 
+998795408	ID:19	ticks value 512
+999599555	ID:18	Replaying DIO with fixed interval 
+999602198	ID:18	ticks value 512
+999660904	ID:21	Replaying DIO with fixed interval 
+999663547	ID:21	ticks value 512
+1000171389	ID:20	Replaying DIO with fixed interval 
+1000174032	ID:20	ticks value 512
+1002540046	ID:4	Sending DATA to 1 'Hello 16' with NodeID= 4
+1002800583	ID:19	Replaying DIO with fixed interval 
+1002803255	ID:19	ticks value 512
+1003607373	ID:18	Replaying DIO with fixed interval 
+1003610046	ID:18	ticks value 512
+1003668716	ID:21	Replaying DIO with fixed interval 
+1003671359	ID:21	ticks value 512
+1003700751	ID:14	Sending DATA to 1 'Hello 16' with NodeID= 14
+1004179202	ID:20	Replaying DIO with fixed interval 
+1004181845	ID:20	ticks value 512
+1006808390	ID:19	Replaying DIO with fixed interval 
+1006811033	ID:19	ticks value 512
+1007615180	ID:18	Replaying DIO with fixed interval 
+1007617823	ID:18	ticks value 512
+1007676529	ID:21	Replaying DIO with fixed interval 
+1007679172	ID:21	ticks value 512
+1008187014	ID:20	Replaying DIO with fixed interval 
+1008189657	ID:20	ticks value 512
+1010816202	ID:19	Replaying DIO with fixed interval 
+1010818846	ID:19	ticks value 512
+1011622993	ID:18	Replaying DIO with fixed interval 
+1011625636	ID:18	ticks value 512
+1011684341	ID:21	Replaying DIO with fixed interval 
+1011686984	ID:21	ticks value 512
+1012194832	ID:20	Replaying DIO with fixed interval 
+1012197505	ID:20	ticks value 512
+1014824015	ID:19	Replaying DIO with fixed interval 
+1014826658	ID:19	ticks value 512
+1014872536	ID:8	Sending DATA to 1 'Hello 16' with NodeID= 8
+1015543485	ID:5	Sending DATA to 1 'Hello 16' with NodeID= 5
+1015630805	ID:18	Replaying DIO with fixed interval 
+1015633448	ID:18	ticks value 512
+1015692154	ID:21	Replaying DIO with fixed interval 
+1015694797	ID:21	ticks value 512
+1016202639	ID:20	Replaying DIO with fixed interval 
+1016205282	ID:20	ticks value 512
+1018831833	ID:19	Replaying DIO with fixed interval 
+1018834505	ID:19	ticks value 512
+1019638623	ID:18	Replaying DIO with fixed interval 
+1019641296	ID:18	ticks value 512
+1019699966	ID:21	Replaying DIO with fixed interval 
+1019702609	ID:21	ticks value 512
+1020210452	ID:20	Replaying DIO with fixed interval 
+1020213095	ID:20	ticks value 512
+1022223152	ID:5	Sending DATA to 1 'Hello 17' with NodeID= 5
+1022364556	ID:2	Sending DATA to 1 'Hello 17' with NodeID= 2
+1022839640	ID:19	Replaying DIO with fixed interval 
+1022842283	ID:19	ticks value 512
+1023646430	ID:18	Replaying DIO with fixed interval 
+1023649073	ID:18	ticks value 512
+1023707779	ID:21	Replaying DIO with fixed interval 
+1023710422	ID:21	ticks value 512
+1024218264	ID:20	Replaying DIO with fixed interval 
+1024220907	ID:20	ticks value 512
+1024781707	ID:6	Sending DATA to 1 'Hello 17' with NodeID= 6
+1026847452	ID:19	Replaying DIO with fixed interval 
+1026850096	ID:19	ticks value 512
+1027654243	ID:18	Replaying DIO with fixed interval 
+1027656887	ID:18	ticks value 512
+1027715591	ID:21	Replaying DIO with fixed interval 
+1027718235	ID:21	ticks value 512
+1028226082	ID:20	Replaying DIO with fixed interval 
+1028228755	ID:20	ticks value 512
+1030855265	ID:19	Replaying DIO with fixed interval 
+1030857909	ID:19	ticks value 512
+1031662055	ID:18	Replaying DIO with fixed interval 
+1031664699	ID:18	ticks value 512
+1031724254	ID:21	Replaying DIO with fixed interval 
+1031726898	ID:21	ticks value 512
+1032233889	ID:20	Replaying DIO with fixed interval 
+1032236533	ID:20	ticks value 512
+1034341757	ID:13	Sending DATA to 1 'Hello 17' with NodeID= 13
+1034863933	ID:19	Replaying DIO with fixed interval 
+1034866607	ID:19	ticks value 512
+1035670723	ID:18	Replaying DIO with fixed interval 
+1035673397	ID:18	ticks value 512
+1035731216	ID:21	Replaying DIO with fixed interval 
+1035733860	ID:21	ticks value 512
+1036241702	ID:20	Replaying DIO with fixed interval 
+1036244346	ID:20	ticks value 512
+1036958520	ID:17	Sending DATA to 1 'Hello 17' with NodeID= 17
+1038870890	ID:19	Replaying DIO with fixed interval 
+1038873534	ID:19	ticks value 512
+1039677680	ID:18	Replaying DIO with fixed interval 
+1039680324	ID:18	ticks value 512
+1039739029	ID:21	Replaying DIO with fixed interval 
+1039741673	ID:21	ticks value 512
+1040249514	ID:20	Replaying DIO with fixed interval 
+1040252158	ID:20	ticks value 512
+1042777778	ID:16	Sending DATA to 1 'Hello 17' with NodeID= 16
+1042878702	ID:19	Replaying DIO with fixed interval 
+1042881346	ID:19	ticks value 512
+1043685493	ID:18	Replaying DIO with fixed interval 
+1043688137	ID:18	ticks value 512
+1043746841	ID:21	Replaying DIO with fixed interval 
+1043749485	ID:21	ticks value 512
+1044257332	ID:20	Replaying DIO with fixed interval 
+1044260005	ID:20	ticks value 512
+1046886515	ID:19	Replaying DIO with fixed interval 
+1046889159	ID:19	ticks value 512
+1047088074	ID:9	Sending DATA to 1 'Hello 17' with NodeID= 9
+1047693305	ID:18	Replaying DIO with fixed interval 
+1047695949	ID:18	ticks value 512
+1047754654	ID:21	Replaying DIO with fixed interval 
+1047757298	ID:21	ticks value 512
+1048265139	ID:20	Replaying DIO with fixed interval 
+1048267783	ID:20	ticks value 512
+1048441995	ID:10	Sending DATA to 1 'Hello 17' with NodeID= 10
+1050894333	ID:19	Replaying DIO with fixed interval 
+1050897006	ID:19	ticks value 512
+1051565778	ID:7	Sending DATA to 1 'Hello 17' with NodeID= 7
+1051701123	ID:18	Replaying DIO with fixed interval 
+1051703796	ID:18	ticks value 512
+1051762466	ID:21	Replaying DIO with fixed interval 
+1051765110	ID:21	ticks value 512
+1052272952	ID:20	Replaying DIO with fixed interval 
+1052275596	ID:20	ticks value 512
+1054902140	ID:19	Replaying DIO with fixed interval 
+1054904784	ID:19	ticks value 512
+1055708930	ID:18	Replaying DIO with fixed interval 
+1055711574	ID:18	ticks value 512
+1055770279	ID:21	Replaying DIO with fixed interval 
+1055772923	ID:21	ticks value 512
+1056280764	ID:20	Replaying DIO with fixed interval 
+1056283408	ID:20	ticks value 512
+1056511801	ID:14	Sending DATA to 1 'Hello 17' with NodeID= 14
+1058909952	ID:19	Replaying DIO with fixed interval 
+1058912596	ID:19	ticks value 512
+1058944475	ID:11	Sending DATA to 1 'Hello 17' with NodeID= 11
+1059716743	ID:18	Replaying DIO with fixed interval 
+1059719387	ID:18	ticks value 512
+1059778091	ID:21	Replaying DIO with fixed interval 
+1059780735	ID:21	ticks value 512
+1060289432	ID:20	Replaying DIO with fixed interval 
+1060292106	ID:20	ticks value 512
+1062917765	ID:19	Replaying DIO with fixed interval 
+1062920409	ID:19	ticks value 512
+1063724555	ID:18	Replaying DIO with fixed interval 
+1063727199	ID:18	ticks value 512
+1063785904	ID:21	Replaying DIO with fixed interval 
+1063788548	ID:21	ticks value 512
+1063794635	ID:8	Sending DATA to 1 'Hello 17' with NodeID= 8
+1064296389	ID:20	Replaying DIO with fixed interval 
+1064299033	ID:20	ticks value 512
+1066925583	ID:19	Replaying DIO with fixed interval 
+1066928256	ID:19	ticks value 512
+1067732373	ID:18	Replaying DIO with fixed interval 
+1067735046	ID:18	ticks value 512
+1067793716	ID:21	Replaying DIO with fixed interval 
+1067796360	ID:21	ticks value 512
+1068304202	ID:20	Replaying DIO with fixed interval 
+1068306846	ID:20	ticks value 512
+1070144492	ID:12	Sending DATA to 1 'Hello 17' with NodeID= 12
+1070933390	ID:19	Replaying DIO with fixed interval 
+1070936034	ID:19	ticks value 512
+1071469502	ID:3	Sending DATA to 1 'Hello 17' with NodeID= 3
+1071740180	ID:18	Replaying DIO with fixed interval 
+1071742824	ID:18	ticks value 512
+1071801529	ID:21	Replaying DIO with fixed interval 
+1071804173	ID:21	ticks value 512
+1072312014	ID:20	Replaying DIO with fixed interval 
+1072314658	ID:20	ticks value 512
+1074672873	ID:4	Sending DATA to 1 'Hello 17' with NodeID= 4
+1074941202	ID:19	Replaying DIO with fixed interval 
+1074943846	ID:19	ticks value 512
+1075747993	ID:18	Replaying DIO with fixed interval 
+1075750637	ID:18	ticks value 512
+1075809341	ID:21	Replaying DIO with fixed interval 
+1075811985	ID:21	ticks value 512
+1076319832	ID:20	Replaying DIO with fixed interval 
+1076322505	ID:20	ticks value 512
+1076501475	ID:15	Sending DATA to 1 'Hello 17' with NodeID= 15
+1078949015	ID:19	Replaying DIO with fixed interval 
+1078951659	ID:19	ticks value 512
+1079755805	ID:18	Replaying DIO with fixed interval 
+1079758449	ID:18	ticks value 512
+1079817154	ID:21	Replaying DIO with fixed interval 
+1079819798	ID:21	ticks value 512
+1080327639	ID:20	Replaying DIO with fixed interval 
+1080330283	ID:20	ticks value 512
+1082956833	ID:19	Replaying DIO with fixed interval 
+1082959506	ID:19	ticks value 512
+1083763623	ID:18	Replaying DIO with fixed interval 
+1083766296	ID:18	ticks value 512
+1083824966	ID:21	Replaying DIO with fixed interval 
+1083827610	ID:21	ticks value 512
+1084335452	ID:20	Replaying DIO with fixed interval 
+1084338096	ID:20	ticks value 512
+1086964640	ID:19	Replaying DIO with fixed interval 
+1086967284	ID:19	ticks value 512
+1087771430	ID:18	Replaying DIO with fixed interval 
+1087774074	ID:18	ticks value 512
+1087832779	ID:21	Replaying DIO with fixed interval 
+1087835423	ID:21	ticks value 512
+1088343264	ID:20	Replaying DIO with fixed interval 
+1088345908	ID:20	ticks value 512
+1090972452	ID:19	Replaying DIO with fixed interval 
+1090975096	ID:19	ticks value 512
+1091779243	ID:18	Replaying DIO with fixed interval 
+1091781887	ID:18	ticks value 512
+1091840591	ID:21	Replaying DIO with fixed interval 
+1091843235	ID:21	ticks value 512
+1092351082	ID:20	Replaying DIO with fixed interval 
+1092353755	ID:20	ticks value 512
+1094980265	ID:19	Replaying DIO with fixed interval 
+1094982909	ID:19	ticks value 512
+1095787055	ID:18	Replaying DIO with fixed interval 
+1095789699	ID:18	ticks value 512
+1095849466	ID:21	Replaying DIO with fixed interval 
+1095852469	ID:21	ticks value 512
+1096358889	ID:20	Replaying DIO with fixed interval 
+1096361533	ID:20	ticks value 512
+1096817902	ID:17	Sending DATA to 1 'Hello 18' with NodeID= 17
+1097808555	ID:12	Sending DATA to 1 'Hello 18' with NodeID= 12
+1098988933	ID:19	Replaying DIO with fixed interval 
+1098991607	ID:19	ticks value 512
+1099770035	ID:5	Sending DATA to 1 'Hello 18' with NodeID= 5
+1099795555	ID:18	Replaying DIO with fixed interval 
+1099798476	ID:18	ticks value 512
+1099856594	ID:21	Replaying DIO with fixed interval 
+1099859238	ID:21	ticks value 512
+1100156817	ID:9	Sending DATA to 1 'Hello 18' with NodeID= 9
+1100366702	ID:20	Replaying DIO with fixed interval 
+1100369346	ID:20	ticks value 512
+1102996268	ID:19	Replaying DIO with fixed interval 
+1102998912	ID:19	ticks value 512
+1103802680	ID:18	Replaying DIO with fixed interval 
+1103805324	ID:18	ticks value 512
+1103864029	ID:21	Replaying DIO with fixed interval 
+1103866673	ID:21	ticks value 512
+1104374514	ID:20	Replaying DIO with fixed interval 
+1104377158	ID:20	ticks value 512
+1107003702	ID:19	Replaying DIO with fixed interval 
+1107006346	ID:19	ticks value 512
+1107810493	ID:18	Replaying DIO with fixed interval 
+1107813137	ID:18	ticks value 512
+1107871841	ID:21	Replaying DIO with fixed interval 
+1107874485	ID:21	ticks value 512
+1108382332	ID:20	Replaying DIO with fixed interval 
+1108385005	ID:20	ticks value 512
+1109371555	ID:16	Sending DATA to 1 'Hello 18' with NodeID= 16
+1111011515	ID:19	Replaying DIO with fixed interval 
+1111014159	ID:19	ticks value 512
+1111263001	ID:2	Sending DATA to 1 'Hello 18' with NodeID= 2
+1111818305	ID:18	Replaying DIO with fixed interval 
+1111820949	ID:18	ticks value 512
+1111879654	ID:21	Replaying DIO with fixed interval 
+1111882298	ID:21	ticks value 512
+1112390139	ID:20	Replaying DIO with fixed interval 
+1112392783	ID:20	ticks value 512
+1112912069	ID:13	Sending DATA to 1 'Hello 18' with NodeID= 13
+1115019333	ID:19	Replaying DIO with fixed interval 
+1115022006	ID:19	ticks value 512
+1115826123	ID:18	Replaying DIO with fixed interval 
+1115828796	ID:18	ticks value 512
+1115887466	ID:21	Replaying DIO with fixed interval 
+1115890110	ID:21	ticks value 512
+1116397952	ID:20	Replaying DIO with fixed interval 
+1116400596	ID:20	ticks value 512
+1116763378	ID:8	Sending DATA to 1 'Hello 18' with NodeID= 8
+1117532285	ID:10	Sending DATA to 1 'Hello 18' with NodeID= 10
+1119027140	ID:19	Replaying DIO with fixed interval 
+1119029784	ID:19	ticks value 512
+1119454109	ID:4	Sending DATA to 1 'Hello 18' with NodeID= 4
+1119833930	ID:18	Replaying DIO with fixed interval 
+1119836574	ID:18	ticks value 512
+1119895279	ID:21	Replaying DIO with fixed interval 
+1119897923	ID:21	ticks value 512
+1120405764	ID:20	Replaying DIO with fixed interval 
+1120408408	ID:20	ticks value 512
+1123034952	ID:19	Replaying DIO with fixed interval 
+1123037596	ID:19	ticks value 512
+1123067396	ID:14	Sending DATA to 1 'Hello 18' with NodeID= 14
+1123841743	ID:18	Replaying DIO with fixed interval 
+1123844387	ID:18	ticks value 512
+1123903091	ID:21	Replaying DIO with fixed interval 
+1123905735	ID:21	ticks value 512
+1124414432	ID:20	Replaying DIO with fixed interval 
+1124417106	ID:20	ticks value 512
+1125687964	ID:6	Sending DATA to 1 'Hello 18' with NodeID= 6
+1126048350	ID:15	Sending DATA to 1 'Hello 18' with NodeID= 15
+1127042765	ID:19	Replaying DIO with fixed interval 
+1127045409	ID:19	ticks value 512
+1127849555	ID:18	Replaying DIO with fixed interval 
+1127852199	ID:18	ticks value 512
+1127910904	ID:21	Replaying DIO with fixed interval 
+1127913548	ID:21	ticks value 512
+1128274196	ID:3	Sending DATA to 1 'Hello 18' with NodeID= 3
+1128421616	ID:20	Replaying DIO with fixed interval 
+1128426616	ID:20	ticks value 512
+1131050583	ID:19	Replaying DIO with fixed interval 
+1131053256	ID:19	ticks value 512
+1131857373	ID:18	Replaying DIO with fixed interval 
+1131860046	ID:18	ticks value 512
+1131918716	ID:21	Replaying DIO with fixed interval 
+1131921360	ID:21	ticks value 512
+1132429202	ID:20	Replaying DIO with fixed interval 
+1132431846	ID:20	ticks value 512
+1134913211	ID:11	Sending DATA to 1 'Hello 18' with NodeID= 11
+1134956186	ID:7	Sending DATA to 1 'Hello 18' with NodeID= 7
+1135058390	ID:19	Replaying DIO with fixed interval 
+1135061034	ID:19	ticks value 512
+1135865180	ID:18	Replaying DIO with fixed interval 
+1135867824	ID:18	ticks value 512
+1135926529	ID:21	Replaying DIO with fixed interval 
+1135929173	ID:21	ticks value 512
+1136437014	ID:20	Replaying DIO with fixed interval 
+1136439658	ID:20	ticks value 512
+1139066202	ID:19	Replaying DIO with fixed interval 
+1139068846	ID:19	ticks value 512
+1139872993	ID:18	Replaying DIO with fixed interval 
+1139875637	ID:18	ticks value 512
+1139934341	ID:21	Replaying DIO with fixed interval 
+1139936985	ID:21	ticks value 512
+1140444832	ID:20	Replaying DIO with fixed interval 
+1140447505	ID:20	ticks value 512
+1143074015	ID:19	Replaying DIO with fixed interval 
+1143076659	ID:19	ticks value 512
+1143880805	ID:18	Replaying DIO with fixed interval 
+1143883449	ID:18	ticks value 512
+1143942154	ID:21	Replaying DIO with fixed interval 
+1143944798	ID:21	ticks value 512
+1144452639	ID:20	Replaying DIO with fixed interval 
+1144455283	ID:20	ticks value 512
+1147081833	ID:19	Replaying DIO with fixed interval 
+1147084506	ID:19	ticks value 512
+1147888623	ID:18	Replaying DIO with fixed interval 
+1147891296	ID:18	ticks value 512
+1147949966	ID:21	Replaying DIO with fixed interval 
+1147952610	ID:21	ticks value 512
+1148460452	ID:20	Replaying DIO with fixed interval 
+1148463096	ID:20	ticks value 512
+1150608523	ID:11	Sending DATA to 1 'Hello 19' with NodeID= 11
+1151089640	ID:19	Replaying DIO with fixed interval 
+1151092284	ID:19	ticks value 512
+1151896430	ID:18	Replaying DIO with fixed interval 
+1151899074	ID:18	ticks value 512
+1151957779	ID:21	Replaying DIO with fixed interval 
+1151960423	ID:21	ticks value 512
+1152468264	ID:20	Replaying DIO with fixed interval 
+1152470908	ID:20	ticks value 512
+1155097452	ID:19	Replaying DIO with fixed interval 
+1155100096	ID:19	ticks value 512
+1155904243	ID:18	Replaying DIO with fixed interval 
+1155906887	ID:18	ticks value 512
+1155965591	ID:21	Replaying DIO with fixed interval 
+1155968235	ID:21	ticks value 512
+1156476082	ID:20	Replaying DIO with fixed interval 
+1156478755	ID:20	ticks value 512
+1159105265	ID:19	Replaying DIO with fixed interval 
+1159107909	ID:19	ticks value 512
+1159912055	ID:18	Replaying DIO with fixed interval 
+1159914699	ID:18	ticks value 512
+1159974090	ID:21	Replaying DIO with fixed interval 
+1159977060	ID:21	ticks value 512
+1160483889	ID:20	Replaying DIO with fixed interval 
+1160486533	ID:20	ticks value 512
+1161609839	ID:6	Sending DATA to 1 'Hello 19' with NodeID= 6
+1163113933	ID:19	Replaying DIO with fixed interval 
+1163116607	ID:19	ticks value 512
+1163871528	ID:16	Sending DATA to 1 'Hello 19' with NodeID= 16
+1163920723	ID:18	Replaying DIO with fixed interval 
+1163923397	ID:18	ticks value 512
+1163981594	ID:21	Replaying DIO with fixed interval 
+1163984238	ID:21	ticks value 512
+1164491702	ID:20	Replaying DIO with fixed interval 
+1164494346	ID:20	ticks value 512
+1167120890	ID:19	Replaying DIO with fixed interval 
+1167123534	ID:19	ticks value 512
+1167927680	ID:18	Replaying DIO with fixed interval 
+1167930324	ID:18	ticks value 512
+1167989029	ID:21	Replaying DIO with fixed interval 
+1167991673	ID:21	ticks value 512
+1168499514	ID:20	Replaying DIO with fixed interval 
+1168502158	ID:20	ticks value 512
+1169972028	ID:7	Sending DATA to 1 'Hello 19' with NodeID= 7
+1170552224	ID:8	Sending DATA to 1 'Hello 19' with NodeID= 8
+1171128702	ID:19	Replaying DIO with fixed interval 
+1171131346	ID:19	ticks value 512
+1171684097	ID:5	Sending DATA to 1 'Hello 19' with NodeID= 5
+1171935493	ID:18	Replaying DIO with fixed interval 
+1171938137	ID:18	ticks value 512
+1171996841	ID:21	Replaying DIO with fixed interval 
+1171999485	ID:21	ticks value 512
+1172507332	ID:20	Replaying DIO with fixed interval 
+1172510005	ID:20	ticks value 512
+1175136515	ID:19	Replaying DIO with fixed interval 
+1175139159	ID:19	ticks value 512
+1175454116	ID:4	Sending DATA to 1 'Hello 19' with NodeID= 4
+1175943305	ID:18	Replaying DIO with fixed interval 
+1175945949	ID:18	ticks value 512
+1176004654	ID:21	Replaying DIO with fixed interval 
+1176007298	ID:21	ticks value 512
+1176515139	ID:20	Replaying DIO with fixed interval 
+1176517783	ID:20	ticks value 512
+1178165105	ID:10	Sending DATA to 1 'Hello 19' with NodeID= 10
+1179144333	ID:19	Replaying DIO with fixed interval 
+1179147006	ID:19	ticks value 512
+1179951123	ID:18	Replaying DIO with fixed interval 
+1179953796	ID:18	ticks value 512
+1180012466	ID:21	Replaying DIO with fixed interval 
+1180015110	ID:21	ticks value 512
+1180522952	ID:20	Replaying DIO with fixed interval 
+1180525596	ID:20	ticks value 512
+1181509292	ID:15	Sending DATA to 1 'Hello 19' with NodeID= 15
+1182183380	ID:9	Sending DATA to 1 'Hello 19' with NodeID= 9
+1183152140	ID:19	Replaying DIO with fixed interval 
+1183154784	ID:19	ticks value 512
+1183958930	ID:18	Replaying DIO with fixed interval 
+1183961574	ID:18	ticks value 512
+1183974138	ID:17	Sending DATA to 1 'Hello 19' with NodeID= 17
+1184020279	ID:21	Replaying DIO with fixed interval 
+1184022923	ID:21	ticks value 512
+1184289808	ID:3	Sending DATA to 1 'Hello 19' with NodeID= 3
+1184530764	ID:20	Replaying DIO with fixed interval 
+1184533408	ID:20	ticks value 512
+1186425864	ID:14	Sending DATA to 1 'Hello 19' with NodeID= 14
+1187159952	ID:19	Replaying DIO with fixed interval 
+1187162596	ID:19	ticks value 512
+1187966743	ID:18	Replaying DIO with fixed interval 
+1187969387	ID:18	ticks value 512
+1188028091	ID:21	Replaying DIO with fixed interval 
+1188030735	ID:21	ticks value 512
+1188539432	ID:20	Replaying DIO with fixed interval 
+1188542106	ID:20	ticks value 512
+1190496054	ID:12	Sending DATA to 1 'Hello 19' with NodeID= 12
+1191167765	ID:19	Replaying DIO with fixed interval 
+1191170409	ID:19	ticks value 512
+1191974555	ID:18	Replaying DIO with fixed interval 
+1191977199	ID:18	ticks value 512
+1192035904	ID:21	Replaying DIO with fixed interval 
+1192038548	ID:21	ticks value 512
+1192546389	ID:20	Replaying DIO with fixed interval 
+1192549033	ID:20	ticks value 512
+1192935107	ID:2	Sending DATA to 1 'Hello 19' with NodeID= 2
+1195099576	ID:13	Sending DATA to 1 'Hello 19' with NodeID= 13
+1195175583	ID:19	Replaying DIO with fixed interval 
+1195178256	ID:19	ticks value 512
+1195982373	ID:18	Replaying DIO with fixed interval 
+1195985046	ID:18	ticks value 512
+1196043716	ID:21	Replaying DIO with fixed interval 
+1196046360	ID:21	ticks value 512
+1196554202	ID:20	Replaying DIO with fixed interval 
+1196556846	ID:20	ticks value 512
+1199183390	ID:19	Replaying DIO with fixed interval 
+1199186034	ID:19	ticks value 512
+1199990180	ID:18	Replaying DIO with fixed interval 
+1199992824	ID:18	ticks value 512
+1200051529	ID:21	Replaying DIO with fixed interval 
+1200054173	ID:21	ticks value 512
+1200562014	ID:20	Replaying DIO with fixed interval 
+1200564658	ID:20	ticks value 512
+1203191202	ID:19	Replaying DIO with fixed interval 
+1203193844	ID:19	ticks value 512
+1203997992	ID:18	Replaying DIO with fixed interval 
+1204000634	ID:18	ticks value 512
+1204059341	ID:21	Replaying DIO with fixed interval 
+1204061983	ID:21	ticks value 512
+1204569832	ID:20	Replaying DIO with fixed interval 
+1204572503	ID:20	ticks value 512
+1207199015	ID:19	Replaying DIO with fixed interval 
+1207201657	ID:19	ticks value 512
+1208005805	ID:18	Replaying DIO with fixed interval 
+1208008447	ID:18	ticks value 512
+1208067153	ID:21	Replaying DIO with fixed interval 
+1208069795	ID:21	ticks value 512
+1208577639	ID:20	Replaying DIO with fixed interval 
+1208580281	ID:20	ticks value 512
+1208897592	ID:11	Sending DATA to 1 'Hello 20' with NodeID= 11
+1211206833	ID:19	Replaying DIO with fixed interval 
+1211209504	ID:19	ticks value 512
+1212013622	ID:18	Replaying DIO with fixed interval 
+1212016293	ID:18	ticks value 512
+1212074966	ID:21	Replaying DIO with fixed interval 
+1212077608	ID:21	ticks value 512
+1212585451	ID:20	Replaying DIO with fixed interval 
+1212588093	ID:20	ticks value 512
+1212942843	ID:8	Sending DATA to 1 'Hello 20' with NodeID= 8
+1215214640	ID:19	Replaying DIO with fixed interval 
+1215217282	ID:19	ticks value 512
+1216021430	ID:18	Replaying DIO with fixed interval 
+1216024072	ID:18	ticks value 512
+1216082778	ID:21	Replaying DIO with fixed interval 
+1216085420	ID:21	ticks value 512
+1216331809	ID:9	Sending DATA to 1 'Hello 20' with NodeID= 9
+1216593264	ID:20	Replaying DIO with fixed interval 
+1216595906	ID:20	ticks value 512
+1219222453	ID:19	Replaying DIO with fixed interval 
+1219225095	ID:19	ticks value 512
+1220029243	ID:18	Replaying DIO with fixed interval 
+1220031885	ID:18	ticks value 512
+1220090591	ID:21	Replaying DIO with fixed interval 
+1220093233	ID:21	ticks value 512
+1220601081	ID:20	Replaying DIO with fixed interval 
+1220603752	ID:20	ticks value 512
+1223230265	ID:19	Replaying DIO with fixed interval 
+1223232907	ID:19	ticks value 512
+1224037055	ID:18	Replaying DIO with fixed interval 
+1224039697	ID:18	ticks value 512
+1224099465	ID:21	Replaying DIO with fixed interval 
+1224102468	ID:21	ticks value 512
+1224608889	ID:20	Replaying DIO with fixed interval 
+1224611531	ID:20	ticks value 512
+1225690907	ID:7	Sending DATA to 1 'Hello 20' with NodeID= 7
+1226997581	ID:17	Sending DATA to 1 'Hello 20' with NodeID= 17
+1227238934	ID:19	Replaying DIO with fixed interval 
+1227241604	ID:19	ticks value 512
+1228027763	ID:16	Sending DATA to 1 'Hello 20' with NodeID= 16
+1228046002	ID:18	Replaying DIO with fixed interval 
+1228048975	ID:18	ticks value 512
+1228106595	ID:21	Replaying DIO with fixed interval 
+1228109236	ID:21	ticks value 512
+1228616701	ID:20	Replaying DIO with fixed interval 
+1228619343	ID:20	ticks value 512
+1231245890	ID:19	Replaying DIO with fixed interval 
+1231248532	ID:19	ticks value 512
+1232055204	ID:18	Replaying DIO with fixed interval 
+1232057846	ID:18	ticks value 512
+1232114028	ID:21	Replaying DIO with fixed interval 
+1232116670	ID:21	ticks value 512
+1232624514	ID:20	Replaying DIO with fixed interval 
+1232627156	ID:20	ticks value 512
+1232692565	ID:15	Sending DATA to 1 'Hello 20' with NodeID= 15
+1235253703	ID:19	Replaying DIO with fixed interval 
+1235256345	ID:19	ticks value 512
+1236060493	ID:18	Replaying DIO with fixed interval 
+1236063135	ID:18	ticks value 512
+1236121841	ID:21	Replaying DIO with fixed interval 
+1236124483	ID:21	ticks value 512
+1236632331	ID:20	Replaying DIO with fixed interval 
+1236635002	ID:20	ticks value 512
+1239157284	ID:10	Sending DATA to 1 'Hello 20' with NodeID= 10
+1239261515	ID:19	Replaying DIO with fixed interval 
+1239264157	ID:19	ticks value 512
+1240068305	ID:18	Replaying DIO with fixed interval 
+1240070947	ID:18	ticks value 512
+1240129653	ID:21	Replaying DIO with fixed interval 
+1240132295	ID:21	ticks value 512
+1240640139	ID:20	Replaying DIO with fixed interval 
+1240642781	ID:20	ticks value 512
+1240825270	ID:14	Sending DATA to 1 'Hello 20' with NodeID= 14
+1241227552	ID:4	Sending DATA to 1 'Hello 20' with NodeID= 4
+1242004408	ID:5	Sending DATA to 1 'Hello 20' with NodeID= 5
+1243269333	ID:19	Replaying DIO with fixed interval 
+1243272004	ID:19	ticks value 512
+1243812963	ID:6	Sending DATA to 1 'Hello 20' with NodeID= 6
+1244076123	ID:18	Replaying DIO with fixed interval 
+1244078804	ID:18	ticks value 512
+1244137466	ID:21	Replaying DIO with fixed interval 
+1244140108	ID:21	ticks value 512
+1244647952	ID:20	Replaying DIO with fixed interval 
+1244650594	ID:20	ticks value 512
+1245115193	ID:13	Sending DATA to 1 'Hello 20' with NodeID= 13
+1247277140	ID:19	Replaying DIO with fixed interval 
+1247279782	ID:19	ticks value 512
+1248083930	ID:18	Replaying DIO with fixed interval 
+1248086572	ID:18	ticks value 512
+1248145278	ID:21	Replaying DIO with fixed interval 
+1248147920	ID:21	ticks value 512
+1248655764	ID:20	Replaying DIO with fixed interval 
+1248658406	ID:20	ticks value 512
+1251284953	ID:19	Replaying DIO with fixed interval 
+1251287595	ID:19	ticks value 512
+1252091743	ID:18	Replaying DIO with fixed interval 
+1252094385	ID:18	ticks value 512
+1252153091	ID:21	Replaying DIO with fixed interval 
+1252155733	ID:21	ticks value 512
+1252664432	ID:20	Replaying DIO with fixed interval 
+1252667128	ID:20	ticks value 512
+1253175934	ID:3	Sending DATA to 1 'Hello 20' with NodeID= 3
+1255292765	ID:19	Replaying DIO with fixed interval 
+1255295407	ID:19	ticks value 512
+1256099555	ID:18	Replaying DIO with fixed interval 
+1256102197	ID:18	ticks value 512
+1256160903	ID:21	Replaying DIO with fixed interval 
+1256163545	ID:21	ticks value 512
+1256673913	ID:20	Replaying DIO with fixed interval 
+1256676555	ID:20	ticks value 512
+1258496060	ID:12	Sending DATA to 1 'Hello 20' with NodeID= 12
+1259300583	ID:19	Replaying DIO with fixed interval 
+1259303254	ID:19	ticks value 512
+1260107373	ID:18	Replaying DIO with fixed interval 
+1260110054	ID:18	ticks value 512
+1260168716	ID:21	Replaying DIO with fixed interval 
+1260171358	ID:21	ticks value 512
+1260679202	ID:20	Replaying DIO with fixed interval 
+1260681844	ID:20	ticks value 512
+1261263000	ID:2	Sending DATA to 1 'Hello 20' with NodeID= 2
+1263308390	ID:19	Replaying DIO with fixed interval 
+1263311032	ID:19	ticks value 512
+1264115180	ID:18	Replaying DIO with fixed interval 
+1264117822	ID:18	ticks value 512
+1264176528	ID:21	Replaying DIO with fixed interval 
+1264179170	ID:21	ticks value 512
+1264687014	ID:20	Replaying DIO with fixed interval 
+1264689656	ID:20	ticks value 512
+1265066366	ID:12	Sending DATA to 1 'Hello 21' with NodeID= 12
+1265387359	ID:16	Sending DATA to 1 'Hello 21' with NodeID= 16
+1267316203	ID:19	Replaying DIO with fixed interval 
+1267318845	ID:19	ticks value 512
+1267422331	ID:6	Sending DATA to 1 'Hello 21' with NodeID= 6
+1268122992	ID:18	Replaying DIO with fixed interval 
+1268125634	ID:18	ticks value 512
+1268184341	ID:21	Replaying DIO with fixed interval 
+1268186983	ID:21	ticks value 512
+1268694832	ID:20	Replaying DIO with fixed interval 
+1268697513	ID:20	ticks value 512
+1271324015	ID:19	Replaying DIO with fixed interval 
+1271326657	ID:19	ticks value 512
+1271802262	ID:17	Sending DATA to 1 'Hello 21' with NodeID= 17
+1272130805	ID:18	Replaying DIO with fixed interval 
+1272133447	ID:18	ticks value 512
+1272192153	ID:21	Replaying DIO with fixed interval 
+1272194795	ID:21	ticks value 512
+1272702639	ID:20	Replaying DIO with fixed interval 
+1272705281	ID:20	ticks value 512
+1275331833	ID:19	Replaying DIO with fixed interval 
+1275334504	ID:19	ticks value 512
+1276138623	ID:18	Replaying DIO with fixed interval 
+1276141304	ID:18	ticks value 512
+1276199966	ID:21	Replaying DIO with fixed interval 
+1276202608	ID:21	ticks value 512
+1276710452	ID:20	Replaying DIO with fixed interval 
+1276713094	ID:20	ticks value 512
+1276735358	ID:4	Sending DATA to 1 'Hello 21' with NodeID= 4
+1277671029	ID:11	Sending DATA to 1 'Hello 21' with NodeID= 11
+1279339640	ID:19	Replaying DIO with fixed interval 
+1279342282	ID:19	ticks value 512
+1280146430	ID:18	Replaying DIO with fixed interval 
+1280149072	ID:18	ticks value 512
+1280207778	ID:21	Replaying DIO with fixed interval 
+1280210420	ID:21	ticks value 512
+1280718264	ID:20	Replaying DIO with fixed interval 
+1280720906	ID:20	ticks value 512
+1283347452	ID:19	Replaying DIO with fixed interval 
+1283350094	ID:19	ticks value 512
+1283693122	ID:15	Sending DATA to 1 'Hello 21' with NodeID= 15
+1284154242	ID:18	Replaying DIO with fixed interval 
+1284156884	ID:18	ticks value 512
+1284215591	ID:21	Replaying DIO with fixed interval 
+1284218233	ID:21	ticks value 512
+1284219784	ID:10	Sending DATA to 1 'Hello 21' with NodeID= 10
+1284726082	ID:20	Replaying DIO with fixed interval 
+1284728763	ID:20	ticks value 512
+1286574735	ID:5	Sending DATA to 1 'Hello 21' with NodeID= 5
+1287355265	ID:19	Replaying DIO with fixed interval 
+1287357907	ID:19	ticks value 512
+1288162055	ID:18	Replaying DIO with fixed interval 
+1288164697	ID:18	ticks value 512
+1288224254	ID:21	Replaying DIO with fixed interval 
+1288226896	ID:21	ticks value 512
+1288733889	ID:20	Replaying DIO with fixed interval 
+1288736531	ID:20	ticks value 512
+1291363934	ID:19	Replaying DIO with fixed interval 
+1291366630	ID:19	ticks value 512
+1292170723	ID:18	Replaying DIO with fixed interval 
+1292173394	ID:18	ticks value 512
+1292231216	ID:21	Replaying DIO with fixed interval 
+1292233858	ID:21	ticks value 512
+1292741701	ID:20	Replaying DIO with fixed interval 
+1292744343	ID:20	ticks value 512
+1294844501	ID:3	Sending DATA to 1 'Hello 21' with NodeID= 3
+1295373413	ID:19	Replaying DIO with fixed interval 
+1295376055	ID:19	ticks value 512
+1296177680	ID:18	Replaying DIO with fixed interval 
+1296180322	ID:18	ticks value 512
+1296239028	ID:21	Replaying DIO with fixed interval 
+1296241670	ID:21	ticks value 512
+1296749514	ID:20	Replaying DIO with fixed interval 
+1296752156	ID:20	ticks value 512
+1297373040	ID:13	Sending DATA to 1 'Hello 21' with NodeID= 13
+1299378702	ID:19	Replaying DIO with fixed interval 
+1299381344	ID:19	ticks value 512
+1300185492	ID:18	Replaying DIO with fixed interval 
+1300188134	ID:18	ticks value 512
+1300246841	ID:21	Replaying DIO with fixed interval 
+1300249483	ID:21	ticks value 512
+1300757332	ID:20	Replaying DIO with fixed interval 
+1300760013	ID:20	ticks value 512
+1303386515	ID:19	Replaying DIO with fixed interval 
+1303389157	ID:19	ticks value 512
+1304193305	ID:18	Replaying DIO with fixed interval 
+1304195947	ID:18	ticks value 512
+1304254653	ID:21	Replaying DIO with fixed interval 
+1304257295	ID:21	ticks value 512
+1304765139	ID:20	Replaying DIO with fixed interval 
+1304767781	ID:20	ticks value 512
+1307394332	ID:19	Replaying DIO with fixed interval 
+1307397013	ID:19	ticks value 512
+1307714005	ID:7	Sending DATA to 1 'Hello 21' with NodeID= 7
+1308201122	ID:18	Replaying DIO with fixed interval 
+1308203793	ID:18	ticks value 512
+1308262466	ID:21	Replaying DIO with fixed interval 
+1308265108	ID:21	ticks value 512
+1308372382	ID:2	Sending DATA to 1 'Hello 21' with NodeID= 2
+1308772951	ID:20	Replaying DIO with fixed interval 
+1308775593	ID:20	ticks value 512
+1310449011	ID:9	Sending DATA to 1 'Hello 21' with NodeID= 9
+1311402140	ID:19	Replaying DIO with fixed interval 
+1311404782	ID:19	ticks value 512
+1312208930	ID:18	Replaying DIO with fixed interval 
+1312211572	ID:18	ticks value 512
+1312270278	ID:21	Replaying DIO with fixed interval 
+1312272920	ID:21	ticks value 512
+1312780764	ID:20	Replaying DIO with fixed interval 
+1312783406	ID:20	ticks value 512
+1312872540	ID:8	Sending DATA to 1 'Hello 21' with NodeID= 8
+1315409952	ID:19	Replaying DIO with fixed interval 
+1315412594	ID:19	ticks value 512
+1316216742	ID:18	Replaying DIO with fixed interval 
+1316219384	ID:18	ticks value 512
+1316278091	ID:21	Replaying DIO with fixed interval 
+1316280733	ID:21	ticks value 512
+1316753988	ID:14	Sending DATA to 1 'Hello 21' with NodeID= 14
+1316789432	ID:20	Replaying DIO with fixed interval 
+1316792103	ID:20	ticks value 512
+1319417765	ID:19	Replaying DIO with fixed interval 
+1319420407	ID:19	ticks value 512
+1320224555	ID:18	Replaying DIO with fixed interval 
+1320227197	ID:18	ticks value 512
+1320285903	ID:21	Replaying DIO with fixed interval 
+1320288545	ID:21	ticks value 512
+1320796602	ID:20	Replaying DIO with fixed interval 
+1320799244	ID:20	ticks value 512
+1323425582	ID:19	Replaying DIO with fixed interval 
+1323428263	ID:19	ticks value 512
+1324232372	ID:18	Replaying DIO with fixed interval 
+1324235043	ID:18	ticks value 512
+1324293716	ID:21	Replaying DIO with fixed interval 
+1324296358	ID:21	ticks value 512
+1324804201	ID:20	Replaying DIO with fixed interval 
+1324806843	ID:20	ticks value 512
+1327433390	ID:19	Replaying DIO with fixed interval 
+1327436032	ID:19	ticks value 512
+1328240180	ID:18	Replaying DIO with fixed interval 
+1328242822	ID:18	ticks value 512
+1328301529	ID:21	Replaying DIO with fixed interval 
+1328304171	ID:21	ticks value 512
+1328812014	ID:20	Replaying DIO with fixed interval 
+1328814656	ID:20	ticks value 512
+1329689198	ID:15	Sending DATA to 1 'Hello 22' with NodeID= 15
+1331441203	ID:19	Replaying DIO with fixed interval 
+1331443845	ID:19	ticks value 512
+1332248027	ID:18	Replaying DIO with fixed interval 
+1332250668	ID:18	ticks value 512
+1332309341	ID:21	Replaying DIO with fixed interval 
+1332311983	ID:21	ticks value 512
+1332489556	ID:2	Sending DATA to 1 'Hello 22' with NodeID= 2
+1332819831	ID:20	Replaying DIO with fixed interval 
+1332822502	ID:20	ticks value 512
+1333776016	ID:8	Sending DATA to 1 'Hello 22' with NodeID= 8
+1335449015	ID:19	Replaying DIO with fixed interval 
+1335451657	ID:19	ticks value 512
+1336255807	ID:18	Replaying DIO with fixed interval 
+1336258449	ID:18	ticks value 512
+1336317153	ID:21	Replaying DIO with fixed interval 
+1336319795	ID:21	ticks value 512
+1336827639	ID:20	Replaying DIO with fixed interval 
+1336830281	ID:20	ticks value 512
+1338349568	ID:13	Sending DATA to 1 'Hello 22' with NodeID= 13
+1339456832	ID:19	Replaying DIO with fixed interval 
+1339459513	ID:19	ticks value 512
+1340263622	ID:18	Replaying DIO with fixed interval 
+1340266293	ID:18	ticks value 512
+1340324966	ID:21	Replaying DIO with fixed interval 
+1340327608	ID:21	ticks value 512
+1340835451	ID:20	Replaying DIO with fixed interval 
+1340838093	ID:20	ticks value 512
+1341141369	ID:3	Sending DATA to 1 'Hello 22' with NodeID= 3
+1342141659	ID:10	Sending DATA to 1 'Hello 22' with NodeID= 10
+1343464640	ID:19	Replaying DIO with fixed interval 
+1343467282	ID:19	ticks value 512
+1344271430	ID:18	Replaying DIO with fixed interval 
+1344274072	ID:18	ticks value 512
+1344332779	ID:21	Replaying DIO with fixed interval 
+1344335421	ID:21	ticks value 512
+1344391116	ID:6	Sending DATA to 1 'Hello 22' with NodeID= 6
+1344843264	ID:20	Replaying DIO with fixed interval 
+1344845906	ID:20	ticks value 512
+1347472453	ID:19	Replaying DIO with fixed interval 
+1347475095	ID:19	ticks value 512
+1348279242	ID:18	Replaying DIO with fixed interval 
+1348281884	ID:18	ticks value 512
+1348340591	ID:21	Replaying DIO with fixed interval 
+1348343233	ID:21	ticks value 512
+1348851081	ID:20	Replaying DIO with fixed interval 
+1348853752	ID:20	ticks value 512
+1351480265	ID:19	Replaying DIO with fixed interval 
+1351482907	ID:19	ticks value 512
+1352287055	ID:18	Replaying DIO with fixed interval 
+1352289697	ID:18	ticks value 512
+1352349537	ID:21	Replaying DIO with fixed interval 
+1352352619	ID:21	ticks value 512
+1352858889	ID:20	Replaying DIO with fixed interval 
+1352861531	ID:20	ticks value 512
+1355488934	ID:19	Replaying DIO with fixed interval 
+1355491604	ID:19	ticks value 512
+1356295723	ID:18	Replaying DIO with fixed interval 
+1356298394	ID:18	ticks value 512
+1356359407	ID:21	Replaying DIO with fixed interval 
+1356363876	ID:21	ticks value 512
+1356866736	ID:20	Replaying DIO with fixed interval 
+1356869377	ID:20	ticks value 512
+1359495890	ID:19	Replaying DIO with fixed interval 
+1359498532	ID:19	ticks value 512
+1360303058	ID:18	Replaying DIO with fixed interval 
+1360305700	ID:18	ticks value 512
+1360371841	ID:21	Replaying DIO with fixed interval 
+1360374483	ID:21	ticks value 512
+1360874516	ID:20	Replaying DIO with fixed interval 
+1360877158	ID:20	ticks value 512
+1362952279	ID:11	Sending DATA to 1 'Hello 22' with NodeID= 11
+1363503703	ID:19	Replaying DIO with fixed interval 
+1363506345	ID:19	ticks value 512
+1364310492	ID:18	Replaying DIO with fixed interval 
+1364313134	ID:18	ticks value 512
+1364379659	ID:21	Replaying DIO with fixed interval 
+1364382340	ID:21	ticks value 512
+1364882331	ID:20	Replaying DIO with fixed interval 
+1364885002	ID:20	ticks value 512
+1366141027	ID:4	Sending DATA to 1 'Hello 22' with NodeID= 4
+1366599137	ID:17	Sending DATA to 1 'Hello 22' with NodeID= 17
+1367511515	ID:19	Replaying DIO with fixed interval 
+1367514157	ID:19	ticks value 512
+1368318305	ID:18	Replaying DIO with fixed interval 
+1368320947	ID:18	ticks value 512
+1368387466	ID:21	Replaying DIO with fixed interval 
+1368390108	ID:21	ticks value 512
+1368890139	ID:20	Replaying DIO with fixed interval 
+1368892781	ID:20	ticks value 512
+1370894491	ID:12	Sending DATA to 1 'Hello 22' with NodeID= 12
+1371519333	ID:19	Replaying DIO with fixed interval 
+1371522004	ID:19	ticks value 512
+1371543471	ID:5	Sending DATA to 1 'Hello 22' with NodeID= 5
+1372326122	ID:18	Replaying DIO with fixed interval 
+1372328793	ID:18	ticks value 512
+1372395279	ID:21	Replaying DIO with fixed interval 
+1372397921	ID:21	ticks value 512
+1372897951	ID:20	Replaying DIO with fixed interval 
+1372900593	ID:20	ticks value 512
+1373753060	ID:7	Sending DATA to 1 'Hello 22' with NodeID= 7
+1374644538	ID:9	Sending DATA to 1 'Hello 22' with NodeID= 9
+1375527140	ID:19	Replaying DIO with fixed interval 
+1375529782	ID:19	ticks value 512
+1375550869	ID:14	Sending DATA to 1 'Hello 22' with NodeID= 14
+1376333930	ID:18	Replaying DIO with fixed interval 
+1376336572	ID:18	ticks value 512
+1376403091	ID:21	Replaying DIO with fixed interval 
+1376405733	ID:21	ticks value 512
+1376905764	ID:20	Replaying DIO with fixed interval 
+1376908406	ID:20	ticks value 512
+1379534953	ID:19	Replaying DIO with fixed interval 
+1379537595	ID:19	ticks value 512
+1380059020	ID:16	Sending DATA to 1 'Hello 22' with NodeID= 16
+1380341742	ID:18	Replaying DIO with fixed interval 
+1380344384	ID:18	ticks value 512
+1380410909	ID:21	Replaying DIO with fixed interval 
+1380413590	ID:21	ticks value 512
+1380914432	ID:20	Replaying DIO with fixed interval 
+1380917103	ID:20	ticks value 512
+1382092890	ID:11	Sending DATA to 1 'Hello 23' with NodeID= 11
+1383542765	ID:19	Replaying DIO with fixed interval 
+1383545407	ID:19	ticks value 512
+1384349555	ID:18	Replaying DIO with fixed interval 
+1384352197	ID:18	ticks value 512
+1384418716	ID:21	Replaying DIO with fixed interval 
+1384421358	ID:21	ticks value 512
+1384921389	ID:20	Replaying DIO with fixed interval 
+1384924031	ID:20	ticks value 512
+1387550583	ID:19	Replaying DIO with fixed interval 
+1387553254	ID:19	ticks value 512
+1387555431	ID:3	Sending DATA to 1 'Hello 23' with NodeID= 3
+1388357372	ID:18	Replaying DIO with fixed interval 
+1388360043	ID:18	ticks value 512
+1388426528	ID:21	Replaying DIO with fixed interval 
+1388429170	ID:21	ticks value 512
+1388929201	ID:20	Replaying DIO with fixed interval 
+1388931843	ID:20	ticks value 512
+1391558390	ID:19	Replaying DIO with fixed interval 
+1391561032	ID:19	ticks value 512
+1392365180	ID:18	Replaying DIO with fixed interval 
+1392367822	ID:18	ticks value 512
+1392434341	ID:21	Replaying DIO with fixed interval 
+1392436983	ID:21	ticks value 512
+1392501041	ID:10	Sending DATA to 1 'Hello 23' with NodeID= 10
+1392633795	ID:4	Sending DATA to 1 'Hello 23' with NodeID= 4
+1392937014	ID:20	Replaying DIO with fixed interval 
+1392939656	ID:20	ticks value 512
+1395566237	ID:19	Replaying DIO with fixed interval 
+1395568879	ID:19	ticks value 512
+1396372992	ID:18	Replaying DIO with fixed interval 
+1396375634	ID:18	ticks value 512
+1396442159	ID:21	Replaying DIO with fixed interval 
+1396444840	ID:21	ticks value 512
+1396944831	ID:20	Replaying DIO with fixed interval 
+1396947502	ID:20	ticks value 512
+1397544456	ID:17	Sending DATA to 1 'Hello 23' with NodeID= 17
+1397652763	ID:16	Sending DATA to 1 'Hello 23' with NodeID= 16
+1398392092	ID:15	Sending DATA to 1 'Hello 23' with NodeID= 15
+1399574016	ID:19	Replaying DIO with fixed interval 
+1399576658	ID:19	ticks value 512
+1400062963	ID:6	Sending DATA to 1 'Hello 23' with NodeID= 6
+1400380805	ID:18	Replaying DIO with fixed interval 
+1400383447	ID:18	ticks value 512
+1400449966	ID:21	Replaying DIO with fixed interval 
+1400452608	ID:21	ticks value 512
+1400952639	ID:20	Replaying DIO with fixed interval 
+1400955281	ID:20	ticks value 512
+1403309103	ID:5	Sending DATA to 1 'Hello 23' with NodeID= 5
+1403581833	ID:19	Replaying DIO with fixed interval 
+1403584504	ID:19	ticks value 512
+1403675976	ID:12	Sending DATA to 1 'Hello 23' with NodeID= 12
+1404388622	ID:18	Replaying DIO with fixed interval 
+1404391293	ID:18	ticks value 512
+1404457778	ID:21	Replaying DIO with fixed interval 
+1404460420	ID:21	ticks value 512
+1404960451	ID:20	Replaying DIO with fixed interval 
+1404963093	ID:20	ticks value 512
+1407589640	ID:19	Replaying DIO with fixed interval 
+1407592282	ID:19	ticks value 512
+1408396430	ID:18	Replaying DIO with fixed interval 
+1408399072	ID:18	ticks value 512
+1408465591	ID:21	Replaying DIO with fixed interval 
+1408468233	ID:21	ticks value 512
+1408968264	ID:20	Replaying DIO with fixed interval 
+1408970906	ID:20	ticks value 512
+1411597453	ID:19	Replaying DIO with fixed interval 
+1411600095	ID:19	ticks value 512
+1412404242	ID:18	Replaying DIO with fixed interval 
+1412406884	ID:18	ticks value 512
+1412474259	ID:21	Replaying DIO with fixed interval 
+1412476930	ID:21	ticks value 512
+1412976081	ID:20	Replaying DIO with fixed interval 
+1412978752	ID:20	ticks value 512
+1413862435	ID:7	Sending DATA to 1 'Hello 23' with NodeID= 7
+1415605265	ID:19	Replaying DIO with fixed interval 
+1415607907	ID:19	ticks value 512
+1416412055	ID:18	Replaying DIO with fixed interval 
+1416414697	ID:18	ticks value 512
+1416481216	ID:21	Replaying DIO with fixed interval 
+1416483858	ID:21	ticks value 512
+1416983889	ID:20	Replaying DIO with fixed interval 
+1416986531	ID:20	ticks value 512
+1417338286	ID:2	Sending DATA to 1 'Hello 23' with NodeID= 2
+1419613934	ID:19	Replaying DIO with fixed interval 
+1419616604	ID:19	ticks value 512
+1420420723	ID:18	Replaying DIO with fixed interval 
+1420423394	ID:18	ticks value 512
+1420456809	ID:9	Sending DATA to 1 'Hello 23' with NodeID= 9
+1420489028	ID:21	Replaying DIO with fixed interval 
+1420491670	ID:21	ticks value 512
+1420991701	ID:20	Replaying DIO with fixed interval 
+1420994343	ID:20	ticks value 512
+1423620890	ID:19	Replaying DIO with fixed interval 
+1423623532	ID:19	ticks value 512
+1424427680	ID:18	Replaying DIO with fixed interval 
+1424430322	ID:18	ticks value 512
+1424496841	ID:21	Replaying DIO with fixed interval 
+1424499483	ID:21	ticks value 512
+1424999514	ID:20	Replaying DIO with fixed interval 
+1425002156	ID:20	ticks value 512
+1427083473	ID:8	Sending DATA to 1 'Hello 23' with NodeID= 8
+1427628703	ID:19	Replaying DIO with fixed interval 
+1427631345	ID:19	ticks value 512
+1428435492	ID:18	Replaying DIO with fixed interval 
+1428438134	ID:18	ticks value 512
+1428504658	ID:21	Replaying DIO with fixed interval 
+1428507329	ID:21	ticks value 512
+1429007331	ID:20	Replaying DIO with fixed interval 
+1429010002	ID:20	ticks value 512
+1431636515	ID:19	Replaying DIO with fixed interval 
+1431639157	ID:19	ticks value 512
+1431771454	ID:13	Sending DATA to 1 'Hello 23' with NodeID= 13
+1432443305	ID:18	Replaying DIO with fixed interval 
+1432445947	ID:18	ticks value 512
+1432512466	ID:21	Replaying DIO with fixed interval 
+1432515108	ID:21	ticks value 512
+1433015139	ID:20	Replaying DIO with fixed interval 
+1433017781	ID:20	ticks value 512
+1433261800	ID:14	Sending DATA to 1 'Hello 23' with NodeID= 14
+1435644333	ID:19	Replaying DIO with fixed interval 
+1435647004	ID:19	ticks value 512
+1436451122	ID:18	Replaying DIO with fixed interval 
+1436453793	ID:18	ticks value 512
+1436520278	ID:21	Replaying DIO with fixed interval 
+1436522920	ID:21	ticks value 512
+1437022951	ID:20	Replaying DIO with fixed interval 
+1437025593	ID:20	ticks value 512
+1439652140	ID:19	Replaying DIO with fixed interval 
+1439654782	ID:19	ticks value 512
+1440458930	ID:18	Replaying DIO with fixed interval 
+1440461572	ID:18	ticks value 512
+1440528091	ID:21	Replaying DIO with fixed interval 
+1440530733	ID:21	ticks value 512
+1441030764	ID:20	Replaying DIO with fixed interval 
+1441033406	ID:20	ticks value 512
+1443000456	ID:6	Sending DATA to 1 'Hello 24' with NodeID= 6
+1443633847	ID:10	Sending DATA to 1 'Hello 24' with NodeID= 10
+1443659953	ID:19	Replaying DIO with fixed interval 
+1443662595	ID:19	ticks value 512
+1443715263	ID:16	Sending DATA to 1 'Hello 24' with NodeID= 16
+1444466742	ID:18	Replaying DIO with fixed interval 
+1444469384	ID:18	ticks value 512
+1444535908	ID:21	Replaying DIO with fixed interval 
+1444538579	ID:21	ticks value 512
+1444756960	ID:11	Sending DATA to 1 'Hello 24' with NodeID= 11
+1445039264	ID:20	Replaying DIO with fixed interval 
+1445042274	ID:20	ticks value 512
+1446909525	ID:7	Sending DATA to 1 'Hello 24' with NodeID= 7
+1447667765	ID:19	Replaying DIO with fixed interval 
+1447670407	ID:19	ticks value 512
+1448474555	ID:18	Replaying DIO with fixed interval 
+1448477197	ID:18	ticks value 512
+1448543716	ID:21	Replaying DIO with fixed interval 
+1448546358	ID:21	ticks value 512
+1449046767	ID:20	Replaying DIO with fixed interval 
+1449049409	ID:20	ticks value 512
+1451675583	ID:19	Replaying DIO with fixed interval 
+1451678254	ID:19	ticks value 512
+1452482372	ID:18	Replaying DIO with fixed interval 
+1452485043	ID:18	ticks value 512
+1452551563	ID:21	Replaying DIO with fixed interval 
+1452554204	ID:21	ticks value 512
+1453054201	ID:20	Replaying DIO with fixed interval 
+1453056843	ID:20	ticks value 512
+1453669410	ID:8	Sending DATA to 1 'Hello 24' with NodeID= 8
+1455683390	ID:19	Replaying DIO with fixed interval 
+1455686032	ID:19	ticks value 512
+1456490180	ID:18	Replaying DIO with fixed interval 
+1456492822	ID:18	ticks value 512
+1456559343	ID:21	Replaying DIO with fixed interval 
+1456561985	ID:21	ticks value 512
+1457062014	ID:20	Replaying DIO with fixed interval 
+1457064656	ID:20	ticks value 512
+1457321295	ID:4	Sending DATA to 1 'Hello 24' with NodeID= 4
+1459680445	ID:3	Sending DATA to 1 'Hello 24' with NodeID= 3
+1459691203	ID:19	Replaying DIO with fixed interval 
+1459693845	ID:19	ticks value 512
+1460497992	ID:18	Replaying DIO with fixed interval 
+1460500634	ID:18	ticks value 512
+1460567158	ID:21	Replaying DIO with fixed interval 
+1460569829	ID:21	ticks value 512
+1461069831	ID:20	Replaying DIO with fixed interval 
+1461072502	ID:20	ticks value 512
+1461110763	ID:12	Sending DATA to 1 'Hello 24' with NodeID= 12
+1463699015	ID:19	Replaying DIO with fixed interval 
+1463701657	ID:19	ticks value 512
+1464505805	ID:18	Replaying DIO with fixed interval 
+1464508447	ID:18	ticks value 512
+1464574966	ID:21	Replaying DIO with fixed interval 
+1464577608	ID:21	ticks value 512
+1465077639	ID:20	Replaying DIO with fixed interval 
+1465080281	ID:20	ticks value 512
+1467287075	ID:13	Sending DATA to 1 'Hello 24' with NodeID= 13
+1467706833	ID:19	Replaying DIO with fixed interval 
+1467709504	ID:19	ticks value 512
+1468035665	ID:5	Sending DATA to 1 'Hello 24' with NodeID= 5
+1468513622	ID:18	Replaying DIO with fixed interval 
+1468516293	ID:18	ticks value 512
+1468582778	ID:21	Replaying DIO with fixed interval 
+1468585420	ID:21	ticks value 512
+1469085451	ID:20	Replaying DIO with fixed interval 
+1469088093	ID:20	ticks value 512
+1471714640	ID:19	Replaying DIO with fixed interval 
+1471717282	ID:19	ticks value 512
+1472521430	ID:18	Replaying DIO with fixed interval 
+1472524072	ID:18	ticks value 512
+1472590591	ID:21	Replaying DIO with fixed interval 
+1472593233	ID:21	ticks value 512
+1473093264	ID:20	Replaying DIO with fixed interval 
+1473095906	ID:20	ticks value 512
+1475722453	ID:19	Replaying DIO with fixed interval 
+1475725095	ID:19	ticks value 512
+1476529242	ID:18	Replaying DIO with fixed interval 
+1476531884	ID:18	ticks value 512
+1476599259	ID:21	Replaying DIO with fixed interval 
+1476601930	ID:21	ticks value 512
+1477101081	ID:20	Replaying DIO with fixed interval 
+1477103752	ID:20	ticks value 512
+1477441191	ID:9	Sending DATA to 1 'Hello 24' with NodeID= 9
+1479730265	ID:19	Replaying DIO with fixed interval 
+1479732907	ID:19	ticks value 512
+1480537055	ID:18	Replaying DIO with fixed interval 
+1480539697	ID:18	ticks value 512
+1480606664	ID:21	Replaying DIO with fixed interval 
+1480611251	ID:21	ticks value 512
+1481108889	ID:20	Replaying DIO with fixed interval 
+1481111531	ID:20	ticks value 512
+1481401360	ID:2	Sending DATA to 1 'Hello 24' with NodeID= 2
+1483738934	ID:19	Replaying DIO with fixed interval 
+1483741604	ID:19	ticks value 512
+1484545723	ID:18	Replaying DIO with fixed interval 
+1484548394	ID:18	ticks value 512
+1484614028	ID:21	Replaying DIO with fixed interval 
+1484616670	ID:21	ticks value 512
+1485116701	ID:20	Replaying DIO with fixed interval 
+1485119343	ID:20	ticks value 512
+1487745890	ID:19	Replaying DIO with fixed interval 
+1487748532	ID:19	ticks value 512
+1488552680	ID:18	Replaying DIO with fixed interval 
+1488555322	ID:18	ticks value 512
+1488621841	ID:21	Replaying DIO with fixed interval 
+1488624483	ID:21	ticks value 512
+1488764686	ID:15	Sending DATA to 1 'Hello 24' with NodeID= 15
+1489124514	ID:20	Replaying DIO with fixed interval 
+1489127156	ID:20	ticks value 512
+1491753703	ID:19	Replaying DIO with fixed interval 
+1491756345	ID:19	ticks value 512
+1492560492	ID:18	Replaying DIO with fixed interval 
+1492563134	ID:18	ticks value 512
+1492629658	ID:21	Replaying DIO with fixed interval 
+1492632329	ID:21	ticks value 512
+1492731963	ID:17	Sending DATA to 1 'Hello 24' with NodeID= 17
+1493132331	ID:20	Replaying DIO with fixed interval 
+1493135002	ID:20	ticks value 512
+1493175869	ID:14	Sending DATA to 1 'Hello 24' with NodeID= 14
+1495761515	ID:19	Replaying DIO with fixed interval 
+1495764157	ID:19	ticks value 512
+1496568305	ID:18	Replaying DIO with fixed interval 
+1496570947	ID:18	ticks value 512
+1496637466	ID:21	Replaying DIO with fixed interval 
+1496640108	ID:21	ticks value 512
+1497140139	ID:20	Replaying DIO with fixed interval 
+1497142781	ID:20	ticks value 512
+1499769333	ID:19	Replaying DIO with fixed interval 
+1499772004	ID:19	ticks value 512
+1500576122	ID:18	Replaying DIO with fixed interval 
+1500578793	ID:18	ticks value 512
+1500645278	ID:21	Replaying DIO with fixed interval 
+1500647920	ID:21	ticks value 512
+1501147951	ID:20	Replaying DIO with fixed interval 
+1501150593	ID:20	ticks value 512
+1503777140	ID:19	Replaying DIO with fixed interval 
+1503779782	ID:19	ticks value 512
+1504583930	ID:18	Replaying DIO with fixed interval 
+1504586572	ID:18	ticks value 512
+1504653091	ID:21	Replaying DIO with fixed interval 
+1504655733	ID:21	ticks value 512
+1505155764	ID:20	Replaying DIO with fixed interval 
+1505158406	ID:20	ticks value 512
+1505394950	ID:16	Sending DATA to 1 'Hello 25' with NodeID= 16
+1505888749	ID:3	Sending DATA to 1 'Hello 25' with NodeID= 3
+1507784953	ID:19	Replaying DIO with fixed interval 
+1507787595	ID:19	ticks value 512
+1508591742	ID:18	Replaying DIO with fixed interval 
+1508594384	ID:18	ticks value 512
+1508660908	ID:21	Replaying DIO with fixed interval 
+1508663579	ID:21	ticks value 512
+1509164432	ID:20	Replaying DIO with fixed interval 
+1509167103	ID:20	ticks value 512
+1509624147	ID:11	Sending DATA to 1 'Hello 25' with NodeID= 11
+1510198997	ID:9	Sending DATA to 1 'Hello 25' with NodeID= 9
+1511792765	ID:19	Replaying DIO with fixed interval 
+1511795406	ID:19	ticks value 512
+1511933553	ID:12	Sending DATA to 1 'Hello 25' with NodeID= 12
+1512599555	ID:18	Replaying DIO with fixed interval 
+1512602197	ID:18	ticks value 512
+1512668716	ID:21	Replaying DIO with fixed interval 
+1512671358	ID:21	ticks value 512
+1513171389	ID:20	Replaying DIO with fixed interval 
+1513174031	ID:20	ticks value 512
+1515800583	ID:19	Replaying DIO with fixed interval 
+1515803254	ID:19	ticks value 512
+1516052693	ID:13	Sending DATA to 1 'Hello 25' with NodeID= 13
+1516607372	ID:18	Replaying DIO with fixed interval 
+1516610043	ID:18	ticks value 512
+1516676528	ID:21	Replaying DIO with fixed interval 
+1516679170	ID:21	ticks value 512
+1517179201	ID:20	Replaying DIO with fixed interval 
+1517181843	ID:20	ticks value 512
+1519290097	ID:10	Sending DATA to 1 'Hello 25' with NodeID= 10
+1519808390	ID:19	Replaying DIO with fixed interval 
+1519811032	ID:19	ticks value 512
+1520615180	ID:18	Replaying DIO with fixed interval 
+1520617822	ID:18	ticks value 512
+1520684341	ID:21	Replaying DIO with fixed interval 
+1520686983	ID:21	ticks value 512
+1521187014	ID:20	Replaying DIO with fixed interval 
+1521189656	ID:20	ticks value 512
+1522496596	ID:5	Sending DATA to 1 'Hello 25' with NodeID= 5
+1523816203	ID:19	Replaying DIO with fixed interval 
+1523818845	ID:19	ticks value 512
+1524622992	ID:18	Replaying DIO with fixed interval 
+1524625634	ID:18	ticks value 512
+1524692158	ID:21	Replaying DIO with fixed interval 
+1524694829	ID:21	ticks value 512
+1524961401	ID:6	Sending DATA to 1 'Hello 25' with NodeID= 6
+1525194831	ID:20	Replaying DIO with fixed interval 
+1525197502	ID:20	ticks value 512
+1527824015	ID:19	Replaying DIO with fixed interval 
+1527826657	ID:19	ticks value 512
+1528630805	ID:18	Replaying DIO with fixed interval 
+1528633447	ID:18	ticks value 512
+1528699966	ID:21	Replaying DIO with fixed interval 
+1528702608	ID:21	ticks value 512
+1529202639	ID:20	Replaying DIO with fixed interval 
+1529205281	ID:20	ticks value 512
+1531831833	ID:19	Replaying DIO with fixed interval 
+1531834504	ID:19	ticks value 512
+1532638622	ID:18	Replaying DIO with fixed interval 
+1532641293	ID:18	ticks value 512
+1532707778	ID:21	Replaying DIO with fixed interval 
+1532710420	ID:21	ticks value 512
+1533210451	ID:20	Replaying DIO with fixed interval 
+1533213093	ID:20	ticks value 512
+1535290527	ID:15	Sending DATA to 1 'Hello 25' with NodeID= 15
+1535839640	ID:19	Replaying DIO with fixed interval 
+1535842282	ID:19	ticks value 512
+1536646430	ID:18	Replaying DIO with fixed interval 
+1536649072	ID:18	ticks value 512
+1536715591	ID:21	Replaying DIO with fixed interval 
+1536718233	ID:21	ticks value 512
+1537218264	ID:20	Replaying DIO with fixed interval 
+1537220906	ID:20	ticks value 512
+1539847453	ID:19	Replaying DIO with fixed interval 
+1539850095	ID:19	ticks value 512
+1540654242	ID:18	Replaying DIO with fixed interval 
+1540656884	ID:18	ticks value 512
+1540724259	ID:21	Replaying DIO with fixed interval 
+1540726930	ID:21	ticks value 512
+1541226081	ID:20	Replaying DIO with fixed interval 
+1541228752	ID:20	ticks value 512
+1543855265	ID:19	Replaying DIO with fixed interval 
+1543857907	ID:19	ticks value 512
+1544662055	ID:18	Replaying DIO with fixed interval 
+1544664697	ID:18	ticks value 512
+1544731216	ID:21	Replaying DIO with fixed interval 
+1544733858	ID:21	ticks value 512
+1545233889	ID:20	Replaying DIO with fixed interval 
+1545236531	ID:20	ticks value 512
+1547863765	ID:19	Replaying DIO with fixed interval 
+1547868821	ID:19	ticks value 512
+1548462274	ID:4	Sending DATA to 1 'Hello 25' with NodeID= 4
+1548670723	ID:18	Replaying DIO with fixed interval 
+1548673394	ID:18	ticks value 512
+1548739028	ID:21	Replaying DIO with fixed interval 
+1548741670	ID:21	ticks value 512
+1549241701	ID:20	Replaying DIO with fixed interval 
+1549244343	ID:20	ticks value 512
+1550401505	ID:7	Sending DATA to 1 'Hello 25' with NodeID= 7
+1551075523	ID:2	Sending DATA to 1 'Hello 25' with NodeID= 2
+1551871267	ID:19	Replaying DIO with fixed interval 
+1551873909	ID:19	ticks value 512
+1552678058	ID:18	Replaying DIO with fixed interval 
+1552680700	ID:18	ticks value 512
+1552746841	ID:21	Replaying DIO with fixed interval 
+1552749483	ID:21	ticks value 512
+1552763204	ID:17	Sending DATA to 1 'Hello 25' with NodeID= 17
+1553249514	ID:20	Replaying DIO with fixed interval 
+1553252156	ID:20	ticks value 512
+1553441507	ID:14	Sending DATA to 1 'Hello 25' with NodeID= 14
+1555878703	ID:19	Replaying DIO with fixed interval 
+1555881345	ID:19	ticks value 512
+1556177227	ID:8	Sending DATA to 1 'Hello 25' with NodeID= 8
+1556685492	ID:18	Replaying DIO with fixed interval 
+1556688134	ID:18	ticks value 512
+1556754658	ID:21	Replaying DIO with fixed interval 
+1556757329	ID:21	ticks value 512
+1557257331	ID:20	Replaying DIO with fixed interval 
+1557260002	ID:20	ticks value 512
+1559886515	ID:19	Replaying DIO with fixed interval 
+1559889157	ID:19	ticks value 512
+1560693305	ID:18	Replaying DIO with fixed interval 
+1560695947	ID:18	ticks value 512
+1560762466	ID:21	Replaying DIO with fixed interval 
+1560765108	ID:21	ticks value 512
+1561265139	ID:20	Replaying DIO with fixed interval 
+1561267781	ID:20	ticks value 512
+1561723924	ID:2	Sending DATA to 1 'Hello 26' with NodeID= 2
+1563894333	ID:19	Replaying DIO with fixed interval 
+1563897004	ID:19	ticks value 512
+1564701122	ID:18	Replaying DIO with fixed interval 
+1564703793	ID:18	ticks value 512
+1564770278	ID:21	Replaying DIO with fixed interval 
+1564772920	ID:21	ticks value 512
+1565272951	ID:20	Replaying DIO with fixed interval 
+1565275593	ID:20	ticks value 512
+1566818318	ID:13	Sending DATA to 1 'Hello 26' with NodeID= 13
+1567618506	ID:1	Received DATA recv 'Hello 25 from the client abhive' from 8 at NodeID= 1
+1567629959	ID:15	Sending DATA to 1 'Hello 26' with NodeID= 15
+1567902140	ID:19	Replaying DIO with fixed interval 
+1567904782	ID:19	ticks value 512
+1568708930	ID:18	Replaying DIO with fixed interval 
+1568711572	ID:18	ticks value 512
+1568752412	ID:1	Received DATA recv 'Hello 26 from the client abhive' from 2 at NodeID= 1
+1568778091	ID:21	Replaying DIO with fixed interval 
+1568780733	ID:21	ticks value 512
+1569280764	ID:20	Replaying DIO with fixed interval 
+1569283406	ID:20	ticks value 512
+1571909953	ID:19	Replaying DIO with fixed interval 
+1571912595	ID:19	ticks value 512
+1572716742	ID:18	Replaying DIO with fixed interval 
+1572719384	ID:18	ticks value 512
+1572785908	ID:21	Replaying DIO with fixed interval 
+1572788579	ID:21	ticks value 512
+1573024181	ID:3	Sending DATA to 1 'Hello 26' with NodeID= 3
+1573289264	ID:20	Replaying DIO with fixed interval 
+1573292182	ID:20	ticks value 512
+1575917765	ID:19	Replaying DIO with fixed interval 
+1575920407	ID:19	ticks value 512
+1576724555	ID:18	Replaying DIO with fixed interval 
+1576727197	ID:18	ticks value 512
+1576793716	ID:21	Replaying DIO with fixed interval 
+1576796358	ID:21	ticks value 512
+1576930171	ID:6	Sending DATA to 1 'Hello 26' with NodeID= 6
+1577296389	ID:20	Replaying DIO with fixed interval 
+1577299031	ID:20	ticks value 512
+1579646012	ID:17	Sending DATA to 1 'Hello 26' with NodeID= 17
+1579925583	ID:19	Replaying DIO with fixed interval 
+1579928254	ID:19	ticks value 512
+1580381971	ID:11	Sending DATA to 1 'Hello 26' with NodeID= 11
+1580732372	ID:18	Replaying DIO with fixed interval 
+1580735043	ID:18	ticks value 512
+1580801528	ID:21	Replaying DIO with fixed interval 
+1580804170	ID:21	ticks value 512
+1581304201	ID:20	Replaying DIO with fixed interval 
+1581306843	ID:20	ticks value 512
+1583933390	ID:19	Replaying DIO with fixed interval 
+1583936032	ID:19	ticks value 512
+1584740180	ID:18	Replaying DIO with fixed interval 
+1584742822	ID:18	ticks value 512
+1584809341	ID:21	Replaying DIO with fixed interval 
+1584811983	ID:21	ticks value 512
+1585312014	ID:20	Replaying DIO with fixed interval 
+1585314656	ID:20	ticks value 512
+1586292933	ID:12	Sending DATA to 1 'Hello 26' with NodeID= 12
+1587941203	ID:19	Replaying DIO with fixed interval 
+1587943845	ID:19	ticks value 512
+1588747992	ID:18	Replaying DIO with fixed interval 
+1588750634	ID:18	ticks value 512
+1588817158	ID:21	Replaying DIO with fixed interval 
+1588819829	ID:21	ticks value 512
+1589319831	ID:20	Replaying DIO with fixed interval 
+1589322502	ID:20	ticks value 512
+1591949015	ID:19	Replaying DIO with fixed interval 
+1591951657	ID:19	ticks value 512
+1592755805	ID:18	Replaying DIO with fixed interval 
+1592758447	ID:18	ticks value 512
+1592824966	ID:21	Replaying DIO with fixed interval 
+1592827608	ID:21	ticks value 512
+1593327639	ID:20	Replaying DIO with fixed interval 
+1593330281	ID:20	ticks value 512
+1593684020	ID:16	Sending DATA to 1 'Hello 26' with NodeID= 16
+1595956833	ID:19	Replaying DIO with fixed interval 
+1595959504	ID:19	ticks value 512
+1596763622	ID:18	Replaying DIO with fixed interval 
+1596766293	ID:18	ticks value 512
+1596832778	ID:21	Replaying DIO with fixed interval 
+1596835420	ID:21	ticks value 512
+1597335451	ID:20	Replaying DIO with fixed interval 
+1597338093	ID:20	ticks value 512
+1599964640	ID:19	Replaying DIO with fixed interval 
+1599967282	ID:19	ticks value 512
+1600771430	ID:18	Replaying DIO with fixed interval 
+1600774072	ID:18	ticks value 512
+1600840591	ID:21	Replaying DIO with fixed interval 
+1600843233	ID:21	ticks value 512
+1601343264	ID:20	Replaying DIO with fixed interval 
+1601345906	ID:20	ticks value 512
+1602417747	ID:9	Sending DATA to 1 'Hello 26' with NodeID= 9
+1602957119	ID:14	Sending DATA to 1 'Hello 26' with NodeID= 14
+1603430892	ID:4	Sending DATA to 1 'Hello 26' with NodeID= 4
+1603972453	ID:19	Replaying DIO with fixed interval 
+1603975095	ID:19	ticks value 512
+1604779242	ID:18	Replaying DIO with fixed interval 
+1604781884	ID:18	ticks value 512
+1604849259	ID:21	Replaying DIO with fixed interval 
+1604851930	ID:21	ticks value 512
+1605351081	ID:20	Replaying DIO with fixed interval 
+1605353752	ID:20	ticks value 512
+1607980265	ID:19	Replaying DIO with fixed interval 
+1607982907	ID:19	ticks value 512
+1608787055	ID:18	Replaying DIO with fixed interval 
+1608789697	ID:18	ticks value 512
+1608856499	ID:21	Replaying DIO with fixed interval 
+1608859141	ID:21	ticks value 512
+1609358889	ID:20	Replaying DIO with fixed interval 
+1609361531	ID:20	ticks value 512
+1611988934	ID:19	Replaying DIO with fixed interval 
+1611991604	ID:19	ticks value 512
+1612337193	ID:10	Sending DATA to 1 'Hello 26' with NodeID= 10
+1612795723	ID:18	Replaying DIO with fixed interval 
+1612798394	ID:18	ticks value 512
+1612864028	ID:21	Replaying DIO with fixed interval 
+1612866670	ID:21	ticks value 512
+1613366701	ID:20	Replaying DIO with fixed interval 
+1613369343	ID:20	ticks value 512
+1613755355	ID:8	Sending DATA to 1 'Hello 26' with NodeID= 8
+1615995890	ID:19	Replaying DIO with fixed interval 
+1615998532	ID:19	ticks value 512
+1616802680	ID:18	Replaying DIO with fixed interval 
+1616805322	ID:18	ticks value 512
+1616871841	ID:21	Replaying DIO with fixed interval 
+1616874483	ID:21	ticks value 512
+1617374514	ID:20	Replaying DIO with fixed interval 
+1617377156	ID:20	ticks value 512
+1618659539	ID:7	Sending DATA to 1 'Hello 26' with NodeID= 7
+1618661038	ID:5	Sending DATA to 1 'Hello 26' with NodeID= 5
+1620003703	ID:19	Replaying DIO with fixed interval 
+1620006345	ID:19	ticks value 512
+1620810492	ID:18	Replaying DIO with fixed interval 
+1620813134	ID:18	ticks value 512
+1620879658	ID:21	Replaying DIO with fixed interval 
+1620882329	ID:21	ticks value 512
+1621382331	ID:20	Replaying DIO with fixed interval 
+1621385002	ID:20	ticks value 512
+1621661584	ID:8	Sending DATA to 1 'Hello 27' with NodeID= 8
+1624011515	ID:19	Replaying DIO with fixed interval 
+1624014157	ID:19	ticks value 512
+1624647585	ID:11	Sending DATA to 1 'Hello 27' with NodeID= 11
+1624818305	ID:18	Replaying DIO with fixed interval 
+1624820947	ID:18	ticks value 512
+1624887466	ID:21	Replaying DIO with fixed interval 
+1624890108	ID:21	ticks value 512
+1625390139	ID:20	Replaying DIO with fixed interval 
+1625392781	ID:20	ticks value 512
+1628019333	ID:19	Replaying DIO with fixed interval 
+1628022004	ID:19	ticks value 512
+1628422331	ID:6	Sending DATA to 1 'Hello 27' with NodeID= 6
+1628826122	ID:18	Replaying DIO with fixed interval 
+1628828793	ID:18	ticks value 512
+1628895278	ID:21	Replaying DIO with fixed interval 
+1628897920	ID:21	ticks value 512
+1629397951	ID:20	Replaying DIO with fixed interval 
+1629400593	ID:20	ticks value 512
+1631345217	ID:15	Sending DATA to 1 'Hello 27' with NodeID= 15
+1632027140	ID:19	Replaying DIO with fixed interval 
+1632029782	ID:19	ticks value 512
+1632833930	ID:18	Replaying DIO with fixed interval 
+1632836572	ID:18	ticks value 512
+1632903091	ID:21	Replaying DIO with fixed interval 
+1632905733	ID:21	ticks value 512
+1633405764	ID:20	Replaying DIO with fixed interval 
+1633408406	ID:20	ticks value 512
+1635503053	ID:7	Sending DATA to 1 'Hello 27' with NodeID= 7
+1636034953	ID:19	Replaying DIO with fixed interval 
+1636037595	ID:19	ticks value 512
+1636841742	ID:18	Replaying DIO with fixed interval 
+1636844384	ID:18	ticks value 512
+1636910909	ID:21	Replaying DIO with fixed interval 
+1636913580	ID:21	ticks value 512
+1637414432	ID:20	Replaying DIO with fixed interval 
+1637417103	ID:20	ticks value 512
+1638730550	ID:14	Sending DATA to 1 'Hello 27' with NodeID= 14
+1639302269	ID:17	Sending DATA to 1 'Hello 27' with NodeID= 17
+1640042765	ID:19	Replaying DIO with fixed interval 
+1640045407	ID:19	ticks value 512
+1640849555	ID:18	Replaying DIO with fixed interval 
+1640852197	ID:18	ticks value 512
+1640918716	ID:21	Replaying DIO with fixed interval 
+1640921358	ID:21	ticks value 512
+1641421389	ID:20	Replaying DIO with fixed interval 
+1641424031	ID:20	ticks value 512
+1643621596	ID:5	Sending DATA to 1 'Hello 27' with NodeID= 5
+1644050583	ID:19	Replaying DIO with fixed interval 
+1644053254	ID:19	ticks value 512
+1644857372	ID:18	Replaying DIO with fixed interval 
+1644860043	ID:18	ticks value 512
+1644926528	ID:21	Replaying DIO with fixed interval 
+1644929170	ID:21	ticks value 512
+1645429201	ID:20	Replaying DIO with fixed interval 
+1645431843	ID:20	ticks value 512
+1648058390	ID:19	Replaying DIO with fixed interval 
+1648061032	ID:19	ticks value 512
+1648865180	ID:18	Replaying DIO with fixed interval 
+1648867822	ID:18	ticks value 512
+1648934341	ID:21	Replaying DIO with fixed interval 
+1648936983	ID:21	ticks value 512
+1649437014	ID:20	Replaying DIO with fixed interval 
+1649439656	ID:20	ticks value 512
+1649972623	ID:12	Sending DATA to 1 'Hello 27' with NodeID= 12
+1650130825	ID:13	Sending DATA to 1 'Hello 27' with NodeID= 13
+1652066203	ID:19	Replaying DIO with fixed interval 
+1652068845	ID:19	ticks value 512
+1652844784	ID:10	Sending DATA to 1 'Hello 27' with NodeID= 10
+1652872992	ID:18	Replaying DIO with fixed interval 
+1652875634	ID:18	ticks value 512
+1652942158	ID:21	Replaying DIO with fixed interval 
+1652944829	ID:21	ticks value 512
+1653444831	ID:20	Replaying DIO with fixed interval 
+1653447502	ID:20	ticks value 512
+1654831816	ID:9	Sending DATA to 1 'Hello 27' with NodeID= 9
+1656074015	ID:19	Replaying DIO with fixed interval 
+1656076657	ID:19	ticks value 512
+1656880805	ID:18	Replaying DIO with fixed interval 
+1656883447	ID:18	ticks value 512
+1656949966	ID:21	Replaying DIO with fixed interval 
+1656952608	ID:21	ticks value 512
+1657452639	ID:20	Replaying DIO with fixed interval 
+1657455281	ID:20	ticks value 512
+1657677063	ID:2	Sending DATA to 1 'Hello 27' with NodeID= 2
+1660081833	ID:19	Replaying DIO with fixed interval 
+1660084504	ID:19	ticks value 512
+1660888622	ID:18	Replaying DIO with fixed interval 
+1660891293	ID:18	ticks value 512
+1660957778	ID:21	Replaying DIO with fixed interval 
+1660960420	ID:21	ticks value 512
+1661460451	ID:20	Replaying DIO with fixed interval 
+1661463093	ID:20	ticks value 512
+1664089640	ID:19	Replaying DIO with fixed interval 
+1664092282	ID:19	ticks value 512
+1664394964	ID:16	Sending DATA to 1 'Hello 27' with NodeID= 16
+1664896430	ID:18	Replaying DIO with fixed interval 
+1664899072	ID:18	ticks value 512
+1664965591	ID:21	Replaying DIO with fixed interval 
+1664968233	ID:21	ticks value 512
+1665375744	ID:3	Sending DATA to 1 'Hello 27' with NodeID= 3
+1665468264	ID:20	Replaying DIO with fixed interval 
+1665470906	ID:20	ticks value 512
+1668097453	ID:19	Replaying DIO with fixed interval 
+1668100095	ID:19	ticks value 512
+1668904242	ID:18	Replaying DIO with fixed interval 
+1668906884	ID:18	ticks value 512
+1668974259	ID:21	Replaying DIO with fixed interval 
+1668976930	ID:21	ticks value 512
+1669476081	ID:20	Replaying DIO with fixed interval 
+1669478752	ID:20	ticks value 512
+1672105265	ID:19	Replaying DIO with fixed interval 
+1672107907	ID:19	ticks value 512
+1672912055	ID:18	Replaying DIO with fixed interval 
+1672914697	ID:18	ticks value 512
+1672981216	ID:21	Replaying DIO with fixed interval 
+1672983858	ID:21	ticks value 512
+1673483889	ID:20	Replaying DIO with fixed interval 
+1673486531	ID:20	ticks value 512
+1675149642	ID:4	Sending DATA to 1 'Hello 27' with NodeID= 4
+1676113765	ID:19	Replaying DIO with fixed interval 
+1676116684	ID:19	ticks value 512
+1676920555	ID:18	Replaying DIO with fixed interval 
+1676925350	ID:18	ticks value 512
+1676989028	ID:21	Replaying DIO with fixed interval 
+1676991670	ID:21	ticks value 512
+1677491701	ID:20	Replaying DIO with fixed interval 
+1677494343	ID:20	ticks value 512
+1680120890	ID:19	Replaying DIO with fixed interval 
+1680123532	ID:19	ticks value 512
+1680927680	ID:18	Replaying DIO with fixed interval 
+1680930322	ID:18	ticks value 512
+1680996841	ID:21	Replaying DIO with fixed interval 
+1680999483	ID:21	ticks value 512
+1681347724	ID:14	Sending DATA to 1 'Hello 28' with NodeID= 14
+1681499514	ID:20	Replaying DIO with fixed interval 
+1681502156	ID:20	ticks value 512
+1684128703	ID:19	Replaying DIO with fixed interval 
+1684131345	ID:19	ticks value 512
+1684935492	ID:18	Replaying DIO with fixed interval 
+1684938134	ID:18	ticks value 512
+1684993153	ID:3	Sending DATA to 1 'Hello 28' with NodeID= 3
+1685004658	ID:21	Replaying DIO with fixed interval 
+1685007329	ID:21	ticks value 512
+1685507331	ID:20	Replaying DIO with fixed interval 
+1685510002	ID:20	ticks value 512
+1687771012	ID:17	Sending DATA to 1 'Hello 28' with NodeID= 17
+1688136515	ID:19	Replaying DIO with fixed interval 
+1688139157	ID:19	ticks value 512
+1688943305	ID:18	Replaying DIO with fixed interval 
+1688945947	ID:18	ticks value 512
+1689012466	ID:21	Replaying DIO with fixed interval 
+1689015108	ID:21	ticks value 512
+1689515139	ID:20	Replaying DIO with fixed interval 
+1689517660	ID:20	ticks value 512
+1692144333	ID:19	Replaying DIO with fixed interval 
+1692147004	ID:19	ticks value 512
+1692951122	ID:18	Replaying DIO with fixed interval 
+1692953793	ID:18	ticks value 512
+1693020278	ID:21	Replaying DIO with fixed interval 
+1693022920	ID:21	ticks value 512
+1693522951	ID:20	Replaying DIO with fixed interval 
+1693525593	ID:20	ticks value 512
+1696152140	ID:19	Replaying DIO with fixed interval 
+1696154782	ID:19	ticks value 512
+1696464810	ID:12	Sending DATA to 1 'Hello 28' with NodeID= 12
+1696958930	ID:18	Replaying DIO with fixed interval 
+1696961572	ID:18	ticks value 512
+1697028091	ID:21	Replaying DIO with fixed interval 
+1697030733	ID:21	ticks value 512
+1697530764	ID:20	Replaying DIO with fixed interval 
+1697533406	ID:20	ticks value 512
+1700159953	ID:19	Replaying DIO with fixed interval 
+1700162595	ID:19	ticks value 512
+1700966742	ID:18	Replaying DIO with fixed interval 
+1700969384	ID:18	ticks value 512
+1701035908	ID:21	Replaying DIO with fixed interval 
+1701038579	ID:21	ticks value 512
+1701539432	ID:20	Replaying DIO with fixed interval 
+1701542103	ID:20	ticks value 512
+1704167765	ID:19	Replaying DIO with fixed interval 
+1704170407	ID:19	ticks value 512
+1704974555	ID:18	Replaying DIO with fixed interval 
+1704977197	ID:18	ticks value 512
+1705043716	ID:21	Replaying DIO with fixed interval 
+1705046358	ID:21	ticks value 512
+1705546389	ID:20	Replaying DIO with fixed interval 
+1705549031	ID:20	ticks value 512
+1708175583	ID:19	Replaying DIO with fixed interval 
+1708178254	ID:19	ticks value 512
+1708982372	ID:18	Replaying DIO with fixed interval 
+1708985043	ID:18	ticks value 512
+1709051528	ID:21	Replaying DIO with fixed interval 
+1709054170	ID:21	ticks value 512
+1709554201	ID:20	Replaying DIO with fixed interval 
+1709556843	ID:20	ticks value 512
+1712183390	ID:19	Replaying DIO with fixed interval 
+1712186032	ID:19	ticks value 512
+1712848380	ID:5	Sending DATA to 1 'Hello 28' with NodeID= 5
+1712990180	ID:18	Replaying DIO with fixed interval 
+1712992822	ID:18	ticks value 512
+1713059341	ID:21	Replaying DIO with fixed interval 
+1713061983	ID:21	ticks value 512
+1713562014	ID:20	Replaying DIO with fixed interval 
+1713564656	ID:20	ticks value 512
+1714149655	ID:9	Sending DATA to 1 'Hello 28' with NodeID= 9
+1715177216	ID:8	Sending DATA to 1 'Hello 28' with NodeID= 8
+1716191203	ID:19	Replaying DIO with fixed interval 
+1716193845	ID:19	ticks value 512
+1716997992	ID:18	Replaying DIO with fixed interval 
+1717000634	ID:18	ticks value 512
+1717067158	ID:21	Replaying DIO with fixed interval 
+1717069829	ID:21	ticks value 512
+1717569831	ID:20	Replaying DIO with fixed interval 
+1717572502	ID:20	ticks value 512
+1720199015	ID:19	Replaying DIO with fixed interval 
+1720201657	ID:19	ticks value 512
+1721005805	ID:18	Replaying DIO with fixed interval 
+1721008447	ID:18	ticks value 512
+1721074966	ID:21	Replaying DIO with fixed interval 
+1721077608	ID:21	ticks value 512
+1721577639	ID:20	Replaying DIO with fixed interval 
+1721580281	ID:20	ticks value 512
+1723591763	ID:13	Sending DATA to 1 'Hello 28' with NodeID= 13
+1724206833	ID:19	Replaying DIO with fixed interval 
+1724209504	ID:19	ticks value 512
+1725013622	ID:18	Replaying DIO with fixed interval 
+1725016293	ID:18	ticks value 512
+1725082778	ID:21	Replaying DIO with fixed interval 
+1725085420	ID:21	ticks value 512
+1725585451	ID:20	Replaying DIO with fixed interval 
+1725588093	ID:20	ticks value 512
+1725944467	ID:11	Sending DATA to 1 'Hello 28' with NodeID= 11
+1726118222	ID:10	Sending DATA to 1 'Hello 28' with NodeID= 10
+1728214640	ID:19	Replaying DIO with fixed interval 
+1728217282	ID:19	ticks value 512
+1728638007	ID:2	Sending DATA to 1 'Hello 28' with NodeID= 2
+1729021430	ID:18	Replaying DIO with fixed interval 
+1729024072	ID:18	ticks value 512
+1729090591	ID:21	Replaying DIO with fixed interval 
+1729093233	ID:21	ticks value 512
+1729593264	ID:20	Replaying DIO with fixed interval 
+1729595906	ID:20	ticks value 512
+1729712367	ID:4	Sending DATA to 1 'Hello 28' with NodeID= 4
+1731198373	ID:7	Sending DATA to 1 'Hello 28' with NodeID= 7
+1732222453	ID:19	Replaying DIO with fixed interval 
+1732225095	ID:19	ticks value 512
+1733029243	ID:18	Replaying DIO with fixed interval 
+1733031885	ID:18	ticks value 512
+1733099259	ID:21	Replaying DIO with fixed interval 
+1733101930	ID:21	ticks value 512
+1733488707	ID:16	Sending DATA to 1 'Hello 28' with NodeID= 16
+1733601081	ID:20	Replaying DIO with fixed interval 
+1733603752	ID:20	ticks value 512
+1734180151	ID:6	Sending DATA to 1 'Hello 28' with NodeID= 6
+1736230265	ID:19	Replaying DIO with fixed interval 
+1736232907	ID:19	ticks value 512
+1737037055	ID:18	Replaying DIO with fixed interval 
+1737039697	ID:18	ticks value 512
+1737106664	ID:21	Replaying DIO with fixed interval 
+1737111371	ID:21	ticks value 512
+1737608889	ID:20	Replaying DIO with fixed interval 
+1737611531	ID:20	ticks value 512
+1740238934	ID:19	Replaying DIO with fixed interval 
+1740241604	ID:19	ticks value 512
+1741045723	ID:18	Replaying DIO with fixed interval 
+1741048419	ID:18	ticks value 512
+1741114028	ID:21	Replaying DIO with fixed interval 
+1741116670	ID:21	ticks value 512
+1741282730	ID:15	Sending DATA to 1 'Hello 28' with NodeID= 15
+1741616701	ID:20	Replaying DIO with fixed interval 
+1741619343	ID:20	ticks value 512
+1743235358	ID:4	Sending DATA to 1 'Hello 29' with NodeID= 4
+1744245890	ID:19	Replaying DIO with fixed interval 
+1744248532	ID:19	ticks value 512
+1745055204	ID:18	Replaying DIO with fixed interval 
+1745057846	ID:18	ticks value 512
+1745121841	ID:21	Replaying DIO with fixed interval 
+1745124483	ID:21	ticks value 512
+1745624514	ID:20	Replaying DIO with fixed interval 
+1745627156	ID:20	ticks value 512
+1747682748	ID:7	Sending DATA to 1 'Hello 29' with NodeID= 7
+1747903824	ID:17	Sending DATA to 1 'Hello 29' with NodeID= 17
+1747984831	ID:6	Sending DATA to 1 'Hello 29' with NodeID= 6
+1748253703	ID:19	Replaying DIO with fixed interval 
+1748256345	ID:19	ticks value 512
+1749060493	ID:18	Replaying DIO with fixed interval 
+1749063135	ID:18	ticks value 512
+1749129658	ID:21	Replaying DIO with fixed interval 
+1749132329	ID:21	ticks value 512
+1749632331	ID:20	Replaying DIO with fixed interval 
+1749635002	ID:20	ticks value 512
+1752202272	ID:11	Sending DATA to 1 'Hello 29' with NodeID= 11
+1752261515	ID:19	Replaying DIO with fixed interval 
+1752264157	ID:19	ticks value 512
+1753068305	ID:18	Replaying DIO with fixed interval 
+1753070947	ID:18	ticks value 512
+1753137466	ID:21	Replaying DIO with fixed interval 
+1753140108	ID:21	ticks value 512
+1753640139	ID:20	Replaying DIO with fixed interval 
+1753642781	ID:20	ticks value 512
+1756037068	ID:13	Sending DATA to 1 'Hello 29' with NodeID= 13
+1756269333	ID:19	Replaying DIO with fixed interval 
+1756272004	ID:19	ticks value 512
+1757076123	ID:18	Replaying DIO with fixed interval 
+1757078804	ID:18	ticks value 512
+1757145278	ID:21	Replaying DIO with fixed interval 
+1757147920	ID:21	ticks value 512
+1757647952	ID:20	Replaying DIO with fixed interval 
+1757650594	ID:20	ticks value 512
+1757816615	ID:10	Sending DATA to 1 'Hello 29' with NodeID= 10
+1758532717	ID:15	Sending DATA to 1 'Hello 29' with NodeID= 15
+1760277140	ID:19	Replaying DIO with fixed interval 
+1760279782	ID:19	ticks value 512
+1761083930	ID:18	Replaying DIO with fixed interval 
+1761086572	ID:18	ticks value 512
+1761153091	ID:21	Replaying DIO with fixed interval 
+1761155733	ID:21	ticks value 512
+1761655764	ID:20	Replaying DIO with fixed interval 
+1761658406	ID:20	ticks value 512
+1762879325	ID:16	Sending DATA to 1 'Hello 29' with NodeID= 16
+1764284953	ID:19	Replaying DIO with fixed interval 
+1764287595	ID:19	ticks value 512
+1764469329	ID:2	Sending DATA to 1 'Hello 29' with NodeID= 2
+1765091743	ID:18	Replaying DIO with fixed interval 
+1765094385	ID:18	ticks value 512
+1765160908	ID:21	Replaying DIO with fixed interval 
+1765163579	ID:21	ticks value 512
+1765470462	ID:9	Sending DATA to 1 'Hello 29' with NodeID= 9
+1765664432	ID:20	Replaying DIO with fixed interval 
+1765667128	ID:20	ticks value 512
+1768292765	ID:19	Replaying DIO with fixed interval 
+1768295407	ID:19	ticks value 512
+1769099555	ID:18	Replaying DIO with fixed interval 
+1769102197	ID:18	ticks value 512
+1769168716	ID:21	Replaying DIO with fixed interval 
+1769171358	ID:21	ticks value 512
+1769673913	ID:20	Replaying DIO with fixed interval 
+1769676555	ID:20	ticks value 512
+1770805438	ID:3	Sending DATA to 1 'Hello 29' with NodeID= 3
+1772300583	ID:19	Replaying DIO with fixed interval 
+1772303254	ID:19	ticks value 512
+1772628988	ID:14	Sending DATA to 1 'Hello 29' with NodeID= 14
+1773107373	ID:18	Replaying DIO with fixed interval 
+1773110054	ID:18	ticks value 512
+1773176528	ID:21	Replaying DIO with fixed interval 
+1773179170	ID:21	ticks value 512
+1773679202	ID:20	Replaying DIO with fixed interval 
+1773681844	ID:20	ticks value 512
+1774489723	ID:8	Sending DATA to 1 'Hello 29' with NodeID= 8
+1776308390	ID:19	Replaying DIO with fixed interval 
+1776311032	ID:19	ticks value 512
+1777115180	ID:18	Replaying DIO with fixed interval 
+1777117822	ID:18	ticks value 512
+1777184341	ID:21	Replaying DIO with fixed interval 
+1777186983	ID:21	ticks value 512
+1777687014	ID:20	Replaying DIO with fixed interval 
+1777689656	ID:20	ticks value 512
+1780316203	ID:19	Replaying DIO with fixed interval 
+1780318845	ID:19	ticks value 512
+1780918478	ID:5	Sending DATA to 1 'Hello 29' with NodeID= 5
+1781122992	ID:18	Replaying DIO with fixed interval 
+1781125634	ID:18	ticks value 512
+1781192158	ID:21	Replaying DIO with fixed interval 
+1781194829	ID:21	ticks value 512
+1781694832	ID:20	Replaying DIO with fixed interval 
+1781697513	ID:20	ticks value 512
+1784324015	ID:19	Replaying DIO with fixed interval 
+1784326657	ID:19	ticks value 512
+1785130805	ID:18	Replaying DIO with fixed interval 
+1785133447	ID:18	ticks value 512
+1785199966	ID:21	Replaying DIO with fixed interval 
+1785202608	ID:21	ticks value 512
+1785702639	ID:20	Replaying DIO with fixed interval 
+1785705281	ID:20	ticks value 512
+1788331833	ID:19	Replaying DIO with fixed interval 
+1788334504	ID:19	ticks value 512
+1789138623	ID:18	Replaying DIO with fixed interval 
+1789141304	ID:18	ticks value 512
+1789207778	ID:21	Replaying DIO with fixed interval 
+1789210420	ID:21	ticks value 512
+1789710452	ID:20	Replaying DIO with fixed interval 
+1789713094	ID:20	ticks value 512
+1792339640	ID:19	Replaying DIO with fixed interval 
+1792342282	ID:19	ticks value 512
+1793146430	ID:18	Replaying DIO with fixed interval 
+1793149072	ID:18	ticks value 512
+1793215591	ID:21	Replaying DIO with fixed interval 
+1793218233	ID:21	ticks value 512
+1793718264	ID:20	Replaying DIO with fixed interval 
+1793720906	ID:20	ticks value 512
+1795480428	ID:12	Sending DATA to 1 'Hello 29' with NodeID= 12
+1796347452	ID:19	Replaying DIO with fixed interval 
+1796350094	ID:19	ticks value 512
+1797154242	ID:18	Replaying DIO with fixed interval 
+1797156884	ID:18	ticks value 512
+1797224259	ID:21	Replaying DIO with fixed interval 
+1797226930	ID:21	ticks value 512
+1797726082	ID:20	Replaying DIO with fixed interval 
+1797728763	ID:20	ticks value 512

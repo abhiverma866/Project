@@ -9,7 +9,7 @@
   <project EXPORT="discard">[APPS_DIR]/mobility</project>
   <simulation>
     <title>My simulation</title>
-    <randomseed>123456</randomseed>
+    <randomseed>125484</randomseed>
     <motedelay_us>1000000</motedelay_us>
     <radiomedium>
       org.contikios.mrm.MRM
