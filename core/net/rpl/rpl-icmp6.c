@@ -56,13 +56,10 @@
 #include "net/ipv6/multicast/uip-mcast6.h"
 #include "random.h"
 
-#include <stdlib.h> //added for qsort
 #include <limits.h>
 #include <string.h>
 
-#include "net/common.h"
-
-#define DEBUG DEBUG_NONE
+#define DEBUG DEBUG_PRINT
 
 #include "net/ip/uip-debug.h"
 
@@ -75,41 +72,12 @@
 #define UIP_IP_BUF       ((struct uip_ip_hdr *)&uip_buf[UIP_LLH_LEN])
 #define UIP_ICMP_BUF     ((struct uip_icmp_hdr *)&uip_buf[uip_l2_l3_hdr_len])
 #define UIP_ICMP_PAYLOAD ((unsigned char *)&uip_buf[uip_l2_l3_icmp_hdr_len])
-
 /*---------------------------------------------------------------------------*/
-//Additional macros for defense mechanism
-
-#define MAX_NUM_NODE 20 //set total number number of nodes in the network
-#define DIO_INTERVAL_THRESHOLD 5 //safe dio interval threshold
-#define MAX_BLACKLIST_NODE 7
-#define BLOCK_THRESHOLD 4
-
-#ifndef uip_ipaddr_copy
-#define uip_ipaddr_copy(dest, src) (*(dest) = *(src))
-#endif
-
-#ifndef uip_ip4addr_copy
-#define uip_ip4addr_copy(dest, src) (*((uip_ip4addr_t *)dest) = *((uip_ip4addr_t *)src))
-#endif
-
-#ifndef uip_ip6addr_copy
-#define uip_ip6addr_copy(dest, src) (*((uip_ip6addr_t *)dest) = *((uip_ip6addr_t *)src))
-#endif
-
-#if NETSTACK_CONF_WITH_IPV6
-typedef uip_ip6addr_t uip_ipaddr_t;
-#else
-typedef uip_ip4addr_t uip_ipaddr_t;
-#endif
-
-/*---------------------------------------------------------------------------*/
-
 static void dis_input(void);
 static void dio_input(void);
 static void dao_input(void);
 static void dao_ack_input(void);
-
-extern uint8_t active; //IDS related status
+//static uint8_t seq_dio;
 
 static void dao_output_target_seq(rpl_parent_t *parent, uip_ipaddr_t *prefix,
                                   uint8_t lifetime, uint8_t seq_no);
@@ -136,322 +104,6 @@ UIP_ICMP6_HANDLER(dao_handler, ICMP6_RPL, RPL_CODE_DAO, dao_input);
 UIP_ICMP6_HANDLER(dao_ack_handler, ICMP6_RPL, RPL_CODE_DAO_ACK, dao_ack_input);
 /*---------------------------------------------------------------------------*/
 
-//Defense mechanism functions and structures
-
-typedef struct node_data {    // node entry format 
-	uip_ipaddr_t src_id; 
-  unsigned long previous_dio_time;   
-	unsigned long last_dio_time;
-	uint16_t dio_count;    
-	} node_data;
-
-static uint8_t start, f_mid, s_mid, last; 
-
-static node_data node_table[MAX_NUM_NODE];  // node table 
-
-static uip_ipaddr_t mask;  //mask stores zero address which is used to create an empty table.
-
-static unsigned short NUM_BLACKLIST; //this variable stores no. of blacklisted nodes detected till now.
-
-static unsigned short NODES_IN_TABLE; // this variable stores no. of nodes in table.
-
-typedef struct bl{
-  uip_ipaddr_t bl_src_ip;
-  uint8_t block_count;
-  uint8_t status;
-} bl;
-
-static bl blacklist_table[MAX_BLACKLIST_NODE];  //array to store the address of blacklisted nodes.
-
-static unsigned short empty_table;  //variable to check if an entry is there in the table or not. 
-
-void checkMalicious(void); // IDS function
-void allocate_table(void);
-void init_blacklist_table(void);
-void quicksort(struct node_data node_table[MAX_NUM_NODE],int8_t first,int8_t last);
-void compute_indexes(uint8_t n);
-float Quartile_2(struct node_data node_table[MAX_NUM_NODE], uint8_t n);
-float Quartile_1(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r);
-float Quartile_3(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r);
-void remove_node_table_entry(struct node_data node_table[MAX_NUM_NODE], uint8_t location);
-void calculate_outliers(struct node_data node_table[MAX_NUM_NODE], uint8_t n);
-
-void allocate_table(void)  //function to create an empty table. Empty table means all address entries are zero in the table.
-{
-  printf("Allocate table called\n");
-	if(NETSTACK_CONF_WITH_IPV6){
-		uip_ip6addr(&mask, 0,0,0,0,0,0,0,0);
-		uint8_t i;
-		for(i = 0;  i < MAX_NUM_NODE;  i++){
-			uip_ip6addr(&(node_table[i].src_id), 0,0,0,0,0,0,0,0);
-      node_table[i].last_dio_time = 0;
-      node_table[i].dio_count = 0;
-      node_table[i].previous_dio_time = 0;
-    }
-	}
-	else{
-		uip_ipaddr(&mask, 255,255,255,255);
-		uint8_t i;
-		for(i = 0;  i < MAX_NUM_NODE;  i++){
-			uip_ipaddr(&(node_table[i].src_id),0,0,0,0);
-      node_table[i].last_dio_time = 0;
-      node_table[i].dio_count = 0;
-      node_table[i].previous_dio_time = 0;
-    }
-	}
-}
-
-void init_blacklist_table(void)  //function to create an empty table. Empty table means all address entries are zero in the table.
-{
-  printf("Blackilist table initialized\n");
-	if(NETSTACK_CONF_WITH_IPV6){
-		uip_ip6addr(&mask, 0,0,0,0,0,0,0,0);
-		uint8_t i;
-		for(i = 0;  i < MAX_BLACKLIST_NODE;  i++){
-			uip_ip6addr(&(blacklist_table[i].bl_src_ip), 0,0,0,0,0,0,0,0);
-      blacklist_table[i].block_count = 0;
-      blacklist_table[i].status = 0;
-    }
-	}
-	else{
-		uip_ipaddr(&mask, 255,255,255,255);
-		uint8_t i;
-		for(i = 0;  i < MAX_BLACKLIST_NODE;  i++){
-			uip_ipaddr(&(blacklist_table[i].bl_src_ip),0,0,0,0);
-      blacklist_table[i].block_count = 0;
-      blacklist_table[i].status = 0;
-    }
-	}
-}
-
-void quicksort(struct node_data node_table[MAX_NUM_NODE],int8_t first,int8_t last){
-  //printf("en qs\n");
-   int8_t i, j, pivot;
-   struct node_data temp;
-   //printf("Inside QS %d %d %d\n", start, last, pivot);
-   if(first<last){
-     	pivot=first;
-      //printf("Inside QS %d %d %d\n", start, last, pivot);
-    	i=first;
-      j=last;
-
-      while(i<j){
-        while(node_table[i].dio_count<=node_table[pivot].dio_count&&i<last)
-            i++;
-         while(node_table[j].dio_count>node_table[pivot].dio_count)
-          j--;
-        if(i<j){
-            temp=node_table[i];
-            node_table[i]=node_table[j];
-            node_table[j]=temp;
-         }
-      }
-
-      temp=node_table[pivot];
-      node_table[pivot]=node_table[j];
-      node_table[j]=temp;
-      quicksort(node_table,first,j-1);
-      quicksort(node_table,j+1,last);
-
-   }
-   //printf("ex qs\n");
-}
-
-void compute_indexes(uint8_t n){
-  //printf("en ci\n");
-	start = 0;
-	last = n-1;
-	if(n%2==0){
-		f_mid = n/2 - 1;
-		s_mid = n/2;	
-	}
-	else if(n==1){
-    f_mid = 0;
-		s_mid = 0;
-	}
-  else{
-		f_mid = n/2 - 1;
-		s_mid = n/2 + 1;
-  }
-	
-	//printf("\n");
-	//printf("first: %d | f_mid: %d | s_mid: %d | last: %d \n", start, f_mid, s_mid, last);	
-  //printf("ex ci\n");
-}
-
-float Quartile_2(struct node_data node_table[MAX_NUM_NODE], uint8_t n) {
-  //printf("en q2\n");
-   if(n%2==0) {
-       // if there is an even number of elements, return mean of the two elements in the middle
-       return((node_table[n/2].dio_count + node_table[n/2 - 1].dio_count) / 2.0);
-   } else {
-       // else return the element in the middle
-       return node_table[n/2].dio_count;
-   }
-  //printf("ex q2\n");
-}
-
-float Quartile_1(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r) {
-  //printf("en q1\n");
-	uint8_t n;
-	n = r-l+1;
-	if(n%2==0) {
-       // if there is an even number of elements, return mean of the two elements in the middle
-       return((node_table[n/2].dio_count + node_table[n/2 - 1].dio_count) / 2.0);
-   } else {
-       // else return the element in the middle
-       return node_table[n/2].dio_count;
-   }
-  //printf("ex q1\n");
-}
-
-float Quartile_3(struct node_data node_table[MAX_NUM_NODE], uint8_t l, uint8_t r) {
-  //printf("en q3\n");
-	uint8_t n;
-	n = r-l+1;
-	if(n%2==0) {
-       // if there is an even number of elements, return mean of the two elements in the middle
-       return((node_table[r-(n/2)].dio_count + node_table[r-(n/2 - 1)].dio_count) / 2.0);
-   } else {
-       // else return the element in the middle
-       return node_table[r-(n/2)].dio_count;
-   }
-   //printf("ex q3\n");
-}
-
-
-void remove_node_table_entry(struct node_data node_table[MAX_NUM_NODE], uint8_t location){
-  //printf("en rte\n");
-  //printf("Entry Removed\n");
-  uip_ip6addr(&(node_table[location].src_id), 0,0,0,0,0,0,0,0);
-  node_table[location].last_dio_time = 0;
-  node_table[location].dio_count = 0;
-  node_table[location].previous_dio_time = 0;
-  //printf("ex rte\n");
-}
-
-void calculate_outliers(struct node_data node_table[MAX_NUM_NODE], uint8_t n) 
-{ 
-  //printf("en co\n");
-	float IQ_range;
-	//float lower_outlier_bound;
-	float upper_outlier_bound;
-	//int lower_outliers;
-	//int upper_outliers;
-	uint8_t i;
-	
-	//compute_indexes(n);
-   
-	float Q1 = Quartile_1(node_table, start, f_mid);
-	float Q2 = Quartile_2(node_table, n);
-	float Q3 = Quartile_3(node_table, s_mid, last);
-	//printf("\n");
-	//printf("Q1: %f | Q2: %f | Q3: %f\n", Q1, Q2, Q3);
-	//printf("\n");
-	
-	// IQR calculation  
-	IQ_range = (Q3-Q1);
-	//printf("IQ_range: %f\n", IQ_range);
-	//printf("\n");
-
-	//Computer upper and lower limits
-	//lower_outlier_bound = Q1-(1.5*IQ_range);
-	//printf("lower_outlier_bound: %f\n", lower_outlier_bound);
-	upper_outlier_bound = Q2+(1*IQ_range);
-  //printf("upper_outlier_bound: %f\n", upper_outlier_bound);
-  //printf("\n");
-    
-   //uint8_t flag;
-   //flag = 0; 
-   for(i=0;i<n;i++)
-   {
-   	if(node_table[i].dio_count>upper_outlier_bound)
-   	{
-   		//lower_outliers = node_table[i].dio_count;
-   		//printf("lower_outlier is id: %d | dio_count: %d\n", node_table[i].src_id, node_table[i].dio_count);
-   		//printf("Outlier is id ");
-      //uip_debug_ipaddr_print(&(node_table[i].src_id));
-      //printf(" dio_count: %d\n",node_table[i].dio_count);      
-   		if((node_table[i].last_dio_time - node_table[i].previous_dio_time)<=DIO_INTERVAL_THRESHOLD){
-        uint8_t k;
-        uint8_t in_blacklist;
-        in_blacklist = 0;
-        for(k = 0; k < NUM_BLACKLIST; k++){
-          if(uip_ipaddr_cmp(&(blacklist_table[k].bl_src_ip),&(node_table[i].src_id))){
-            in_blacklist = 1;
-            if(blacklist_table[k].block_count < BLOCK_THRESHOLD){
-              blacklist_table[k].block_count++;
-              if(blacklist_table[k].block_count==4)
-              {
-                blacklist_table[k].status = 1;
-                printf("Node ");
-                uip_debug_ipaddr_print(&(node_table[i].src_id));
-                printf(" is PERMANENTLY BLOCKED!!\n");
-                remove_node_table_entry(node_table, i);
-              } 
-            }           
-          }
-        }
-        if(in_blacklist!=1){
-          uint8_t loc = NUM_BLACKLIST++;
-          uip_ip6addr_copy(&(blacklist_table[loc].bl_src_ip), &(node_table[i].src_id));
-          blacklist_table[loc].block_count++;
-          blacklist_table[loc].status = 0;
-          printf("Node ");
-          uip_debug_ipaddr_print(&(node_table[i].src_id));
-          printf(" is suspected to be MALICIOUS!!\n");			  
-          //return; 
-        }			
-		  }
-   		//flag = 1;
-   	}
-
-   	// if(node_table[i].dio_count>upper_outlier_bound)
-   	// {
-   	// 	//upper_outliers = node_table[i].dio_count;
-   	// 	printf("Node ");
-    //   uip_debug_ipaddr_print(&(node_table[i].src_id));
-    //   printf(" is outlier with ");
-    //   printf(" dio_count: %d\n", node_table[i].dio_count);
-   	// 	flag = 1;
-   	// }
-  }
-   
-  //  if(flag==0){
-  //  	printf("There are no possible outliers in the list!!\n");
-  //  }
-//printf("ex co\n");
-
-} 
-
-void checkMalicious(void){
-  //printf("en cm\n");
-    uint8_t i;
-    unsigned short length;
-    length = 0;  
-    for(i=0; i<MAX_NUM_NODE; i++){
-      if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
-        length++;        
-      }
-      else
-      {
-        break;
-      }
-    }
-  //length = length + 1;
-  compute_indexes(length);
-  //printf("length computed %d\n", length);
-  //printf("%d %d %d %d\n", start, f_mid, s_mid, last);
-  if(length>1){
-    quicksort(node_table, 0, (length-1));
-    //printf("Sorting done!!\n");
-  }
-  calculate_outliers(node_table, length);
-  //printf("ex cm\n");
-}
-
-
-/*---------------------------------------------------------------------------*/
 #if RPL_WITH_DAO_ACK
 static uip_ds6_route_t *
 find_route_entry_by_dao_ack(uint8_t seq)
@@ -627,11 +279,6 @@ dis_output(uip_ipaddr_t *addr)
 static void
 dio_input(void)
 {
-
-
-  //printf("In dio_input\n");
-  unsigned long current_time = clock_seconds();  //current time
-  
   unsigned char *buffer;
   uint8_t buffer_length;
   rpl_dio_t dio;
@@ -659,112 +306,6 @@ dio_input(void)
   PRINT6ADDR(&from);
   PRINTF("\n");
 
-  /*---------------------------------------------------------------------------*/
-  // Defense mechanism code
-
-  if(empty_table==0){
-		empty_table++;
-		allocate_table();
-    init_blacklist_table();
-	}
-
-  for(i = 0;  i < NUM_BLACKLIST;  i++){ 
- 		if((uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&(UIP_IP_BUF->srcipaddr))) && (blacklist_table[i].status==1)){
-      //printf("Node With Address ");
-			//uip_debug_ipaddr_print(&UIP_IP_BUF->srcipaddr);
-			//printf(" is BLACKLISTED, DIO Dropped!!\n");
-			return;
-		}
-  }
-
-  printf("RPL: Received a DIO from ");
-  uip_debug_ipaddr_print(&from);
-  printf("\n");
-
-
-  unsigned long previous_time; 
-  //printf("Time %lu \n", current_time);
-  // uint8_t i;
-
-  /*/First time check if the table is empty or not. 
-  If empty then make initialize an empty table by calling allocate_table().*/
-
-  unsigned short in_table;
-  in_table = 0;
-
-  for(i = 0; i<NODES_IN_TABLE; i++){
-		if(uip_ipaddr_cmp(&(node_table[i].src_id),&(UIP_IP_BUF->srcipaddr))){
-				//printf("Found inside table \n");
-        //printf("Node With Address ");
-				//PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
-
-        //printf("\n");	
-		
-			  in_table = 1; 
-
-        previous_time = node_table[i].last_dio_time;
-        node_table[i].previous_dio_time = previous_time;
-        node_table[i].last_dio_time = current_time; 
-        // printf("%lu \n", node_table[i].dio_interval); 
-        node_table[i].dio_count++;
-			  break; 
-    }
-  }
-
-  if(!in_table){
-  	for(i = 0;  i<MAX_NUM_NODE;  i++){
-			if(uip_ipaddr_cmp(&(node_table[i].src_id),&mask)){ 
-				uip_ip6addr_copy(&(node_table[i].src_id), &UIP_IP_BUF->srcipaddr);
-			  previous_time = node_table[i].last_dio_time;
-        node_table[i].previous_dio_time = previous_time;
-        node_table[i].last_dio_time = current_time; 
-        node_table[i].dio_count++;
-        NODES_IN_TABLE++; 
-				break; 
-			}
-		}
-  }
-
-/*
-  printf("Printing BLACKLIST TABLE\n");
-  for(i=0; i<NUM_BLACKLIST; i++){
-    //if(!(uip_ipaddr_cmp(&(blacklist_table[i].bl_src_ip),&mask))){
-      uip_debug_ipaddr_print(&(blacklist_table[i].bl_src_ip));
-      printf("  %d  %d", blacklist_table[i].block_count, blacklist_table[i].status);
-      printf("\n");     
-    //}
-    //else
-    //{
-    //  break;
-    //}
-  }
-  printf("----------------------------\n");
-
-  printf("Printing NODE TABLE\n");
-  for(i=0; i<MAX_NUM_NODE; i++){
-    if(!(uip_ipaddr_cmp(&(node_table[i].src_id),&mask))){
-      //PRINT6ADDR(&(node_table[i].src_id));
-      uip_debug_ipaddr_print(&(node_table[i].src_id));
-      printf(" %lu  %lu   %d\n", node_table[i].previous_dio_time ,node_table[i].last_dio_time, node_table[i].dio_count);     
-    }
-    else
-    {
-      break;
-    }
-    
-  }
-  printf("----------------------------\n");
-*/
-
-  if(active==1){
-    printf("calling checkMalicious\n");
-    checkMalicious();
-    printf("Deactiavitng!!\n");
-    active = 0;
-  }
-
-  /*---------------------------------------------------------------------------*/
-  //printf("after defense\n");
   buffer_length = uip_len - uip_l3_icmp_hdr_len;
 
   /* Process the DIO base option. */
@@ -927,8 +468,6 @@ dio_input(void)
 
 discard:
   uip_clear_buf();
-
-//printf("end  dio_input\n");
 }
 /*---------------------------------------------------------------------------*/
 void
@@ -1091,7 +630,8 @@ dio_output(rpl_instance_t *instance, uip_ipaddr_t *uc_addr)
 #endif /* RPL_LEAF_ONLY */
 }
 /*---------------------------------------------------------------------------*/
-static void dao_input_storing(void)
+static void
+dao_input_storing(void)
 {
 #if RPL_WITH_STORING
   uip_ipaddr_t dao_sender_addr;

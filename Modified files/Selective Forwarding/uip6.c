@@ -80,8 +80,6 @@
 #include "net/ipv6/uip-ds6.h"
 #include "net/ipv6/multicast/uip-mcast6.h"
 
-#include "net/common.h"
-
 #if UIP_CONF_IPV6_RPL
 #include "rpl/rpl.h"
 #include "rpl/rpl-private.h"
@@ -97,7 +95,7 @@
 /* For Debug, logging, statistics                                            */
 /*---------------------------------------------------------------------------*/
 
-#define DEBUG DEBUG_PRINT
+#define DEBUG DEBUG_NONE
 #include "net/ip/uip-debug.h"
 
 #if UIP_LOGGING == 1
@@ -114,7 +112,9 @@ struct uip_stats uip_stat;
 
 
 //Attack flag set for dropping all received data packets. 
-extern uint8_t attack_flag;
+uint8_t attack_flag = 1;
+
+
 
 /*---------------------------------------------------------------------------*/
 /**
@@ -1455,14 +1455,6 @@ uip_process(uint8_t flag)
 
   icmp6_input:
   /* This is IPv6 ICMPv6 processing code. */
-
-  //blackhole code
-  if(attack_flag){
-    printf("IPv6 packet dropped\n");
-    goto drop;
-    
-  }
-  //
   PRINTF("icmp6_input: length %d type: %d \n", uip_len, UIP_ICMP_BUF->type);
 
 #if UIP_CONF_IPV6_CHECKS

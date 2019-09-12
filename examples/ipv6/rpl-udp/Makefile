@@ -1,4 +1,5 @@
 all: udp-client udp-server
+#all: malicious
 CONTIKI=../../..
 
 CFLAGS += -DPROJECT_CONF_H=\"project-conf.h\"

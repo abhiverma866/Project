@@ -1250,7 +1250,7 @@ uip_process(uint8_t flag)
     if(attack_flag) {
 		PRINTF("Dropping packet from ");
 		PRINT6ADDR(&UIP_IP_BUF->srcipaddr);
-    PRINTF("\n");
+    		PRINTF("\n");
 
 		goto drop;
 	  } else {

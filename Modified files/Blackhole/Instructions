@@ -1,0 +1,10 @@
+To implement the blackhole attack follow the mentioned steps:
+
+1. Place uip6.c in contiki/core/net/ipv6/
+2. Place common.h in contiki/core/net/
+3. Use maclicious.c file to implement the attacker or you can use malicous.z1 directly.
+
+Note: The attacker node is set to lauch the attack after 30 seconds of network initialization. Can be changed in malicious.c
+You can use the udp-client.z1 and udp-server.z1 file for as normal (non-attacker) files. Each sensor sends packet of 30 bytes to gateway node every 60 seconds. 
+
+
